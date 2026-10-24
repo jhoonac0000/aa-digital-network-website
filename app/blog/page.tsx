@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Blog — Practical Guides on Websites, Ads & SEO | AA Digital Network",
   description: "Practical guides from AA Digital Network: email deliverability, grant research, Urdu AI data and research support — each linked to the service it covers.",
   alternates: { canonical: `https://aa-digital-network.vercel.app/blog` },
-  openGraph: { title: "Blog — Practical Guides on Websites, Ads & SEO | AA Digital Network", description: "Practical guides from AA Digital Network: email deliverability, grant research, Urdu AI data and research support — each linked to the service it covers.", url: `https://aa-digital-network.vercel.app/blog`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/icon.svg`] },
+  openGraph: { title: "Blog — Practical Guides on Websites, Ads & SEO | AA Digital Network", description: "Practical guides from AA Digital Network: email deliverability, grant research, Urdu AI data and research support — each linked to the service it covers.", url: `https://aa-digital-network.vercel.app/blog`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
 };
 
 import Link from "next/link";

@@ -7,6 +7,15 @@ import { SITE_URL } from "@/lib/site";
 
 export default function ArticleView({ article }: { article: Article }) {
   const service = getService(article.service);
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+      { "@type": "ListItem", position: 2, name: "Blog", item: `${SITE_URL}/blog` },
+      { "@type": "ListItem", position: 3, name: article.title, item: `${SITE_URL}/blog/${article.slug}` },
+    ],
+  };
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -18,6 +27,7 @@ export default function ArticleView({ article }: { article: Article }) {
   return (
     <article className="wrap page article">
       <JsonLd data={jsonLd} />
+      <JsonLd data={breadcrumbJsonLd} />
       <p className="crumbs">
         <Link href="/blog">Blog</Link>
         {service && (

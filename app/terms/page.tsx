@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Terms | AA Digital Network",
   description: "Terms for AA Digital Network services: quotes, payment, ownership, and honest limits on what we promise.",
   alternates: { canonical: `https://aa-digital-network.vercel.app/terms` },
-  openGraph: { title: "Terms | AA Digital Network", description: "Terms for AA Digital Network services: quotes, payment, ownership, and honest limits on what we promise.", url: `https://aa-digital-network.vercel.app/terms`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/icon.svg`] },
+  openGraph: { title: "Terms | AA Digital Network", description: "Terms for AA Digital Network services: quotes, payment, ownership, and honest limits on what we promise.", url: `https://aa-digital-network.vercel.app/terms`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
 };
 
 export default function TermsPage() {

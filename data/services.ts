@@ -513,6 +513,8 @@ export const SERVICES: Service[] = [
     "deliverables": [
       "A researched prospect list matched to your mission, location and budget range",
       "A short profile for each funder: what they fund, typical grant size, and deadlines",
+      "Past-award review: what each funder actually funded recently, from public records where available",
+      "Priority ranking — prospects ordered by fit, so you apply in the right order",
       "Eligibility notes in plain language — why each prospect fits, and any gap to close",
       "A deadline calendar so you never miss a window"
     ],
@@ -575,7 +577,8 @@ export const SERVICES: Service[] = [
       "Authentication check: SPF, DKIM and DMARC records reviewed and explained",
       "Inbox placement tests across major providers",
       "List hygiene review: bounces, stale addresses and spam-trap risk",
-      "Sender reputation review and a prioritised fix list"
+      "Blacklist check across major lists, plus Google Postmaster Tools reputation review",
+      "Sender reputation review, warm-up guidance for new or damaged domains, and a prioritised fix list"
     ],
     "proof": "The audit starts from evidence, not opinion: real test results from real inboxes, with each issue explained in plain language and ranked by impact.",
     "priceLabel": "From $150",

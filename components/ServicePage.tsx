@@ -26,10 +26,20 @@ export default function ServicePage({ service }: { service: Service }) {
     })),
   };
   const waMessage = `Hi AA Digital Network, I am interested in ${service.name}. Please share details.`;
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+      { "@type": "ListItem", position: 2, name: "Services", item: `${SITE_URL}/services` },
+      { "@type": "ListItem", position: 3, name: service.name, item: `${SITE_URL}/services/${service.slug}` },
+    ],
+  };
   return (
     <article className="wrap page">
       <JsonLd data={serviceJsonLd} />
       <JsonLd data={faqJsonLd} />
+      <JsonLd data={breadcrumbJsonLd} />
       <p className="crumbs">
         <Link href="/services">Services</Link> / {service.name}
       </p>

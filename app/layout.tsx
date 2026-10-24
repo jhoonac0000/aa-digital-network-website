@@ -18,10 +18,10 @@ export const metadata: Metadata = {
     description:
       "Websites, videos, SEO and automation for small businesses — built honestly, priced plainly.",
     url: SITE_URL,
-    images: [`${SITE_URL}/icon.svg`],
+    images: [`${SITE_URL}/og.png`],
     locale: "en_US",
   },
-  twitter: { card: "summary", images: [`${SITE_URL}/icon.svg`] },
+  twitter: { card: "summary_large_image", images: [`${SITE_URL}/og.png`] },
   robots: { index: true, follow: true },
 };
 

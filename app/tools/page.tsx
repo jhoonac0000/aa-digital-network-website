@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: "Free AI Tools — Built by AA Digital Network",
   description: "Free tools built by AA Digital Network: Prayer Times, Qibla Compass, Hijri Calendar and Zakat Calculator, with general business tools on the way.",
   alternates: { canonical: `https://aa-digital-network.vercel.app/tools` },
-  openGraph: { title: "Free AI Tools — Built by AA Digital Network", description: "Free tools built by AA Digital Network: Prayer Times, Qibla Compass, Hijri Calendar and Zakat Calculator, with general business tools on the way.", url: `https://aa-digital-network.vercel.app/tools`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/icon.svg`] },
+  openGraph: { title: "Free AI Tools — Built by AA Digital Network", description: "Free tools built by AA Digital Network: Prayer Times, Qibla Compass, Hijri Calendar and Zakat Calculator, with general business tools on the way.", url: `https://aa-digital-network.vercel.app/tools`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
 };
 
 import Link from "next/link";
