@@ -30,14 +30,18 @@ export default function BooksPage() {
           </p>
         </div>
         <div className="card">
-          <h3>First Islamic Kids Book</h3>
+          <h3>The Honest Coin</h3>
           <p>
-            A fully original illustrated storybook for children — never repackaged website
-            articles. English launch edition, with a Roman-Urdu edition planned.
-            Planned price: $12.95. Planned release: January 2027.
+            Our first illustrated storybook for children. A little boy finds a shiny coin
+            in the market — and learns that keeping a trust safe is worth more than any
+            treasure. A fully original story about honesty, told simply for young hearts —
+            never repackaged website articles. English launch edition, with a Roman-Urdu
+            edition planned. Planned price: $12.95.
           </p>
           <p className="small">
-            <strong>Status:</strong> In production — the first story spread will appear here as a free sample.
+            <strong>Coming January 2027</strong> — in production now. The first story spread
+            will appear here as a free sample, and you can ask to be notified on WhatsApp
+            when it launches.
           </p>
         </div>
       </div>
