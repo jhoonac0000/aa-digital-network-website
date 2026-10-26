@@ -43,7 +43,7 @@ export default function ToolsPage() {
       <p>
         <Link href="/services/website-development">Website Development →</Link>
         {" · "}
-        <Link href="/services/automation">n8n Automation →</Link>
+        <Link href="/services/automation">AI Automation →</Link>
       </p>
     </div>
   );

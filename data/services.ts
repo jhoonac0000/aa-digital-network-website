@@ -315,53 +315,59 @@ export const SERVICES: Service[] = [
   },
   {
     "slug": "automation",
-    "name": "n8n Automation",
-    "short": "Practical n8n workflows that save small teams hours every week — posting, email, sheets and more.",
+    "name": "AI Automation",
+    "short": "Practical AI and workflow automation that answers leads fast, books appointments and removes repetitive work — running day and night, not just office hours.",
     "problem": [
-      "Small teams repeat the same manual jobs every day: copying posts between platforms, moving form entries into sheets, sending the same emails. It eats hours and invites mistakes.",
-      "A small, well-built automation does one job reliably, in the background, and tells you when something needs attention. No enterprise software, no big budget."
+      "Small teams lose work in the gaps: a lead waits hours for a reply, a missed call never gets a message back, appointments are confirmed by hand, and the same data is typed into three places. Each gap quietly costs customers.",
+      "Good automation closes one gap at a time: a new enquiry gets an instant, useful reply, a missed call triggers a message, reminders go out on their own, and routine jobs run in the background. It does not replace your team — it stops work from slipping through."
     ],
     "audiences": [
-      "Small businesses with repetitive tasks",
-      "Creators posting on a schedule",
-      "Agencies managing client content",
-      "Teams living in spreadsheets and email"
+      "Clinics, salons and appointment businesses",
+      "Home services and trades",
+      "Coaches, consultants and small agencies",
+      "Creators and teams posting on a schedule"
     ],
     "deliverables": [
-      "A documented n8n workflow built for your exact task",
-      "Clear notes on what triggers it, what it does, and what can fail",
-      "A short walkthrough so your team can run it",
-      "Fixes for the first issues that appear in real use"
+      "Speed-to-lead: new form, message or missed-call enquiries get an instant reply and are logged for follow-up",
+      "Website AI chatbot that answers common questions, captures details and points visitors to booking",
+      "Appointment reminders and no-show recovery, plus review requests after completed work",
+      "Routine workflows: posting schedules, email sequences, and form-to-sheet or CRM entries",
+      "A documented workflow built for your exact task, with notes on what triggers it and what can fail",
+      "Hosting set up so your automation keeps running day and night — not on a personal laptop"
     ],
-    "proof": "We run our own publishing and outreach workflows on n8n — including a YouTube Shorts scheduler that uploads from a queue sheet. We build for clients the way we build for ourselves.",
+    "proof": "We run our own publishing and outreach workflows on automation — including a YouTube Shorts scheduler that uploads from a queue sheet. We build for clients the way we build for ourselves.",
     "priceLabel": "Custom quote",
-    "priceNote": "Price depends on the workflow's size and the systems it connects. Describe the manual job on WhatsApp and we will quote it plainly.",
+    "priceNote": "Every job starts with a free audit: we look at the manual work, name the one workflow worth automating first, and quote it plainly. Hosting costs are explained before you pay anything.",
     "process": [
       {
-        "title": "Describe the manual job",
-        "text": "Tell us the repetitive task: what goes in, what comes out, and how often it happens."
+        "title": "Free audit first",
+        "text": "Tell us the manual job that eats your time. We check it and name the first workflow worth building — if automation will not help, we say so."
       },
       {
         "title": "We build and test",
-        "text": "We build the workflow and test it with real data before handing it over."
+        "text": "We build the workflow and test it with real data before it touches your customers."
       },
       {
-        "title": "Handover and support",
-        "text": "You get the workflow plus notes, and support while it settles into daily use."
+        "title": "Handover and monthly care",
+        "text": "You get the workflow plus notes, and monthly care keeps it running, fixed and improved as your tools change."
       }
     ],
     "faqs": [
       {
-        "q": "What is n8n?",
-        "a": "An open workflow tool that connects apps and services — forms, sheets, email, social platforms — so routine jobs run themselves."
+        "q": "Which tools do you use?",
+        "a": "n8n, Zapier or Make — whichever fits your job and budget. We explain the cheapest honest option for your case, including what the tool itself costs."
       },
       {
-        "q": "Do I need to pay for n8n?",
-        "a": "Self-hosted n8n is free to run; cloud hosting is optional. We will explain the cheapest honest option for your case."
+        "q": "Does it stop if a computer is switched off?",
+        "a": "No. Client workflows run on cloud hosting, not on a personal computer, so they keep working day and night."
       },
       {
         "q": "What if a workflow breaks?",
-        "a": "Every workflow we hand over includes notes on common failures. We also fix early issues as part of the handover."
+        "a": "Tools change and logins expire — that is normal. Monthly care covers monitoring and fixes, and every handover includes notes on common failures."
+      },
+      {
+        "q": "Do you guarantee more sales or bookings?",
+        "a": "No. Automation makes sure enquiries are answered fast and nothing slips through — results still depend on your offer, prices and market. We promise real work, not outcomes."
       },
       {
         "q": "Can you automate social posting?",

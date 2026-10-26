@@ -56,8 +56,8 @@ export default function Home() {
             <p>Researched leads for US medical billing services — practices that actually need billing help.</p>
           </div>
           <div className="card" key="automation">
-            <h3><Link href="/services/automation">n8n Automation</Link></h3>
-            <p>Practical n8n workflows that save small teams hours every week — posting, email, sheets and more.</p>
+            <h3><Link href="/services/automation">AI Automation</Link></h3>
+            <p>Practical AI and workflow automation that answers leads fast, books appointments and removes repetitive work.</p>
           </div>
           <div className="card" key="video-editing">
             <h3><Link href="/services/video-editing">Short-Form Video Editing</Link></h3>
