@@ -1,4 +1,4 @@
-export const SITE_URL = "https://aa-digital-network.vercel.app";
+export const SITE_URL = "https://aa-digital-network-website.pages.dev";
 export const SITE_NAME = "AA Digital Network";
 export const WA_DISPLAY = "+92 333 7476228";
 export const WA_NUMBER = "923337476228";

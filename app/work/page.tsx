@@ -27,7 +27,7 @@ export default function WorkPage() {
       </p>
       <h2>Showcase: Noor Islamic Website</h2>
       <p>
-        Our model asset — 60+ original articles, four free tools, and steady Google indexing,
+        Our model asset — 70+ original articles, four free tools, and steady Google indexing,
         built with the same content and technical standard we apply to client work.
       </p>
       <p>

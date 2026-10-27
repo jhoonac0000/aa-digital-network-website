@@ -27,7 +27,7 @@ export default function Home() {
             <WhatsAppCta message="Hi AA Digital Network, I would like to discuss a project." />
           </div>
           <p className="trust-strip">
-            Live showcase: Noor Islamic Website · 5 demo business sites · 60+ original articles published
+            Live showcase: Noor Islamic Website · 5 demo business sites · 70+ original articles published
           </p>
         </div>
       </section>
@@ -98,7 +98,7 @@ export default function Home() {
             and no shortcuts.
           </p>
           <ul className="check-list">
-            <li>60+ original articles across kids, stories and everyday topics</li>
+            <li>70+ original articles across kids, stories and everyday topics</li>
             <li>Four free tools: Prayer Times, Qibla Compass, Hijri Calendar, Zakat Calculator</li>
             <li>Indexed in Google with a clean, fast static build</li>
           </ul>
