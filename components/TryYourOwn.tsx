@@ -28,7 +28,7 @@ export default function TryYourOwn() {
       <div className="tryon-uploads">
         <div className="tryon-upload">
           <label htmlFor="tryon-photo">
-            Step 1 — Apni photo upload karein (upload your photo)
+            Step 1 — Upload your photo
             <input
               id="tryon-photo"
               type="file"
@@ -43,7 +43,7 @@ export default function TryYourOwn() {
         </div>
         <div className="tryon-upload">
           <label htmlFor="tryon-outfit">
-            Step 2 — Apna suit / dress upload karein (upload the outfit)
+            Step 2 — Upload your suit or dress
             <input
               id="tryon-outfit"
               type="file"
@@ -58,15 +58,14 @@ export default function TryYourOwn() {
         </div>
       </div>
       <p>
-        <strong>Pehla try-on FREE hai (1 dafa) — quality check ke liye.</strong> (Your first
-        try-on is free, once, so you can check our quality — it is not unlimited.) Honest note:
-        the previews above stay on your own device — nothing is uploaded to us here, and there is
-        no instant automatic result. A good try-on takes real preparation, so our team makes it by
-        hand with AI tools and checks it before sending. Send us your photo and the outfit photo
-        on WhatsApp and we will prepare your one free try-on and send it back on WhatsApp. Free
-        try-ons carry a small &ldquo;Sample — AA Digital Network&rdquo; note on the image; the
-        clean, unmarked outputs are part of the paid Full Setup for brands — see the comparison
-        below.
+        <strong>Your first try-on is FREE (one time) — so you can check our quality.</strong>{" "}
+        It is not unlimited. Honest note: the previews above stay on your own device — nothing is
+        uploaded to us here, and there is no instant automatic result. A good try-on takes real
+        preparation, so our team makes it by hand with AI tools and checks it before sending. Send
+        us your photo and the outfit photo on WhatsApp and we will prepare your one free try-on and
+        send it back on WhatsApp. Free try-ons carry a small &ldquo;Sample — AA Digital
+        Network&rdquo; note on the image; the clean, unmarked outputs are part of the paid Full
+        Setup for brands — see the comparison below.
       </p>
       <WhatsAppCta
         message="Hi AA Digital Network, I want my 1 free virtual try-on (sample). I will send my photo and the outfit photo here."

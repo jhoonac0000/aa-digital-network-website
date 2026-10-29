@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "AI Virtual Try-On for Fashion Brands & Clothing Stores | AA Digital Network",
-  description: "Done-for-you AI virtual try-on setup for fashion brands, abaya and modest wear labels, and suit stores. See real sample results, get your first try-on free on WhatsApp.",
-  alternates: { canonical: `https://aa-digital-network.vercel.app/services/ai-virtual-try-on` },
-  openGraph: { title: "AI Virtual Try-On | AA Digital Network", description: "Done-for-you AI virtual try-on setup for fashion brands and clothing stores. Real sample results on the page — first try-on free.", url: `https://aa-digital-network.vercel.app/services/ai-virtual-try-on`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/ai-virtual-try-on-navy-suit-result.jpg`] },
+  title: "AI Virtual Try-On Service for Fashion Brands — Abaya & Modest Fashion Try-On | AA Digital Network",
+  description: "Done-for-you AI virtual try-on service for fashion brands: abaya try-on and modest fashion specialists, plus suit and menswear stores. Real sample results on this page — your first try-on is free.",
+  alternates: { canonical: `https://aa-digital-network-website.pages.dev/services/ai-virtual-try-on` },
+  openGraph: { title: "AI Virtual Try-On Service for Fashion Brands | AA Digital Network", description: "Done-for-you AI try-on for fashion brands — abaya try-on, modest fashion and suit stores. Real sample results; your first try-on is free.", url: `https://aa-digital-network-website.pages.dev/services/ai-virtual-try-on`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/ai-virtual-try-on-navy-suit-result.jpg`] },
 };
 
 import Link from "next/link";
@@ -89,8 +89,8 @@ export default function Page() {
         <h2>Try your own</h2>
         <p>
           Pick your photo and an outfit below to preview them side by side, then send both to us
-          on WhatsApp. Pehla try-on FREE hai (1 dafa) — quality check ke liye: our team prepares
-          your one free try-on, marked as a sample, and sends it back on WhatsApp.
+          on WhatsApp. Your first try-on is FREE (one time) — so you can check our quality: our
+          team prepares your one free try-on, marked as a sample, and sends it back on WhatsApp.
         </p>
         <TryYourOwn />
       </section>
