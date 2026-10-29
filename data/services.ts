@@ -748,6 +748,72 @@ export const SERVICES: Service[] = [
       "urdu-ai-data-studio"
     ],
     "isNew": true
+  },
+  {
+    "slug": "ai-virtual-try-on",
+    "name": "AI Virtual Try-On",
+    "short": "Done-for-you virtual try-on for fashion brands and clothing stores — your customers send a photo, pick a product, and see themselves wearing it.",
+    "problem": [
+      "Online clothing shoppers hesitate at the same question: how will this look on me? When they cannot picture it, they delay, ask questions your team answers one by one, or simply buy from a bigger store that shows them more.",
+      "The large marketplaces now show shoppers AI try-on results — but the tools behind them are enterprise products or self-serve apps that get real garments wrong: colours shift, embroidery disappears, and modest clothing loses its coverage. Small and mid-size fashion brands are left showing flat product photos while the big platforms show the outfit on a person."
+    ],
+    "audiences": [
+      "Abaya and modest fashion brands (UK, US, CA, AU)",
+      "Suit and menswear stores",
+      "Boutique clothing brands selling online",
+      "Stores taking orders on WhatsApp or Instagram"
+    ],
+    "deliverables": [
+      "Virtual try-on set up for your products — customer photo plus product photo becomes a realistic try-on image",
+      "Every render checked by a person before it goes out: coverage, sleeves, hem and embroidery on modest garments",
+      "A simple try-on section for your store, like the live demo on this page",
+      "A WhatsApp-based flow for stores that sell through chat: customers send a photo, you send back their try-on",
+      "Honest setup: any paid AI tool cost, if your volume needs one, is stated up front and stays in your name"
+    ],
+    "proof": "The samples on this page are real outputs from our own process: a plain customer photo and a product photo in, a photorealistic try-on out — including a modest abaya where the hijab and coverage are preserved. Judge the service by those results, not by promises.",
+    "priceLabel": "Pilot $299–$499 one-time",
+    "priceNote": "The pilot covers setup plus 10–20 of your products, so you can test try-on with real customers before committing. After that, an optional care plan is $99–$199 per month for new products, checks and updates. Before that, you get 1 free try-on — marked \"Sample — AA Digital Network\" — purely to check our quality; clean unmarked outputs are part of the paid setup. Send a photo and a product on WhatsApp to claim the free one.",
+    "process": [
+      {
+        "title": "Send a photo and a product",
+        "text": "Message us on WhatsApp with one customer-style photo and one product photo. We prepare that try-on free, so you see the real output quality first."
+      },
+      {
+        "title": "Pilot setup",
+        "text": "We set up try-on for 10–20 of your products, check every render by hand, and connect the flow to your store or WhatsApp ordering."
+      },
+      {
+        "title": "Care plan (optional)",
+        "text": "New products are added and checked each month, and the demo stays current as your catalogue changes."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is the try-on instant and automatic?",
+        "a": "No — and we will not pretend otherwise. Each try-on is prepared with AI tools and checked by a person before it is sent, because automatic tools regularly get garments wrong. That checking is the service."
+      },
+      {
+        "q": "Does it work for modest clothing and abayas?",
+        "a": "That is exactly where we focus. Every modest-wear render is checked for hijab, sleeve and hem coverage and for embroidery detail before it goes out — the things generic try-on tools most often break."
+      },
+      {
+        "q": "Will this reduce my returns?",
+        "a": "We make no such promise. Try-on helps shoppers picture a product on themselves before ordering; what it does for your return rate depends on your products and customers."
+      },
+      {
+        "q": "What happens to customer photos?",
+        "a": "Photos are used only to prepare that customer's try-on. They are never published or reused in our demos — the samples on this page were created by us, for this page."
+      },
+      {
+        "q": "What do I need to start?",
+        "a": "Product photos of the items you want covered, and a WhatsApp number or store page where customers reach you. That is enough for the free sample."
+      }
+    ],
+    "related": [
+      "website-development",
+      "ad-videos"
+    ],
+    "isNew": true
   }
 ];
 

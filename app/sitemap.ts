@@ -27,6 +27,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/email-deliverability-audit`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/urdu-ai-data-studio`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/research-support-services`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/ai-virtual-try-on`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/why-your-cold-emails-go-to-spam`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/email-deliverability-checklist-before-your-next-campaign`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-to-find-grants-that-fit-your-nonprofit`, changeFrequency: "weekly", priority: 0.8 },

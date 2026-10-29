@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Our Services — Web, Video, SEO & Automation | AA Digital Network",
-  description: "All AA Digital Network services: website development, ad videos, guest posting, ADA audits, lead generation, automation, video editing, white-label SEO, plus grant research, email deliverability, Urdu AI data and research support.",
+  description: "All AA Digital Network services: website development, ad videos, guest posting, ADA audits, lead generation, automation, video editing, white-label SEO, AI virtual try-on, plus grant research, email deliverability, Urdu AI data and research support.",
   alternates: { canonical: `https://aa-digital-network.vercel.app/services` },
   openGraph: { title: "Our Services — Web, Video, SEO & Automation | AA Digital Network", description: "All AA Digital Network services: website development, ad videos, guest posting, ADA audits, lead generation, automation, video editing, white-label SEO, plus grant research, email deliverability, Urdu AI data and research support.", url: `https://aa-digital-network.vercel.app/services`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
 };
@@ -15,7 +15,7 @@ export default function ServicesPage() {
     <div className="wrap page">
       <h1>Our services</h1>
       <p className="lead">
-        Twelve service lines, one standard: real work, plain pricing, and no fake promises.
+        Thirteen service lines, one standard: real work, plain pricing, and no fake promises.
         Pick a service to see exactly what you get, how it works, and what it costs.
       </p>
       <div className="grid">
