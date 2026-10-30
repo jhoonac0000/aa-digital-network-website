@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "What Grant Prospect Research Looks Like (and Why Most Nonprofits Skip It) | AA Digital Network",
   description: "Prospect research is the unglamorous step before the application — and the reason some organisations win repeatedly while others keep missing.",
-  alternates: { canonical: `https://aa-digital-network.vercel.app/blog/what-grant-prospect-research-looks-like` },
-  openGraph: { title: "What Grant Prospect Research Looks Like (and Why Most Nonprofits Skip It) | AA Digital Network", description: "Prospect research is the unglamorous step before the application — and the reason some organisations win repeatedly while others keep missing.", url: `https://aa-digital-network.vercel.app/blog/what-grant-prospect-research-looks-like`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
+  alternates: { canonical: `https://aa-digital-network-website.pages.dev/blog/what-grant-prospect-research-looks-like` },
+  openGraph: { title: "What Grant Prospect Research Looks Like (and Why Most Nonprofits Skip It) | AA Digital Network", description: "Prospect research is the unglamorous step before the application — and the reason some organisations win repeatedly while others keep missing.", url: `https://aa-digital-network-website.pages.dev/blog/what-grant-prospect-research-looks-like`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
 };
 
 import ArticleView from "@/components/ArticleView";

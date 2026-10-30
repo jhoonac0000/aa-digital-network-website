@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Our Services — Web, Video, SEO & Automation | AA Digital Network",
-  description: "All AA Digital Network services: website development, ad videos, guest posting, ADA audits, lead generation, automation, video editing, white-label SEO, AI virtual try-on, plus grant research, email deliverability, Urdu AI data and research support.",
-  alternates: { canonical: `https://aa-digital-network.vercel.app/services` },
-  openGraph: { title: "Our Services — Web, Video, SEO & Automation | AA Digital Network", description: "All AA Digital Network services: website development, ad videos, guest posting, ADA audits, lead generation, automation, video editing, white-label SEO, plus grant research, email deliverability, Urdu AI data and research support.", url: `https://aa-digital-network.vercel.app/services`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
+  description: "All AA Digital Network services: website development, ad videos, guest posting, ADA audits, automation, video editing, white-label SEO and AI virtual try-on.",
+  alternates: { canonical: `https://aa-digital-network-website.pages.dev/services` },
+  openGraph: { title: "Our Services — Web, Video, SEO & Automation | AA Digital Network", description: "All AA Digital Network services: website development, ad videos, guest posting, ADA audits, lead generation, automation, video editing, white-label SEO, plus grant research, email deliverability, Urdu AI data and research support.", url: `https://aa-digital-network-website.pages.dev/services`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
 };
 
 import Link from "next/link";

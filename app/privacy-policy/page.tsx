@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Privacy Policy | AA Digital Network",
   description: "Privacy policy for AA Digital Network: this static site collects no personal data and sets no tracking cookies.",
-  alternates: { canonical: `https://aa-digital-network.vercel.app/privacy-policy` },
-  openGraph: { title: "Privacy Policy | AA Digital Network", description: "Privacy policy for AA Digital Network: this static site collects no personal data and sets no tracking cookies.", url: `https://aa-digital-network.vercel.app/privacy-policy`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
+  alternates: { canonical: `https://aa-digital-network-website.pages.dev/privacy-policy` },
+  openGraph: { title: "Privacy Policy | AA Digital Network", description: "Privacy policy for AA Digital Network: this static site collects no personal data and sets no tracking cookies.", url: `https://aa-digital-network-website.pages.dev/privacy-policy`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
 };
 
 export default function PrivacyPage() {

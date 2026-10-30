@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "AI Virtual Try-On Service for Fashion Brands — Abaya & Modest Fashion Try-On | AA Digital Network",
-  description: "Done-for-you AI virtual try-on service for fashion brands: abaya try-on and modest fashion specialists, plus suit and menswear stores. Real sample results on this page — your first try-on is free.",
+  description: "Done-for-you AI virtual try-on service for fashion brands: abaya and modest fashion specialists, plus suit and menswear stores. Sample results on this page.",
   alternates: { canonical: `https://aa-digital-network-website.pages.dev/services/ai-virtual-try-on` },
   openGraph: { title: "AI Virtual Try-On Service for Fashion Brands | AA Digital Network", description: "Done-for-you AI try-on for fashion brands — abaya try-on, modest fashion and suit stores. Real sample results; your first try-on is free.", url: `https://aa-digital-network-website.pages.dev/services/ai-virtual-try-on`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/ai-virtual-try-on-navy-suit-result.jpg`] },
 };

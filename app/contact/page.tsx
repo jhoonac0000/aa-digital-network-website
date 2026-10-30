@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Contact Us — WhatsApp AA Digital Network",
   description: "Contact AA Digital Network on WhatsApp for a free quote. We aim to reply within 24 hours.",
-  alternates: { canonical: `https://aa-digital-network.vercel.app/contact` },
-  openGraph: { title: "Contact Us — WhatsApp AA Digital Network", description: "Contact AA Digital Network on WhatsApp for a free quote. We aim to reply within 24 hours.", url: `https://aa-digital-network.vercel.app/contact`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
+  alternates: { canonical: `https://aa-digital-network-website.pages.dev/contact` },
+  openGraph: { title: "Contact Us — WhatsApp AA Digital Network", description: "Contact AA Digital Network on WhatsApp for a free quote. We aim to reply within 24 hours.", url: `https://aa-digital-network-website.pages.dev/contact`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
 };
 
 import ContactForm from "@/components/ContactForm";

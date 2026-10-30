@@ -1,4 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Page Not Found | AA Digital Network",
+  description: "This page does not exist or has moved. Return to the AA Digital Network homepage.",
+  robots: { index: false, follow: true },
+};
 
 export default function NotFound() {
   return (

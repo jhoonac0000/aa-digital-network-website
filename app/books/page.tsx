@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Books & Digital Products — AA Digital Network",
-  description: "AA Digital Network books and digital products: an Islamic kids book and a Ramadan Planner 2027, currently in production. Samples and honest previews, no fake listings.",
-  alternates: { canonical: `https://aa-digital-network.vercel.app/books` },
-  openGraph: { title: "Books & Digital Products — AA Digital Network", description: "AA Digital Network books and digital products: an Islamic kids book and a Ramadan Planner 2027, currently in production. Samples and honest previews, no fake listings.", url: `https://aa-digital-network.vercel.app/books`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
+  description: "AA Digital Network books and digital products: an Islamic kids book and a Ramadan Planner 2027, currently in production. Honest previews, no fake listings.",
+  alternates: { canonical: `https://aa-digital-network-website.pages.dev/books` },
+  openGraph: { title: "Books & Digital Products — AA Digital Network", description: "AA Digital Network books and digital products: an Islamic kids book and a Ramadan Planner 2027, currently in production. Honest previews, no fake listings.", url: `https://aa-digital-network-website.pages.dev/books`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
 };
 
 import WhatsAppCta from "@/components/WhatsAppCta";

@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "AA Digital Network — Websites, Ad Videos & SEO That Bring Clients",
-  description: "AA Digital Network: websites, ad videos, guest posting, accessibility audits, lead generation and automation for small businesses. Honest pricing, no fake promises.",
-  alternates: { canonical: `https://aa-digital-network.vercel.app` },
-  openGraph: { title: "AA Digital Network — Websites, Ad Videos & SEO That Bring Clients", description: "AA Digital Network: websites, ad videos, guest posting, accessibility audits, lead generation and automation for small businesses. Honest pricing, no fake promises.", url: `https://aa-digital-network.vercel.app`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network.vercel.app/og.png`] },
+  description: "AA Digital Network: websites, ad videos, guest posting, accessibility audits and automation for small businesses. Honest pricing, no fake promises.",
+  alternates: { canonical: `https://aa-digital-network-website.pages.dev` },
+  openGraph: { title: "AA Digital Network — Websites, Ad Videos & SEO That Bring Clients", description: "AA Digital Network: websites, ad videos, guest posting, accessibility audits and automation for small businesses. Honest pricing, no fake promises.", url: `https://aa-digital-network-website.pages.dev`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
 };
 
 import Link from "next/link";
