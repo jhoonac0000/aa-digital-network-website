@@ -26,6 +26,7 @@ export const SERVICES: Service[] = [
       "Clear contact and WhatsApp enquiry paths on every page",
       "On-page SEO basics: titles, descriptions, headings and sitemap",
       "Fast loading static pages — no heavy plugins slowing things down",
+      "Your domain is included for the first year, registered in your own name — it always stays yours; from year two it renews under our care arrangement, and we remind you before it expires",
       "A short handover note so you know how to request changes"
     ],
     "proof": "Our own showcase site Noor Islamic Website is built on this same approach — original content, free tools, and steady Google indexing. We also built five demo business sites you can browse on the Work page.",
