@@ -1,6 +1,7 @@
 export interface Article {
   slug: string; title: string; service: string;
   excerpt: string; sections: { heading: string; paragraphs: string[] }[];
+  faqs?: { q: string; a: string }[];
 }
 
 export const ARTICLES: Article[] = [
@@ -608,70 +609,76 @@ export const ARTICLES: Article[] = [
     "excerpt": "What happens between a good idea and a submitted paper — and where honest support helps, versus where it crosses a line.",
     "sections": [
       {
-        "heading": "The stages every paper passes through",
+        "heading": "What does research support actually cover?",
+        "paragraphs": [
+          "Research support covers the stages between an idea and a submitted paper: organising the literature survey, testing the idea for a genuine gap, structuring and editing the draft, and formatting it for the target journal. AA Digital Network's Research Support Services helps with exactly those stages — the ideas, the results and the authorship always stay yours."
+        ]
+      },
+      {
+        "heading": "What are the stages of writing a research paper?",
         "paragraphs": [
           "Idea, literature survey, gap, method, results, writing, formatting, submission. Most researchers are strong at some stages and stuck at others — and the stuck stage is where months disappear.",
           "Support should target the stuck stage, not replace the researcher. That distinction is what separates legitimate help from misconduct."
         ]
       },
       {
-        "heading": "Where support genuinely helps",
+        "heading": "Where does research support genuinely help?",
         "paragraphs": [
           "A literature survey organised and summarised properly saves weeks. A gap analysis that tests your idea against the field prevents wasted months. Structure and clarity editing turns good work into readable work. Formatting to a journal's requirements removes a common reason for desk rejection.",
           "None of these replace your ideas or your results. They make your work presentable — which is a legitimate, normal part of research."
         ]
       },
       {
-        "heading": "Where support must stop",
+        "heading": "Where must research support stop?",
         "paragraphs": [
           "Nobody should write your paper for you, fabricate results, or promise acceptance. Services that offer those things are selling misconduct, and journals are increasingly able to detect it.",
           "Ask any support service directly: what exactly will you do, and what stays with me? If the answer is vague, walk away."
         ]
       },
       {
-        "heading": "Choosing help wisely",
+        "heading": "How do you choose research support wisely?",
         "paragraphs": [
           "Look for support from people who have done research themselves, who document their work, and who keep your topic private. Start with one stage, judge the quality, and continue only if it genuinely helps.",
           "The goal is a stronger paper with your name on it — honestly earned, clearly written, and ready for reviewers to judge on its merits."
         ]
       },
       {
-        "heading": "Responding to reviewers without losing your paper",
+        "heading": "How do you respond to reviewers without losing your paper?",
         "paragraphs": [
           "Reviewer comments fall into two piles: those that improve the paper and those that misunderstand it. Both deserve a calm, specific reply. For the first pile, make the change and say exactly where. For the second, explain the misunderstanding with evidence and point to the clarification you added.",
           "Never argue with the tone of a review, even a harsh one. Editors notice authors who respond thoroughly and graciously, and they notice the opposite too. A careful response letter is part of the paper, not an afterthought."
         ]
       },
       {
-        "heading": "Preprints and timing",
+        "heading": "Should you post a preprint before submitting?",
         "paragraphs": [
           "Posting a preprint can get your work read months before formal publication, and it establishes priority. But not every journal treats preprints the same way, so check the target journal's policy before posting — a preprint that violates a journal's rules can close a door you wanted open.",
           "Timing matters in another way too. Submitting to the right journal first, rather than the most prestigious one, often gets a paper published sooner and read by the people who will actually use it. Fit beats prestige when the goal is a paper that gets cited."
         ]
       },
       {
-        "heading": "Desk rejection is usually fixable",
+        "heading": "Can a desk rejection be fixed?",
         "paragraphs": [
           "A desk rejection — rejected without peer review — usually means scope, formatting, or a missing element, not a verdict on your work. Read the editor's note carefully: it normally names the reason, even briefly.",
           "Common fixable causes are a journal-scope mismatch, missing declarations, or a manuscript that does not follow the journal's structure. Fix the named cause, consider a better-fitting journal, and resubmit. Most published researchers have a drawer of desk rejections behind them."
         ]
       },
       {
-        "heading": "Co-authorship should be agreed early, in writing",
+        "heading": "When should co-authorship be agreed?",
         "paragraphs": [
           "Nothing poisons a paper faster than a late argument about who did what. Agree authorship and order early, in writing, based on contribution — and revisit the agreement if contributions change substantially during the work. It feels awkward at the start and prevents real damage later.",
           "Also agree on who handles submission, revisions, and correspondence, and what happens if someone becomes unavailable. These are boring administrative decisions until the week a revision is due and nobody knows who is responsible."
         ]
       },
       {
-        "heading": "Keep a paper trail of every decision",
+        "heading": "Why keep a paper trail of every research decision?",
         "paragraphs": [
           "Research moves fast and memory fades. Keep dated notes of key decisions: why a method was chosen, why a dataset was excluded, how a borderline result was handled. When a reviewer asks why you did something, that note is the difference between a confident answer and a reconstruction.",
           "The same habit protects you. If anyone ever questions your work, a clear record of decisions, data handling, and analysis steps is your best evidence that the work was done carefully and honestly."
         ]
       },
       {
-        "heading": "What to do while you wait for reviews",
+        "heading": "What should you do while you wait for peer review?",
         "paragraphs": [
           "Review takes months, and waiting passively wastes them. While a paper is under review, the productive moves are to start the next piece of work, prepare the data and code for sharing, and draft the plain-language summary you will need whether the paper is accepted or not. None of these depend on the review outcome, and all of them make the next step faster.",
           "Do not submit the same paper to another journal while it is under review — that is a serious breach of publishing ethics and a fast way to damage your reputation. If the wait becomes unreasonable, the correct move is a polite inquiry to the editor, not a parallel submission.",
@@ -679,11 +686,29 @@ export const ARTICLES: Article[] = [
         ]
       },
       {
-        "heading": "After publication, the work is not finished",
+        "heading": "What should you do after your paper is published?",
         "paragraphs": [
           "Publication is a milestone, not a finish line. Share the paper where its readers actually are, deposit data and code where your field expects them, and answer the questions that come — including the critical ones. A paper that is read, cited, and debated has done its job; a paper that sits unread has only been printed.",
           "Keep a short record of what the process taught you: which journal fit, which review comments improved the work, what you would do differently. That record is the most valuable thing you carry into the next paper, because the next paper starts with everything this one taught you."
         ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Will a research support service write my paper for me?",
+        "a": "No — and you should avoid any service that offers to. Legitimate research support organises your literature survey, tests your idea for a genuine gap, edits the structure and clarity of a draft you wrote, and formats it for your target journal. The ideas, the analysis and the authorship stay entirely yours. Services that write papers or promise acceptance are selling misconduct."
+      },
+      {
+        "q": "Is using research support academic misconduct?",
+        "a": "Not when the work being supported is your own. Getting help to organise sources, sharpen structure, or meet a journal's formatting rules is a normal part of research. It crosses the line when someone else produces the work for you, fabricates results, or submits under your name — which is why AA Digital Network documents exactly what was done at every stage."
+      },
+      {
+        "q": "What stage of my paper should I get help with first?",
+        "a": "The stage you are actually stuck on. For most researchers that is the literature survey, the gap analysis, or turning a finished draft into a readable, correctly formatted submission. Start with one stage, judge the quality of the help, and continue only if it genuinely moves the paper forward."
+      },
+      {
+        "q": "How do I start with AA Digital Network's Research Support Services?",
+        "a": "Message AA Digital Network on WhatsApp at +92 333 7476228 with your field, your topic, and the stage you are stuck at — gap, survey, draft, or formatting. Pricing is a custom quote per project, given after that short discussion, because every paper and every stage is different."
       }
     ]
   }

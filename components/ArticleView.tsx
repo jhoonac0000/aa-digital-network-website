@@ -24,10 +24,22 @@ export default function ArticleView({ article }: { article: Article }) {
     author: { "@type": "Organization", name: "AA Digital Network", url: SITE_URL },
     url: `${SITE_URL}/blog/${article.slug}`,
   };
+  const faqJsonLd = article.faqs?.length
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: article.faqs.map((f) => ({
+          "@type": "Question",
+          name: f.q,
+          acceptedAnswer: { "@type": "Answer", text: f.a },
+        })),
+      }
+    : null;
   return (
     <article className="wrap page article">
       <JsonLd data={jsonLd} />
       <JsonLd data={breadcrumbJsonLd} />
+      {faqJsonLd && <JsonLd data={faqJsonLd} />}
       <p className="crumbs">
         <Link href="/blog">Blog</Link>
         {service && (
@@ -47,6 +59,17 @@ export default function ArticleView({ article }: { article: Article }) {
           ))}
         </section>
       ))}
+      {article.faqs && article.faqs.length > 0 && (
+        <section>
+          <h2>Frequently asked questions</h2>
+          {article.faqs.map((f) => (
+            <div key={f.q}>
+              <h3>{f.q}</h3>
+              <p>{f.a}</p>
+            </div>
+          ))}
+        </section>
+      )}
       {service && (
         <section className="service-box">
           <h2>Related service: {service.name}</h2>
