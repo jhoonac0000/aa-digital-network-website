@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Urdu Voice and Text Data for AI | AA Digital Network",
-  description: "A step-by-step look at collecting, transcribing and checking Urdu data — from the brief to a dataset you can actually train on.",
+  description: "A practical, step-by-step guide to collecting, transcribing and checking Urdu voice and text data — from the first brief to a dataset you can actually train on.",
   alternates: { canonical: `https://aa-digital-network-website.pages.dev/blog/building-urdu-voice-and-text-data-for-ai` },
-  openGraph: { title: "Urdu Voice and Text Data for AI | AA Digital Network", description: "A step-by-step look at collecting, transcribing and checking Urdu data — from the brief to a dataset you can actually train on.", url: `https://aa-digital-network-website.pages.dev/blog/building-urdu-voice-and-text-data-for-ai`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
+  openGraph: { title: "Urdu Voice and Text Data for AI | AA Digital Network", description: "A practical, step-by-step guide to collecting, transcribing and checking Urdu voice and text data — from the first brief to a dataset you can actually train on.", url: `https://aa-digital-network-website.pages.dev/blog/building-urdu-voice-and-text-data-for-ai`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/images/blog/building-urdu-voice-and-text-data-for-ai.jpg`] },
 };
 
 import ArticleView from "@/components/ArticleView";
