@@ -66,6 +66,12 @@ export default function BlogPage() {
             <p>What happens between a good idea and a submitted paper — and where honest support helps, versus where it crosses a line.</p>
             <p className="small"><Link href="/services/research-support-services">Related service →</Link></p>
           </div>
+          <div className="card" key="how-muslim-wedding-planners-get-more-bookings">
+            <img className="card-img" src="/images/blog/how-muslim-wedding-planners-get-more-bookings.jpg" alt="Muslim wedding planner wearing a hijab reviewing new booking enquiries on a tablet inside a decorated walima venue" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-wedding-planners-get-more-bookings">How Muslim Wedding Planners Get More Bookings: The Funnel, Step by Step</Link></h3>
+            <p>Couples book the planner they can find, trust and reach first. Here is the practical funnel — search, faith-aware pages, instant replies — that turns searches into consultations.</p>
+            <p className="small"><Link href="/services/halal-wedding-booking">Related service →</Link></p>
+          </div>
       </div>
     </div>
   );

@@ -4,6 +4,8 @@ export interface Service {
   priceLabel: string; priceNote: string;
   process: { title: string; text: string }[];
   faqs: { q: string; a: string }[]; related: string[]; isNew: boolean;
+  image?: string; imageAlt?: string; imageCaption?: string;
+  extraImages?: { after: string; src: string; alt: string; caption: string }[];
 }
 
 export const SERVICES: Service[] = [
@@ -815,6 +817,286 @@ export const SERVICES: Service[] = [
       "ad-videos"
     ],
     "isNew": true
+  },
+  {
+    "slug": "muslim-daycare-enrollment",
+    "name": "Muslim Daycare Enrollment Funnel",
+    "short": "Done-for-you enrollment funnel for Muslim daycares and Islamic preschools — local search, faith-aware pages and tour bookings that fill your places and your waitlist.",
+    "problem": [
+      "Parents choosing childcare search online first — \"Muslim daycare near me\", \"Islamic preschool near me\" — and most tour three or four centres within a single week. A centre that cannot be found on Google, or whose page never answers the faith questions, is simply never toured.",
+      "Most Muslim daycares run on word of mouth and a thin directory listing. Generic childcare marketing exists, but it is written generically: it cannot speak credibly about halal meals, a prayer-time routine, Islamic identity, language-matched staff, or the safety and privacy questions Muslim parents ask before anything else."
+    ],
+    "audiences": [
+      "Muslim daycare centres in the US, UK and Canada",
+      "Islamic preschools and faith-based Montessori settings",
+      "Licensed Muslim childminders with places to fill",
+      "Centres carrying a waitlist they want to grow and manage"
+    ],
+    "deliverables": [
+      "Google Business Profile and local SEO built around \"Muslim daycare near me\" searches",
+      "Faith-aware landing pages: halal meals, prayer-time routine, Islamic environment and early learning, staff credentials and safety",
+      "Tour-booking and waitlist funnel, with fast follow-up on every enquiry",
+      "Trust-building short videos: a facility tour and a director introduction",
+      "Children are filmed only with written parental consent — otherwise videos show the facility and staff only",
+      "A free enrollment visibility audit before you pay anything"
+    ],
+    "proof": "We start with the free audit: we show you exactly what Muslim parents in your area see when they search — which centres they find, and why yours is or is not among them. You judge the funnel on that evidence before spending anything.",
+    "priceLabel": "Funnel build $1,000–$2,000",
+    "priceNote": "The one-time funnel build is $1,000–$2,000 depending on the size of your centre; ongoing management is $399–$699 per month. For scale: a single enrolled child typically pays a centre many times the monthly retainer in tuition over a year. Start with the free audit and decide with the facts in front of you.",
+    "process": [
+      {
+        "title": "Free visibility audit",
+        "text": "We search the way parents in your area search and report what they find — your profile, your pages, and the centres being found instead of you."
+      },
+      {
+        "title": "We build the funnel",
+        "text": "Profile, pages, tour booking and waitlist follow-up are built around the questions Muslim parents actually ask."
+      },
+      {
+        "title": "Tours and monthly care",
+        "text": "Enquiries are answered fast and tours get booked. Monthly care keeps your visibility growing and reports enquiries in plain numbers."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do you provide childcare or guarantee enrollments?",
+        "a": "No. We are a marketing service, not a childcare provider, and nobody honest can guarantee enrollments. We bring qualified tour bookings and waitlist enquiries to licensed centres — the care, the licensing and the enrollment decisions stay entirely yours."
+      },
+      {
+        "q": "Will you film the children at our centre?",
+        "a": "Only with written consent from parents, arranged in advance. Most centres choose facility-and-staff-only videos: the rooms, the routine and the director's introduction build real trust without filming a single child, and privacy is protected throughout."
+      },
+      {
+        "q": "What do parents actually search for?",
+        "a": "\"Muslim daycare near me\" and \"Islamic preschool near me\" — plus the same searches with their city or neighbourhood added. We build your profile and pages around those searches and around the questions parents ask when they tour."
+      },
+      {
+        "q": "How quickly will enquiries come?",
+        "a": "Profile and page fixes can surface within weeks; local rankings build over months. We report enquiries and booked tours monthly in plain numbers, and we never promise a search position or a fixed number of enrollments."
+      }
+    ],
+    "related": [
+      "halal-wedding-booking",
+      "website-development"
+    ],
+    "isNew": true,
+    "image": "/images/services/muslim-daycare-enrollment-funnel-hero.jpg",
+    "imageAlt": "Teacher wearing a hijab reading a picture book to toddlers in a bright Muslim preschool classroom with Arabic alphabet posters",
+    "imageCaption": "Parents choose the centre they can picture their child in. A funnel starts by making your centre visible — and then shows the warmth, routine and safety parents are looking for.",
+    "extraImages": [
+      { "after": "problem", "src": "/images/services/muslim-daycare-enrollment-parent-search.jpg", "alt": "Muslim mother searching on her smartphone for a daycare near her home while her toddler plays beside her", "caption": "The search happens at home, on a phone, usually in the evening. If your centre is not in those results, the tour never happens." },
+      { "after": "deliverables", "src": "/images/services/muslim-daycare-enrollment-tour-booking.jpg", "alt": "Daycare director showing a parent around a colourful play area during a centre tour", "caption": "The tour is where enrollment is decided. The funnel's job is to get the right parents through your door — prepared, and already trusting you." }
+    ]
+  },
+  {
+    "slug": "halal-wedding-booking",
+    "name": "Halal Wedding Booking Funnel",
+    "short": "Done-for-you booking funnel for Muslim wedding planners — local search, faith-aware pages and consultation bookings for nikah, mehndi and walima events.",
+    "problem": [
+      "Engaged couples search online first, and they book consultations with the planners they can find and trust. A Muslim planner who lives on referrals and Instagram alone never reaches the families who do not already know their name — and those families book someone else.",
+      "Even when a planner is found, generic wedding pages lose the booking. Muslim families ask specific questions first — separate seating, prayer space, zabiha halal catering, alcohol-free venues, an imam's coordination — and a page that answers none of them gets scrolled past, however beautiful the photos are."
+    ],
+    "audiences": [
+      "Muslim wedding planners in the US, UK and Canada",
+      "Nikah and walima planning specialists",
+      "Small, family-run planning studios",
+      "Planners ready to grow beyond referrals"
+    ],
+    "deliverables": [
+      "Google Business Profile and local SEO built around \"Muslim wedding planner near me\" searches",
+      "Faith-aware landing pages: separate seating options, prayer space, halal catering, alcohol-free venues, modest bridal lounge, imam coordination",
+      "Inquiry and consultation-booking funnel, with instant reply and polite follow-up",
+      "Dignified short videos: venue films and a planner introduction",
+      "Couples are filmed only with their written consent — never by default",
+      "A free booking visibility audit before you pay anything"
+    ],
+    "proof": "We start with the free audit: what Muslim families in your city actually see when they search for a planner like you — and which planners they find instead. You judge the funnel on that evidence, not on our promises.",
+    "priceLabel": "Funnel build $1,000–$2,000",
+    "priceNote": "The one-time funnel build is $1,000–$2,000 depending on scope; ongoing management is $399–$699 per month. For scale: one full-service planning booking is typically worth several thousand dollars in fees, so a single extra booking can cover a year of management. Start with the free audit.",
+    "process": [
+      {
+        "title": "Free booking visibility audit",
+        "text": "We search the way couples in your city search and show you what they find — and where your enquiries are leaking away."
+      },
+      {
+        "title": "We build the funnel",
+        "text": "Profile, faith-aware pages and a consultation-booking path with instant replies, built around how Muslim families actually choose a planner."
+      },
+      {
+        "title": "Consultations and monthly care",
+        "text": "Enquiries turn into booked consultations, and monthly care keeps your visibility growing through engagement season and beyond, with plain reporting."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do you plan weddings or give religious rulings?",
+        "a": "Neither. We are a marketing service: we bring qualified consultation bookings to experienced planners. The planning is yours, and religious questions belong to qualified scholars — we never issue rulings or speak on religious matters."
+      },
+      {
+        "q": "Will you film our couples?",
+        "a": "Only with their written consent, arranged in advance. Most planners start with venue films and a planner introduction: your work, your venues and your manner build the trust, and no couple's privacy is ever used without permission."
+      },
+      {
+        "q": "How is this different from a generic wedding marketing agency?",
+        "a": "The copy. Generic agencies cannot credibly write about separate seating, prayer timings, halal catering vetting or a modest bridal lounge. Those details are exactly what Muslim families check before booking a consultation — so they are written into every page we build."
+      },
+      {
+        "q": "Can you guarantee bookings?",
+        "a": "No, and you should be careful with anyone who does. We guarantee the work: visibility, faith-aware pages, a working booking funnel and honest monthly reporting of enquiries and consultations. Whether a consultation becomes a booking depends on your packages, prices and the conversation itself."
+      }
+    ],
+    "related": [
+      "muslim-daycare-enrollment",
+      "instant-lead-response"
+    ],
+    "isNew": true,
+    "image": "/images/services/halal-wedding-booking-funnel-hero.jpg",
+    "imageAlt": "Elegant empty walima reception hall with white and gold decor, floral centrepieces and a decorated stage",
+    "imageCaption": "Your work is beautiful — the funnel makes sure couples can find it, trust it, and book a consultation before they find someone else.",
+    "extraImages": [
+      { "after": "problem", "src": "/images/services/halal-wedding-booking-consultation.jpg", "alt": "Muslim wedding planner in a hijab showing an engaged couple a portfolio and booking calendar during a consultation", "caption": "The consultation is where bookings are won. Everything before it — search, pages, replies — exists to get the right couples into this chair." },
+      { "after": "deliverables", "src": "/images/services/halal-wedding-booking-calendar.jpg", "alt": "Wedding planner's desk with an appointment calendar filling with booked consultations, a smartphone and a notebook", "caption": "A funnel you can see: enquiries answered in minutes, consultations in the calendar, and a follow-up for every couple who goes quiet." }
+    ]
+  },
+  {
+    "slug": "instant-lead-response",
+    "name": "Instant Lead Response & Follow-Up",
+    "short": "AI automation that replies to every new enquiry in about a minute, alerts you instantly, and follows up politely until the customer answers — so no lead quietly dies.",
+    "problem": [
+      "The research is blunt: a study by MIT and InsideSales found a lead contacted within five minutes is about 21 times more likely to qualify than one contacted after thirty minutes — and Velocify's study of millions of leads found first contact within one minute lifts conversion by roughly 391%. Yet the average business takes around 42 to 47 hours to send a first reply, and many leads never receive one at all.",
+      "The gap is not effort — it is timing. Enquiries arrive while you are with a patient, on a roof, or asleep. An instant, useful reply closes the gap, an immediate alert lets you step in, and scheduled follow-ups make sure silence never means the end of the conversation."
+    ],
+    "audiences": [
+      "Clinics, dentists and healthcare practices",
+      "Real-estate, home-service and trades businesses",
+      "Coaches, consultants and small agencies",
+      "Any small team that lives on enquiries"
+    ],
+    "deliverables": [
+      "Instant, personal reply to every new form or email enquiry — typically within about a minute",
+      "An immediate alert to you on every new lead, so a human can step in at any point",
+      "A polite follow-up sequence on a set schedule, until the customer replies or the sequence ends",
+      "Every enquiry logged in one place with its status, so nobody is ever contacted twice by mistake",
+      "Set up and tested on sample data first, then switched on for your real enquiries",
+      "Runs in the cloud around the clock — never on a personal laptop"
+    ],
+    "proof": "This is the pattern our own outreach system runs on every day: a shared list, paced sending, timed follow-ups and status flags so nobody is contacted twice by mistake. Before any client setup goes live, the same engine is demonstrated on a sample enquiry inbox — you watch the reply leave in under a minute and the follow-ups queue themselves.",
+    "priceLabel": "Custom quote",
+    "priceNote": "Every setup starts with a free audit of how your enquiries currently arrive and where they wait. Email replies stay free within normal sending limits; if you want replies by SMS or WhatsApp, the small per-message cost on your own account is flagged before anything is switched on — never added quietly.",
+    "process": [
+      {
+        "title": "Free audit first",
+        "text": "Tell us how enquiries reach you today. We map where they wait, where they die, and what the honest automated version of the flow looks like."
+      },
+      {
+        "title": "We build and test",
+        "text": "The reply, alert and follow-up sequence are built and proven on sample enquiries first — you see the timings work before a real customer is involved."
+      },
+      {
+        "title": "Go live, with monthly care",
+        "text": "The automation runs in the cloud day and night. Monthly care keeps it monitored, fixed and improved as your tools change."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can you promise customers will reply or buy?",
+        "a": "No. We promise the reply goes out fast and the follow-ups happen on schedule — that much is mechanics, and we prove it before you pay for a live setup. Whether a customer answers or buys depends on your offer, your prices and your market."
+      },
+      {
+        "q": "Will the automatic replies sound robotic?",
+        "a": "They are written in your business's voice: they confirm the enquiry, set a clear expectation for a human follow-up, and answer the basic question asked. Anything unusual still reaches you instantly — the alert on every new lead means a person can step in at any moment."
+      },
+      {
+        "q": "What does it run on?",
+        "a": "Cloud automation tools such as Make or Zapier, on accounts that stay on around the clock. Your setup never depends on a personal computer being left switched on, and we tell you honestly what the tool itself costs at your volume."
+      },
+      {
+        "q": "Most of our enquiries come by phone. Does this still help?",
+        "a": "Often, yes — the same pattern can start from a missed call or a message in many setups. Tell us how your enquiries actually arrive during the free audit and we will map the version that genuinely fits, or tell you honestly if automation is not the answer."
+      }
+    ],
+    "related": [
+      "appointment-reminders-reviews",
+      "automation"
+    ],
+    "isNew": true,
+    "image": "/images/services/instant-lead-response-automation-hero.jpg",
+    "imageAlt": "Business owner smiling at an instant reply notification on his smartphone seconds after a new website enquiry arrives",
+    "imageCaption": "The first reply wins. Automation makes yours the first — in about a minute, at 2pm or 2am.",
+    "extraImages": [
+      { "after": "problem", "src": "/images/services/instant-lead-response-owner-alert.jpg", "alt": "Trades business owner checking a new lead alert on his phone in his workshop", "caption": "You are alerted the moment a lead lands — automation answers instantly, and you stay in control of the conversation." },
+      { "after": "deliverables", "src": "/images/services/instant-lead-response-follow-up-sequence.jpg", "alt": "Smartphone on a desk showing a polite sequence of follow-up messages beside a notebook checklist", "caption": "Most leads need several touches. The follow-up sequence sends them politely, on schedule, until the customer replies or the sequence ends." }
+    ]
+  },
+  {
+    "slug": "appointment-reminders-reviews",
+    "name": "Appointment Reminders & Review Requests",
+    "short": "Automatic appointment reminders that cut no-shows, and a polite review request after every visit — set up once, then running on its own in the cloud.",
+    "problem": [
+      "Every empty chair is revenue that never comes back, and most no-shows are not rudeness — they are forgetting. A systematic review of 29 studies (Hasvold & Wootton) found automated reminders cut missed appointments by about 29% on average; one hospital study recorded 11.2% missed appointments with a text reminder against 18.1% without one.",
+      "The same businesses usually have a second quiet leak: happy customers who never leave a review, simply because nobody asked at the right moment. One small automation closes both gaps — the reminder before the visit, and the polite request after it."
+    ],
+    "audiences": [
+      "Clinics, dentists and healthcare practices",
+      "Salons, barbers and beauty studios",
+      "Physiotherapy, wellness and therapy clinics",
+      "Any business that lives by its appointment book"
+    ],
+    "deliverables": [
+      "A reminder the day before every appointment — and on the morning of the visit too, if you want it",
+      "An automatic, polite Google review request after each completed visit",
+      "A simple list for you: who was reminded, and who was asked",
+      "Email-first setup keeps running costs at zero; text reminders are available with per-message costs flagged upfront",
+      "Works from your existing booking list — by hand, from a form, or from your booking tool",
+      "Runs in the cloud around the clock — never on a personal laptop"
+    ],
+    "proof": "Our own publishing scheduler runs this exact pattern every day: dated rows in a list, and the action fires at each row's set time whether anyone is watching or not. An appointment list is the same shape. Before any client setup, the demo runs on our own test appointment list and our own review link — every claim is something you can watch working.",
+    "priceLabel": "Custom quote",
+    "priceNote": "Setup is quoted after a free audit of your booking flow. Email reminders run at zero message cost; if you choose text-message reminders, the small per-message cost sits on your own sending account and is explained before anything is switched on.",
+    "process": [
+      {
+        "title": "Free audit first",
+        "text": "Show us how bookings reach your diary today. We map the reminder and review-request flow around the tools you already use."
+      },
+      {
+        "title": "We build and test",
+        "text": "The flow is built on a test list with test appointments, so you see reminders and review requests fire at the right times before a real customer is involved."
+      },
+      {
+        "title": "Go live, with monthly care",
+        "text": "Reminders and requests run on their own in the cloud. Monthly care keeps the list flow healthy and the wording fresh as your services change."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Will reminders eliminate no-shows?",
+        "a": "No, and we will never claim that. Across the studies, missed appointments fall by roughly a third on average — they never reach zero, because reminders fix forgetting, and forgetting is only one of the reasons customers miss appointments."
+      },
+      {
+        "q": "Can you guarantee more reviews or a better rating?",
+        "a": "No. The automation asks politely at the right moment — shortly after a completed visit, while the experience is fresh. That is all any honest service can do. What customers write, and whether they write at all, remains entirely their choice."
+      },
+      {
+        "q": "How do appointments get into the system?",
+        "a": "Each booking becomes one row in a list — added by hand, through a form, or from your booking tool. In the free audit we map whichever route your team already uses, so nobody is asked to change how they work just to feed the automation."
+      },
+      {
+        "q": "What does it cost to run?",
+        "a": "The email-first route runs at zero message cost on cloud free tiers, which is enough for most small appointment books. Text messages, if you want them, cost a small amount per message on your own account — always flagged before setup, never added quietly."
+      }
+    ],
+    "related": [
+      "instant-lead-response",
+      "automation"
+    ],
+    "isNew": true,
+    "image": "/images/services/appointment-reminders-review-requests-hero.jpg",
+    "imageAlt": "Patient at a clinic reception smiling at an appointment reminder message on her phone",
+    "imageCaption": "One automation, two leaks closed: the reminder that fills the chair, and the request that turns a good visit into a public review.",
+    "extraImages": [
+      { "after": "problem", "src": "/images/services/appointment-reminders-schedule.jpg", "alt": "Salon appointment book and calendar with the week's bookings and a reminder notification on a smartphone", "caption": "Your appointment book already holds every date the automation needs. Each booking becomes a reminder at exactly the right time." },
+      { "after": "deliverables", "src": "/images/services/appointment-reminders-google-reviews.jpg", "alt": "Happy customer leaving a five-star review on her smartphone after a salon visit", "caption": "Asked politely, at the right moment, happy customers do write reviews. The automation simply never forgets to ask." }
+    ]
   }
 ];
 

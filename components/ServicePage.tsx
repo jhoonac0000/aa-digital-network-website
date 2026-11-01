@@ -6,6 +6,17 @@ import { ARTICLES, articlesForService } from "@/data/articles";
 import { getService } from "@/data/services";
 import { SITE_URL, WA_DISPLAY } from "@/lib/site";
 
+function ServiceFigures({ service, after }: { service: Service; after: string }) {
+  return (service.extraImages || [])
+    .filter((img) => img.after === after)
+    .map((img) => (
+      <figure className="article-hero" key={img.src}>
+        <img src={img.src} alt={img.alt} width={2048} height={1152} loading="lazy" />
+        <figcaption>{img.caption}</figcaption>
+      </figure>
+    ));
+}
+
 export default function ServicePage({ service }: { service: Service }) {
   const guides = articlesForService(service.slug);
   const serviceJsonLd = {
@@ -48,6 +59,12 @@ export default function ServicePage({ service }: { service: Service }) {
       <p className="above-fold-cta">
         <WhatsAppCta message={waMessage} />
       </p>
+      {service.image && (
+        <figure className="article-hero">
+          <img src={service.image} alt={service.imageAlt || ""} width={2048} height={1152} />
+          {service.imageCaption && <figcaption>{service.imageCaption}</figcaption>}
+        </figure>
+      )}
 
       <section>
         <h2>The problem</h2>
@@ -55,6 +72,7 @@ export default function ServicePage({ service }: { service: Service }) {
           <p key={i}>{p}</p>
         ))}
       </section>
+      <ServiceFigures service={service} after="problem" />
 
       <section>
         <h2>Who this is for</h2>
@@ -73,6 +91,7 @@ export default function ServicePage({ service }: { service: Service }) {
           ))}
         </ul>
       </section>
+      <ServiceFigures service={service} after="deliverables" />
 
       <section className="proof-box">
         <h2>Why trust this</h2>
@@ -93,6 +112,7 @@ export default function ServicePage({ service }: { service: Service }) {
         </ol>
       </section>
 
+      <ServiceFigures service={service} after="process" />
       <section className="price-box">
         <h2>Price</h2>
         <p className="price">{service.priceLabel}</p>
