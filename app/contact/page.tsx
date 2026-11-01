@@ -9,7 +9,6 @@ export const metadata: Metadata = {
 
 import ContactForm from "@/components/ContactForm";
 import WhatsAppCta from "@/components/WhatsAppCta";
-import { WA_DISPLAY } from "@/lib/site";
 
 export default function ContactPage() {
   return (
@@ -20,7 +19,7 @@ export default function ContactPage() {
         free advice, not a sales pitch. We aim to reply within 24 hours.
       </p>
       <p>
-        <WhatsAppCta message="Hi AA Digital Network, I would like to discuss a project." label={`WhatsApp ${WA_DISPLAY}`} />
+        <WhatsAppCta message="Hi AA Digital Network, I would like to discuss a project." label="Chat on WhatsApp" />
       </p>
       <h2>Or send an inquiry</h2>
       <p className="small">

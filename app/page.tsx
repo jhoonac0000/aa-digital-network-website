@@ -9,7 +9,6 @@ export const metadata: Metadata = {
 
 import Link from "next/link";
 import WhatsAppCta from "@/components/WhatsAppCta";
-import { WA_DISPLAY } from "@/lib/site";
 
 export default function Home() {
   return (
@@ -159,7 +158,7 @@ export default function Home() {
           <h2>Tell us what you need</h2>
           <p>First reply is free advice, not a sales pitch.</p>
           <WhatsAppCta message="Hi AA Digital Network, I would like to discuss a project." />
-          <p className="small">WhatsApp {WA_DISPLAY} · We aim to reply within 24 hours.</p>
+          <p className="small">We aim to reply within 24 hours.</p>
         </div>
       </section>
     </>

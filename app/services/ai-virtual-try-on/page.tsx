@@ -13,7 +13,7 @@ import WhatsAppCta from "@/components/WhatsAppCta";
 import TryOnDemo from "@/components/TryOnDemo";
 import TryYourOwn from "@/components/TryYourOwn";
 import { getService } from "@/data/services";
-import { SITE_URL, WA_DISPLAY } from "@/lib/site";
+import { SITE_URL } from "@/lib/site";
 
 const service = getService("ai-virtual-try-on")!;
 
@@ -194,7 +194,7 @@ export default function Page() {
         <h2>Ready to talk?</h2>
         <p>Message us on WhatsApp — your first try-on sample is free, not a sales pitch.</p>
         <WhatsAppCta message={waMessage} />
-        <p className="small">WhatsApp {WA_DISPLAY} · We aim to reply within 24 hours.</p>
+        <p className="small">We aim to reply within 24 hours.</p>
       </section>
     </article>
   );

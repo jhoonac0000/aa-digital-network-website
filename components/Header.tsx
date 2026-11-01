@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { NAV_LINKS, WA_DISPLAY, WA_LINK } from "@/lib/site";
+import { NAV_LINKS, WA_LINK } from "@/lib/site";
+import WhatsAppIcon from "@/components/WhatsAppIcon";
 
 export default function Header() {
   return (
@@ -15,8 +16,15 @@ export default function Header() {
             </Link>
           ))}
         </nav>
-        <a className="btn btn-wa btn-small" href={WA_LINK} target="_blank" rel="noopener noreferrer">
-          WhatsApp {WA_DISPLAY}
+        <a
+          className="btn btn-wa btn-small header-wa"
+          href={WA_LINK}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Chat on WhatsApp"
+        >
+          <WhatsAppIcon />
+          <span className="wa-cta-text">Chat on WhatsApp</span>
         </a>
       </div>
     </header>

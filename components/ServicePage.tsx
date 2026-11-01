@@ -4,7 +4,7 @@ import WhatsAppCta from "@/components/WhatsAppCta";
 import type { Service } from "@/data/services";
 import { ARTICLES, articlesForService } from "@/data/articles";
 import { getService } from "@/data/services";
-import { SITE_URL, WA_DISPLAY } from "@/lib/site";
+import { SITE_URL } from "@/lib/site";
 
 function ServiceFigures({ service, after }: { service: Service; after: string }) {
   return (service.extraImages || [])
@@ -160,7 +160,7 @@ export default function ServicePage({ service }: { service: Service }) {
         <h2>Ready to talk?</h2>
         <p>Message us on WhatsApp — first reply is free advice, not a sales pitch.</p>
         <WhatsAppCta message={waMessage} />
-        <p className="small">WhatsApp {WA_DISPLAY} · We aim to reply within 24 hours.</p>
+        <p className="small">We aim to reply within 24 hours.</p>
       </section>
     </article>
   );

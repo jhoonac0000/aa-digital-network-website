@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { NAV_LINKS, WA_DISPLAY, WA_LINK } from "@/lib/site";
+import { NAV_LINKS, WA_LINK } from "@/lib/site";
 
 export default function Footer() {
   return (
@@ -10,7 +10,7 @@ export default function Footer() {
           <p>Websites, videos, SEO and automation for small businesses — built honestly, priced plainly.</p>
           <p>
             <a href={WA_LINK} target="_blank" rel="noopener noreferrer">
-              WhatsApp {WA_DISPLAY}
+              Chat on WhatsApp
             </a>
           </p>
         </div>
