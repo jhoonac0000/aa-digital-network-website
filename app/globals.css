@@ -118,7 +118,7 @@ h3 { color: var(--navy-900); }
   .site-footer { padding-bottom: 5.25rem; }
   .header-inner { row-gap: 0.4rem; padding-top: 0.6rem; padding-bottom: 0.6rem; }
   .logo { font-size: 1.05rem; }
-  .main-nav { order: 3; flex-basis: 100%; flex-wrap: nowrap; overflow-x: auto; gap: 1rem; margin-left: 0; padding-bottom: 0.15rem; scrollbar-width: none; }
+  .main-nav { order: 3; flex-basis: 100%; flex-wrap: wrap; overflow-x: visible; gap: 0.5rem 1rem; margin-left: 0; padding-bottom: 0.15rem; }
   .main-nav::-webkit-scrollbar { display: none; }
   .main-nav a { white-space: nowrap; padding: 0.25rem 0; }
   .header-wa { margin-left: auto; width: 2.6rem; height: 2.6rem; padding: 0; border-radius: 50%; }
