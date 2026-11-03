@@ -72,6 +72,12 @@ export default function BlogPage() {
             <p>Couples book the planner they can find, trust and reach first. Here is the practical funnel — search, faith-aware pages, instant replies — that turns searches into consultations.</p>
             <p className="small"><Link href="/services/halal-wedding-booking">Related service →</Link></p>
           </div>
+          <div className="card" key="how-halal-beauty-brands-get-more-sales">
+            <img className="card-img" src="/images/blog/how-halal-beauty-brands-get-more-sales.jpg" alt="Small halal beauty brand founder's studio desk with a laptop showing an online store, skincare products lined up for photography, a phone on a tripod and a ring light" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-beauty-brands-get-more-sales">How Halal Beauty Brands Get More Sales: The Funnel, Step by Step</Link></h3>
+            <p>Your customers are searching for halal skincare every day — and buying from the brands they can find. Here is the practical funnel — search, product pages, short video and refill reminders — that turns searches into repeat orders.</p>
+            <p className="small"><Link href="/services/halal-beauty-sales-funnel">Related service →</Link></p>
+          </div>
       </div>
     </div>
   );

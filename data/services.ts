@@ -1097,6 +1097,76 @@ export const SERVICES: Service[] = [
       { "after": "problem", "src": "/images/services/appointment-reminders-schedule.jpg", "alt": "Salon appointment book and calendar with the week's bookings and a reminder notification on a smartphone", "caption": "Your appointment book already holds every date the automation needs. Each booking becomes a reminder at exactly the right time." },
       { "after": "deliverables", "src": "/images/services/appointment-reminders-google-reviews.jpg", "alt": "Happy customer leaving a five-star review on her smartphone after a salon visit", "caption": "Asked politely, at the right moment, happy customers do write reviews. The automation simply never forgets to ask." }
     ]
+  },
+  {
+    "slug": "halal-beauty-sales-funnel",
+    "name": "Halal Beauty Sales Funnel",
+    "short": "Done-for-you sales funnel for small halal skincare and beauty brands — search, product pages, monthly short videos and a repeat-purchase system that turns one-time buyers into refill customers.",
+    "problem": [
+      "Your customers are searching every day — \"halal serum\", \"halal skincare\", \"wudu-friendly nail polish\" — mostly on Google, TikTok and Instagram. Small halal beauty brands with genuinely good products rarely appear in those results, because their marketing is the founder's own Instagram account, posted between packing orders. The sale goes to a bigger brand with a weaker product and a stronger funnel.",
+      "Generic beauty marketing does not solve this. It cannot write credibly about halal certification, alcohol-free and pork-free ingredient lists, or wudu-friendly formulas — and it defaults to a style of beauty content many Muslim customers scroll straight past. Your certification story is your strongest selling point, and almost nobody in beauty marketing knows how to tell it."
+    ],
+    "audiences": [
+      "Small Muslim-owned halal skincare brands in the US, UK and Canada",
+      "Halal makeup and wudu-friendly nail polish brands selling online",
+      "Shopify, Instagram and TikTok Shop beauty sellers ready to grow beyond the founder's posts",
+      "Halal beauty brands with a physical store that also sells online"
+    ],
+    "deliverables": [
+      "Search visibility built around \"halal skincare\", \"halal serum\" and your product searches — plus a Google Business Profile if you have a physical store",
+      "Product landing pages that tell your certification and ingredients story clearly — and bundle and gift-set pages for the holiday and Ramadan gifting seasons",
+      "12 Shorts and Reels a month: routine demos, founder story and ingredient explainers — product-focused, modestly presented, no over-sexualised beauty content",
+      "An email and WhatsApp repeat-purchase funnel: refill reminders timed to how fast a product runs out, and a polite review request after every order",
+      "Claims discipline: we only ever present your own certification and your own ingredient list, in your own wording — we never invent skin or medical results",
+      "A free beauty visibility audit, plus a free 30-second demo Reel of one hero product, before you pay anything"
+    ],
+    "proof": "We start with the free audit: we show you what a customer searching for your kind of product actually finds — which brands appear, and why yours is or is not among them — and we make a short demo Reel of your hero product so you can judge our video work before spending anything. You decide on evidence, not promises.",
+    "priceLabel": "Funnel setup $1,000–$2,000",
+    "priceNote": "The one-time funnel and content setup is $1,000–$2,000 depending on your product range; ongoing management is $399–$699 per month. For scale: skincare is a repeat-purchase product — a refill customer buys again every few weeks, so a funnel that wins a brand 20 to 30 extra orders a month covers the retainer several times over. Start with the free audit and the free demo Reel.",
+    "process": [
+      {
+        "title": "Free beauty visibility audit",
+        "text": "We search the way your customers search — Google, TikTok, Instagram — and report which brands they find, what your product pages say and miss, and where your repeat sales are leaking away."
+      },
+      {
+        "title": "We build the funnel",
+        "text": "Search pages, product and gift-set landing pages, your monthly video plan and the refill-and-review funnel are built around your certification and your ingredients — the story only your brand can tell."
+      },
+      {
+        "title": "Sales and monthly care",
+        "text": "Twelve short videos a month, refill reminders that bring customers back on schedule, and plain monthly reporting: views, orders and repeat purchases, in numbers you can check."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do you guarantee sales or a number of orders?",
+        "a": "No, and you should be careful with anyone who does. We guarantee the work: search visibility, product pages that tell your certification story properly, twelve short videos a month, a working repeat-purchase funnel and honest monthly reporting. Whether a viewer becomes a buyer also depends on your products, prices and reviews — the funnel makes sure those strengths are actually seen."
+      },
+      {
+        "q": "Will you make claims about what our products do to skin?",
+        "a": "Never. We present your certification and your ingredient list, in your own approved wording — that is where our copy stops. We do not invent results, before-and-after claims or medical promises, for your protection as much as ours: beauty advertising rules in the US, UK and Canada are strict, and your customers trust you because your claims are honest."
+      },
+      {
+        "q": "How do the videos present our products?",
+        "a": "Product-first and modest: hands, textures, routines and the founder's story, with ingredient explainers your customers actually ask about. No over-sexualised beauty content, ever — it does not suit your audience, and it is not needed to sell good skincare."
+      },
+      {
+        "q": "We only sell on Instagram and TikTok Shop. Do we need a website funnel?",
+        "a": "Social is where your customers discover you, but discovery is not the whole sale. Search pages catch the customers who type \"halal serum\" into Google, and the refill funnel brings buyers back without you posting every day. We build around the channels you already sell on — Shopify, Instagram or TikTok Shop — rather than asking you to start again."
+      }
+    ],
+    "related": [
+      "ai-virtual-try-on",
+      "ad-videos"
+    ],
+    "isNew": true,
+    "image": "/images/services/halal-beauty-sales-funnel-hero.jpg",
+    "imageAlt": "Halal skincare flat lay with two serum bottles, a moisturiser jar and a sunscreen tube beside dates, almonds and green leaves on a cream background",
+    "imageCaption": "Beautiful products are not the problem — being found is. The funnel puts your certification story in front of the customers already searching for it.",
+    "extraImages": [
+      { "after": "problem", "src": "/images/services/halal-beauty-sales-funnel-customer-search.jpg", "alt": "Muslim woman wearing a hijab smiling while shopping for skincare products on her smartphone at home, with skincare bottles on the table beside her", "caption": "The search happens at home, on a phone, usually in the evening. If your brand is not in those results, the order goes to a brand that is." },
+      { "after": "deliverables", "src": "/images/services/halal-beauty-sales-funnel-gift-sets.jpg", "alt": "Halal beauty gift sets with ribbons, serum bottles and cream jars arranged in open gift boxes on a boutique shelf", "caption": "Gifting is beauty's biggest season — twice over, with the holidays and Ramadan. Bundle and gift-set pages turn your existing products into the present your customers were looking for." }
+    ]
   }
 ];
 

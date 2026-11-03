@@ -32,6 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/halal-wedding-booking`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/instant-lead-response`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/appointment-reminders-reviews`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-beauty-sales-funnel`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/why-your-cold-emails-go-to-spam`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/email-deliverability-checklist-before-your-next-campaign`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-to-find-grants-that-fit-your-nonprofit`, changeFrequency: "weekly", priority: 0.8 },
@@ -40,6 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/blog/building-urdu-voice-and-text-data-for-ai`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-to-find-a-research-gap-for-your-paper`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/from-idea-to-published-paper`, changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-wedding-planners-get-more-bookings`, changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-wedding-planners-get-more-bookings`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-halal-beauty-brands-get-more-sales`, changeFrequency: "weekly", priority: 0.8 }
   ];
 }
