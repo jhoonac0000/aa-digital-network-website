@@ -1276,6 +1276,270 @@ export const ARTICLES: Article[] = [
         "q": "How much does a halal beauty sales funnel cost?"
       }
     ]
+  },
+  {
+    "excerpt": "Patients meet your clinic on video before they ever meet you in person. Here is the practical system — twelve Shorts a month, in your clinic's own voice — that turns searches into booked appointments.",
+    "extraImages": [
+      {
+        "after": "What patients actually watch",
+        "alt": "Dentist speaking warmly to the camera in a bright modern dental clinic",
+        "caption": "Trust arrives before the appointment: patients book the clinician whose face and manner they already know from video.",
+        "src": "/images/blog/how-small-clinics-win-patients-with-shorts-2.jpg"
+      },
+      {
+        "after": "The monthly system, step by step",
+        "alt": "Clinic manager's desk with a laptop showing a video publishing calendar, a smartphone and a notebook of short-video ideas",
+        "caption": "Twelve Shorts a month is a calendar, not a scramble: topics planned, clips filmed in short sessions, every video approved before posting.",
+        "src": "/images/blog/how-small-clinics-win-patients-with-shorts-3.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Twelve is the rhythm that works: enough to stay present every week without exhausting your team. Fewer than that and the feed goes quiet between posts; more than that and filming starts eating into clinic hours. Twelve — a mix of patient questions, clinician introductions, tours and seasonal reminders — keeps your clinic visible and familiar without becoming a second job.",
+        "q": "How many Shorts does a small clinic actually need each month?"
+      },
+      {
+        "a": "No — they have to be good clinicians who can explain one thing simply, and the format does the rest. Short takes, plain scripts written from their own approved answers, and editing that trims pauses and keeps the pace brisk make most clinicians look natural within a couple of sessions. Nobody expects a performance; patients expect honesty, and a slightly imperfect real clip beats a polished stranger every time.",
+        "q": "Do our clinicians have to be good on camera?"
+      },
+      {
+        "a": "Only with their written consent, arranged in advance, and most clinics never need it. Clinician explainers, facility tours and FAQ answers carry the whole system, and no patient ever appears by default or as a condition of care. If a patient story ever is used, it is with explicit written permission and a final review before posting.",
+        "q": "Will you film our patients?"
+      },
+      {
+        "a": "Some effects are immediate: a completed, active presence makes the next patient who finds you far more likely to call. Deeper effects build over months, as a library of answers accumulates and patients start arriving already trusting you. Expect the feed to feel alive within the first month, and patient familiarity to compound over a season — not overnight, and not by magic.",
+        "q": "How long before Shorts start bringing patients?"
+      },
+      {
+        "a": "At AA Digital Network, the retainer is $300 to $500 a month depending on clinic type and volume, covering twelve ready Shorts a month — planned, scripted, edited, captioned and approved by you before posting. Tell us your clinic type on WhatsApp and we will confirm your exact figure inside that range before you commit to anything.",
+        "q": "How much does a clinic Shorts retainer cost?"
+      }
+    ],
+    "image": "/images/blog/how-small-clinics-win-patients-with-shorts.jpg",
+    "imageAlt": "Physiotherapist demonstrating a shoulder stretch for a short video filmed on a phone on a tripod in a bright therapy clinic",
+    "imageCaption": "The Short that wins a patient is rarely fancy: a real clinician, a real answer, filmed in a real clinic room.",
+    "related": [
+      {
+        "slug": "how-muslim-wedding-planners-get-more-bookings",
+        "title": "How Muslim Wedding Planners Get More Bookings: The Funnel, Step by Step"
+      },
+      {
+        "slug": "why-your-cold-emails-go-to-spam",
+        "title": "Why Your Cold Emails Go to Spam"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The short answer first",
+        "paragraphs": [
+          "If you run a small clinic and want more patients, the honest answer is a system, not a viral video. Twelve short videos a month — patient questions answered plainly, your rooms shown honestly, your clinicians speaking in their own voices — posted steadily across Instagram, Facebook, TikTok and YouTube Shorts, will do more for your bookings than any single polished advert. Patients do not need a production; they need to recognise you before they call.",
+          "That is the whole idea behind the service we run for clinics: a [done-for-you clinic Shorts retainer](/services/clinic-shorts-retainer) that plans, scripts and edits twelve Shorts a month for dental, therapy and family clinics, with every video approved by the clinic before it posts. Everything in this guide explains how that system works, what the twelve videos actually are, and what it can and cannot promise — so you can judge whether it fits your clinic before spending anything."
+        ]
+      },
+      {
+        "heading": "The clinic patients never see",
+        "paragraphs": [
+          "Picture a family clinic in Houston — excellent clinicians, loyal patients, a waiting room that is usually full by word of mouth. Then a new family moves into the neighbourhood, their child needs a check-up, and the parents do what everyone does now: they search, they scroll, and they watch. The clinic down the road has a friendly dentist explaining, in forty seconds, what a first visit looks like. The excellent clinic has a website from 2019 and a Facebook page last updated at Christmas. Guess who gets the call.",
+          "We see this pattern across every small clinic we work with, and it is rarely about quality of care. The invisible clinic usually assumes the problem is its prices, its location, or its website. It almost never is. The problem is upstream: patients meet clinics on video first now, and a clinic with no video is asking a nervous stranger to trust a blank page. A short video closes that gap in a way a paragraph never will, because it shows the room, the face, and the manner — the three things a new patient is actually anxious about.",
+          "There is a second, quieter cost. Existing patients forget you between visits. A steady run of short, useful videos — a seasonal reminder, a simple explainer, a tour of a refurbished room — keeps your clinic present in their feed without a single phone call or leaflet. When they need you again, your name is already warm, not something to search for from scratch."
+        ]
+      },
+      {
+        "bullets": [
+          "First-visit walkthroughs: what happens, in order, so nobody arrives anxious about the unknown",
+          "One-question explainers: the single question patients ask most, answered in under a minute",
+          "Cost and process explained plainly, so the phone call starts with trust instead of an awkward price question",
+          "Clinician introductions: who you will see, how they speak, and what they care about",
+          "Clinic tours: the rooms, the equipment, the waiting area — familiarity before the first visit"
+        ],
+        "heading": "What patients actually watch",
+        "paragraphs": [
+          "Patients do not watch clinic videos for entertainment. They watch to answer one private question: can I trust these people with my health, my child, or my pain? That question has a short list of answers, and every one of them makes a good Short. What does a first visit actually look like, step by step? What does this treatment involve, and does it hurt? How much does it cost, roughly, and what should I bring? Who will I actually see, and are they kind?",
+          "Notice what is missing from that list: equipment specifications, awards, and medical lectures. Patients skip those. What they stop for is a clinician looking at the camera and answering, in plain words, the thing they were too embarrassed to ask on the phone. A dentist explaining why a chipped tooth should not wait. A physiotherapist showing, in thirty seconds, the stretch she gives every desk worker with a stiff neck. A family doctor explaining what to bring to a child's first appointment. Each one is a small act of reassurance, and reassurance is what books appointments.",
+          "This is also why the videos must be yours, not stock footage. Patients can tell in seconds that the smiling clinic on screen is not your clinic, and the doubt spreads to everything else you claim. Your rooms, your team, your voice — that is the content. A generic library clip of a model in scrubs proves nothing about you, while a slightly imperfect clip of your own clinician, in your own treatment room, proves everything that matters."
+        ]
+      },
+      {
+        "heading": "Twelve Shorts a month: what they actually are",
+        "paragraphs": [
+          "Twelve sounds like a lot until you see the mix, and the mix is the point. A month built for a small clinic usually holds four patient-question explainers, two clinician introductions or team moments, two clinic-life clips — a tour, a new room, a seasonal reminder — two treatment explainers, and two community or FAQ clips answering whatever patients asked that month. No single video carries the month, and no week goes silent, which is exactly how a feed starts to feel like a living clinic rather than a brochure.",
+          "Each Short is short on purpose: thirty to sixty seconds, captioned so it works with the sound off, formatted for every platform your patients actually use. Captions matter more than most clinics realise, because a large share of feed video is watched muted — in a waiting room, on a bus, late at night. A video that only works with sound is a video half your audience never hears, so every Short we deliver is built to be understood silently and enjoyed with sound.",
+          "Crucially, nothing is improvised on the day. Topics come from the questions your front desk already hears, scripts are written from answers you approve, and filming is planned in short sessions so your clinicians are not interrupted all month. A clinic team can usually film a month of clips in a couple of focused sessions, and the rest — editing, captions, music, posting formats — is our work, not yours."
+        ]
+      },
+      {
+        "bullets": [
+          "Step 1 — Topic plan: built from the questions your patients already ask",
+          "Step 2 — Approved scripts: your wording, plain language, no claims beyond what you sign off",
+          "Step 3 — Simple filming: phone clips, guided, in short sessions that do not disrupt clinic hours",
+          "Step 4 — Edit and approve: captioned Shorts, approved by you before anything posts",
+          "Step 5 — Post and report: steady schedule, plus a monthly report on what patients responded to"
+        ],
+        "heading": "The monthly system, step by step",
+        "paragraphs": [
+          "A retainer only works if it is a system, so here is ours, exactly as we run it for clinics. Step one is the topic plan: we start from your most-asked patient questions and build the month's twelve topics around them, so the content answers real anxieties instead of inventing clever ones. Step two is scripting in your approved wording — plain language, no medical claims beyond what you have signed off, no jargon that would confuse the very patients you want to reassure.",
+          "Step three is filming guidance: simple, practical direction your team can follow with a phone — light from a window, one steady take, no crew, no studio. Step four is editing and approval: we cut, caption and format each Short, and you approve every single one before it posts. Nothing goes live on your clinic's name without your sign-off, and that rule is absolute. Step five is steady posting across your platforms, followed by a short monthly report showing what was posted and what patients responded to, so the next month's topics get sharper.",
+          "The approval step deserves emphasis, because it is where most clinic video arrangements quietly fail. Clinicians rightly worry about accuracy and about their professional reputation, and a service that posts without approval will lose their trust in week one. Our rule is simple: your name, your sign-off, every time. That slows nothing in practice — approvals are a quick review, not a committee — and it is the reason clinics stay with the system month after month."
+        ]
+      },
+      {
+        "heading": "Filming without a film crew",
+        "paragraphs": [
+          "The most common objection we hear from clinics is that they have no time and no equipment for video, and it is a fair objection — clinics are busy places, and a film crew in a treatment room is the last thing anyone wants. The good news is that the format does not need a crew. A modern phone, window light, and a clinician who can explain one thing clearly will outperform a studio production every time, because patients trust real rooms more than polished sets.",
+          "What clinics do need is guidance, and that is part of the service: how to frame a shot, how long to talk, how to do one clean take instead of ten nervous ones. Most clinicians are surprised at how quickly they get comfortable — the second session is always easier than the first, and by the third, the camera is just part of the week. The editing then does the rest: trimming pauses, adding captions, keeping the pace brisk, and cutting anything that sounds like a lecture.",
+          "Two boundaries keep this safe and professional. First, patients appear only with their written consent, arranged in advance — never by default, never as a condition of care, and never mid-treatment. Most clinics never need a patient on camera at all: clinician explainers, tours and team clips carry the whole system. Second, clinical content stays inside the clinic's own approved wording, so nothing on your feed ever promises an outcome or gives advice your clinicians would not give in person."
+        ]
+      },
+      {
+        "bullets": [
+          "Months of silence, then a burst — patients read inconsistency as unreliability",
+          "Stock footage instead of your real rooms and real team",
+          "Long lectures instead of forty-second answers patients actually finish",
+          "No practical details: costs, what to bring, or how to book",
+          "Announcements only — a feed that informs but never answers a patient's real question"
+        ],
+        "heading": "Five mistakes that quietly cost patients",
+        "paragraphs": [
+          "In our work with clinics, the same leaks appear again and again. The first is posting nothing for months, then a burst of five videos in a week — patients read silence as closure and bursts as desperation, while a steady rhythm reads as a clinic that is alive. The second is stock footage: a beautiful clinic that is not your clinic, which teaches patients to doubt everything else on your page.",
+          "The third is the lecture video — three minutes of medical explanation that nobody finishes, when the same point in forty seconds would have been watched, saved and shared. The fourth is hiding practical information: no mention of what a visit costs, what to bring, or how to book, so every interested patient has to make an awkward phone call just to learn the basics. The fifth is treating social media as a noticeboard for announcements instead of a place where patients' questions get answered — announcements inform, but answers reassure, and reassurance is what books.",
+          "None of these mistakes needs a big budget to fix. They need a plan, a calendar, and someone whose job it is to keep the system running while the clinic gets on with treating patients. That is, in the end, what a retainer buys: not creativity on demand, but consistency without distraction. Your clinicians treat patients; the video system keeps working in the background, week after week, in your clinic's own voice."
+        ]
+      },
+      {
+        "heading": "What it costs, and what nobody can promise",
+        "paragraphs": [
+          "Our [clinic Shorts retainer](/services/clinic-shorts-retainer) is $300 to $500 a month depending on clinic type and volume, covering twelve ready Shorts a month — planned, scripted, edited, captioned and approved by you before posting. For scale, that is less than a single day's revenue for most small clinics, and it buys the one asset small clinics usually lack entirely: a visible, trustworthy presence where patients actually look. Tell us your clinic type on WhatsApp and we will confirm your exact figure inside that range before you commit.",
+          "Two boundaries, stated plainly. We do not give medical advice and we do not film patients without written consent — scripts use your approved wording, and you sign off every video. And nobody can guarantee patient numbers: Shorts build the trust that turns a search into a booking, but bookings also depend on your availability, your prices and your reputation. Any agency that guarantees patient counts is selling certainty that does not exist. What we can promise is the system itself — twelve honest Shorts a month, in your voice, approved by you, posted steadily — and a monthly report that shows, in plain numbers, what your patients responded to."
+        ]
+      }
+    ],
+    "service": "clinic-shorts-retainer",
+    "slug": "how-small-clinics-win-patients-with-shorts",
+    "title": "How Small Clinics Win Patients With Short-Form Video"
+  },
+  {
+    "excerpt": "Your customers are searching for halal food every day — and eating at the businesses Google shows them first. Here is the practical system — profile, local pages, reviews — that puts your restaurant, butchery or grocery store at the top of that search.",
+    "extraImages": [
+      {
+        "after": "What customers actually search for",
+        "alt": "Young Muslim couple at home searching on a smartphone for a halal restaurant nearby",
+        "caption": "The shortlist is built at home, on a phone, in a few hungry minutes. Your funnel has to be present in that search — and worth tapping.",
+        "src": "/images/blog/how-halal-food-businesses-get-found-first-2.jpg"
+      },
+      {
+        "after": "The local SEO system, step by step",
+        "alt": "Busy halal restaurant dining room at dinner time, families enjoying meals and a waiter carrying dishes",
+        "caption": "A system you can see working: a dining room full of customers who found you in search, trusted your reviews, and came back with family.",
+        "src": "/images/blog/how-halal-food-businesses-get-found-first-3.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Beyond a name and address, customers check whether you are genuinely halal and how you say so, what your menu or products actually include, what recent customers say about you, and whether your hours are right. Add clear photos of your food and your shop, your service areas, and a way to call or get directions in one tap — the profile that answers all five gets the visit.",
+        "q": "What do customers look for on a halal food business profile?"
+      },
+      {
+        "a": "Some parts are fast: a completed, corrected profile can surface better within weeks, and answered reviews change how customers feel immediately. Local rankings and review volume build over months, which is why the best time to start is before your busy season, not during it. Expect measurable profile activity — views, calls, directions — within the first month, and compounding visibility over a season.",
+        "q": "How long does local SEO take to start working?"
+      },
+      {
+        "a": "Yes — as the proof layer, not the system. Instagram is where customers admire your food and check that you are active and real. But admiration is not a visit: the customer still needs a profile that shows your hours and halal details, reviews that reassure them, and a tap-to-call or directions button that works. Search captures the hungry customer; social media keeps them coming back.",
+        "q": "Do I still need Instagram if I rank on Google?"
+      },
+      {
+        "a": "No. We build a system that asks real customers for honest reviews and answers every review professionally, good or bad. Review count and tone are exactly what customers read before choosing, so steady, genuine reviews matter more than any shortcut — and shortcuts risk your profile itself.",
+        "q": "Do you write fake reviews?"
+      },
+      {
+        "a": "At AA Digital Network, the retainer is $249 to $399 a month depending on the number of locations and the scope of review management, starting with a Google Business Profile audit so you see where you stand before committing. One extra family dinner a week, or a few extra grocery baskets, covers that for most halal food businesses.",
+        "q": "How much does halal local SEO cost?"
+      }
+    ],
+    "image": "/images/blog/how-halal-food-businesses-get-found-first.jpg",
+    "imageAlt": "Halal grocery store owner arranging fresh produce at a colourful market stall with customers browsing",
+    "imageCaption": "The shop floor is where most halal food marketing never happens — owners are busy serving. A local SEO system moves the selling into search, where customers already are.",
+    "related": [
+      {
+        "slug": "how-small-clinics-win-patients-with-shorts",
+        "title": "How Small Clinics Win Patients With Short-Form Video"
+      },
+      {
+        "slug": "how-muslim-wedding-planners-get-more-bookings",
+        "title": "How Muslim Wedding Planners Get More Bookings: The Funnel, Step by Step"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The short answer first",
+        "paragraphs": [
+          "If you run a halal restaurant, butchery or grocery store and want more customers, the honest answer is a system, not a single trick. A complete Google Business Profile, local pages that match the searches customers actually type, and a review system that answers every customer promptly will do more for your footfall than any one-off advert. Customers searching for halal food are not browsing for inspiration — they are hungry, they are nearby, and they are choosing now.",
+          "That is the whole idea behind the service we run for halal food businesses: a [halal local SEO retainer](/services/halal-local-seo) that manages your profile, your local pages and your reviews for $249 to $399 a month, starting with an audit of where you stand. Everything in this guide explains how that system works, what customers actually search for, and what it can and cannot promise — so you can judge whether it fits your business before spending anything."
+        ]
+      },
+      {
+        "heading": "The restaurant customers never find",
+        "paragraphs": [
+          "Picture a halal restaurant in Dearborn — excellent food, loyal regulars, a dining room that fills on Fridays through word of mouth alone. Then a new family moves into the area, it is Saturday evening, and they do what everyone does now: they search “halal food near me” on a phone. The restaurant that appears has a complete profile, recent photos, a hundred answered reviews, and a menu link. The excellent restaurant has an unclaimed profile, three-year-old photos, and no reviews answered since 2023. Guess where the family eats.",
+          "We see this pattern across every halal food business we audit, and it is rarely about food quality. The invisible business usually assumes the problem is its prices or its location. It almost never is. The problem is upstream: Google shows the business that looks alive, and customers trust what Google shows, because they have no other way to compare two restaurants they have never visited. A complete profile, recent reviews and honest photos are the new word of mouth — and unlike the old kind, they work while you are busy in the kitchen.",
+          "There is a second, quieter cost. Every unanswered review is a public conversation you are losing. A customer who complained and heard nothing tells the next hundred readers that you do not care; a customer whose praise got a warm reply tells the next hundred that you do. Reviews are not a vanity metric for halal food businesses — for a community that chooses where to eat partly on trust, they are the trust itself."
+        ]
+      },
+      {
+        "bullets": [
+          "“Halal food near me” — the highest-intent search in the whole system, typed when the customer is already hungry and nearby",
+          "“Halal restaurant” plus a city or neighbourhood — the search of someone new to the area, or planning a family meal",
+          "“Halal butcher near me” and “halal grocery store” — weekly shopping searches, repeated by the same customers for years",
+          "“Zabiha halal” plus a dish or product — the search of a customer who cares about the details, and who will pay for certainty"
+        ],
+        "heading": "What customers actually search for",
+        "paragraphs": [
+          "Start with the market, because it explains why this is worth fixing. The US halal food market is estimated at around $290 billion and still growing strongly, served by thousands of independent restaurants, butcheries and grocery stores across the US, UK and Canada. That is a large, fragmented market with no dominant chain — which means the businesses winning it locally are the ones customers can find, not necessarily the ones with the best food.",
+          "Now the searches. Customers type some version of “halal food near me” when they are hungry and out; “halal restaurant” with their city when they are planning; “halal butcher” or “halal grocery store” when they are shopping for the week. Parents search too, often for the whole family at once. These are high-intent searches in the truest sense: the person typing is not researching a hobby — they are deciding where to spend money in the next hour.",
+          "Two consequences follow. First, if your Google Business Profile is missing, thin, or filed under a generic category, you are absent from the exact moment of highest intent. Second, the customer who does find you will compare your profile against competitors' profiles — and judge you on completeness, recency and reviews, not on the food they have not tasted yet. A profile with last month's photos and last week's answered reviews beats a better restaurant with a silent profile, every time."
+        ]
+      },
+      {
+        "heading": "The trust details generic SEO misses",
+        "paragraphs": [
+          "Here is where a halal food business should win easily, and where most profiles say almost nothing. A Muslim customer choosing between you and a generic restaurant is checking a specific list — consciously or not. Is the meat zabiha halal, and from which supplier or certifier, stated plainly? Are the dishes cooked separately, with no cross-contamination questions left hanging? Is the shop alcohol-free, or are drinks handled separately? Are there prayer-friendly timings, family seating, and staff who understand the questions without being asked twice?",
+          "So say them plainly on your profile and your pages. Your halal certification as you state it, your suppliers where you are comfortable naming them, your menu with halal dishes marked clearly rather than buried in a PDF, your family seating and your hours — including Friday prayer timings where they affect opening. Notice what this list is: your daily working knowledge, the things you handle at every service without thinking. Generic SEO agencies cannot write this list credibly, because they do not know which details matter, and generic restaurants cannot deliver half of it.",
+          "On your profile this list does double duty. It is search content Google can match to real queries — “zabiha halal restaurant”, “halal butcher” with a city, “halal grocery near me” — and it is the trust argument that makes a family choose you over a bigger, glossier competitor. A halal customer who finds their exact questions answered does not keep searching. They call, they get directions, and they come."
+        ]
+      },
+      {
+        "bullets": [
+          "Step 1 — Audit: what customers in your city actually see when they search",
+          "Step 2 — Profile: completed, corrected and categorised for halal food searches",
+          "Step 3 — Pages: local pages on your own site for dishes, products and service areas",
+          "Step 4 — Reviews: a system that asks real customers and answers every review",
+          "Step 5 — Report: plain monthly numbers — views, calls, directions, review trends"
+        ],
+        "heading": "The local SEO system, step by step",
+        "paragraphs": [
+          "A retainer only works if it is a system, so here is ours, exactly as we run it for halal food businesses. Step one is the audit: we search the way your customers search and show you what they find — your profile, your reviews, and the competitors Google is showing instead of you. You see the gap before you pay for the fix, which is how it should be.",
+          "Step two is the profile itself: completed and corrected, with the right categories, accurate hours, your halal details as you state them, real photos of your food and your shop, and posts that keep it looking alive. Step three is local pages on your own website — not a generic homepage, but pages for your main dishes, products and service areas, so Google has something real to rank when customers search with a city attached. This is the same foundation any good [website development](/services/website-development) project starts from: fast pages, clear services, your city named honestly.",
+          "Step four is the review system: asking real customers for honest reviews at the right moment, and answering every review promptly and professionally — thanks for praise, a calm and honest reply to complaints, and no defensiveness in public. Step five is reporting in plain numbers: profile views, calls, direction requests and review trends, every month, so you can see whether the phone and the door are busier. And because enquiries that arrive need answering fast, the same discipline as an [instant lead response](/services/instant-lead-response) system applies: a customer who calls and gets no answer is a customer who eats elsewhere."
+        ]
+      },
+      {
+        "heading": "Five mistakes that quietly cost customers",
+        "paragraphs": [
+          "In our audit work the same leaks appear again and again. The first is an unclaimed or half-finished profile — wrong hours, a generic category, no menu link — which tells Google, and customers, that the business may not even be open. The second is silence on reviews: good reviews unthanked, bad reviews unanswered, for months, until the profile reads as a business that does not listen.",
+          "The third is stock photography instead of your real food and your real shop — customers can tell, and the doubt spreads to your halal claims too, which is the one claim you cannot afford doubt about. The fourth is hiding your halal details entirely, forcing every customer to call and ask the same questions, when a plain statement on the profile would have answered them and won the visit. The fifth is treating Instagram as the whole system: it is a wonderful proof layer, full of beautiful food, and a terrible discovery system, because the hungry customer searching Google never sees it.",
+          "None of these mistakes needs a big budget to fix. They need a profile that is complete, reviews that are answered, pages that match real searches, and someone whose job it is to keep all three alive while you run the business. That is, in the end, what a retainer buys: not cleverness on demand, but consistency without distraction. You cook and serve; the system keeps your business visible where customers actually look."
+        ]
+      },
+      {
+        "heading": "What it costs, and what nobody can promise",
+        "paragraphs": [
+          "Our [halal local SEO retainer](/services/halal-local-seo) is $249 to $399 a month depending on the number of locations and the scope of review management, starting with a Google Business Profile audit so you see where you stand before committing. For scale: a few extra family dinners a week, or a few extra grocery baskets, covers that for most halal food businesses — and unlike an advert, the profile, pages and reviews you build keep working after the month ends. Tell us your city on WhatsApp and we will check your local competition as part of the audit.",
+          "Two boundaries, stated plainly. We never write fake reviews — real customers, honest reviews, professional answers, or nothing. And nobody can guarantee a number one ranking: visibility depends on competition, distance, reviews and many factors outside any agency's control, and any agency that guarantees the top spot is selling certainty that does not exist. What we can promise is the work itself — a complete profile, real local pages, answered reviews and steady activity — reported in plain monthly numbers, so you can judge us on your own phone ringing."
+        ]
+      }
+    ],
+    "service": "halal-local-seo",
+    "slug": "how-halal-food-businesses-get-found-first",
+    "title": "How Halal Food Businesses Get Found First on Google"
   }
 ];
 

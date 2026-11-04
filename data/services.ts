@@ -1167,6 +1167,148 @@ export const SERVICES: Service[] = [
       { "after": "problem", "src": "/images/services/halal-beauty-sales-funnel-customer-search.jpg", "alt": "Muslim woman wearing a hijab smiling while shopping for skincare products on her smartphone at home, with skincare bottles on the table beside her", "caption": "The search happens at home, on a phone, usually in the evening. If your brand is not in those results, the order goes to a brand that is." },
       { "after": "deliverables", "src": "/images/services/halal-beauty-sales-funnel-gift-sets.jpg", "alt": "Halal beauty gift sets with ribbons, serum bottles and cream jars arranged in open gift boxes on a boutique shelf", "caption": "Gifting is beauty's biggest season — twice over, with the holidays and Ramadan. Bundle and gift-set pages turn your existing products into the present your customers were looking for." }
     ]
+  },
+  {
+    "slug": "clinic-shorts-retainer",
+    "name": "Done-for-You Clinic Shorts",
+    "short": "Twelve ready Shorts and Reels a month for small dental, therapy and family clinics — patient education, clinic tours and FAQ answers, filmed and edited for you.",
+    "problem": [
+      "Small clinics barely post video at all, and the big video agencies do not pitch small clinics in the first place. So the clinic down the road with a phone and a weekly habit looks more modern, more approachable and more trustworthy than a better clinic that posts nothing — and patients choose on what they can see.",
+      "Patients now meet a clinic on video before they ever meet it in person. They want to see the room, hear the clinician explain something simply, and feel reassured before they book. A clinic with no Shorts asks a nervous new patient to trust a blank page; a clinic with a steady run of short, honest videos has already answered half their questions."
+    ],
+    "audiences": [
+      "Dental clinics and orthodontic practices",
+      "Physiotherapy, wellness and therapy clinics",
+      "Family and general practice clinics",
+      "Small specialist clinics with a local patient base"
+    ],
+    "deliverables": [
+      "Twelve ready Shorts and Reels every month, edited and captioned for Instagram, Facebook, TikTok and YouTube Shorts",
+      "A monthly topic plan built from the questions your patients actually ask — treatments, what to expect, costs explained plainly, and clinic life",
+      "Scripts written in plain language from answers you approve — no medical claims beyond your own wording",
+      "Clinic tour clips and clinician introductions that show your rooms and your team, not stock footage",
+      "Simple filming guidance so your team can capture usable clips on a phone in minutes, without a film crew",
+      "You approve every Short before it posts — nothing goes live without your sign-off",
+      "Patients are filmed only with their written consent — otherwise videos show your facility and staff only",
+      "A short monthly report: what was posted, and what patients responded to"
+    ],
+    "proof": "You approve every video before it posts, so the first month itself is the proof: twelve Shorts in your clinic's own voice, about your own treatments, with your own team on camera. There is no long setup before you see anything — the work is visible from week one, and you can judge it on your own patients' reactions.",
+    "priceLabel": "$300–$500 per month",
+    "priceNote": "The monthly retainer is $300–$500 depending on clinic type and volume, and it covers twelve ready Shorts a month. Tell us your clinic type on WhatsApp and we will confirm your exact figure inside that range before you commit to anything.",
+    "process": [
+      {
+        "title": "Tell us about your clinic",
+        "text": "Message us on WhatsApp: your clinic type, your services, and the questions patients ask you most. We build your first month's topic plan from those questions."
+      },
+      {
+        "title": "We script, you approve, we edit",
+        "text": "We write short scripts in your approved wording, guide your team on filming simple phone clips, and edit everything with captions and music. You approve each Short before posting."
+      },
+      {
+        "title": "Twelve Shorts a month, every month",
+        "text": "Shorts go out on a steady schedule across your platforms, and each month's report shows what patients responded to — so the next month's topics get sharper."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do you film our patients?",
+        "a": "Only with their written consent, arranged in advance. Most clinics start with clinician explainers, facility tours and FAQ answers — your team and your rooms carry the content perfectly well, and no patient ever appears by default."
+      },
+      {
+        "q": "Do you give medical advice in the videos?",
+        "a": "No. Scripts are written from answers you approve, in your own wording, and you sign off every Short before it posts. Clinical judgement stays entirely with your clinicians; we handle the scripting, filming guidance and editing."
+      },
+      {
+        "q": "Do we need cameras or a film crew?",
+        "a": "No. A modern phone is enough. We give your team simple filming guidance — light, framing, one take at a time — and we do the editing, captions and formatting. Clinics usually film a month of clips in a couple of short sessions."
+      },
+      {
+        "q": "Will Shorts bring us new patients?",
+        "a": "Shorts build the trust that turns a search into a booking: patients arrive already knowing your face, your rooms and your manner. Nobody honest can guarantee patient numbers — bookings also depend on your availability, prices and reputation — but a clinic that patients can see and hear will always beat a clinic they cannot."
+      }
+    ],
+    "related": [
+      "video-editing",
+      "ad-videos"
+    ],
+    "isNew": true,
+    "image": "/images/services/clinic-shorts-retainer-hero.jpg",
+    "imageAlt": "Clinician in a small modern clinic recording a short educational video on a smartphone mounted on a tripod",
+    "imageCaption": "The format that works for small clinics: one clinician, one honest answer, one minute — filmed in your own rooms, not a studio.",
+    "extraImages": [
+      { "after": "problem", "src": "/images/services/clinic-shorts-patient-search.jpg", "alt": "Patient in a clinic waiting room watching a short health-education video on her smartphone", "caption": "This is where the decision starts: a patient watching a clinic's video before ever calling. If your clinic has no video, that moment belongs to someone else." },
+      { "after": "deliverables", "src": "/images/services/clinic-shorts-monthly-calendar.jpg", "alt": "Small clinic team reviewing a monthly short-video content calendar on a laptop with a phone on a tripod beside them", "caption": "Twelve Shorts a month is a system, not a scramble: topics planned from real patient questions, filmed in short sessions, approved by you before posting." }
+    ]
+  },
+  {
+    "slug": "halal-local-seo",
+    "name": "Halal Local SEO",
+    "short": "Done-for-you Google Business Profile management, local SEO and review replies for halal restaurants, butcheries and grocery stores — so “halal food near me” searches find you first.",
+    "problem": [
+      "Halal food businesses are caught between two kinds of agency that both miss them. Secular SEO agencies chase dentists, lawyers and contractors. Islamic marketing agencies mostly serve mosques, charities and Umrah brands. Commercial halal food businesses — restaurants, butcheries, grocery stores — have no dedicated local SEO service, even though their customers search with the highest local intent of all: “halal food near me”, right now, in this city.",
+      "Most halal food owners are busy running the business, so their online presence stays thin: an unclaimed or half-finished Google profile, old photos, unanswered reviews, and no pages matching the searches customers actually type. When a hungry family searches, Google shows the business that looks alive — and the better restaurant down the road loses the table to a competitor who simply looks after their profile."
+    ],
+    "audiences": [
+      "Halal restaurants and takeaways in the US, UK and Canada",
+      "Halal butcheries and meat shops",
+      "Halal grocery stores and supermarkets",
+      "Halal cafes, bakeries and dessert shops"
+    ],
+    "deliverables": [
+      "Google Business Profile management: complete, accurate and kept up to date — hours, services, halal certification details as you state them, photos and posts",
+      "Local SEO built around the searches your customers actually type: “halal restaurant near me”, “halal butcher” and your city, “halal grocery store”",
+      "A review-response system: every review answered promptly and professionally, good or bad, in a tone that fits your business",
+      "Local pages on your own website for your main dishes, products and service areas, so Google has something real to rank",
+      "Monthly reporting in plain numbers: profile views, calls, direction requests and review trends",
+      "A Google Business Profile audit first, so you see exactly where you stand before paying for management"
+    ],
+    "proof": "We start with the audit: what customers in your city actually see when they search for halal food like yours — which businesses Google shows, and why yours is or is not among them. The US halal food market is estimated at around $290 billion with strong growth, and thousands of independent halal outlets compete in it — the businesses winning that search are the ones whose profiles are complete, reviewed and alive. You judge us on that audit before committing to a retainer.",
+    "priceLabel": "$249–$399 per month",
+    "priceNote": "The monthly retainer is $249–$399 depending on the number of locations and the scope of review management. Start with the Google Business Profile audit, see where you stand, and decide with the facts in front of you.",
+    "process": [
+      {
+        "title": "Profile audit",
+        "text": "We search the way your customers search and report what they find — your profile, your reviews, and the competitors Google is showing instead of you."
+      },
+      {
+        "title": "We optimise and build",
+        "text": "Your profile is completed and corrected, local pages are built around real searches, and the review-response system starts. Photos and posts keep the profile looking alive."
+      },
+      {
+        "title": "Monthly management and reporting",
+        "text": "Reviews are answered, posts go out, and each month you get plain numbers — views, calls, directions and review trends — so you can see whether the phone is ringing more."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do you guarantee the number one spot on Google?",
+        "a": "No, and you should distrust any agency that does. Rankings depend on competition, distance, reviews and many factors outside any agency's control. What we promise is the work that earns visibility: a complete profile, real local pages, answered reviews and steady activity — reported in plain numbers every month."
+      },
+      {
+        "q": "Do you write fake reviews for us?",
+        "a": "Never. Fake reviews risk your profile and your reputation, and customers can tell. We build a system that asks real customers for honest reviews and answers every review professionally — the slow, real way that actually holds."
+      },
+      {
+        "q": "Do you cover my city and country?",
+        "a": "We serve halal food businesses in the US, UK and Canada, in any city where customers search for halal food locally. Tell us your city on WhatsApp and we will check your local competition as part of the audit."
+      },
+      {
+        "q": "What if I have more than one branch?",
+        "a": "Each location gets its own profile management, since customers search branch by branch. Tell us how many locations you have and we will quote the retainer for all of them together."
+      }
+    ],
+    "related": [
+      "white-label-seo",
+      "website-development"
+    ],
+    "isNew": true,
+    "image": "/images/services/halal-local-seo-hero.jpg",
+    "imageAlt": "Customer outside a halal restaurant holding a smartphone showing a local map search for halal food nearby",
+    "imageCaption": "The moment that decides dinner: a customer searching “halal food near me” outside your door. Your profile is your shopfront in that moment.",
+    "extraImages": [
+      { "after": "problem", "src": "/images/services/halal-local-seo-reviews.jpg", "alt": "Halal butcher shop owner reviewing customer feedback on a laptop at the counter", "caption": "Reviews are the new word of mouth — and they are public. Answering them well is often the difference between the shop customers trust and the one they scroll past." },
+      { "after": "deliverables", "src": "/images/services/halal-local-seo-family-search.jpg", "alt": "Muslim family in a car checking a phone map to find a nearby halal restaurant", "caption": "Families do not browse for halal food — they search when they are already hungry and already out. Being found in that moment is the whole service." }
+    ]
   }
 ];
 
