@@ -45,7 +45,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/blog/how-halal-beauty-brands-get-more-sales`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/clinic-shorts-retainer`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/halal-local-seo`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/diaspora-language-intake`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/islamic-schools-admissions`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-small-clinics-win-patients-with-shorts`, changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-halal-food-businesses-get-found-first`, changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-halal-food-businesses-get-found-first`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-immigration-lawyers-reach-clients-in-their-own-language`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-islamic-schools-fill-every-seat`, changeFrequency: "weekly", priority: 0.8 }
   ];
 }

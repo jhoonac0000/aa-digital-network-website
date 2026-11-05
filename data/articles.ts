@@ -1540,7 +1540,291 @@ export const ARTICLES: Article[] = [
     "service": "halal-local-seo",
     "slug": "how-halal-food-businesses-get-found-first",
     "title": "How Halal Food Businesses Get Found First on Google"
-  }
+  },
+  {
+  "excerpt": "A family searching for an immigration lawyer in Arabic, Urdu or Bengali will call the firm that speaks their language. Here is the funnel that makes that firm yours.",
+  "extraImages": [
+    {
+      "after": "Why English-only marketing misses the diaspora",
+      "alt": "Smartphone in a person's hands showing Arabic search results for an immigration lawyer, with a laptop and tea in the background",
+      "caption": "This is the search that matters: a client typing in Arabic, Urdu or Bengali, looking for a lawyer who understands her. English-only firms are invisible in this moment.",
+      "src": "/images/blog/how-immigration-lawyers-reach-clients-in-their-own-language-2.jpg"
+    },
+    {
+      "after": "The WhatsApp intake: where cases are won or lost",
+      "alt": "Small law-firm team around a desk reviewing printed client intake forms and a laptop showing a WhatsApp chat with a new client",
+      "caption": "Intake is a team job: every enquiry organised by language and case type, so no family waits days for a first reply.",
+      "src": "/images/blog/how-immigration-lawyers-reach-clients-in-their-own-language-3.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "At AA Digital Network, the build is $750 to $1,500 per language, plus a $249 to $499 monthly intake and support retainer. We start with a free demo funnel \u2014 real pages in your clients' language \u2014 so you see the work before paying anything, and we confirm your exact figure before you commit.",
+      "q": "How much does a diaspora-language intake funnel cost?"
+    },
+    {
+      "a": "Arabic, Urdu and Bengali, written by native translators \u2014 never machine translation. If a language keeps appearing in your enquiries, we can add that language's pages as a new build, so the funnel grows with the client base you actually serve.",
+      "q": "Which languages do you cover?"
+    },
+    {
+      "a": "No. The funnel explains your services, your process and what clients should prepare, in their language. Legal advice stays entirely with your licensed attorneys, and every message is written in wording you have approved before it goes out. Nothing on your firm's name ever promises an outcome, a timeline or a fee you would not promise in person.",
+      "q": "Do you give legal advice in the funnel?"
+    },
+    {
+      "a": "The demo funnel shows you the pages within days of our first conversation. Once the full funnel is live, enquiries usually start within the first weeks, as the pages begin appearing in searches in your clients' languages. Speed then depends on your reply time \u2014 which is why the WhatsApp intake is built for fast answers.",
+      "q": "How fast will enquiries start arriving?"
+    },
+    {
+      "a": "Yes \u2014 small firms are exactly who this is built for. The funnel brings enquiries to you organised and translated, so one bilingual team member can handle intake that would otherwise need three. Tell us your languages and case types on WhatsApp and we will size the build to your firm.",
+      "q": "We are a small firm with one bilingual paralegal. Will this work for us?"
+    }
+  ],
+  "image": "/images/blog/how-immigration-lawyers-reach-clients-in-their-own-language.jpg",
+  "imageAlt": "Immigration lawyer listening attentively to a Muslim couple in a bright modern office, with a folder of case documents open on the desk",
+  "imageCaption": "The consultation starts long before the office visit: a client who was understood in her own language arrives already trusting the firm.",
+  "related": [
+    {
+      "slug": "how-halal-food-businesses-get-found-first",
+      "title": "How Halal Food Businesses Get Found First on Google"
+    },
+    {
+      "slug": "how-muslim-wedding-planners-get-more-bookings",
+      "title": "How Muslim Wedding Planners Get More Bookings: The Funnel, Step by Step"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "The short answer first",
+      "paragraphs": [
+        "If you are an immigration lawyer serving Arab, Pakistani or Bangladeshi clients, the fastest way to more qualified cases is not a bigger ad budget \u2014 it is a funnel in your clients' own language. Native-language landing pages in Arabic, Urdu or Bengali, a WhatsApp intake that accepts voice notes, and a follow-up sequence in the client's language will bring you enquiries your English-only competitors never see, because those clients never call them at all.",
+        "That is the whole idea behind the service we run for immigration firms: a [diaspora-language intake funnel](/services/diaspora-language-intake) that builds landing pages, intake flows and short explainer videos in Arabic, Urdu and Bengali, written by native translators and approved by you before anything goes live. Everything in this guide explains how that funnel works, what each language page actually does, and what it can and cannot promise \u2014 so you can judge whether it fits your firm before spending anything."
+      ]
+    },
+    {
+      "heading": "The client who never calls",
+      "paragraphs": [
+        "Picture a family in Dearborn. The mother needs help with a family petition; her English is fine for daily life but not for legal words like affidavit, sponsor or adjustment of status. In the evening she searches on her phone \u2014 in Urdu \u2014 for an immigration lawyer. What she finds is a row of English pages with smiling stock-photo lawyers and a contact form she does not trust. She closes the tab. Your firm, which has a Urdu-speaking paralegal and twenty years of exactly these cases, never hears from her.",
+        "This happens every day in Dearborn, Houston, New York, Chicago, London and Toronto. It is not a small leak. There are roughly 3.7 million Arab Americans, according to the Arab American Institute, plus large Pakistani and Bangladeshi communities in the same cities \u2014 and in most of these households, the person who searches is the person least comfortable in legal English. The client who needs you most is the client least likely to call an English-only firm.",
+        "The painful part is that the firm usually blames the wrong thing. It assumes the problem is its ad spend, its reviews, or its website design. It almost never is. The problem is upstream: the client searched in her language, found nothing in her language, and chose the one firm whose page felt like home \u2014 or chose nobody at all. A funnel in her language does not compete with your English marketing. It reaches people your English marketing never touches."
+      ]
+    },
+    {
+      "bullets": [
+        "About 3.7 million Arab Americans, plus large Pakistani and Bangladeshi diasporas in the same cities",
+        "A cost per immigration lead of roughly $60 to $100, against case values of $2,000 to $10,000",
+        "Clients search in Arabic, Urdu or Bengali \u2014 and English-only firms are invisible in those searches",
+        "Immigration is trust-first work: language is the signal clients use before reviews or rankings"
+      ],
+      "heading": "Why English-only marketing misses the diaspora",
+      "paragraphs": [
+        "Law-firm marketing agencies sell English, and sometimes Spanish, and nothing else. It is not malice \u2014 it is arithmetic. A big agency's copywriters write English; hiring a native Arabic or Urdu copywriter for one small client does not fit their model. So the whole diaspora segment is left unserved, even though the numbers are generous: a cost per immigration lead of roughly $60 to $100, and a case value of $2,000 to $10,000. One signed case pays for months of funnel work, yet no specialist agency builds it.",
+        "Translation firms are not the answer either. They translate documents \u2014 accurately, expensively, and slowly. A translated brochure is not a funnel. A funnel needs pages written for search, for trust, and for one clear action, in the exact words clients type. It needs an intake flow that works on WhatsApp, because that is where diaspora clients actually live. And it needs follow-up in the client's language, because a family that hears nothing for three days assumes the firm is not interested.",
+        "There is a second reason the gap stays open: trust. Immigration is the most trust-sensitive legal work there is. Clients hand over their status, their family, their future. A client will trust a lawyer who speaks her language long before she trusts a lawyer with a shinier website. Language is the trust signal \u2014 and it is a moat English-only competitors cannot cross by spending more on ads."
+      ]
+    },
+    {
+      "bullets": [
+        "Landing pages in Arabic, Urdu and Bengali, one per case type, written by native translators",
+        "WhatsApp intake in the client's language, accepting text and voice notes",
+        "Short explainer videos answering the questions every immigration client asks first",
+        "Clear next steps: documents to prepare, what the first consultation covers, what it costs",
+        "Follow-up in the client's language for every enquiry that goes quiet",
+        "Monthly reporting: enquiries by language, by case type, and by outcome"
+      ],
+      "heading": "What a diaspora-language funnel actually is",
+      "paragraphs": [
+        "A funnel is not a translated website. It is a short, deliberate path from a search in the client's language to a qualified enquiry on your desk, and every step is built for that client. It starts with a landing page in Arabic, Urdu or Bengali for each case type you handle \u2014 asylum, family petitions, work visas, citizenship \u2014 written in the words clients actually type, answering the three questions every immigration client asks first: can this firm help with my kind of case, what will it cost, and what do I need to prepare.",
+        "The second step is the intake itself, and this is where most firms lose the client. A contact form in English, asking for a case number the client does not have, is a wall. Our intake runs on WhatsApp, in the client's language, and it accepts voice notes \u2014 because many clients explain their situation far more easily by speaking than by typing in a second language. The client describes the case in her own words; your team receives it organised by language and case type, with the documents list already attached.",
+        "The third step is follow-up, which is where cases are actually won. An enquiry that goes quiet for three days is usually not a lost client \u2014 it is a frightened one, waiting for a sign that the firm cares. A short message in her language, a reminder of the next step, a link to a two-minute explainer video in Urdu or Arabic: these small touches are the difference between a signed retainer and a family that quietly calls someone else."
+      ]
+    },
+    {
+      "heading": "Arabic, Urdu, Bengali \u2014 and getting the language right",
+      "paragraphs": [
+        "Getting the language right is the whole service, and it is where shortcuts fail hardest. Machine translation of legal marketing is not merely awkward \u2014 it is dangerous. A mistranslated fee, a wrong word for a visa category, a promise the firm never made: any of these can cost a case or a reputation. That is why our copy is written by native translators working from wording you approve, and why legal terms are checked against your own phrasing before a page goes live.",
+        "Dialect matters too, and it is something generic agencies never think about. Arabic is not one spoken language \u2014 a client from Yemen, a client from Lebanon and a client from Egypt use different words for the same thing. Urdu as spoken in Lahore is not quite Urdu as spoken in Karachi. Bengali has its own formal and everyday registers. A funnel that sounds like a textbook impresses nobody; a funnel that sounds like the client's own neighbourhood earns the call. Our translators write for the community you serve, not for a dictionary.",
+        "There is also a practical question every firm asks: what if our staff do not speak all three languages? That is normal, and it is not a blocker. The funnel's job is to bring the enquiry to you in an organised form \u2014 translated, categorised, with the key facts already visible \u2014 so your team can respond with the bilingual staff or interpreters you already use. The pages do the welcoming; your team does the law. And if one language keeps bringing enquiries, we add that language's pages as a new build, so the funnel grows with your client base."
+      ]
+    },
+    {
+      "heading": "The WhatsApp intake: where cases are won or lost",
+      "paragraphs": [
+        "Ask any immigration lawyer where enquiries die, and the answer is almost always the same: in the gap between first contact and first reply. A family messages at 9 p.m., frightened about a deadline. If the reply comes three days later, in English, they have already called someone else. If the reply comes within the hour, in their language, with one clear next step, they stay. Speed and language are the same thing here \u2014 a fast reply in the wrong language is barely better than no reply at all.",
+        "That is why the intake is built on WhatsApp, not on a form. Diaspora clients live on WhatsApp; it is where they talk to family, where they receive documents as photos, where they send voice notes when typing is hard. An intake that meets them there \u2014 asking for their language first, then their case type, then a short voice note or a photo of the relevant letter \u2014 removes every barrier between worry and action. Your team sees a clean, organised enquiry instead of a scattered thread.",
+        "Two boundaries keep this safe and professional. First, nothing in the funnel gives legal advice. The pages explain your services, your process and what clients should prepare; advice stays entirely with your licensed attorneys. Second, every message a client receives is in wording you have approved, so nothing on your firm's name ever promises an outcome, a timeline or a fee you would not promise in person. Trust built on exact words is trust that survives the first consultation."
+      ]
+    },
+    {
+      "heading": "What it costs, and what nobody can promise",
+      "paragraphs": [
+        "Our [diaspora-language intake funnel](/services/diaspora-language-intake) is a one-time build of $750 to $1,500 per language, plus a monthly intake and support retainer of $249 to $499. For scale: at a cost per lead of roughly $60 to $100, a single signed case \u2014 worth $2,000 to $10,000 \u2014 covers the build and months of retainer. The funnel starts with a free demo, real pages in your clients' language, so you see the work before paying anything. Tell us your languages and case types on WhatsApp and we will confirm your exact figure inside that range before you commit.",
+        "Two boundaries, stated plainly. We never give legal advice, and we never promise case outcomes, timelines or approval chances \u2014 those belong to your attorneys and to the authorities, not to any agency. And nobody can guarantee a number of signed cases: enquiries depend on your availability, your fees and your reputation as much as on the funnel. What we can promise is the work itself \u2014 pages your clients can read, an intake they can actually use, and follow-up in their language \u2014 reported in plain monthly numbers, so you can judge us on your own caseload."
+      ]
+    },
+    {
+      "bullets": [
+        "Step 1 \u2014 Tell us your languages, case types and cities on WhatsApp",
+        "Step 2 \u2014 We build a free demo funnel: one language, one case type, real pages",
+        "Step 3 \u2014 You approve every word, then the full funnel goes live",
+        "Step 4 \u2014 Enquiries arrive organised, with follow-up in the client's language"
+      ],
+      "heading": "Starting with a free demo funnel",
+      "paragraphs": [
+        "The simplest way to judge this is to see it. Message us on WhatsApp with three things: which languages your clients speak, which cases you take, and which cities you serve. We build a demo funnel \u2014 one language, one case type, real pages \u2014 and show it to you. You read it, you show it to a bilingual colleague, you decide whether it sounds like your firm. There is no charge and no obligation, because a funnel that has to be sold hard is a funnel that does not work.",
+        "If the demo feels right, the build takes the same shape: landing pages per language and case type, the WhatsApp intake flow, short explainer videos, and the follow-up sequence \u2014 all approved by you before going live. Within weeks, enquiries start arriving organised by language and case type, and the monthly report shows exactly where they came from. The families who never called anyone are finally calling someone. Make sure it is you."
+      ]
+    }
+  ],
+  "service": "diaspora-language-intake",
+  "slug": "how-immigration-lawyers-reach-clients-in-their-own-language",
+  "title": "How Immigration Lawyers Reach Clients in Their Own Language"
+},
+  {
+  "excerpt": "One admission is worth $5,000 to $15,000 a year in tuition, yet most Islamic schools are marketed by volunteers. Here is the admissions funnel that turns searches into enrolled families.",
+  "extraImages": [
+    {
+      "after": "Why volunteer marketing cannot keep up",
+      "alt": "Teacher in hijab filming a short virtual tour video of a bright school science classroom on a smartphone mounted on a tripod",
+      "caption": "A virtual tour does not need a film crew: a teacher, a phone and the real classroom will outperform any polished advert, because parents trust real rooms.",
+      "src": "/images/blog/how-islamic-schools-fill-every-seat-2.jpg"
+    },
+    {
+      "after": "Parent testimonials without putting children on camera",
+      "alt": "Muslim mother and her young son at a school admissions open day, talking with a friendly school administrator at a welcome desk",
+      "caption": "The open day is where enrollment is decided \u2014 and the funnel's whole job is to get the right parents into this conversation, already trusting the school.",
+      "src": "/images/blog/how-islamic-schools-fill-every-seat-3.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "At AA Digital Network, the build is $1,000 to $2,000 one-time, plus a $399 to $699 monthly admissions marketing retainer. We start with a free admissions audit, so you see what parents find today before deciding anything, and we confirm your exact figure before you commit.",
+      "q": "How much does an Islamic school admissions funnel cost?"
+    },
+    {
+      "a": "Only with written parental consent, arranged in advance \u2014 and most schools never need it. Staff introductions, classroom tours, parent testimonials and facility footage carry the whole funnel, and no child ever appears by default, mid-lesson, or as a condition of enrollment.",
+      "q": "Will you film our children?"
+    },
+    {
+      "a": "No, and you should distrust any agency that does. Enrollment depends on your fees, your capacity, your reputation and your admissions process \u2014 things no agency controls. What we promise is the work that earns enquiries, reported in plain monthly numbers.",
+      "q": "Do you guarantee enrollment numbers?"
+    },
+    {
+      "a": "Yes \u2014 new schools are a common starting point. The funnel leads with the virtual tour, staff introductions and your vision, and parent testimonials are added as your first families join. A new school with a clear, honest funnel beats an established school with a silent website.",
+      "q": "We are a new school with no parents to film yet. Can this still work?"
+    },
+    {
+      "a": "The free audit shows you the findings within days. Once the funnel is live, enquiries usually start within the first weeks, as the pages begin appearing in parent searches. Admissions cycles are seasonal, so the funnel is built to run steadily through the whole cycle, not just at open-day time.",
+      "q": "How long before enquiries start arriving?"
+    }
+  ],
+  "image": "/images/blog/how-islamic-schools-fill-every-seat.jpg",
+  "imageAlt": "Teacher in hijab reading with a group of young children sitting in a circle in a bright modern Islamic school classroom",
+  "imageCaption": "Parents do not choose a school from a brochure \u2014 they choose the classrooms, teachers and atmosphere they can already picture their child in.",
+  "related": [
+    {
+      "slug": "how-muslim-wedding-planners-get-more-bookings",
+      "title": "How Muslim Wedding Planners Get More Bookings: The Funnel, Step by Step"
+    },
+    {
+      "slug": "how-small-clinics-win-patients-with-shorts",
+      "title": "How Small Clinics Win Patients With Short-Form Video"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "The short answer first",
+      "paragraphs": [
+        "If your Islamic school has open seats, the honest answer is a system, not a single advert. Enrollment landing pages for each grade, a virtual tour video parents can watch at home, parent testimonials they can trust, and a WhatsApp inquiry funnel that answers in minutes \u2014 run steadily through the admissions cycle \u2014 will fill more seats than any one-off open day, because parents decide at home, in the evening, together.",
+        "That is the whole idea behind the service we run for Islamic schools: an [Islamic schools admissions funnel](/services/islamic-schools-admissions) that builds the pages, films the tour, and runs the inquiry flow for you, with children appearing only with written parental consent and every word approved by your board. Everything in this guide explains how that funnel works, what each part actually does, and what it can and cannot promise \u2014 so you can judge whether it fits your school before spending anything."
+      ]
+    },
+    {
+      "heading": "The empty seat that costs $10,000 a year",
+      "paragraphs": [
+        "Picture a private Islamic school in Houston \u2014 good teachers, a warm community, a waiting list in some grades and empty chairs in others. The board meets in September and counts the gap: twelve open seats across three grades. At $5,000 to $15,000 a year in tuition, those twelve chairs are worth roughly $60,000 to $180,000 a year \u2014 and they stay empty not because the school is bad, but because the families who would fill them never found it, never saw inside it, or never got an answer to their first question.",
+        "This is the normal state of Islamic education in the US and UK. There are more than 300 independent Islamic schools in the US and around 150 in the UK, and almost all of them are tuition-funded businesses with real budgets \u2014 yet their marketing is usually run by volunteer parents, in spare hours, on Canva. The big education-marketing agencies chase universities with big contracts and never pitch a K-12 Islamic school at all. Islamic marketing agencies, meanwhile, mostly serve mosques and charities. The schools fall through the gap between the two.",
+        "The cost of that gap is invisible because it looks like nothing happening. Nobody complains about the families who never enquired. But do the arithmetic: a single admission is worth $5,000 to $15,000 a year, and our admissions retainer is $399 to $699 a month. One enrolled student covers the whole year of marketing \u2014 and the funnel that brings her keeps working for every seat after that. The empty chair is the most expensive thing in the building, and it is the one nobody is selling against."
+      ]
+    },
+    {
+      "bullets": [
+        "More than 300 independent Islamic schools in the US and around 150 in the UK",
+        "Tuition of $5,000 to $15,000 a year \u2014 one admission covers a whole year of marketing",
+        "Parents decide at home, in the evening, together \u2014 and they expect an answer in minutes",
+        "School boards rightly refuse to hand children's filming to a random agency"
+      ],
+      "heading": "Why volunteer marketing cannot keep up",
+      "paragraphs": [
+        "Volunteer parents are wonderful people, and they are the wrong marketing department. They have jobs, children, and a few hours a month \u2014 and admissions needs a system that answers in minutes, every day, through a whole cycle. A parent messages on a Tuesday evening asking about fees for Year 3. If the answer comes on Sunday, the family has already toured another school. Speed is not a luxury in admissions; it is the admissions process.",
+        "There is a second problem, quieter and harder: trust. Parents choosing a school are choosing who will shape their child for eight hours a day. They want to see the classrooms, hear the teachers, and meet other parents who made the same choice. A Canva poster cannot do that. A school with no virtual tour, no parent voices and no quick way to ask a question is asking a family to commit thousands of pounds a year on the basis of a homepage last updated two Ramadans ago.",
+        "And then there is the barrier nobody talks about. School boards will not hand their children's filming to a random secular agency \u2014 and they are right not to. A stranger with a camera in a primary school is a safeguarding question, not a marketing opportunity. So the schools that need video most are the ones least served, and the gap stays open year after year. The funnel we build exists precisely because of that barrier: it is run by a team the board can trust, with children appearing only with written parental consent, and usually not at all."
+      ]
+    },
+    {
+      "bullets": [
+        "Enrollment landing pages per grade band, answering that grade's real questions",
+        "A virtual tour video of your actual school \u2014 real rooms, real teachers, real atmosphere",
+        "Parent testimonials, recorded only with written parental consent",
+        "A WhatsApp inquiry funnel that answers parents in minutes, not days",
+        "A free admissions audit first, so you see what parents find today",
+        "Monthly reporting: enquiries, tours booked, and applications started"
+      ],
+      "heading": "What an admissions funnel actually does",
+      "paragraphs": [
+        "An admissions funnel is a short, deliberate path from a parent's search to a booked tour, and every step answers the question that parent is actually asking. It starts with enrollment landing pages for each grade band, because a kindergarten parent and a high-school parent are different people with different worries. Fees, curriculum, the Islamic environment, transport, admissions dates \u2014 each page answers its own grade's questions in plain language, with one clear action at the end: ask us on WhatsApp, or book a tour.",
+        "The second part is the virtual tour video. Parents cannot visit five schools in a week, but they can watch five tours in an evening \u2014 and the school whose tour they watched is the school they visit. A good tour is not a production: it is a teacher walking through real classrooms, real children learning (with consent), the prayer hall, the playground, the library. Parents trust real rooms more than polished sets, and a slightly imperfect tour of your actual school will beat a glossy advert every time.",
+        "The third part is the inquiry funnel itself. A parent's question on WhatsApp \u2014 about fees, about a waiting list, about transport \u2014 reaches your admissions team in minutes, with a follow-up if they go quiet. And the whole system is measured: enquiries, tours booked, applications started, reported monthly in plain numbers, so the board can see whether seats are filling instead of guessing."
+      ]
+    },
+    {
+      "heading": "The virtual tour: your school, seen before the visit",
+      "paragraphs": [
+        "Most school websites show a building. Parents want to see a day. The virtual tour we film is a walk through your school as a child experiences it: the morning assembly, a classroom in full flow, the prayer hall, the lunch hall, the playground at break. It is filmed with your staff, in your rooms, on a phone \u2014 no film crew, no studio, no disruption to lessons. A teacher who can explain one thing warmly on camera will do more for admissions than any brochure.",
+        "Filming takes less time than schools fear. A few short sessions, planned around lessons, usually cover the whole school \u2014 and because the tour is built from real moments, it stays honest. We never stage a classroom that does not exist, never film a child without written parental consent, and never use stock footage of someone else's school. Parents can tell in seconds when the smiling children on screen are not your children, and the doubt spreads to everything else the school claims.",
+        "The tour also does a quiet job that no advert can: it pre-qualifies families. Parents who watch it arrive at the open day already knowing the school's atmosphere, its values, and its teachers' manner \u2014 so the open day becomes a conversation about their child, not a sales pitch about the building. And parents who were never going to choose your school self-select out early, which saves your admissions team hours of tours that were never going to convert."
+      ]
+    },
+    {
+      "heading": "Parent testimonials without putting children on camera",
+      "paragraphs": [
+        "The most persuasive voice in admissions is not the headteacher \u2014 it is another parent. A mother explaining why she moved her daughter to your school, a father describing the first term, a family talking about the Islamic environment their children come home with: these are the words that turn a searching parent into a visiting parent. And they can all be recorded without a single child appearing on camera.",
+        "That boundary matters, and we keep it absolute. Children appear only with written parental consent, arranged in advance \u2014 and most schools never need it. Parent interviews, staff introductions, classroom tours and facility footage carry the whole funnel, and no child ever appears by default, mid-lesson, or as a condition of anything. If a parent story is ever filmed with a child present, it is with explicit written permission and a final review by the parents before anything is published.",
+        "Getting the testimonial right is a craft in itself. We do not script parents; we ask them the questions other parents actually ask \u2014 what worried you before you joined, what surprised you after, what would you tell a family still deciding \u2014 and let them answer in their own words. A slightly imperfect, honest answer from a real parent will always beat a polished line read to camera, because the parent watching it is listening for one thing: does this person sound like me?"
+      ]
+    },
+    {
+      "heading": "The WhatsApp inquiry funnel",
+      "paragraphs": [
+        "Admissions enquiries have a short half-life. A parent messages in the evening, while the decision is warm, and if the reply comes three days later the moment has cooled \u2014 the family has toured another school, or simply moved on to the next thing on a busy parent's list. Our inquiry funnel exists to close that gap: every question arrives organised, with the grade, the child's age and the parent's question already visible, so your admissions team can answer in minutes with one clear next step.",
+        "WhatsApp is the right channel because it is where parents already live. They message family on it, they receive school letters on it, they send voice notes when typing is hard. An inquiry flow that meets them there \u2014 asking the grade first, then the question, then offering the tour booking in the same thread \u2014 removes every barrier between interest and action. The parent never has to find an email address, fill a form, or wait for office hours.",
+        "Follow-up is the part most schools skip, and it is where seats are actually filled. A parent who asked about fees and went quiet is usually not a lost parent \u2014 she is a busy one, waiting for a nudge. A short message, a link to the tour video, a reminder of the admissions deadline: these small touches are the difference between an empty chair and an enrolled child. The funnel handles the follow-up; your team handles the family."
+      ]
+    },
+    {
+      "heading": "What it costs, and what nobody can promise",
+      "paragraphs": [
+        "Our [Islamic schools admissions funnel](/services/islamic-schools-admissions) is a one-time build of $1,000 to $2,000, plus a $399 to $699 monthly admissions marketing retainer. For scale: a single admission brings $5,000 to $15,000 a year in tuition, so one enrolled student covers the whole year of marketing \u2014 and unlike an advert, the pages, the tour and the testimonials you build keep working after the month ends. Start with the free admissions audit, see what parents find today, and decide with the facts in front of you.",
+        "Two boundaries, stated plainly. We never film a child without written parental consent, and we never promise enrollment numbers \u2014 enrollment depends on your fees, your capacity, your reputation and your admissions process, things no agency controls. What we can promise is the work itself: pages parents trust, a tour they can watch at home, parent voices they believe, and replies that arrive in minutes \u2014 reported in plain monthly numbers, so your board can judge us on seats filling, not on promises."
+      ]
+    },
+    {
+      "bullets": [
+        "Step 1 \u2014 Tell us your school, grades and city on WhatsApp",
+        "Step 2 \u2014 We run a free admissions audit and show you what parents find",
+        "Step 3 \u2014 We build the funnel: pages, tour, testimonials, inquiry flow",
+        "Step 4 \u2014 Enquiries arrive organised by grade, with tours booked and reported monthly"
+      ],
+      "heading": "Starting with the free admissions audit",
+      "paragraphs": [
+        "The simplest way to judge this is to see what parents see today. Message us on WhatsApp with your school name, your grades and your city, and we run a free admissions audit: your website, your Google presence, and the schools parents find when they search for one like yours. You get the findings in plain language \u2014 what is working, what is missing, and what the schools winning your parents are doing differently. There is no charge and no obligation.",
+        "If the audit shows a gap worth closing, the build follows the same shape: enrollment pages per grade, the virtual tour video, parent testimonials, and the WhatsApp inquiry flow \u2014 all approved by your board before going live. Within weeks, enquiries start arriving organised by grade, tours get booked, and the monthly report shows exactly where each one came from. The families who would have filled your empty chairs are searching right now. Make sure they find you."
+      ]
+    }
+  ],
+  "service": "islamic-schools-admissions",
+  "slug": "how-islamic-schools-fill-every-seat",
+  "title": "How Islamic Schools Fill Every Seat: The Admissions Funnel That Works"
+}
 ];
 
 export function getArticle(slug: string): Article | undefined {

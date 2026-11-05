@@ -78,6 +78,30 @@ export default function BlogPage() {
             <p>Your customers are searching for halal skincare every day — and buying from the brands they can find. Here is the practical funnel — search, product pages, short video and refill reminders — that turns searches into repeat orders.</p>
             <p className="small"><Link href="/services/halal-beauty-sales-funnel">Related service →</Link></p>
           </div>
+          <div className="card" key="how-small-clinics-win-patients-with-shorts">
+            <img className="card-img" src="/images/blog/how-small-clinics-win-patients-with-shorts.jpg" alt="Physiotherapist demonstrating a shoulder stretch for a short video filmed on a phone on a tripod in a bright therapy clinic" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-small-clinics-win-patients-with-shorts">How Small Clinics Win Patients With Short-Form Video</Link></h3>
+            <p>Patients meet your clinic on video before they ever meet you in person. Here is the practical system — twelve Shorts a month, in your clinic's own voice — that turns searches into booked appointments.</p>
+            <p className="small"><Link href="/services/clinic-shorts-retainer">Related service →</Link></p>
+          </div>
+          <div className="card" key="how-halal-food-businesses-get-found-first">
+            <img className="card-img" src="/images/blog/how-halal-food-businesses-get-found-first.jpg" alt="Halal grocery store owner arranging fresh produce at a colourful market stall with customers browsing" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-food-businesses-get-found-first">How Halal Food Businesses Get Found First on Google</Link></h3>
+            <p>Your customers are searching for halal food every day — and eating at the businesses Google shows them first. Here is the practical system — profile, local pages, reviews — that puts your restaurant, butchery or grocery store at the top of that search.</p>
+            <p className="small"><Link href="/services/halal-local-seo">Related service →</Link></p>
+          </div>
+          <div className="card" key="how-immigration-lawyers-reach-clients-in-their-own-language">
+            <img className="card-img" src="/images/blog/how-immigration-lawyers-reach-clients-in-their-own-language.jpg" alt="Immigration lawyer listening attentively to a Muslim couple in a bright modern office, with a folder of case documents open on the desk" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-immigration-lawyers-reach-clients-in-their-own-language">How Immigration Lawyers Reach Clients in Their Own Language</Link></h3>
+            <p>A family searching for an immigration lawyer in Arabic, Urdu or Bengali will call the firm that speaks their language. Here is the funnel that makes that firm yours.</p>
+            <p className="small"><Link href="/services/diaspora-language-intake">Related service →</Link></p>
+          </div>
+          <div className="card" key="how-islamic-schools-fill-every-seat">
+            <img className="card-img" src="/images/blog/how-islamic-schools-fill-every-seat.jpg" alt="Teacher in hijab reading with a group of young children sitting in a circle in a bright modern Islamic school classroom" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-islamic-schools-fill-every-seat">How Islamic Schools Fill Every Seat: The Admissions Funnel That Works</Link></h3>
+            <p>One admission is worth $5,000 to $15,000 a year in tuition, yet most Islamic schools are marketed by volunteers. Here is the admissions funnel that turns searches into enrolled families.</p>
+            <p className="small"><Link href="/services/islamic-schools-admissions">Related service →</Link></p>
+          </div>
       </div>
     </div>
   );
