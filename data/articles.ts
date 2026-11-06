@@ -1824,8 +1824,257 @@ export const ARTICLES: Article[] = [
   "service": "islamic-schools-admissions",
   "slug": "how-islamic-schools-fill-every-seat",
   "title": "How Islamic Schools Fill Every Seat: The Admissions Funnel That Works"
-}
-];
+},
+  {
+  "excerpt": "When a family loses someone, they search once — and they call the funeral home they can find. Here is the visibility system that makes sure that call reaches you.",
+  "extraImages": [
+    {
+      "after": "What families need in the first hour",
+      "alt": "Muslim funeral home director in a suit welcoming a family at the reception desk of a bright, calm funeral home office",
+      "caption": "The first meeting is not a sale. It is a family in grief being met with calm, clear answers and a plan — and that is exactly what the funnel prepares them for.",
+      "src": "/images/blog/how-muslim-funeral-homes-get-found-when-families-need-them-2.jpg"
+    },
+    {
+      "after": "Pre-need pages: the families who plan ahead",
+      "alt": "Open laptop on a desk showing a funeral home website with a pre-need planning page, beside a notebook and a cup of tea",
+      "caption": "Pre-need planning is decided quietly, at home, over tea — months or years before it is needed. A page that explains it plainly is what turns that quiet evening into a booked conversation.",
+      "src": "/images/blog/how-muslim-funeral-homes-get-found-when-families-need-them-3.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "At AA Digital Network, the one-time setup is $999 to $1,999, plus a $299 to $499 monthly visibility and support retainer. We start with a free visibility audit, so you see what a grieving family finds today before deciding anything, and we confirm your exact figure before you commit.",
+      "q": "How much does a janaza visibility retainer cost?"
+    },
+    {
+      "a": "Never. The deceased are never filmed, and grieving families are never filmed without their clear, written consent — and almost never at all. The videos we make are facility tours and dignified guides about the first steps after a death. Dignity is the condition of this service, not a feature of it.",
+      "q": "Do you film the deceased or grieving families?"
+    },
+    {
+      "a": "No, and you should distrust any agency that does. Calls depend on your reputation, your capacity, your prices and your community standing — things no agency controls. What we promise is the work that earns the call: a profile families can find, pages that answer their questions, and an emergency line that actually answers.",
+      "q": "Do you guarantee more calls?"
+    },
+    {
+      "a": "Yes — volunteer-run committees are a common starting point. The funnel is built around your real capacity: the emergency WhatsApp line, the pre-need pages and the profile all work whether you have two volunteers or twenty staff. A small committee that answers fast beats a large funeral home that does not answer at all.",
+      "q": "We are a small volunteer-run janaza committee. Can this still work?"
+    },
+    {
+      "a": "We serve Muslim funeral homes, cemeteries and janaza committees across the US, UK and Canada — in any city with a Muslim community searching for these services. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+      "q": "Which cities do you cover?"
+    }
+  ],
+  "image": "/images/blog/how-muslim-funeral-homes-get-found-when-families-need-them.jpg",
+  "imageAlt": "Exterior of a modest, dignified Muslim funeral home building with a clean sign and a small garden at dusk, warm lights in the windows",
+  "imageCaption": "The building is not the service. The service is being found, and being reached, at the hardest hour of a family's life.",
+  "related": [
+    {
+      "slug": "how-estate-attorneys-reach-muslim-families",
+      "title": "How Estate Attorneys Reach Muslim Families Before It Is Too Late"
+    },
+    {
+      "slug": "how-halal-food-businesses-get-found-first",
+      "title": "How Halal Food Businesses Get Found First on Google"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "The short answer first",
+      "paragraphs": [
+        "If you run a Muslim funeral home, an Islamic cemetery or a masjid janaza committee and want more families to reach you, the honest answer is a system, not a single advert. A complete Google Business Profile, local pages that match the searches a grieving family actually types, and a 24/7 WhatsApp emergency line that is answered by a real person will do more for your community than any one-off promotion. Families in grief are not browsing for inspiration — they are searching once, on a phone, at night, and calling whoever they can find.",
+        "That is the whole idea behind the service we run for Muslim funeral homes: a [Janaza Visibility Retainer](/services/janaza-visibility) that manages your profile, your local pages, your reviews and your emergency funnel for $299 to $499 a month, starting with a free audit of what a grieving family finds when they search for you today. Everything in this guide explains how that system works, what families actually search for, and what it can and cannot promise — so you can judge whether it fits your service before spending anything."
+      ]
+    },
+    {
+      "heading": "The call that comes at 2 a.m.",
+      "paragraphs": [
+        "Picture a family in Houston. Their father has just passed away in hospital at 1:40 in the morning. The son is standing in a corridor with his phone, his sisters are on their way, and somebody has to arrange the janaza. He does what everyone does now: he searches \"Muslim funeral home near me\". The first result has a complete profile, recent photos of a calm facility, answered reviews from families who were helped, and a number that rings. The second result is a funeral home with an unclaimed profile, three-year-old photos, and no reviews answered since 2022. Guess who gets the call.",
+        "We see this pattern across every Muslim funeral service we audit, and it is rarely about the quality of the service. The invisible funeral home usually assumes the problem is its prices or its location. It almost never is. The problem is upstream: Google shows the funeral home that looks alive and reachable, and a grieving family trusts what Google shows, because at 2 a.m. they have no other way to compare two services they have never used. A complete profile, recent reviews and a number that answers are the new word of mouth — and unlike the old kind, they work while your volunteers are asleep.",
+        "There is a second, quieter cost. Every missed call is a family that called someone else, and every unanswered message is a family that felt abandoned at the worst moment of their year. A janaza package is worth $3,000 to $8,500 — Sacramento Muslim Cemetery lists $3,650 for local burial and $7,000 outside the area, and other established services charge around $3,450 to $4,995 — so one family that finds you instead of a competitor covers months of a retainer. The missed call is not a lost lead. It is a family in grief, calling someone else, and it is the most expensive silence in your whole operation."
+      ]
+    },
+    {
+      "bullets": [
+        "“Muslim funeral home near me” — the highest-intent search in the whole system, typed in distress, usually at night, by someone who needs an answer now",
+        "“Janaza services” plus a city — the search of a family that knows what it needs and is comparing who provides it",
+        "“Islamic cemetery” or “Muslim burial” plus a city — the search of a family planning a burial, often within hours",
+        "“Repatriation” or “body repatriation to Pakistan / Bangladesh / Somalia” — the search of a family facing the hardest logistics of all, and willing to pay for certainty"
+      ],
+      "heading": "What families actually search for",
+      "paragraphs": [
+        "Start with the searches, because they explain why this is worth fixing. Families do not search the way marketers think they search. They search in distress, in short phrases, on a phone, and they call the first result that looks real. \"Muslim funeral home near me\" is typed when someone has just died and a decision has to be made within hours. \"Janaza services\" with a city is typed by a family that knows the word janaza and wants a provider who knows it too. \"Islamic cemetery\" is typed by a family planning a burial. And \"repatriation\" is typed by a family facing the hardest logistics of all — getting a loved one home — where certainty matters more than price.",
+        "Two consequences follow. First, if your Google Business Profile is missing, thin, or filed under a generic funeral category, you are absent from the exact moment of highest intent — the moment when a family is choosing, right now, with no patience for a second search. Second, the family who does find you will compare your profile against competitors' profiles — and judge you on completeness, recency and reviews, not on the service they have not used yet. A profile with last month's photos and last week's answered reviews beats a better funeral home with a silent profile, every time.",
+        "This is where a Muslim-specific service should win easily, and where most profiles say almost nothing. A Muslim family choosing between you and a generic funeral home is checking a specific list — consciously or not. Do you do ghusl and kafan, and do you say so plainly? Can burial happen within 24 hours? Do you handle repatriation, and to which countries? Is there a separate area for women, and a prayer space? Are your prices stated honestly, or hidden until the family is already committed? Generic funeral-marketing agencies cannot write this list credibly, because they do not know which details matter, and generic funeral homes cannot deliver half of it."
+      ]
+    },
+    {
+      "heading": "What families need in the first hour",
+      "paragraphs": [
+        "The first hour after a death is the whole service, compressed. The family needs four things, in order: a person who answers, a clear price, a clear plan, and a calm voice. Not a brochure. Not a form with twelve fields. A person who answers, a price they can understand, a plan for the next few hours, and a voice that sounds like it has done this before and will not rush them.",
+        "So that is what the funnel is built around. The WhatsApp emergency line is the centre of it: a family messages at 2 a.m. and reaches a real person fast, with a short, honest script your team approves in advance — what happens next, what it costs, what the family needs to bring, and when the janaza prayer will be. The pages behind it do the same job in writing: ghusl and kafan explained plainly, burial timings stated honestly, repatriation explained step by step, prices given as ranges instead of hidden until the family is already grieving and committed.",
+        "Notice what this list is: your daily working knowledge, the things your team handles at every janaza without thinking. A generic agency cannot write it, because it does not know which details a grieving family checks first. And a funeral home that hides its prices and its process until the family arrives is asking the most vulnerable people in its community to commit blind. Say it plainly on your profile and your pages. A family that finds their exact questions answered does not keep searching. They call, they get an answer, and they come to you."
+      ]
+    },
+    {
+      "heading": "The Google Business Profile: your front door at midnight",
+      "paragraphs": [
+        "Your Google Business Profile is your front door, and for a funeral home it is open at midnight. It is the first thing a grieving family sees, and it decides the call before your website ever loads. So it has to be complete, correct and alive: the right categories, accurate hours, your services listed as families actually name them — janaza, ghusl and kafan, burial, repatriation — real photos of your facility and your team, and posts that show you are active this month, not three years ago.",
+        "Reviews are the trust layer, and they need handling with more care than in any other business we serve. You cannot ask a bereaved family for a review the way a restaurant asks a diner. Our system asks gently, at the right time, usually weeks later, and only families who offer are ever quoted — and every review, good or bad, is answered with care, because the next family in grief will read those answers and judge your character by them. A profile with a hundred answered reviews from helped families is worth more than any advert, because it is the only proof a stranger has that you will treat their loved one with dignity.",
+        "There is one more thing the profile does that nothing else can: it puts you on the map, literally. \"Near me\" searches are map searches first and website searches second. A funeral home with a verified, complete profile appears in the map pack with a call button and directions. A funeral home with no profile does not appear at all — no matter how good its website is, no matter how long it has served the community. The map is where the 2 a.m. call is decided, and the profile is what wins it."
+      ]
+    },
+    {
+      "heading": "Pre-need pages: the families who plan ahead",
+      "paragraphs": [
+        "Not every family arrives in crisis. Some arrive quietly, months or years early, because an elderly parent asked them to plan. These are the pre-need families, and they are the most valuable enquiries a funeral home can receive — calm, unhurried, ready to choose carefully, and ready to pay for certainty. But they will only choose you if a page exists that explains pre-need planning in plain language, with honest prices, and a way to start the conversation without committing to anything.",
+        "So the funnel includes pre-need and repatriation landing pages, written with dignity and approved by you before anything goes live. The pre-need page answers the questions these families actually ask: what does it cost, what is included, what happens if circumstances change, and how do we start? The repatriation page does the same for the hardest logistics: which countries you serve, what documents are needed, how long it takes, and what it costs as a range. Both pages exist to do one job — turn a quiet evening of planning into a booked conversation with your team.",
+        "This is also where the dignified short videos earn their place. A two-minute guide called \"the first steps after a death\" — in Urdu and English, with no recitation, just simple meaning — is the most shared thing a funeral home can publish, because every family wishes they had seen it before they needed it. It is shared in family groups, saved for later, and remembered when the time comes. And it costs the funeral home nothing but honesty: the video explains what happens, what it costs, and who to call, in the same calm voice your team uses in the building."
+      ]
+    },
+    {
+      "heading": "Reviews and dignity: what you can and cannot ask for",
+      "paragraphs": [
+        "Every funeral home we work with asks the same question, usually first: is it decent to ask a grieving family for a review? The answer is that it is decent if it is done right, and indecent if it is done wrong — and the difference is everything. Asking in the week of the funeral is wrong. Asking a family to perform their grief in public is wrong. Asking gently, weeks later, with a real thank-you and no pressure, and accepting silence as a complete answer, is right — and most families who were treated well are glad to say so, because they want other families to find the same care.",
+        "Two boundaries are absolute. The deceased are never filmed, and grieving families are never filmed without their clear, written consent — and almost never at all. Facility tours, staff introductions, and the guides we described carry the whole funnel, and no family is ever made into content. And we never write fake reviews. Real families, honest words, professional answers, or nothing. Review count and tone are exactly what the next family reads before choosing, so steady, genuine reviews matter more than any shortcut — and shortcuts risk your profile itself, which is the one asset a funeral home cannot afford to lose.",
+        "The same dignity rule governs the whole funnel. No fear-based copy, no pressure tactics, no countdown timers on a page about death. The pitch, if you can call it that, is community service: a funeral home that answers fast, prices honestly, and treats every family with care deserves to be found. The funnel exists to make that true in search, the same way your team makes it true in the building."
+      ]
+    },
+    {
+      "heading": "What it costs, and what nobody can promise",
+      "paragraphs": [
+        "Our [Janaza Visibility Retainer](/services/janaza-visibility) is $299 to $499 a month depending on the size of your operation and the scope of review management, with a one-time setup of $999 to $1,999, starting with a free visibility audit so you see what a grieving family finds today before committing. For scale: a single janaza package is $3,000 to $8,500, so one family that finds you instead of a competitor covers months of the retainer — and unlike an advert, the profile, pages and reviews you build keep working after the month ends. Message us on WhatsApp with your city and we will check your local competition as part of the audit.",
+        "Two boundaries, stated plainly. We never film the deceased and never write fake reviews — real families, honest words, professional answers, or nothing. And nobody can guarantee a number of calls: visibility depends on competition, distance, reviews and many factors outside any agency's control, and any agency that guarantees the top spot is selling certainty that does not exist. What we can promise is the work itself — a complete profile, real local pages, answered reviews, a 24/7 line that is actually answered, and steady activity — reported in plain monthly numbers, so you can judge us on your own phone ringing at 2 a.m. And because enquiries that arrive need answering fast, the same discipline as an [instant lead response](/services/instant-lead-response) system applies: a family that calls and gets no answer is a family that calls someone else. The same local foundation works for any community service — it is the same discipline behind our [halal local SEO](/services/halal-local-seo) work for food businesses, and the same funnel thinking as our [Islamic will and estate funnel](/services/islamic-will-estate-funnel) for attorneys. If this fits your service, the audit is free, and the first step is a message."
+      ]
+    }
+  ],
+  "service": "janaza-visibility",
+  "slug": "how-muslim-funeral-homes-get-found-when-families-need-them",
+  "title": "How Muslim Funeral Homes Get Found When Families Need Them Most"
+},
+  {
+  "excerpt": "Only about a quarter of Americans have a will — and most Muslim families need one that honours both Sharia and state law. Here is the funnel that puts your firm in front of them first.",
+  "extraImages": [
+    {
+      "after": "The evening search: where the decision is made",
+      "alt": "Muslim mother at home in the evening reading a simple estate planning guide on a tablet while her children play nearby",
+      "caption": "The decision is made at home, in the evening, with the children nearby. If your firm has no plain guide to read and no easy way to ask, that evening belongs to another attorney.",
+      "src": "/images/blog/how-estate-attorneys-reach-muslim-families-2.jpg"
+    },
+    {
+      "after": "The landing page that earns the consultation",
+      "alt": "Lawyer's desk with a laptop showing a law firm landing page about Islamic wills, a phone with a WhatsApp message, and a cup of coffee",
+      "caption": "The landing page has one job: make the consultation feel easy. One clear action, one honest price range, and a firm that answers.",
+      "src": "/images/blog/how-estate-attorneys-reach-muslim-families-3.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "At AA Digital Network, the one-time funnel build is $750 to $1,500, plus a $299 to $499 monthly lead-generation retainer. We start with a free Islamic-will visibility audit, so you see what families find today before deciding anything, and we confirm your exact figure before you commit.",
+      "q": "How much does an Islamic will and estate funnel cost?"
+    },
+    {
+      "a": "No — never. We do not draft wills, we do not give legal advice, and we do not give religious rulings. The funnel explains your services, your process and what families should prepare. Legal advice stays entirely with your licensed attorneys, and any Sharia questions stay with your own scholars or Sharia board.",
+      "q": "Do you write wills or give legal advice?"
+    },
+    {
+      "a": "No. It is an educational lead magnet that shows families, in general terms, how Islamic inheritance shares work — clearly labelled as general information, not advice for their situation. Its job is to start a conversation that ends in your consultation room, where real advice belongs.",
+      "q": "Is the Faraid calculator legal advice?"
+    },
+    {
+      "a": "Yes — small and solo practices are a common starting point. The funnel is built around your real capacity: the calculator, the landing pages and the booking flow all work whether you are one attorney or a whole firm. A solo attorney who answers fast beats a large firm that does not answer at all.",
+      "q": "I am a solo attorney. Can this still work?"
+    },
+    {
+      "a": "We serve Islamic estate attorneys across the US, UK and Canada — in any city with Muslim families searching for a Sharia-compliant will. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+      "q": "Which cities do you cover?"
+    }
+  ],
+  "image": "/images/blog/how-estate-attorneys-reach-muslim-families.jpg",
+  "imageAlt": "A signed will document and a fountain pen on a polished wooden desk in a law office, in soft window light",
+  "imageCaption": "A will is not a document. It is a promise to the people you love most — and families choose the attorney who explains that promise plainly.",
+  "related": [
+    {
+      "slug": "how-muslim-funeral-homes-get-found-when-families-need-them",
+      "title": "How Muslim Funeral Homes Get Found When Families Need Them Most"
+    },
+    {
+      "slug": "how-immigration-lawyers-reach-clients-in-their-own-language",
+      "title": "How Immigration Lawyers Reach Clients in Their Own Language"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "The short answer first",
+      "paragraphs": [
+        "If you are an estate attorney who drafts Islamic wills and trusts and want more Muslim families to find you, the honest answer is a system, not a single advert. Local pages that match the searches families actually type, a free Faraid-calculator lead magnet that lets a family explore their situation in private, and a consultation-booking funnel that answers fast will do more for your diary than any one-off promotion. Families looking for a will are not browsing for inspiration — they are worried, they are deciding, and they are choosing the attorney who explains it plainly first.",
+        "That is the whole idea behind the service we run for estate attorneys: an [Islamic Will & Estate Lead Funnel](/services/islamic-will-estate-funnel) that builds the pages, the calculator and the booking flow for you, for $299 to $499 a month after a $750 to $1,500 build, starting with a free audit of what a family finds when they search for you today. Everything in this guide explains how that funnel works, what families actually search for, and what it can and cannot promise — so you can judge whether it fits your firm before spending anything."
+      ]
+    },
+    {
+      "heading": "The family with no will",
+      "paragraphs": [
+        "Picture a family in Dearborn. The father is forty-two, two children, a house with a mortgage, a small business, and parents getting older in another country. He has thought about a will three times — once when his daughter was born, once when his father fell ill, and once when a friend his age died suddenly. Each time he meant to do something about it. Each time he stopped at the same wall: he needs a will that honours both Sharia and Michigan law, and he has no idea who can write one, what it costs, or whether the attorney will even understand what Faraid means.",
+        "We see this pattern across every Islamic estate practice we audit, and it is rarely about the attorney's skill. The invisible attorney usually assumes the problem is that families do not care about wills. They care enormously — they are just afraid of the conversation, and the attorneys who could help them are invisible in the one place families look: search. Only about 26% of Americans have a will at all, and American Muslims are among the least likely to have one that honours both Sharia and state law, because finding an attorney who understands both is genuinely hard. The family does not need a lecture about mortality. They need a page that says, in plain language: yes, we do this, here is how it works, here is what it costs, and here is how to book.",
+        "There is a second, quieter cost. Every family that never finds an attorney leaves the hardest decisions to a court and a grieving spouse. Guardianship for the children, the family home, the business, elderly parents — all of it undecided, because the one professional who could have helped was invisible on Google. A single estate plan or trust client is worth $1,500 to $5,000 or more, so the funnel that reaches these families pays for itself with a handful of consultations. But the real arithmetic is not the attorney's: it is the family's. A will written in time is the cheapest peace of mind a family will ever buy, and the attorney who explains that plainly is the one they will choose."
+      ]
+    },
+    {
+      "bullets": [
+        "“Islamic will near me” — the highest-intent search in the whole system, typed by a family that has already decided it needs a will and is choosing who writes it",
+        "“Sharia-compliant will” plus a city or state — the search of a family that knows exactly what it needs and is testing whether you do too",
+        "“Muslim estate planning attorney” — the search of a family that wants a professional, not a template, and is comparing firms",
+        "“Faraid calculator” or “Islamic inheritance calculator” — the search of a family exploring its situation in private, before it is ready to call anyone"
+      ],
+      "heading": "What Muslim families actually search for",
+      "paragraphs": [
+        "Start with the searches, because they explain why this is worth fixing. Families do not search the way lawyers think they search. They search in worry, in plain words, on a phone, in the evening — and they call the first result that explains it in language they understand. \"Islamic will near me\" is typed by a family that has already decided it needs a will. \"Sharia-compliant will\" with a city is typed by a family testing whether the attorney understands the requirement at all. \"Muslim estate planning attorney\" is typed by a family that wants a professional, not a template. And \"Faraid calculator\" is typed by a family exploring in private, before it is ready to call anyone — which is exactly why the calculator is the funnel's front door.",
+        "Two consequences follow. First, if your website is English-only and generic — \"estate planning\" with no mention of Islamic wills, no Faraid, no guardianship in a Muslim family's terms — you are absent from the exact searches that matter, even if you rank well for generic terms. The family searching for an Islamic will never sees you, because Google matches their words to your pages, and your pages do not have their words. Second, the family who does find you will compare your pages against competitors' pages — and judge you on clarity, honesty and ease of booking, not on the credentials they cannot verify. A page that explains the process in plain language, states a price range, and offers a booking in one tap beats a better attorney with a silent website, every time.",
+        "This is where an Islamic estate practice should win easily, and where most firms say almost nothing. A Muslim family choosing an attorney is checking a specific list — consciously or not. Do you understand Faraid and mirath, and do you say so plainly? Can a will honour Sharia and state law together, and can you explain how? What about guardianship for the children, the family home, and elderly parents? What does it cost, as a range, before the first meeting? Generic estate-marketing agencies cannot write this list credibly, because they do not know which details matter, and general estate firms cannot deliver half of it."
+      ]
+    },
+    {
+      "heading": "The evening search: where the decision is made",
+      "paragraphs": [
+        "The decision about a will is almost never made in an office. It is made at home, in the evening, with the children nearby — usually after something happened: a birth, an illness, a death in the family, a friend's sudden passing. One parent reads, the other listens, and together they decide whether to call someone. That is the moment the funnel is built for, and it is the moment most attorney websites completely ignore.",
+        "So the funnel starts with the evening reader in mind. The landing pages are written in plain language, not legal language — short sentences, clear headings, no jargon without an explanation beside it. The Faraid calculator sits on the page, not behind a form: a family can explore their situation without giving an email address first, because trust is earned before it is asked for. And the consultation booking is one tap, on WhatsApp or a form, with a clear statement of what the first meeting covers and what it costs. A family that finds their exact questions answered does not keep searching. They book, they get an answer, and they come to you.",
+        "Notice what this list is: your daily working knowledge, the things you explain at every first consultation without thinking. A generic agency cannot write it, because it does not know which details a worried family checks first. And a firm that hides its prices and its process until the family is already in the chair is asking the most anxious people in its market to commit blind. Say it plainly on your pages. The evening reader is not shopping for the cheapest will. They are shopping for the attorney they can trust with their children's future."
+      ]
+    },
+    {
+      "heading": "The Faraid calculator: a lead magnet that teaches",
+      "paragraphs": [
+        "Most lead magnets are thin: a PDF nobody reads, a checklist nobody uses. The Faraid calculator is different, because it does something a family actually wants — it shows them, in general terms, how Islamic inheritance shares work for their situation. A parent enters the family structure, sees the shares explained in plain language, and understands for the first time what a will needs to protect. That understanding is the moment they decide to book a consultation, because now they know what they are booking for.",
+        "Two things about the calculator matter, and both are boundaries. First, it is clearly labelled as general information, not advice for their situation — the calculator teaches, the attorney advises, and the line between the two is never blurred. Second, it is free and open: no email gate, no phone number demanded before the family has learned anything. The families who do leave their details after using it are the warmest enquiries a firm can receive, because they have already understood the problem and already trust the firm that explained it. A calculator that asks for an email before it teaches is a form with a gimmick attached. Ours teaches first.",
+        "This is also where the dignified short videos earn their place. A two-minute explainer called \"guardianship for your children\" — in English, Urdu or Arabic, with no recitation, just simple meaning — is the most shared thing an estate practice can publish, because every parent wishes they had seen it before they needed it. It is shared in family groups, saved for later, and remembered when the time comes. And it costs the firm nothing but honesty: the video explains what guardianship is, why it matters, and who to call, in the same plain voice your firm uses in the consultation room."
+      ]
+    },
+    {
+      "heading": "The landing page that earns the consultation",
+      "paragraphs": [
+        "A landing page for an Islamic will has one job: make the consultation feel easy. Everything on the page exists to serve that job, and everything else is removed. The headline says what you do, in the family's words. The first section answers the three questions every family asks: can a will honour Sharia and state law together, what does it cost, and what happens in the first meeting? The next section explains the process in four plain steps, with no legal jargon. And the booking is one tap — WhatsApp or a short form — with a clear statement that the first consultation is a conversation, not a commitment.",
+        "The pages behind the landing page do the same job for each search: a page for wills, a page for trusts, a page for guardianship, a page for each city you serve — so Google has something real to rank when a family searches with a city attached. This is the same foundation any good [website development](/services/website-development) project starts from: fast pages, clear services, your city named honestly. And because enquiries that arrive need answering fast, the same discipline as an [instant lead response](/services/instant-lead-response) system applies: a family that messages and gets no answer for two days has already booked with someone else.",
+        "There is one more thing the page must do, and it is the hardest: it must sound like your firm. Families choosing an attorney for their children's future are listening for a voice they can trust, and a generic page written by an agency that does not understand Faraid will sound wrong in the first paragraph. So every page is written with your approved wording, checked against your own phrasing, and approved by you before it goes live. The same care applies to language: where your clients speak Urdu or Arabic, the funnel speaks it too — the same discipline as our [diaspora-language intake](/services/diaspora-language-intake) work for immigration firms, because a family that is understood in its own language trusts the firm before the paperwork starts."
+      ]
+    },
+    {
+      "heading": "What the funnel must never do",
+      "paragraphs": [
+        "Every estate attorney we work with asks the same question, usually first: where is the line? The answer is that the line is absolute, and the funnel is built around it. We do not draft wills. We do not give legal advice. We do not give religious rulings, and we do not present the calculator as advice. The funnel explains your services, your process and what families should prepare. Legal advice stays entirely with your licensed attorneys, and any Sharia question stays with your own scholars or Sharia board. A funnel that blurs that line is not a funnel — it is a liability, and we will not build one.",
+        "Two more boundaries are absolute. We never guarantee a number of clients, because consultations depend on your fees, your reputation, your capacity and your local market — things no agency controls, and any agency that guarantees the top spot or a fixed client count is selling certainty that does not exist. And we never use fear-based copy: no countdown timers on a page about death, no pressure tactics, no \"what if you die tomorrow\" headlines. The pitch, if you can call it that, is care: a family that plans in time protects the people it loves most, and the attorney who explains that plainly deserves to be found.",
+        "The same honesty rule governs the whole funnel. No fake testimonials, no invented case results, no borrowed credentials. The proof on the page is the public arithmetic — only about 26% of Americans have a will, and a single estate plan or trust client is worth $1,500 to $5,000 or more — and the free audit that shows a firm exactly where it stands before it spends anything. A family choosing an attorney for their children's future is listening for honesty, and honesty is the one thing a funnel cannot fake."
+      ]
+    },
+    {
+      "heading": "What it costs, and what nobody can promise",
+      "paragraphs": [
+        "Our [Islamic Will & Estate Lead Funnel](/services/islamic-will-estate-funnel) is $299 to $499 a month depending on the scope of lead management and the number of practice areas, with a one-time build of $750 to $1,500, starting with a free Islamic-will visibility audit so you see what families find today before committing. For scale: a single estate plan or trust client is worth $1,500 to $5,000 or more, so one or two new clients a month cover the whole year of marketing — and unlike an advert, the pages, the calculator and the reviews you build keep working after the month ends. Message us on WhatsApp with your city and we will check your local competition as part of the audit.",
+        "Two boundaries, stated plainly. We never draft wills or give legal advice — that stays entirely with your licensed attorneys. And nobody can guarantee a number of consultations: enquiries depend on competition, reviews and many factors outside any agency's control, and any agency that guarantees the top spot is selling certainty that does not exist. What we can promise is the work itself — pages families trust, a calculator they actually use, replies that arrive fast, and steady activity — reported in plain monthly numbers, so you can judge us on your own diary filling up. The same local foundation works for any community service — it is the same discipline behind our [Janaza Visibility Retainer](/services/janaza-visibility) for funeral homes, and the same funnel thinking as our [halal local SEO](/services/halal-local-seo) work. If this fits your firm, the audit is free, and the first step is a message."
+      ]
+    }
+  ],
+  "service": "islamic-will-estate-funnel",
+  "slug": "how-estate-attorneys-reach-muslim-families",
+  "title": "How Estate Attorneys Reach Muslim Families Before It Is Too Late"
+}];
 
 export function getArticle(slug: string): Article | undefined {
   return ARTICLES.find((a) => a.slug === slug);

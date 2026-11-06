@@ -102,6 +102,18 @@ export default function BlogPage() {
             <p>One admission is worth $5,000 to $15,000 a year in tuition, yet most Islamic schools are marketed by volunteers. Here is the admissions funnel that turns searches into enrolled families.</p>
             <p className="small"><Link href="/services/islamic-schools-admissions">Related service →</Link></p>
           </div>
+          <div className="card" key="how-muslim-funeral-homes-get-found-when-families-need-them">
+            <img className="card-img" src="/images/blog/how-muslim-funeral-homes-get-found-when-families-need-them.jpg" alt="Exterior of a modest, dignified Muslim funeral home building with a clean sign and a small garden at dusk, warm lights in the windows" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-funeral-homes-get-found-when-families-need-them">How Muslim Funeral Homes Get Found When Families Need Them Most</Link></h3>
+            <p>When a family loses someone, they search once — and they call the funeral home they can find. Here is the visibility system that makes sure that call reaches you.</p>
+            <p className="small"><Link href="/services/janaza-visibility">Related service →</Link></p>
+          </div>
+          <div className="card" key="how-estate-attorneys-reach-muslim-families">
+            <img className="card-img" src="/images/blog/how-estate-attorneys-reach-muslim-families.jpg" alt="A signed will document and a fountain pen on a polished wooden desk in a law office, in soft window light" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-estate-attorneys-reach-muslim-families">How Estate Attorneys Reach Muslim Families Before It Is Too Late</Link></h3>
+            <p>Only about a quarter of Americans have a will — and most Muslim families need one that honours both Sharia and state law. Here is the funnel that puts your firm in front of them first.</p>
+            <p className="small"><Link href="/services/islamic-will-estate-funnel">Related service →</Link></p>
+          </div>
       </div>
     </div>
   );

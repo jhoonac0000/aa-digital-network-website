@@ -50,6 +50,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/blog/how-small-clinics-win-patients-with-shorts`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-halal-food-businesses-get-found-first`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-immigration-lawyers-reach-clients-in-their-own-language`, changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-islamic-schools-fill-every-seat`, changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-islamic-schools-fill-every-seat`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/janaza-visibility`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/islamic-will-estate-funnel`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-funeral-homes-get-found-when-families-need-them`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-estate-attorneys-reach-muslim-families`, changeFrequency: "weekly", priority: 0.8 }
   ];
 }
