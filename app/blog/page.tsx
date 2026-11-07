@@ -114,6 +114,22 @@ export default function BlogPage() {
             <p>Only about a quarter of Americans have a will — and most Muslim families need one that honours both Sharia and state law. Here is the funnel that puts your firm in front of them first.</p>
             <p className="small"><Link href="/services/islamic-will-estate-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-muslim-therapists-reach-clients-who-need-them">
+            <img className="card-img" src="/images/blog/how-muslim-therapists-reach-clients-who-need-them.jpg" alt="Bright modern therapy office interior with a welcoming entrance area, comfortable armchairs, soft natural light, plants and bookshelves" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-therapists-reach-clients-who-need-them">How Muslim Therapists Reach the Clients Who Need Them Most</Link></h3>
+            <p>A Muslim therapist's next client is searching tonight for a therapist who understands their faith. Here is the funnel that puts your practice first.</p>
+            <p className="small"><Link href="/services/muslim-therapist-funnel">Related service →</Link></p>
+          </div>
+
+================================================================
+<div className="card" key="how-muslim-realtors-reach-halal-homebuyers-first">
+            <img className="card-img" src="/images/blog/how-muslim-realtors-reach-halal-homebuyers-first.jpg" alt="Modern family home exterior at golden hour with a sold sign in the front yard, warm welcoming light" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-realtors-reach-halal-homebuyers-first">How Muslim Realtors Reach Halal Homebuyers First</Link></h3>
+            <p>Guidance Residential has financed $12B+ for 45,000 families — yet most Muslim realtors are invisible on Google. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/halal-homebuyer-funnel">Related service →</Link></p>
+          </div>
+
+================================================================================
       </div>
     </div>
   );

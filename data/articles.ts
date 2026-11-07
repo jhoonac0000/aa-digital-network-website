@@ -2074,7 +2074,258 @@ export const ARTICLES: Article[] = [
   "service": "islamic-will-estate-funnel",
   "slug": "how-estate-attorneys-reach-muslim-families",
   "title": "How Estate Attorneys Reach Muslim Families Before It Is Too Late"
-}];
+},
+  {
+  "excerpt": "A Muslim therapist's next client is searching tonight for a therapist who understands their faith. Here is the funnel that puts your practice first.",
+  "extraImages": [
+    {
+      "after": "The evening search: where the decision is made",
+      "alt": "Muslim woman in hijab at home in the evening, in warm lamp light, looking at her phone while searching for a therapist",
+      "caption": "The decision is made at home, in the evening, in private. If your practice has no plain page to read and no easy way to ask, that evening belongs to another therapist.",
+      "src": "/images/blog/how-muslim-therapists-reach-clients-who-need-them-2.jpg"
+    },
+    {
+      "after": "The landing page that earns the consultation",
+      "alt": "Laptop on a desk showing a therapist's landing page with a consultation booking button and a WhatsApp chat button, beside a notebook and a cup of tea",
+      "caption": "The landing page has one job: make the consultation feel easy. One clear action, one honest price range, and a practice that answers.",
+      "src": "/images/blog/how-muslim-therapists-reach-clients-who-need-them-3.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "At AA Digital Network, the one-time funnel build is $750 to $1,500, plus a $299 to $499 monthly lead-generation retainer. We start with a free visibility audit, so you see what Muslim clients find today before deciding anything, and we confirm your exact figure before you commit.",
+      "q": "How much does a faith-sensitive therapist funnel cost?"
+    },
+    {
+      "a": "No — never. We do not provide therapy, counselling or any clinical service, and we make no medical or outcome claims of any kind. We build the funnel that brings you qualified enquiries and consultation bookings, and the therapy itself stays entirely with you as the licensed therapist.",
+      "q": "Do you provide therapy?"
+    },
+    {
+      "a": "Never. No client photo, story, testimonial or identifying detail is ever used in any page, video or post we make for you — not with permission, not anonymised, not at all. Your marketing is built entirely from your own expertise, your credentials and your own voice.",
+      "q": "Will you use my clients' photos or stories in marketing?"
+    },
+    {
+      "a": "Yes — solo practices are a common starting point. The funnel is built around your real capacity: the landing pages, the directory listings and the booking flow all work whether you are one therapist or a whole practice. A solo therapist who answers fast beats a large practice that does not answer at all.",
+      "q": "I am a solo therapist. Can this still work?"
+    },
+    {
+      "a": "We serve Muslim therapists across the US, UK and Canada — including New York and New Jersey, Houston, Chicago, Dearborn in Michigan, London and Toronto — in any city with Muslim clients searching for a faith-sensitive therapist. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+      "q": "Which cities do you cover?"
+    }
+  ],
+  "image": "/images/blog/how-muslim-therapists-reach-clients-who-need-them.jpg",
+  "imageAlt": "Bright modern therapy office interior with a welcoming entrance area, comfortable armchairs, soft natural light, plants and bookshelves",
+  "imageCaption": "The room is not the service. The service is being found, and being trusted, by the client who needs you most.",
+  "related": [
+    {
+      "slug": "how-immigration-lawyers-reach-clients-in-their-own-language",
+      "title": "How Immigration Lawyers Reach Clients in Their Own Language"
+    },
+    {
+      "slug": "how-islamic-schools-fill-every-seat",
+      "title": "How Islamic Schools Fill Every Seat: The Admissions Funnel That Works"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "The short answer first",
+      "paragraphs": [
+        "If you are a Muslim therapist or a counselling practice serving Muslim clients and want more of the right clients to find you, the honest answer is a system, not a single advert. A complete Google Business Profile, local pages that match the searches clients actually type, faith-sensitive landing pages with a private booking flow, and directory listings that actually work will do more for your diary than any one-off promotion. Clients looking for a therapist are not browsing for inspiration — they are worried, they are deciding in private, and they are choosing the therapist who feels safe first.",
+        "That is the whole idea behind the service we run for Muslim therapists: a [Faith-Sensitive Therapist Funnel](/services/muslim-therapist-funnel) that builds the pages, the listings and the booking flow for you, for $299 to $499 a month after a $750 to $1,500 build, starting with a free audit of what a Muslim client finds when they search for you today. Everything in this guide explains how that funnel works, what clients actually search for, and what it can and cannot promise — so you can judge whether it fits your practice before spending anything."
+      ]
+    },
+    {
+      "heading": "The client who never calls",
+      "paragraphs": [
+        "Picture a woman in Houston. She is thirty-four, married, two children, and for months she has been carrying a weight she cannot name to anyone in her family. She has thought about therapy three times — once after a panic attack at work, once after a long argument with her mother-in-law, and once when a friend mentioned, quietly, that she sees a therapist too. Each time she stopped at the same wall: she needs a therapist who understands her faith, who will not treat her beliefs as the problem, and who will keep what she says completely private. She has no idea who that therapist is, what it costs, or how to ask.",
+        "We see this pattern across every Muslim therapy practice we audit, and it is rarely about the therapist's skill. The invisible therapist usually assumes the problem is that clients do not want therapy. They want it enormously — they are just afraid of being misunderstood, and the therapists who could help them are invisible in the one place clients look: search. Client acquisition is the number-one difficulty for therapists — a 2026 Heard report found 34% cite it first, with acquisition costs of $215 to $350 per client and six to eighteen months to build a full caseload. The client does not need a lecture about mental health. She needs a page that says, in plain language: yes, I understand, here is how it works, here is what it costs, and here is how to book — in private.",
+        "There is a second, quieter cost. Every client who never finds a faith-sensitive therapist either goes without help, or books with a therapist who does not understand them and leaves after one session. A private-pay session is typically around $174, and a long-term client stays for ten sessions or more — roughly $1,740 or more — so the funnel that reaches these clients pays for itself with a handful of bookings. But the real arithmetic is not the therapist's: it is the client's. A therapist who is found in time is the difference between a family that heals and a family that quietly struggles on, and the therapist who explains that plainly is the one they will choose."
+      ]
+    },
+    {
+      "bullets": [
+        "“Muslim therapist near me” — the highest-intent search in the whole system, typed by a client who has already decided they need a therapist and is choosing who it will be",
+        "“Muslim counsellor” or “Muslim therapist” plus a city — the search of a client who knows exactly what they need and is testing whether you do too",
+        "“Muslim therapist for anxiety” or “for marriage” — the search of a client naming their problem, and looking for a therapist who names it back",
+        "“Muslim therapist online” or “telehealth” — the search of a client who wants privacy and distance, and is ready to book across state lines"
+      ],
+      "heading": "What Muslim clients actually search for",
+      "paragraphs": [
+        "Start with the searches, because they explain why this is worth fixing. Clients do not search the way marketers think they search. They search in worry, in plain words, on a phone, late at night — and they call the first result that explains it in language they understand. \"Muslim therapist near me\" is typed by a client who has already decided they need therapy. \"Muslim counsellor\" with a city is typed by a client testing whether the therapist understands the requirement at all. \"Muslim therapist for anxiety\" is typed by a client naming their problem. And \"Muslim therapist online\" is typed by a client who wants privacy above all — which is exactly why telehealth is part of the funnel, because one therapist can take clients across several states.",
+        "Two consequences follow. First, if your website is generic — \"therapy\" with no mention of faith, no privacy promise, no mention of anxiety, family pressure or marriage stress in a Muslim client's terms — you are absent from the exact searches that matter, even if you rank well for generic terms. The client searching for a Muslim therapist never sees you, because Google matches their words to your pages, and your pages do not have their words. Second, the client who does find you will compare your pages against competitors' pages — and judge you on clarity, warmth and ease of booking, not on the credentials they cannot verify. A page that explains the process in plain language, states a price range, and offers a booking in one tap beats a better therapist with a silent website, every time.",
+        "This is where a Muslim therapy practice should win easily, and where most practices say almost nothing. A Muslim client choosing a therapist is checking a specific list — consciously or not. Do you understand faith, family pressure and cultural expectations, and do you say so plainly? Is everything completely private, and do you promise that in writing? What does a session cost, as a range, before the first meeting? Do you offer telehealth, and in which states? Generic therapist-marketing agencies cannot write this list credibly, because they do not know which details matter, and general therapists cannot deliver half of it."
+      ]
+    },
+    {
+      "heading": "The evening search: where the decision is made",
+      "paragraphs": [
+        "The decision about therapy is almost never made in an office. It is made at home, in the evening, with the phone held close — usually after something happened: a panic attack, a long argument, a sleepless night, a friend's quiet suggestion. One person reads, alone, and decides whether to ask for help. That is the moment the funnel is built for, and it is the moment most therapist websites completely ignore.",
+        "So the funnel starts with the evening reader in mind. The landing pages are written in plain language, not clinical language — short sentences, clear headings, no jargon without an explanation beside it. The privacy promise sits on the page, in the first screen: what you share stays between you and your therapist, full stop. And the consultation booking is one tap, on WhatsApp or a short form, with a clear statement of what the first session covers and what it costs. A client that finds their exact questions answered does not keep searching. They book, they get an answer, and they come to you.",
+        "Notice what this list is: your daily working knowledge, the things you explain at every first consultation without thinking. A generic agency cannot write it, because it does not know which details a worried client checks first. And a practice that hides its prices and its process until the client is already in the chair is asking the most anxious people in its market to commit blind. Say it plainly on your pages. The evening reader is not shopping for the cheapest session. They are shopping for the therapist they can trust with what they have never told anyone."
+      ]
+    },
+    {
+      "heading": "The landing page that earns the consultation",
+      "paragraphs": [
+        "A landing page for a Muslim therapist has one job: make the consultation feel easy and safe. Everything on the page exists to serve that job, and everything else is removed. The headline says what you do, in the client's words. The first section answers the three questions every client asks: do you understand my faith and my family, what does it cost, and is everything truly private? The next section explains the process in four plain steps, with no clinical jargon. And the booking is one tap — WhatsApp or a short form — with a clear statement that the first consultation is a conversation, not a commitment.",
+        "The pages behind the landing page do the same job for each search: a page for anxiety, a page for family pressure, a page for marriage stress, a page for each city you serve — so Google has something real to rank when a client searches with a city attached. This is the same foundation any good website starts from: fast pages, clear services, your city named honestly. And because enquiries that arrive need answering fast, the same discipline as an [instant lead response](/services/instant-lead-response) system applies: a client that messages and gets no answer for two days has already booked with someone else.",
+        "There is one more thing the page must do, and it is the hardest: it must sound like your practice. Clients choosing a therapist for the most private parts of their lives are listening for a voice they can trust, and a generic page written by an agency that does not understand faith-sensitive practice will sound wrong in the first paragraph. So every page is written with your approved wording, checked against your own phrasing, and approved by you before it goes live. The same care applies to language: where your clients speak Urdu or Arabic, the funnel speaks it too — the same discipline as our [diaspora-language intake](/services/diaspora-language-intake) work, because a client that is understood in their own language trusts the therapist before the first session starts."
+      ]
+    },
+    {
+      "heading": "Directories: useful, but not enough",
+      "paragraphs": [
+        "Most solo Muslim therapists depend on directories — the Psychology Today Muslim filter, the ICNA directory, the AMENA directory — and directories are genuinely useful: they are where many clients start, and a complete listing with the right filters, a clear photo and an honest description will bring enquiries. But a directory listing is rented ground. You do not control the page, you do not control what appears next to you, and the client who clicks through lands on a profile that looks like every other profile on the list. A directory can start the conversation. It cannot finish it.",
+        "So the funnel treats directories as one channel among several, not as the whole strategy. We optimise your Psychology Today Muslim-filter listing and your ICNA and AMENA directory entries — the right specialisms, the right faith filters, the right cities, a description that sounds like you — and then we give the client somewhere better to land: your own pages, where your voice, your privacy promise and your booking flow do the work a directory never can. A client who finds you on a directory and then reads a page that answers their exact questions is a client who books. A client who finds you only on a directory is a client still comparing you with the ten names beside yours.",
+        "This is also where the dignified short videos earn their place. A two-minute explainer about anxiety, family pressure or marriage stress — in your own voice, or text-led, with no recitation and no client stories — is the most shared thing a therapy practice can publish, because every person wishes they had seen it before they needed it. It is shared in family groups, saved for later, and remembered when the time comes. And it costs the practice nothing but honesty: the video explains what the feeling is, what help looks like, and who to call, in the same plain voice you use in the consultation room."
+      ]
+    },
+    {
+      "heading": "What the funnel must never do",
+      "paragraphs": [
+        "Every therapist we work with asks the same question, usually first: where is the line? The answer is that the line is absolute, and the funnel is built around it. We do not provide therapy. We do not give clinical advice, and we make no medical or outcome claims of any kind. The funnel explains your services, your process and what clients should prepare. Therapy stays entirely with you, the licensed therapist, and only your own license and credentials are ever shown on the page. A funnel that blurs that line is not a funnel — it is a liability, and we will not build one.",
+        "Two more boundaries are absolute. We never use a client's photo, story, testimonial or identifying detail — not with permission, not anonymised, not at all. Your marketing is built entirely from your own expertise, your credentials and your own voice, because a client deciding whether to trust a therapist is watching exactly this: does this practice protect privacy, or does it trade on it? And we never use fear-based copy: no countdown timers on a page about anxiety, no pressure tactics, no \"your marriage is failing\" headlines. The pitch, if you can call it that, is safety: a client who feels understood and protected deserves to be found by the therapist who can help them.",
+        "The same honesty rule governs the whole funnel. No fake testimonials, no invented case results, no borrowed credentials. The proof on the page is the public arithmetic — a session is typically around $174, a long-term client stays for ten sessions or more, and 34% of therapists call client acquisition their number-one difficulty — and the free audit that shows a practice exactly where it stands before it spends anything. A client choosing a therapist for the most private parts of their life is listening for honesty, and honesty is the one thing a funnel cannot fake."
+      ]
+    },
+    {
+      "heading": "What it costs, and what nobody can promise",
+      "paragraphs": [
+        "Our [Faith-Sensitive Therapist Funnel](/services/muslim-therapist-funnel) is $299 to $499 a month depending on the scope of lead management and the number of practice areas, with a one-time build of $750 to $1,500, starting with a free visibility audit so you see what Muslim clients find today before committing. For scale: a private-pay session is typically around $174, and a long-term client stays for ten sessions or more — roughly $1,740 or more — so two or three new clients cover the retainer, and unlike an advert, the pages, the listings and the reviews you build keep working after the month ends. Message us on WhatsApp with your city and we will check your local competition as part of the audit.",
+        "Two boundaries, stated plainly. We never provide therapy or make medical claims — that stays entirely with you as the licensed therapist. And nobody can guarantee a number of clients: enquiries depend on competition, reviews and many factors outside any agency's control, and any agency that guarantees the top spot is selling certainty that does not exist. What we can promise is the work itself — pages clients trust, listings they can find, replies that arrive fast, and steady activity — reported in plain monthly numbers, so you can judge us on your own diary filling up. The same local foundation works for any community service — it is the same discipline behind our [halal local SEO](/services/halal-local-seo) work, and the same funnel thinking as our [instant lead response](/services/instant-lead-response) system. If this fits your practice, the audit is free, and the first step is a message."
+      ]
+    }
+  ],
+  "service": "muslim-therapist-funnel",
+  "slug": "how-muslim-therapists-reach-clients-who-need-them",
+  "title": "How Muslim Therapists Reach the Clients Who Need Them Most"
+},
+{
+  "excerpt": "Guidance Residential has financed $12B+ for 45,000 families — yet most Muslim realtors are invisible on Google. Here is the funnel that puts you first.",
+  "extraImages": [
+    {
+      "after": "The evening search: where the decision is made",
+      "alt": "Muslim couple at home in the evening sitting on a sofa with a laptop reviewing halal home financing options, in warm lamp light",
+      "caption": "The decision is made at home, in the evening, with tea on the table. If your pages have no plain financing guide and no easy way to ask, that evening belongs to another agent.",
+      "src": "/images/blog/how-muslim-realtors-reach-halal-homebuyers-first-2.jpg"
+    },
+    {
+      "after": "The landing page that earns the pre-approval call",
+      "alt": "Laptop on a desk showing a realtor landing page explaining riba-free financing options, with a smartphone showing a WhatsApp message beside it",
+      "caption": "The landing page has one job: make the pre-approval enquiry feel easy. One clear action, one honest explanation, and an agent who answers.",
+      "src": "/images/blog/how-muslim-realtors-reach-halal-homebuyers-first-3.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "At AA Digital Network, the one-time funnel build is $1,000 to $2,000, plus a $399 to $699 monthly lead-generation retainer. We start with a free visibility audit, so you see what buyers find today before deciding anything, and we confirm your exact figure before you commit.",
+      "q": "How much does a Halal Homebuyer Funnel cost?"
+    },
+    {
+      "a": "No — never. We do not provide financing, we do not arrange loans, and we do not give fatwas or religious rulings. The funnel sends qualified buyers to you, a licensed agent, and to your licensed lender. Any Shariah reference is your lender's own Shariah board, never ours.",
+      "q": "Do you provide halal financing or give a fatwa?"
+    },
+    {
+      "a": "Simply: Musharaka is shared ownership — you and the financier buy the home together and you gradually buy out their share. Murabaha is a cost-plus sale — the financier buys the home and sells it to you at a disclosed markup, in instalments. Ijara is a lease-to-own arrangement. Your lender explains which model fits under its Shariah board.",
+      "q": "What is the difference between Musharaka, Murabaha and Ijara?"
+    },
+    {
+      "a": "Yes — solo agents are a common starting point. The funnel is built around your real capacity: the local pages, the financing explainers and the WhatsApp flow all work whether you are one agent or a whole team. A solo realtor who answers fast beats a large brokerage that does not answer at all.",
+      "q": "I am a solo realtor. Can this still work?"
+    },
+    {
+      "a": "We serve Muslim realtors and halal-financing loan officers across the US, UK and Canada, with a focus on diaspora cities — Houston, Dearborn, Chicago, New Jersey and New York, Dallas, London and Toronto. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+      "q": "Which cities do you cover?"
+    }
+  ],
+  "image": "/images/blog/how-muslim-realtors-reach-halal-homebuyers-first.jpg",
+  "imageAlt": "Modern family home exterior at golden hour with a sold sign in the front yard, warm welcoming light",
+  "imageCaption": "The sign says sold. What it does not say is how many evenings of searching came before it — and which agent was found first.",
+  "related": [
+    {
+      "slug": "how-estate-attorneys-reach-muslim-families",
+      "title": "How Estate Attorneys Reach Muslim Families Before It Is Too Late"
+    },
+    {
+      "slug": "how-halal-food-businesses-get-found-first",
+      "title": "How Halal Food Businesses Get Found First on Google"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "The short answer first",
+      "paragraphs": [
+        "If you are a Muslim realtor or a halal-financing loan officer and want more qualified buyers to reach you, the honest answer is a system, not a single advert. A complete Google Business Profile, local pages that match the searches Muslim buyers actually type, plain-language pages that explain riba-free financing, and a pre-approval inquiry funnel that answers fast will do more for your pipeline than any one-off promotion. Muslim buyers are not browsing for inspiration — they are saving for the biggest purchase of their lives, they have one non-negotiable, and they are choosing the agent who understands it first.",
+        "That is the whole idea behind the service we run for Muslim realtors: a [Halal Homebuyer Funnel](/services/halal-homebuyer-funnel) that builds the profile, the local pages, the financing explainers and the inquiry flow for you, for $399 to $699 a month after a $1,000 to $2,000 build, starting with a free audit of what a Muslim buyer finds when they search for you today. Everything in this guide explains how that funnel works, what buyers actually search for, and what it can and cannot promise — so you can judge whether it fits your business before spending anything."
+      ]
+    },
+    {
+      "heading": "The family who almost bought with riba",
+      "paragraphs": [
+        "Picture a family in Houston. The parents are in their early thirties, two small children, renting a two-bedroom flat for five years, and they have finally saved enough for a deposit. They have looked at houses every weekend for two months. They have found one they love — three bedrooms, a garden, a masjid ten minutes away, a good school nearby. Then comes the question that stops everything: the financing. The bank's mortgage is riba, and they will not sign it. The agent showing them the house has never heard of Musharaka, has no lender to suggest, and changes the subject. The family walks away from the house they love, not because they cannot afford it, but because nobody in the room could answer their one question.",
+        "We see this pattern across every Muslim realtor market we audit, and it is rarely about the agent's skill. The invisible realtor usually assumes the problem is that Muslim buyers are too few, or too price-sensitive, or too hard to reach. They are none of those things. They are a proven, growing market — Guidance Residential alone has financed more than $12 billion for 45,000 families across 38 states, and US halal home financing is roughly a $500 million-a-year market — and they are searching every day. The problem is upstream: the realtors who understand them are invisible in the one place buyers look, and the realtors who are visible do not understand them.",
+        "There is a second, quieter cost. Every family that gives up on a halal purchase, or signs a conventional mortgage because nobody offered an alternative, is a family that will remember who helped them — and who did not. A buyer-agent commission on a $400,000 home is worth about $9,680 gross at the Q3 2025 rate of roughly 2.42%, before the brokerage split, so one closed deal covers a whole year of a retainer. But the real arithmetic is not the agent's: it is the family's. A home bought without riba is the biggest halal decision most families will ever make, and the agent who explains it plainly is the one they will choose — and recommend to every cousin, colleague and masjid friend they know."
+      ]
+    },
+    {
+      "bullets": [
+        "“Muslim realtor near me” — the highest-intent search in the whole system, typed by a buyer who has already decided to buy and is choosing who helps them",
+        "“Halal mortgage near me” or “halal home financing” plus a city — the search of a buyer whose first question is whether the financing is riba-free",
+        "“Riba-free mortgage” or “Islamic home financing” — the search of a buyer comparing models, often before they have chosen an agent at all",
+        "“First-time home buyer” plus “Muslim” or a city — the search of a young family starting from zero, looking for someone who will explain the steps"
+      ],
+      "heading": "What Muslim homebuyers actually search for",
+      "paragraphs": [
+        "Start with the searches, because they explain why this is worth fixing. Muslim buyers do not search the way agents think they search. They search in worry, in plain words, on a phone, in the evening — and they call the first result that explains it in language they understand. \"Muslim realtor near me\" is typed by a buyer who has already decided to buy. \"Halal mortgage near me\" is typed by a buyer whose first question is the financing. \"Riba-free mortgage\" is typed by a buyer comparing models before choosing an agent. And \"first-time home buyer\" with \"Muslim\" is typed by a young family starting from zero, looking for someone who will explain the steps without making them feel ignorant.",
+        "Two consequences follow. First, if your website is generic — \"homes for sale\" with no mention of halal financing, no Musharaka, no Murabaha, no first-time buyer guidance in a Muslim family's terms — you are absent from the exact searches that matter, even if you rank well for generic terms. The family searching for a Muslim realtor never sees you, because Google matches their words to your pages, and your pages do not have their words. Second, the buyer who does find you will compare your pages against competitors' pages — and judge you on clarity, honesty and ease of asking, not on the credentials they cannot verify. A page that explains the financing in plain language, states what the first step costs, and offers a question in one tap beats a better agent with a silent website, every time.",
+        "This is where a Muslim-specific realtor should win easily, and where most agents say almost nothing. A Muslim family choosing a realtor is checking a specific list — consciously or not. Do you understand riba-free financing, and can you explain it simply? Do you work with a licensed halal lender, and can you name them? What are the steps for a first-time buyer, and what does each one cost? Can you show homes near a masjid, near halal food, near the community they want to live in? Generic real-estate marketing agencies cannot write this list credibly, because they do not know which details matter, and general agents cannot deliver half of it."
+      ]
+    },
+    {
+      "heading": "The evening search: where the decision is made",
+      "paragraphs": [
+        "The decision to buy a home is almost never made in an office. It is made at home, in the evening, with the children nearby — usually after something happened: a rent increase, a second child, a parent moving closer, a friend who just bought. One partner reads, the other listens, and together they decide whether to call someone. That is the moment the funnel is built for, and it is the moment most realtor websites completely ignore.",
+        "So the funnel starts with the evening reader in mind. The landing pages are written in plain language, not agent language — short sentences, clear headings, no jargon without an explanation beside it. The riba-free financing explainer sits on the page, not behind a form: a family can read how Musharaka, Murabaha and Ijara work without giving an email address first, because trust is earned before it is asked for. And the pre-approval enquiry is one tap, on WhatsApp or a short form, with a clear statement of what happens next and what it costs. A family that finds their exact questions answered does not keep searching. They ask, they get an answer, and they come to you.",
+        "Notice what this list is: your daily working knowledge, the things you explain at every first viewing without thinking. A generic agency cannot write it, because it does not know which details a worried family checks first. And an agent who hides the financing question and the process until the family is already in the car is asking the most anxious buyers in the market to commit blind. Say it plainly on your pages. The evening reader is not shopping for the cheapest agent. They are shopping for the agent they can trust with the biggest purchase of their lives."
+      ]
+    },
+    {
+      "heading": "Riba-free financing, explained in plain words",
+      "paragraphs": [
+        "Most buyers who ask about halal financing do not want a lecture. They want a simple answer to a simple question: how do I buy a home without paying riba? There are three models their lender will usually offer, and the funnel explains all three in the same plain words you would use at a kitchen table. Musharaka is shared ownership: you and the financier buy the home together, and you gradually buy out their share while paying rent on the part you do not yet own. Murabaha is a cost-plus sale: the financier buys the home and sells it to you at a disclosed markup, which you pay in instalments. Ijara is a lease-to-own arrangement: you lease the home with an agreement to own it at the end.",
+        "Three things about these pages matter, and all three are boundaries. First, the pages explain; they do not advise. Which model fits a particular family is a question for their licensed lender, under that lender's own Shariah board — never for us, and never for the marketing copy. Second, the explanation is simple on purpose, because a family that understands the model in two minutes is a family ready to ask the next question. Third, the lender is named: a real, licensed provider with its own Shariah board, so the buyer can check the credentials themselves instead of taking anyone's word for it.",
+        "This is also where the short videos earn their place. A two-minute explainer called \"first home, without riba — what are the steps\" — in English, Urdu or Arabic, with no fatwa, just simple meaning — is the most shared thing a Muslim realtor can publish, because every young family wishes they had seen it before they started looking. It is shared in family groups, saved for later, and remembered when the time comes. And it costs the agent nothing but honesty: the video explains the steps, the financing models in simple words, and who to call, in the same plain voice the agent uses at a viewing."
+      ]
+    },
+    {
+      "heading": "The landing page that earns the pre-approval call",
+      "paragraphs": [
+        "A landing page for a Muslim homebuyer has one job: make the pre-approval enquiry feel easy. Everything on the page exists to serve that job, and everything else is removed. The headline says what you do, in the buyer's words. The first section answers the three questions every family asks: is the financing really riba-free, what are the steps, and what happens in the first call? The next section explains the process in four plain steps, with no agent jargon. And the enquiry is one tap — WhatsApp or a short form — with a clear statement that the first conversation is a conversation, not a commitment.",
+        "The pages behind the landing page do the same job for each search: a page for halal financing, a page for first-time buyers, a page for each city you serve — Houston, Dearborn, Chicago, New Jersey and New York, Dallas, London, Toronto — so Google has something real to rank when a family searches with a city attached. This is the same foundation any good website starts from: fast pages, clear services, your city named honestly. And because enquiries that arrive need answering fast, the same discipline as an instant lead response system applies: a buyer who messages and gets no answer for two days has already called someone else.",
+        "There is one more thing the page must do, and it is the hardest: it must sound like you. Families choosing an agent for the biggest purchase of their lives are listening for a voice they can trust, and a generic page written by an agency that does not understand riba-free financing will sound wrong in the first paragraph. So every page is written with your approved wording, checked against your own phrasing, and approved by you before it goes live. The same care applies to language: where your buyers speak Urdu or Arabic, the funnel speaks it too — because a family that is understood in its own language trusts the agent before the paperwork starts."
+      ]
+    },
+    {
+      "heading": "What the funnel must never do",
+      "paragraphs": [
+        "Every Muslim realtor we work with asks the same question, usually first: where is the line? The answer is that the line is absolute, and the funnel is built around it. We do not provide financing. We do not arrange loans. We do not give fatwas or religious rulings, and we do not present the financing explainers as advice. The funnel sends qualified buyers to you, a licensed agent, and to your licensed lender. Any Shariah reference on the pages is your lender's own Shariah board, never ours. A funnel that blurs that line is not a funnel — it is a liability, and we will not build one.",
+        "Two more boundaries are absolute. We never guarantee a number of closed deals, because closings depend on your listings, your prices, your local market and the buyer's financing — things no agency controls, and any agency that guarantees the top spot or a fixed number of sales is selling certainty that does not exist. And we never use pressure tactics: no countdown timers on a page about a family's home, no \"buy now or lose it\" headlines, no fake urgency. The pitch, if you can call it that, is trust: a family buying without riba deserves an agent who understands why it matters, and the funnel exists to make that agent findable.",
+        "The same honesty rule governs the whole funnel. No fake testimonials, no invented closings, no borrowed credentials. The proof on the page is the public arithmetic — Guidance Residential's $12 billion for 45,000 families, a roughly $500 million-a-year US halal financing market, and about $9,680 gross buyer-side on a $400,000 home — and the free audit that shows an agent exactly where they stand before spending anything. A family choosing an agent for their home is listening for honesty, and honesty is the one thing a funnel cannot fake."
+      ]
+    },
+    {
+      "heading": "What it costs, and what nobody can promise",
+      "paragraphs": [
+        "Our [Halal Homebuyer Funnel](/services/halal-homebuyer-funnel) is $399 to $699 a month depending on the scope of lead management and the number of cities you serve, with a one-time build of $1,000 to $2,000, starting with a free visibility audit so you see what buyers find today before committing. For scale: a single $400,000 home is worth about $9,680 gross buyer-side at the Q3 2025 commission of roughly 2.42%, so one closed deal covers a whole year of the funnel — and unlike an advert, the profile, pages and reviews you build keep working after the month ends. Message us on WhatsApp with your city and we will check your local competition as part of the audit.",
+        "Two boundaries, stated plainly. We never provide financing or give a fatwa — that stays entirely with your licensed lender and its own Shariah board. And nobody can guarantee a number of closings: enquiries depend on competition, reviews, listings and many factors outside any agency's control, and any agency that guarantees the top spot is selling certainty that does not exist. What we can promise is the work itself — pages buyers trust, financing explained plainly, replies that arrive fast, and steady activity — reported in plain monthly numbers, so you can judge us on your own diary filling up. The same discipline applies the moment an enquiry arrives, which is why an [instant lead response](/services/instant-lead-response) system matters, and the same funnel thinking works for any community service — it is the same discipline behind our [Islamic will and estate funnel](/services/islamic-will-estate-funnel) for attorneys. If this fits your business, the audit is free, and the first step is a message."
+      ]
+    }
+  ],
+  "service": "halal-homebuyer-funnel",
+  "slug": "how-muslim-realtors-reach-halal-homebuyers-first",
+  "title": "How Muslim Realtors Reach Halal Homebuyers First"
+}
+];
 
 export function getArticle(slug: string): Article | undefined {
   return ARTICLES.find((a) => a.slug === slug);

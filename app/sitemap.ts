@@ -5,12 +5,12 @@ export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
-    { url: `${SITE_URL}`, lastModified: "2026-11-06", changeFrequency: "weekly", priority: 1.0 },
-    { url: `${SITE_URL}/services`, lastModified: "2026-11-06", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 1.0 },
+    { url: `${SITE_URL}/services`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/work`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/tools`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/books`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog`, lastModified: "2026-11-06", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/about`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/contact`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/privacy-policy`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
@@ -54,6 +54,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/janaza-visibility`, lastModified: "2026-11-06", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/islamic-will-estate-funnel`, lastModified: "2026-11-06", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-muslim-funeral-homes-get-found-when-families-need-them`, lastModified: "2026-11-06", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-estate-attorneys-reach-muslim-families`, lastModified: "2026-11-06", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-estate-attorneys-reach-muslim-families`, lastModified: "2026-11-06", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/muslim-therapist-funnel`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-homebuyer-funnel`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-therapists-reach-clients-who-need-them`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-realtors-reach-halal-homebuyers-first`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 }
   ];
 }
