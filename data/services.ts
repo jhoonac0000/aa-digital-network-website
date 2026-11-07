@@ -1737,6 +1737,100 @@ export const SERVICES: Service[] = [
       { "after": "problem", "src": "/images/services/halal-homebuyer-funnel-search.jpg", "alt": "Smartphone in a person's hands showing a Google search for Muslim realtor near me with map results and business listings", "caption": "One search, one call. The realtor who appears with a complete profile, answered reviews and a working number is the one the family trusts in that moment." },
       { "after": "deliverables", "src": "/images/services/halal-homebuyer-funnel-keys.jpg", "alt": "Close-up of house keys being handed over a wooden table with a small sold sign and purchase documents, in warm light", "caption": "A single closed deal covers a whole year of the funnel. The pages, the explainers and the fast replies exist to make that handover happen." }
     ]
+  },
+  {
+    "slug": "gbp-fix-review-system",
+    "name": "GBP Fix + Review System",
+    "short": "A one-off fix of your Google Business Profile — categories, hours, photos, services, Q&A and posts — plus a simple review system (QR counter card, staff script, reply templates) so the customers already searching for you choose you. Starts with a free diagnostic scorecard.",
+    "problem": [
+      "When a customer searches “near me” on Google, they never see your shop, your kitchen or your waiting room. They see a profile: a star rating, a review count, a handful of photos, and whether the owner ever replies. That profile is where the decision is made — and for most independent businesses it is half-finished: wrong category, missing hours, three old photos, no services listed, and reviews sitting unanswered since last year.",
+      "Meanwhile the competitor a few streets away — not better, just better-kept — has 200 reviews, fresh photos and replies on everything, so Google shows them first and customers call them first. Research backs up how hard this hits: BrightLocal's 2026 consumer survey found that 47% of customers will not even consider a business with fewer than 20 reviews. Most owners know reviews matter; what they do not have is the time to fix the profile properly or a system that keeps new reviews coming. That is exactly the gap this service fills — a one-off fix, not another monthly retainer."
+    ],
+    "audiences": [
+      "Single-location restaurants and takeaways, including halal food businesses in the UK, US and Canada",
+      "Plumbers, HVAC and other home-service trades with one service area",
+      "Dentists, clinics and other single-location practices",
+      "Independent shops, salons and local services with a thin or neglected Google profile"
+    ],
+    "deliverables": [
+      "A free diagnostic scorecard first: your profile scored on 10 checks against your top local competitor, with the real numbers from Google Maps — before any price is mentioned",
+      "Categories corrected: the right primary category and useful secondary categories",
+      "Business hours and special hours set accurately — holidays, Ramadan hours and seasonal changes included where they apply",
+      "Services list built out, with prices where you provide them",
+      "Photos uploaded and put in the right order, cover and logo set, and a simple phone shot list for any gaps we flag",
+      "Website, menu and booking links checked and fixed",
+      "Attributes set where true — halal, women-owned, wheelchair access, payment methods",
+      "Q&A seeded with the five questions customers actually ask, answered in your words",
+      "Business description rewritten (750 characters, keyword-natural, no stuffing) and your first two Google Posts written and published",
+      "Review system: your direct review link created and tested, a print-ready QR card for the counter or receipt, one polite sentence for staff to say at payment, and a WhatsApp/SMS template to send after a job",
+      "Review reply templates — three positive, two neutral, two negative — calm and professional, plus a one-page sheet on checking and replying to new reviews each week",
+      "Before-and-after screenshots of your profile, so you can see every change we made"
+    ],
+    "proof": "The proof is the scorecard itself. Before you pay anything, we score your profile against your top local competitor on 10 checks — review count, rating, photos, hours, categories, services, Q&A, owner replies, recent posts and your website link — using your real, same-day Google Maps numbers. You keep the scorecard either way, and you can hand it to anyone. If we cannot complete the fixes listed in your scorecard, you pay nothing further and we refund your deposit. Completed work that is live on your profile is not refundable — you can see every change before the balance is due.",
+    "priceLabel": "$149–$299 one-off (+ optional care plan $99–$199/mo)",
+    "priceNote": "The fix is $149 for a single small profile, $199 standard, and $299 for a fuller profile with multiple service areas or heavy photo work. The exact fixed price is quoted after your free scorecard — never before, and never hourly. Terms are 50% upfront via Payoneer and 50% on delivery. The optional care plan ($99–$199/month, billed monthly in advance) covers a weekly Google Post, review replies drafted for your approval, a one-page monthly report and photo and hours updates as needed.",
+    "process": [
+      {
+        "title": "Free scorecard",
+        "text": "Message us on WhatsApp with your business name and city. We check your profile against your top local competitor on 10 checks and send you the one-page scorecard — free, no obligation, yours to keep."
+      },
+      {
+        "title": "Fixed quote and access",
+        "text": "If you want the fixes done, we quote one fixed price from the scorecard. On your go-ahead and the 50% upfront payment, you add us as a Manager on your Google Business Profile — we never ask for your password."
+      },
+      {
+        "title": "The fix and the review system",
+        "text": "We work through the scorecard in order — categories, hours, links, services, attributes, description, photos, Q&A, posts — then set up the review link, QR card, staff script and reply templates. Our target is seven days from upfront payment to handover; most simple profiles are done in two to three."
+      },
+      {
+        "title": "Walkthrough and optional care plan",
+        "text": "You receive before-and-after screenshots and a short walkthrough: what changed, how to use the QR card and templates, and how to check reviews weekly. If you want us to keep it running, the care plan is offered once — a no is final, with no repeat pitching."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What exactly is included in the fix?",
+        "a": "Everything on your scorecard that is marked fixable: categories, hours and special hours, services list, photo upload and ordering with a shot list for gaps, website/menu/booking links, true attributes, your Q&A seeded with five real customer questions, a rewritten business description, and your first two Google Posts. The review system is included in the same price: tested review link, print-ready QR card, a staff request script, an after-job message template, seven review reply templates and a one-page weekly routine sheet."
+      },
+      {
+        "q": "How is my price decided?",
+        "a": "From the scorecard, not from a sales call. A single small takeaway or shop profile is $149, a standard profile is $199, and a fuller profile with multiple service areas or heavy photo work is $299. We quote the exact fixed figure after the free diagnostic and before you commit to anything, so the price depends only on how much of the scorecard you want done. Payment is 50% upfront via Payoneer and 50% on delivery."
+      },
+      {
+        "q": "Do you need my Google password?",
+        "a": "Never — no exceptions. You add our working email as a Manager on your Google Business Profile, which lets us make the edits while you stay the owner and can remove us at any time. If you would rather not grant access at all, we can supply a guided fix list from your scorecard instead, and you or your staff apply the changes yourselves."
+      },
+      {
+        "q": "Do you guarantee more reviews or the top spot on Google?",
+        "a": "No, and you should distrust any agency that does. Rankings and review counts depend on your customers, your competition and Google — things no agency controls. What we guarantee is the work: a complete, accurate profile and a working system that makes it easy for real customers to leave honest reviews. We never buy reviews, write fake ones or use gating tricks — those risk your profile, and they are against Google's rules and ours."
+      },
+      {
+        "q": "What does the care plan add?",
+        "a": "The care plan ($99–$199 a month, billed monthly in advance) keeps the profile alive after the fix: one Google Post written and published every week, replies to new reviews drafted for your approval — or posted directly if you grant that permission — a one-page monthly report covering review count, rating, search views and calls or directions from your profile insights, and photo and hours updates whenever they change, including holiday and Ramadan hours. It is optional, and you can start or stop it month to month."
+      }
+    ],
+    "related": [
+      "halal-local-seo",
+      "appointment-reminders-reviews"
+    ],
+    "isNew": true,
+    "image": "/images/services/gbp-fix-review-system-hero.jpg",
+    "imageAlt": "Owner of a small halal takeaway behind his counter in the evening, looking at a smartphone showing his Google Maps business listing and star rating",
+    "imageCaption": "Your profile is your shopfront in the moment a customer searches. This service fixes that shopfront — once, properly — and sets up the system that keeps reviews coming.",
+    "extraImages": [
+      {
+        "after": "problem",
+        "src": "/images/services/gbp-fix-review-system-reviews.jpg",
+        "alt": "Smartphone on a restaurant counter beside the till, its screen showing customer reviews with star ratings and no owner replies",
+        "caption": "Unanswered reviews are a public conversation you are not part of. Customers read the silence as an answer — and choose the business that replies."
+      },
+      {
+        "after": "deliverables",
+        "src": "/images/services/gbp-fix-review-system-qr-card.jpg",
+        "alt": "Printed counter card with a large QR code and five stars standing on a shop counter beside the card payment terminal",
+        "caption": "The review system in one object: a QR card at the till, one polite sentence from staff, and a short link that takes a happy customer straight to the review box."
+      }
+    ]
   }
 ];
 

@@ -2324,7 +2324,139 @@ export const ARTICLES: Article[] = [
   "service": "halal-homebuyer-funnel",
   "slug": "how-muslim-realtors-reach-halal-homebuyers-first",
   "title": "How Muslim Realtors Reach Halal Homebuyers First"
-}
+},
+  {
+    "excerpt": "Most local customers are won or lost on a Google profile, not on the premises. Here is what we check on yours, what we fix, and the review system we set up — and what nobody can honestly promise.",
+    "extraImages": [
+      {
+        "after": "The gap is rarely about quality",
+        "alt": "Small business owner at a desk in the back office of his shop, looking at a laptop comparing two business profiles side by side with review counts and star ratings",
+        "caption": "The scorecard moment: your profile beside your top competitor's, check by check. Most owners have never seen the two side by side — and the gap surprises almost all of them.",
+        "src": "/images/blog/why-local-businesses-lose-customers-on-google-2.jpg"
+      },
+      {
+        "after": "Reviews need a system, not a favour",
+        "alt": "Happy customer at a takeaway counter scanning a QR code on a small counter card with a smartphone, smiling staff member behind the counter",
+        "caption": "A happy customer, a card on the counter, ten seconds. That is the whole system — the review happens because asking was made effortless, not because anyone begged.",
+        "src": "/images/blog/why-local-businesses-lose-customers-on-google-3.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "The one-off fix is $149 for a single small profile, $199 standard, and $299 for a fuller profile with multiple service areas or heavy photo work. We quote your exact fixed price after the free diagnostic scorecard and before you commit to anything — never hourly, never a surprise. Payment is 50% upfront via Payoneer and 50% on delivery. An optional care plan at $99 to $199 a month keeps posts, review replies and reporting running afterwards.",
+        "q": "How much does the GBP Fix + Review System cost?"
+      },
+      {
+        "a": "No — nobody honestly can. Your position on Google depends on distance, competition, your review history and Google's own decisions, and your review count depends on your customers. What we promise is the work itself: a complete and accurate profile, every fixable scorecard item done, and a working review system that makes it easy for real customers to leave honest reviews. If we cannot complete the fixes listed in your scorecard, you pay nothing further and we refund your deposit.",
+        "q": "Will this put us at number one on Google, or guarantee a number of new reviews?"
+      },
+      {
+        "a": "Never, under any circumstances. You add our working email as a Manager on your Google Business Profile, which gives us editing access while you remain the owner — you can see everything we change and remove our access at any time. If you prefer not to grant access, we will work from your scorecard as a guided fix list that you or your staff apply yourselves. Any agency that asks for your password is asking for something it does not need.",
+        "q": "Do you need our Google account password to do the work?"
+      },
+      {
+        "a": "Yes — that is the entire design. The system makes it easy for genuine customers to leave honest reviews: a QR card at the counter, one polite sentence from staff at payment, and a short message after a job with your direct review link. We never buy reviews, write them, offer incentives for them or filter out unhappy customers before they can review — those tricks break Google's policies and can get a profile suspended, and they are against our own rules as well.",
+        "q": "Are the reviews from this system real?"
+      },
+      {
+        "a": "Our target is seven days from the upfront payment to a completed fix and review-system handover, and simple profiles are usually finished in two to three days. One honest caveat: the seven days cover our work, not Google's review queue — Google sometimes takes a few days to approve edits or verify changes, and no agency can speed that up. You receive before-and-after screenshots of your profile in Maps view and search view, so you can see exactly what changed.",
+        "q": "How long does the fix take?"
+      }
+    ],
+    "image": "/images/blog/why-local-businesses-lose-customers-on-google.jpg",
+    "imageAlt": "Customer on a British high street in the early evening looking at a smartphone map search, with two small independent takeaways side by side behind them",
+    "imageCaption": "Two businesses, one search. The customer is not comparing your food, your prices or your premises — they are comparing two profiles, and the decision takes seconds.",
+    "related": [
+      {
+        "slug": "how-halal-food-businesses-get-found-first",
+        "title": "How Halal Food Businesses Get Found First on Google"
+      },
+      {
+        "slug": "how-small-clinics-win-patients-with-shorts",
+        "title": "How Small Clinics Win Patients With Short-Form Video"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The decision happens before the phone rings",
+        "paragraphs": [
+          "Here is a scene we see every week. A family is driving home, hungry, and someone in the car searches “halal takeaway near me”. Google shows three profiles. The first has 212 reviews at 4.6 stars, bright food photos and an owner who replies to everyone. The second — the better kitchen, as it happens — has 34 reviews at 4.4, no menu, two dark photos from 2021 and not a single reply. The family taps the first one. The second business never knows it was considered, let alone why it lost.",
+          "That is the uncomfortable arithmetic of local search: customers judge the profile, not the premises, because the profile is all they can see. The consumer research agrees with the scene. BrightLocal's 2026 survey found that 47% of customers will not even consider a business with fewer than 20 reviews, and a large majority want to see a rating of four stars or better before they trust a place. A business can be excellent at everything it actually does and still lose the customer in the ten seconds before the phone would have rung.",
+          "We run AA Digital Network's [GBP Fix + Review System](/services/gbp-fix-review-system) because this is the single most fixable problem in local marketing. You cannot quickly become a different business — but your profile can be corrected, completed and given a working review system in about a week. This article explains exactly what we check, what we change, and what we will never promise you."
+        ]
+      },
+      {
+        "heading": "The gap is rarely about quality",
+        "paragraphs": [
+          "When we build a diagnostic scorecard for a business, the finding is almost never “your competitor is better than you”. It is “your competitor's profile is looked after, and yours is not”. The top local competitor usually has more reviews simply because they ask, more photos because someone uploads them, correct hours because someone maintains them, and replies on reviews because someone treats that as part of the job. None of that requires a bigger business. It requires a system.",
+          "The typical gaps we find are unglamorous: the primary category is wrong (a grill house listed as a generic restaurant), holiday and Ramadan hours were never set, the menu link goes to a dead page, there is no Q&A section at all, and the last Google Post — if there ever was one — is from two summers ago. Each gap is small. Together they tell a searching customer a story: this place may not even be open, and nobody here is paying attention.",
+          "That story is why we insist the scorecard comes first. Until an owner sees their own profile beside the competitor's, check by check, “fix your Google profile” sounds like agency talk. Afterwards it is just a list — and lists can be worked through."
+        ]
+      },
+      {
+        "heading": "What we check: the ten-point scorecard",
+        "paragraphs": [
+          "Every engagement starts with a free diagnostic scorecard: your profile scored 0, 1 or 2 on ten checks, with your top local competitor's numbers beside yours, taken from Google Maps the same day. No invented figures, no estimates dressed up as data — your real numbers, which is exactly why it works as a trust mechanism. The ten checks are:",
+          "The scorecard is yours to keep whether or not you hire us, and you can hand it to any other agency — the numbers will still be true. If you do hire us, the scorecard becomes the work order: every item marked fixable is something we fix, and the fixed price we quote depends only on how much of the list you want done."
+        ],
+        "bullets": [
+          "Review count vs your top competitor — the exact numbers, side by side",
+          "Rating gap — your stars against theirs",
+          "Photos — how many, how recent, and whether they show the food, the premises and the team",
+          "Hours accuracy — standard hours plus special hours for holidays and Ramadan where they apply",
+          "Categories — the correct primary category and the useful secondary ones",
+          "Services or menu listed on the profile itself",
+          "Q&A section — real customer questions, answered by the owner",
+          "Owner replies to reviews — present, recent and professional",
+          "Google Posts — anything published in the last 30 days",
+          "Website, menu or booking link — present and actually working"
+        ]
+      },
+      {
+        "heading": "The fix: what we change, in order",
+        "paragraphs": [
+          "The fix follows the scorecard, in a deliberate order. Categories come first, because the primary category is one of the strongest signals telling Google which searches you belong in. Then hours and special hours, because “open now” is a filter customers apply without thinking. Then the links — website, menu, booking — because a customer who taps through to a dead page does not tap back. Services and menu items go onto the profile itself, true attributes are set (halal, women-owned, wheelchair access, payment methods — only where they genuinely apply), and the business description is rewritten in plain, keyword-natural language within Google's 750-character limit.",
+          "Photos get the most care after categories. We upload and order the owner's real photos, set the cover and logo, and where the gaps are — no food shots, no exterior shot for finding the door — we send a short shot list the owner can cover with a phone in ten minutes. We then seed the Q&A with the five questions customers actually ask that business, answered in the owner's own words, and write and publish the first two Google Posts so the profile looks alive from day one. Before-and-after screenshots, in Maps view and search view, close the job: you see every change, not a summary of changes.",
+          "One honest caveat belongs here: our seven-day handover target covers our work, not Google's review queue. Google sometimes takes days to approve an edit, and no agency can jump that queue. Any agency that promises you instant changes is promising something it does not control."
+        ]
+      },
+      {
+        "heading": "Reviews need a system, not a favour",
+        "paragraphs": [
+          "Asking for reviews fails when it depends on memory and mood — a busy Saturday wipes out good intentions. So the second half of this service is a small, physical system. We create and test your direct review link, design a print-ready QR card for the counter or the receipt, and give staff one polite sentence to say at payment — plus a short WhatsApp or SMS template the owner can send after a job, while the good experience is still fresh. The customer does the rest in under a minute.",
+          "Replies matter as much as requests, so the system includes seven reply templates — three for positive reviews, two for neutral, two for negative — written calm and professional, never defensive, and a one-page sheet for the weekly ten minutes of checking and replying. A replied-to review is read by every future customer who finds it; in that sense every reply is a small piece of marketing that stays public for years.",
+          "The boundaries here are absolute, and they protect you. We never buy reviews, never write them, never offer incentives, and never steer unhappy customers away from reviewing — review gating and fake reviews break Google's policies and can get a profile suspended, quite apart from being dishonest. The system only makes it easier for real customers to say what they already think. That is slower than cheating. It is also the only version that lasts."
+        ]
+      },
+      {
+        "heading": "Why the scorecard comes before any price",
+        "paragraphs": [
+          "Most agencies ask you to trust a pitch. We would rather show you a document. The scorecard carries your own numbers, checked the same day, against a competitor you can verify yourself in two minutes on your own phone. If our numbers are wrong, you will catch it — and that verifiability is the point. It is also why the fixed price is only quoted after the diagnostic: a profile missing two items should not cost the same as a profile missing nine, and nobody can honestly price your fix before seeing it.",
+          "The same honesty runs through the terms. Payment is 50% upfront via Payoneer and 50% on delivery. If we cannot complete the fixes listed in your scorecard, you pay nothing further and we refund your deposit; completed work that is live on your profile is not refundable, and you can see every change before the balance is due. No hourly billing, no open-ended retainer required to get the fix done, and no hostage-taking: you stay the owner of your profile throughout, adding us as a Manager — we never ask for your password, and you can remove our access the moment the job is done.",
+          "It is the same approach we take with our ongoing [halal local SEO](/services/halal-local-seo) work for food businesses: audit first, plain numbers, and the client judging the work rather than the promise. The difference here is scope and shape — this is a one-off fix with a clear end, built for a business that does not want another monthly bill."
+        ]
+      },
+      {
+        "heading": "What it costs, and what nobody can promise",
+        "paragraphs": [
+          "The fix is $149 for a single small profile, $199 standard, and $299 for a fuller profile with multiple service areas or heavy photo work — quoted fixed after the free scorecard, before you commit to anything. If you want the profile kept alive afterwards, the optional care plan runs $99 to $199 a month: a weekly Google Post, review replies drafted for your approval, a one-page monthly report (review count, rating, search views, calls and directions from your profile insights), and photo and hours updates whenever they change, including holiday and Ramadan hours. It is offered once, and a no is final.",
+          "And here is what nobody can promise you, us included: a number-one ranking, a specific number of new reviews, or a specific number of new customers. Rankings move with distance, competition and Google's own decisions; reviews depend on your customers actually being asked and actually bothering. An agency that guarantees those numbers is guaranteeing things it does not control — which means the guarantee is the product, not the work. What we guarantee is narrower and real: the fixes on your scorecard, done properly, evidenced with before-and-after screenshots, with your deposit refunded if we cannot complete them.",
+          "For scale, consider what one regular customer is worth to a takeaway, a plumber or a dentist over a year — and that the searches this profile appears in are already happening, tonight, whether your profile is ready or not. The fix does not create demand. It stops demand that already exists from walking to the profile next door. Where the enquiry that results needs an answer within minutes, the same thinking powers our [instant lead response](/services/instant-lead-response) work — attention won on Google is easily lost in an unanswered inbox."
+        ]
+      },
+      {
+        "heading": "Who this is for — and who it is not for",
+        "paragraphs": [
+          "This service is built for single-location, owner-run businesses whose customers find them on Google Maps: independent restaurants and takeaways (including halal businesses, where Ramadan hours, Friday timings and a correct halal attribute are details generic agencies routinely miss), plumbers, HVAC firms and other trades, dentists and clinics, and independent shops and salons. If your profile has under 30 reviews while a nearby competitor has 100 or more, missing photos, wrong hours or unanswered reviews, you are exactly who the scorecard was designed for.",
+          "It is not for chains and franchises — head offices control those profiles, decisions take months, and a one-off fix cannot move them. It is also not for a business looking to buy its way to five stars: we will not sell you reviews, and if that is the service you want, we are the wrong agency and will say so in the first message.",
+          "If it is for you, the first step costs nothing and commits you to nothing: message us on WhatsApp with your business name and city, and we will send your scorecard — your profile against your top competitor, ten checks, real numbers. Keep it, hand it to someone else, or ask us to work through it with you. Either way, you will know exactly where your business stands on Google, which is more than most owners ever get told."
+        ]
+      }
+    ],
+    "service": "gbp-fix-review-system",
+    "slug": "why-local-businesses-lose-customers-on-google",
+    "title": "Why Local Businesses Lose Customers on Google — Before the Phone Ever Rings"
+  }
 ];
 
 export function getArticle(slug: string): Article | undefined {

@@ -58,6 +58,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/muslim-therapist-funnel`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/halal-homebuyer-funnel`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-muslim-therapists-reach-clients-who-need-them`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-realtors-reach-halal-homebuyers-first`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-realtors-reach-halal-homebuyers-first`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/gbp-fix-review-system`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/why-local-businesses-lose-customers-on-google`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 }
   ];
 }

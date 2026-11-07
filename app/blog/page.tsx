@@ -130,6 +130,13 @@ export default function BlogPage() {
           </div>
 
 ================================================================================
+<div className="card" key="why-local-businesses-lose-customers-on-google">
+            <img className="card-img" src="/images/blog/why-local-businesses-lose-customers-on-google.jpg" alt="Customer on a British high street in the early evening looking at a smartphone map search, with two small independent takeaways side by side behind them" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/why-local-businesses-lose-customers-on-google">Why Local Businesses Lose Customers on Google — Before the Phone Ever Rings</Link></h3>
+            <p>Most local customers are won or lost on a Google profile, not on the premises. Here is what we check on yours, what we fix, and the review system we set up.</p>
+            <p className="small"><Link href="/services/gbp-fix-review-system">Related service →</Link></p>
+          </div>
+
       </div>
     </div>
   );
