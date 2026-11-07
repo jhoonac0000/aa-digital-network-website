@@ -1,0 +1,66 @@
+# AA Digital Network
+
+> AA Digital Network is a digital services agency that helps small businesses, clinics, schools, nonprofits and faith-aware brands get found online and turn visitors into enquiries. Services include website development, SEO (including GEO — visibility in AI search answers), guest posting and backlinks, short-form video, AI automation, and done-for-you lead funnels for specific niches such as halal food, Muslim schools, daycares, wedding planners, funeral homes and estate attorneys. Every service page states honestly what is included and what is not guaranteed.
+
+Site: https://aa-digital-network-website.pages.dev/
+Contact is via the contact page on the site.
+
+## Core Services
+
+- [Website Development](https://aa-digital-network-website.pages.dev/services/website-development): Fast, SEO-ready websites for small businesses — built to bring enquiries, not just look good.
+- [Digital Ad Videos](https://aa-digital-network-website.pages.dev/services/ad-videos): Short social media ad videos in Urdu and English that stop the scroll and explain your offer fast.
+- [Guest Posting & Backlinks](https://aa-digital-network-website.pages.dev/services/guest-posting): Real guest posts on real sites — original articles that earn backlinks and referral traffic.
+- [White-Label SEO](https://aa-digital-network-website.pages.dev/services/white-label-seo): SEO done under your agency's brand — reports, content and links your clients see as yours.
+- [Short-Form Video Editing](https://aa-digital-network-website.pages.dev/services/video-editing): Reels and Shorts edited to hold attention — clean cuts, captions, hooks and pacing that fit each platform.
+- [AI Automation](https://aa-digital-network-website.pages.dev/services/automation): Practical AI and workflow automation that answers leads fast, books appointments and removes repetitive work.
+- [ADA Accessibility Audits](https://aa-digital-network-website.pages.dev/services/ada-accessibility): Website accessibility audits and fixes to WCAG 2.2 AA.
+- [Email Deliverability Audit](https://aa-digital-network-website.pages.dev/services/email-deliverability-audit): Find out exactly why your emails land in spam — and get a prioritised fix list to reach the inbox again.
+- [Medical Billing Lead Generation](https://aa-digital-network-website.pages.dev/services/medical-billing-leads): Researched leads for US medical billing services — practices that actually need billing help.
+- [Grant Prospect Research](https://aa-digital-network-website.pages.dev/services/grant-prospect-research): A researched shortlist of grants your organisation can actually win — matched to your mission, budget and eligibility.
+- [Urdu AI Data Studio](https://aa-digital-network-website.pages.dev/services/urdu-ai-data-studio): Clean, quality-checked Urdu text and audio data for AI teams.
+- [Research Support Services](https://aa-digital-network-website.pages.dev/services/research-support-services): Honest, practical help for researchers — finding the gap, shaping the paper, and getting it submission-ready.
+- [AI Virtual Try-On](https://aa-digital-network-website.pages.dev/services/ai-virtual-try-on): Done-for-you virtual try-on for fashion brands and clothing stores.
+
+## Niche Lead Funnels & Retainers
+
+- [Done-for-You Clinic Shorts](https://aa-digital-network-website.pages.dev/services/clinic-shorts-retainer): Twelve ready Shorts and Reels a month for small dental, therapy and family clinics.
+- [Halal Local SEO](https://aa-digital-network-website.pages.dev/services/halal-local-seo): Google Business Profile management, local SEO and review replies for halal restaurants, butcheries and food businesses.
+- [Instant Lead Response & Follow-Up](https://aa-digital-network-website.pages.dev/services/instant-lead-response): AI automation that replies to every new enquiry in about a minute, alerts you instantly, and follows up politely.
+- [Appointment Reminders & Review Requests](https://aa-digital-network-website.pages.dev/services/appointment-reminders-reviews): Automatic appointment reminders that cut no-shows, plus a polite review request after every visit.
+- [Muslim Daycare Enrollment Funnel](https://aa-digital-network-website.pages.dev/services/muslim-daycare-enrollment): Done-for-you enrollment funnel for Muslim daycares and Islamic preschools — local search and faith-aware pages.
+- [Islamic Schools Admissions Funnel](https://aa-digital-network-website.pages.dev/services/islamic-schools-admissions): Enrollment landing pages, virtual tour videos and a WhatsApp inquiry funnel for private Islamic schools.
+- [Halal Wedding Booking Funnel](https://aa-digital-network-website.pages.dev/services/halal-wedding-booking): Done-for-you booking funnel for Muslim wedding planners — local search, faith-aware pages and consultation booking.
+- [Halal Beauty Sales Funnel](https://aa-digital-network-website.pages.dev/services/halal-beauty-sales-funnel): Done-for-you sales funnel for small halal skincare and beauty brands.
+- [Diaspora-Language Intake Funnel](https://aa-digital-network-website.pages.dev/services/diaspora-language-intake): Native-language landing pages and WhatsApp intake for US and UK immigration lawyers — Arabic, Urdu and Bengali.
+- [Janaza Visibility Retainer](https://aa-digital-network-website.pages.dev/services/janaza-visibility): Done-for-you local visibility for Muslim funeral homes, Islamic cemeteries and masjid janaza committees.
+- [Islamic Will & Estate Lead Funnel](https://aa-digital-network-website.pages.dev/services/islamic-will-estate-funnel): Done-for-you lead funnel for estate attorneys and Islamic-will services — local SEO and a Faraid-calculator lead magnet.
+
+## Articles
+
+- [Why Your Cold Emails Go to Spam](https://aa-digital-network-website.pages.dev/blog/why-your-cold-emails-go-to-spam)
+- [Email Deliverability Checklist Before Your Next Campaign](https://aa-digital-network-website.pages.dev/blog/email-deliverability-checklist-before-your-next-campaign)
+- [How to Find Grants That Fit Your Nonprofit](https://aa-digital-network-website.pages.dev/blog/how-to-find-grants-that-fit-your-nonprofit)
+- [What Grant Prospect Research Looks Like](https://aa-digital-network-website.pages.dev/blog/what-grant-prospect-research-looks-like)
+- [Why Urdu AI Datasets Fail](https://aa-digital-network-website.pages.dev/blog/why-urdu-ai-datasets-fail)
+- [Building Urdu Voice and Text Data for AI](https://aa-digital-network-website.pages.dev/blog/building-urdu-voice-and-text-data-for-ai)
+- [How to Find a Research Gap for Your Paper](https://aa-digital-network-website.pages.dev/blog/how-to-find-a-research-gap-for-your-paper)
+- [From Idea to Published Paper](https://aa-digital-network-website.pages.dev/blog/from-idea-to-published-paper)
+- [How Small Clinics Win Patients with Shorts](https://aa-digital-network-website.pages.dev/blog/how-small-clinics-win-patients-with-shorts)
+- [How Halal Food Businesses Get Found First](https://aa-digital-network-website.pages.dev/blog/how-halal-food-businesses-get-found-first)
+- [How Immigration Lawyers Reach Clients in Their Own Language](https://aa-digital-network-website.pages.dev/blog/how-immigration-lawyers-reach-clients-in-their-own-language)
+- [How Islamic Schools Fill Every Seat](https://aa-digital-network-website.pages.dev/blog/how-islamic-schools-fill-every-seat)
+- [How Muslim Wedding Planners Get More Bookings](https://aa-digital-network-website.pages.dev/blog/how-muslim-wedding-planners-get-more-bookings)
+- [How Halal Beauty Brands Get More Sales](https://aa-digital-network-website.pages.dev/blog/how-halal-beauty-brands-get-more-sales)
+- [How Muslim Funeral Homes Get Found When Families Need Them](https://aa-digital-network-website.pages.dev/blog/how-muslim-funeral-homes-get-found-when-families-need-them)
+- [How Estate Attorneys Reach Muslim Families](https://aa-digital-network-website.pages.dev/blog/how-estate-attorneys-reach-muslim-families)
+
+## Site Pages
+
+- [Services Index](https://aa-digital-network-website.pages.dev/services)
+- [Our Work](https://aa-digital-network-website.pages.dev/work)
+- [Tools](https://aa-digital-network-website.pages.dev/tools)
+- [Books](https://aa-digital-network-website.pages.dev/books)
+- [About](https://aa-digital-network-website.pages.dev/about)
+- [Contact](https://aa-digital-network-website.pages.dev/contact)
+- [Privacy Policy](https://aa-digital-network-website.pages.dev/privacy-policy)
+- [Terms](https://aa-digital-network-website.pages.dev/terms)
