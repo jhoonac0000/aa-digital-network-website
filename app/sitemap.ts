@@ -6,11 +6,11 @@ export const dynamic = "force-static";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: `${SITE_URL}`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 1.0 },
-    { url: `${SITE_URL}/services`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services`, lastModified: "2026-11-08", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/work`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/tools`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/books`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog`, lastModified: "2026-11-08", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/about`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/contact`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/privacy-policy`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
@@ -60,6 +60,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/blog/how-muslim-therapists-reach-clients-who-need-them`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-muslim-realtors-reach-halal-homebuyers-first`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/gbp-fix-review-system`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/why-local-businesses-lose-customers-on-google`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/why-local-businesses-lose-customers-on-google`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/faith-aware-home-care`, lastModified: "2026-11-08", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-wealth-funnel`, lastModified: "2026-11-08", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-home-care-agencies-reach-families-first`, lastModified: "2026-11-08", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-financial-advisors-reach-halal-investors`, lastModified: "2026-11-08", changeFrequency: "weekly", priority: 0.8 }
   ];
 }

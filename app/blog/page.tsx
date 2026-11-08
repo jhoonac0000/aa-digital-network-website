@@ -137,6 +137,21 @@ export default function BlogPage() {
             <p className="small"><Link href="/services/gbp-fix-review-system">Related service →</Link></p>
           </div>
 
+<div className="card" key="how-muslim-home-care-agencies-reach-families-first">
+            <img className="card-img" src="/images/blog/how-muslim-home-care-agencies-reach-families-first.jpg" alt="Elderly Muslim couple sitting together on a sofa in a bright living room at home, a kind caregiver preparing tea in the kitchen in the background" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-home-care-agencies-reach-families-first">How Muslim Home-Care Agencies Reach the Families Who Need Them First</Link></h3>
+            <p>A typical home-care client is worth about $18,200 in revenue over six months — yet most Muslim home-care agencies are invisible on Google. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/faith-aware-home-care">Related service →</Link></p>
+          </div>
+
+================================================================================
+<div className="card" key="how-muslim-financial-advisors-reach-halal-investors">
+            <img className="card-img" src="/images/blog/how-muslim-financial-advisors-reach-halal-investors.jpg" alt="Muslim family with two children sitting together at a dining table at home in the evening, reviewing savings and education plans in a notebook" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-financial-advisors-reach-halal-investors">How Muslim Financial Advisors Reach Halal Investors First</Link></h3>
+            <p>A single $100,000 client is worth roughly $1,000 a year in recurring fees — yet most independent Muslim advisors are invisible on Google. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/halal-wealth-funnel">Related service →</Link></p>
+          </div>
+
       </div>
     </div>
   );

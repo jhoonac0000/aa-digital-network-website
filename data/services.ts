@@ -1831,6 +1831,170 @@ export const SERVICES: Service[] = [
         "caption": "The review system in one object: a QR card at the till, one polite sentence from staff, and a short link that takes a happy customer straight to the review box."
       }
     ]
+  }  ,
+  {
+    "audiences": [
+      "Muslim home-care agencies in the US and UK",
+      "Halal home-care providers serving elderly clients at home",
+      "Small care agencies with bilingual staff but English-only marketing",
+      "New home-care agencies launching in diaspora cities"
+    ],
+    "deliverables": [
+      "Google Business Profile optimisation: correct categories, services, hours and photos, so \"Muslim home care near me\" and \"halal home care\" find you first",
+      "Local SEO pages for your city and services — elderly care at home, dementia support, respite care, live-in care — in the words families actually search",
+      "Faith-aware landing pages: halal meals, prayer-time respect, same-gender caregiver option, Urdu and Arabic-speaking caregiver matching — written with your approved wording",
+      "A family inquiry and callback funnel built for the adult child who decides: one clear action, a same-day callback promise, and a plain explanation of what the first assessment covers",
+      "Dignified trust-building short videos — caregiver introductions and dignity-first messaging — with no client ever filmed, photographed or named",
+      "A free family visibility audit first: what a Muslim family finds when they search for home care in your city today",
+      "Review management: asking grateful families at the right time, and answering every review with care",
+      "A short monthly report: enquiries, callbacks, assessments booked, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Young Muslim woman in hijab sitting on a sofa at home in the evening, holding a smartphone and searching for home care for her elderly father",
+        "caption": "One search, one decision, made late at night by a daughter who is worried and in a hurry. The agency with a complete profile and a working callback is the one she trusts in that moment.",
+        "src": "/images/services/faith-aware-home-care-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Friendly care agency coordinator at a bright office desk on a phone call with a family, smiling warmly, with a laptop showing a care schedule calendar",
+        "caption": "The callback is the whole funnel in miniature: one clear action, one honest answer, and an agency that picks up. Everything else exists to make this moment easy.",
+        "src": "/images/services/faith-aware-home-care-family-call.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not provide home care, nursing or any medical service, and we make no medical or outcome claims of any kind. We build the funnel that brings you qualified family enquiries and assessment bookings. The care itself, and every clinical decision, stays entirely with you as the licensed agency.",
+        "q": "Do you provide home care or medical care?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Enquiries depend on your fees, your capacity, your reputation and your local market — things no agency controls. What we promise is the work that earns enquiries: pages families trust, a profile they can find, and callbacks that arrive fast.",
+        "q": "Do you guarantee a number of new clients?"
+      },
+      {
+        "a": "Never. No client photo, video, story or identifying detail is ever used in any page, video or post we make for you — not with permission, not anonymised, not at all. Your marketing is built entirely from your own caregivers' introductions, your service and your own voice.",
+        "q": "Will you film or photograph our clients for marketing?"
+      },
+      {
+        "a": "We serve Muslim home-care agencies across the US, UK and Canada — including New York and New Jersey, Houston, Chicago, Dearborn in Michigan, London, Birmingham and Toronto — in any city with Muslim families searching for faith-aware care at home. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+        "q": "Which cities do you cover?"
+      }
+    ],
+    "image": "/images/services/faith-aware-home-care-hero.jpg",
+    "imageAlt": "Kind professional home caregiver in a modest uniform gently helping a smiling elderly Muslim man with a white beard walk in a bright living room at home",
+    "imageCaption": "Care is decided by the family, at home, in a quiet moment — and the agency that is found first, and sounds like it understands, is the one that gets the call.",
+    "isNew": true,
+    "name": "Faith-Aware Home-Care Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly lead-generation retainer. Start with the free family visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A daughter in New Jersey is searching tonight — quietly, on her phone, after putting her own children to bed — for care for her father, who lives alone and is starting to struggle with the stairs. She types \"Muslim home care near me\" and finds three agencies. Two have no website at all. The third has a generic page that says nothing about halal meals, prayer times, a same-gender caregiver, or a caregiver who speaks Urdu. She closes the tab and calls the agency her cousin mentioned instead. That agency did not win on care quality. It won on being findable — and on sounding like it understood the family.",
+      "The arithmetic makes the invisibility expensive. A typical home-care client is worth about $18,200 in revenue over six months at the 2025 median of $35 an hour for 20 hours a week — roughly $6,370 in gross profit — so one new family covers a whole year of a marketing retainer several times over. Yet Muslim home-care agencies in the US and UK are almost invisible on Google: an unclaimed profile, no page that answers a family's faith questions, no way to ask for a callback without a cold call. Generic home-care marketing agencies exist, but their copy is English-generic: they cannot write credibly about halal meals, prayer schedules, modesty and gender preference, or language-matched caregivers, and small Muslim agencies are too small for a large agency to bother with. So the gap stays open, in every city with an ageing Muslim community."
+    ],
+    "process": [
+      {
+        "text": "We search the way a worried adult child searches — \"Muslim home care near me\", \"halal home care\" plus your city — and report what they find: your profile, your reviews, and the agencies Google shows instead of you.",
+        "title": "Family visibility audit"
+      },
+      {
+        "text": "Profile, local pages, the faith-aware landing pages, the callback funnel and the dignified introduction videos, built with your approved wording. Only your own licensed service and your own caregivers are ever shown, and no client is ever featured in any form.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Enquiries arrive organised, with the callback handled fast. Each month's report shows what came in and where it came from, so you can judge the funnel on your own assessment diary filling up.",
+        "title": "Families reach you, you take the assessments"
+      }
+    ],
+    "proof": "The arithmetic is the proof: at the 2025 median of $35 an hour for 20 hours a week, a typical home-care client is worth about $18,200 in revenue over six months — roughly $6,370 in gross profit — against a $499 to $799 monthly retainer. One new family covers a whole year of the funnel several times over, and the diaspora population that needs this care grows every year. We start with a free family visibility audit, so you see exactly what a Muslim family finds today before deciding anything.",
+    "related": [
+      "muslim-therapist-funnel",
+      "halal-local-seo"
+    ],
+    "short": "Done-for-you family inquiry funnel for Muslim home-care agencies — local SEO, Google Business Profile, faith-aware landing pages and a callback funnel that turns worried adult children into booked care assessments.",
+    "slug": "faith-aware-home-care"
+  },
+  {
+    "audiences": [
+      "Independent Muslim financial advisors in the US and UK",
+      "Solo CFPs and small RIAs serving Muslim clients",
+      "Sharia-compliant wealth planners with a $100,000+ client base",
+      "Advisors with bilingual staff but English-only marketing"
+    ],
+    "deliverables": [
+      "Google Business Profile optimisation: correct categories, services, hours and photos, so \"halal financial advisor near me\" and \"Sharia-compliant financial planner\" find you first",
+      "Local SEO pages for your city and services — retirement, halal 401(k) and IRA allocation, zakat on investments, children's education funds — in the words Muslim investors actually search",
+      "Faith-aware landing pages written in riba-free language, with your approved wording and your own Shariah board reference — never ours",
+      "A free Halal Portfolio Check lead magnet: a screening-summary style report on the investor's current holdings, built with your approved method",
+      "A consultation-booking funnel, so an investor who messages in the evening reaches a real person fast, and no enquiry is ever missed silently",
+      "Halal-investing explainer short videos — \"retirement without riba — what are the steps\" — in English, Urdu and Arabic where your clients need it",
+      "A free advisor visibility audit first: what a Muslim investor finds when they search for you today",
+      "A short monthly report: enquiries, consultations booked, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim man in his thirties sitting on a sofa at home in the evening, holding a smartphone and searching for a halal financial advisor",
+        "caption": "One search, one decision. The advisor who appears with a complete profile, a plain explanation of halal investing and a working booking is the one the family trusts in that moment.",
+        "src": "/images/services/halal-wealth-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Financial advisor's desk in soft morning light with a laptop showing a simple investment portfolio dashboard, a closed notebook, a pen and a cup of tea",
+        "caption": "The consultation is the whole funnel in miniature: one clear action, one honest explanation, and an advisor who answers. Everything else exists to make this moment easy.",
+        "src": "/images/services/halal-wealth-funnel-consultation.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not give financial advice, we do not recommend investments, and we make no returns claims of any kind. We build the funnel that brings you qualified consultation bookings. The advice itself, and every investment decision, stays entirely with you as the licensed advisor.",
+        "q": "Do you give financial advice or recommend investments?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Consultations depend on your fees, your minimums, your reputation and your local market — things no agency controls. What we promise is the work that earns enquiries: pages investors trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee a number of new clients?"
+      },
+      {
+        "a": "Yes — solo advisors are a common starting point. The funnel is built around your real capacity: the local pages, the Portfolio Check and the booking flow all work whether you are one advisor or a whole firm. A solo advisor who answers fast beats a large firm that does not answer at all.",
+        "q": "I am a solo advisor. Can this still work?"
+      },
+      {
+        "a": "We serve independent Muslim financial advisors and Sharia-compliant wealth planners across the US, UK and Canada, with a focus on diaspora cities — Houston, Dallas, Dearborn, Chicago, New Jersey and New York, London and Toronto. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+        "q": "Which cities do you cover?"
+      }
+    ],
+    "image": "/images/services/halal-wealth-funnel-hero.jpg",
+    "imageAlt": "Professional Muslim financial advisor in a suit explaining a retirement plan on a laptop to a young Muslim couple in a bright modern office",
+    "imageCaption": "The first meeting is decided in a search, not in an office: an investor who finds an advisor who understands riba-free investing is an investor who books.",
+    "isNew": true,
+    "name": "Halal Wealth Client Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly lead-generation retainer. Start with the free advisor visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A Muslim family in Houston has finally saved enough to think seriously about retirement, and they have one non-negotiable: no riba. They search \"halal financial advisor near me\" and find robo-advisors with $100,000 minimums, fund pages full of jargon, and one independent advisor whose profile is bare and whose website says nothing about zakat on investments, halal allocation for a 401(k), or an education fund without interest. They give up and stay with a conventional advisor they do not fully trust. The independent advisor who could have helped them never knew the family existed — because the family could not find him.",
+      "The arithmetic makes the invisibility expensive. A single $100,000 client is worth roughly $1,000 a year in recurring fees at a typical 1% annual rate, and clients stay for years — so one new client covers a whole year of a marketing retainer. Yet independent Muslim advisors are almost invisible on Google: an unclaimed profile, no page that explains halal investing in plain words, no way to book a consultation without a cold call. Halal investing products exist — Wahed, Amana and Iman funds, ShariaPortfolio and NoorVest with $100,000 minimums — but they sell products, not advisors. Generic advisor-marketing agencies exist, but their copy is English-generic, they cannot write credibly about riba, purification, AAOIFI and Dow Jones Islamic screens or zakat on investments, and their retainers run $3,500 to $12,000 a month. So the gap stays open, in every city with Muslim families saving for the future."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim investor searches — \"halal financial advisor near me\", \"Sharia-compliant financial planner\" plus your city — and report what they find: your profile, your reviews, and the advisors Google shows instead of you.",
+        "title": "Advisor visibility audit"
+      },
+      {
+        "text": "Profile, local pages, the faith-aware landing pages, the Halal Portfolio Check lead magnet and the consultation-booking funnel, built with your approved wording and your own Shariah board reference. We never give financial advice and never recommend an investment.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Enquiries arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own consultation diary filling up.",
+        "title": "Investors reach you, you take the consultations"
+      }
+    ],
+    "proof": "The arithmetic is the proof: a single $100,000 client is worth roughly $1,000 a year in recurring fees at a typical 1% annual rate, and clients stay for years — against a $499 to $799 monthly retainer that is five to ten times cheaper than the $3,500 to $12,000 a month generic advisor-marketing agencies charge. One new client covers a whole year of the funnel, and every year brings new Muslim investors searching. We start with a free advisor visibility audit, so you see exactly what a Muslim investor finds today before deciding anything.",
+    "related": [
+      "islamic-will-estate-funnel",
+      "halal-local-seo"
+    ],
+    "short": "Done-for-you client funnel for independent Muslim financial advisors and Sharia-compliant wealth planners — local SEO, Google Business Profile, faith-aware landing pages and a consultation-booking funnel that turns searches into booked first meetings.",
+    "slug": "halal-wealth-funnel"
   }
 ];
 

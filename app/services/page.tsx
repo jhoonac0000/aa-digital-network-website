@@ -15,7 +15,7 @@ export default function ServicesPage() {
     <div className="wrap page">
       <h1>Our services</h1>
       <p className="lead">
-        Twenty-seven service lines, one standard: real work, plain pricing, and no fake promises.
+        Twenty-nine service lines, one standard: real work, plain pricing, and no fake promises.
         Pick a service to see exactly what you get, how it works, and what it costs.
       </p>
       <div className="grid">
