@@ -1995,6 +1995,176 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you client funnel for independent Muslim financial advisors and Sharia-compliant wealth planners — local SEO, Google Business Profile, faith-aware landing pages and a consultation-booking funnel that turns searches into booked first meetings.",
     "slug": "halal-wealth-funnel"
+  },
+  {
+    "audiences": [
+      "Women-only fitness studios in the US, UK, Canada and Australia",
+      "Muslim-friendly gyms and modest Pilates and strength studios",
+      "Female-only swim, yoga and barre studios with women-only hours",
+      "Studio owners who are trainers first and marketers second"
+    ],
+    "deliverables": [
+      "Google Business Profile optimisation: correct categories, women-only hours, services and photos, so \"women only gym near me\" and \"Muslim women gym near me\" find you first",
+      "Local SEO pages for your city and your classes — women-only Pilates, modest strength training, female-coach sessions, prayer-friendly timings — in the words Muslim women actually search",
+      "Privacy-first landing pages: no cameras, women-only hours, female coaches, modest dress welcome, and a clear statement of who can and cannot enter — written in your own approved words",
+      "A free-trial and first-class booking funnel, so a woman who messages in the evening reaches a real person fast, and no enquiry is ever missed silently",
+      "Facility-only short videos — studio tour, female coach introduction, class timetable walkthrough — never filming members, because privacy is the selling point",
+      "A free member visibility audit first: what a Muslim woman finds when she searches for a women-only gym in your city today",
+      "A short monthly report: enquiries, trial classes booked, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim woman wearing a hijab sitting on a sofa at home in the evening, holding a smartphone and searching for a women-only gym near her",
+        "caption": "One search, one decision. The studio that appears with a complete profile, a plain privacy promise and a working trial booking is the one she trusts in that moment.",
+        "src": "/images/services/modest-member-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Friendly female fitness coach in modest athletic wear standing at the reception desk of a bright women-only studio beside a weekly class timetable board",
+        "caption": "The coach is the welcome, not the advert. Everything before this moment — search, pages, replies — exists to get the right women into this studio.",
+        "src": "/images/services/modest-member-funnel-coach.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not provide fitness coaching, training plans or any health advice. We build the funnel that brings you qualified trial bookings and membership enquiries. The coaching itself, and every class, stays entirely with you and your qualified female coaches.",
+        "q": "Do you provide fitness coaching or training?"
+      },
+      {
+        "a": "Never. No member is ever photographed or filmed for marketing — not in class, not in testimonials, not in the background of a shot. Our videos show the facility, the coach and the timetable only. Privacy is the reason women choose your studio, so it is the one rule we never break.",
+        "q": "Do you film or photograph members?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Trial bookings depend on your timetable, your prices, your reviews and your local market — things no agency controls. What we promise is the work that earns enquiries: pages women trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee a number of new members?"
+      },
+      {
+        "a": "Yes — a single small studio is a common starting point. The funnel is built around your real capacity: the local pages, the trial booking and the follow-up all work whether you run one room or three branches. A small studio that answers fast beats a large gym that does not answer at all.",
+        "q": "I run a small studio. Can this still work?"
+      },
+      {
+        "a": "We serve women-only and Muslim-friendly fitness studios across the US, UK, Canada and Australia, with a focus on diaspora cities — Houston, Dearborn, Chicago, New York and New Jersey, London and Birmingham, Toronto and Calgary, Sydney and Melbourne. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+        "q": "Which cities do you cover?"
+      }
+    ],
+    "image": "/images/services/modest-member-funnel-hero.jpg",
+    "imageAlt": "Bright modern women-only fitness studio interior in soft morning light, with pilates reformers, yoga mats, plants and large windows, no people and no cameras",
+    "imageCaption": "The first visit is decided in a search, not in the studio: a woman who finds a place that understands privacy is a woman who books a trial.",
+    "isNew": true,
+    "name": "Modest Member Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly member-generation retainer. Start with the free member visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A Muslim woman in Calgary has finally decided to start exercising. She has one non-negotiable: a place where no man will walk in, no camera will record her, and she can train without her hijab in peace. She searches \"Muslim women gym near me\" and finds big co-ed chains, a women-only gym forty minutes away with a bare profile and no timetable, and a Pilates studio whose website says nothing about women-only hours, female coaches or modest dress. She gives up and stays at home. The small studio two streets away that could have helped her never knew she existed — because she could not find it.",
+      "The arithmetic makes the invisibility expensive. The global women-only gym market was about $5.30 billion in 2025 and is forecast to reach about $8.52 billion by 2033, and female-only gyms already hold about 62.4% of the single-sex gym market — with religious and cultural preferences named directly as a driver. New studios are opening right now: FITRA, a women-only gym in Calgary, opened in late October 2026 next to an Islamic centre, on a plain \"no men, no cameras\" promise. Yet the studios themselves are almost invisible on Google: an unclaimed profile, no page that explains women-only hours in plain words, no way to book a trial class without a cold call. Generic gym-marketing agencies chase the big chains and their standard playbook — member testimonials on camera, mixed-class reels — would actively harm a studio whose whole promise is privacy. So the gap stays open, in every city where Muslim women are searching for a place to train."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim woman searches — \"women only gym near me\", \"Muslim women gym near me\" plus your city — and report what she finds: your profile, your reviews, and the studios Google shows instead of you.",
+        "title": "Member visibility audit"
+      },
+      {
+        "text": "Profile, local pages, the privacy-first landing pages, the trial-class booking funnel and facility-only videos, built with your approved wording. We never film a member and never make a weight-loss or health claim.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Enquiries arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own trial classes filling up.",
+        "title": "Women reach you, you take the trial classes"
+      }
+    ],
+    "proof": "The market is the proof: a women-only gym market of about $5.30 billion in 2025 growing toward about $8.52 billion by 2033, female-only gyms holding about 62.4% of the single-sex market, and new studios like FITRA in Calgary opening on a \"no men, no cameras\" promise — against a $399 to $699 monthly retainer that is a fraction of what generic gym-marketing agencies charge for chains. One full class of new members covers months of the funnel, and every month brings more Muslim women searching. We start with a free member visibility audit, so you see exactly what a woman finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you member funnel for women-only and Muslim-friendly fitness studios — local SEO, Google Business Profile, privacy-first landing pages and a trial-class booking funnel that turns searches into booked first classes.",
+    "slug": "modest-member-funnel"
+  },
+  {
+    "audiences": [
+      "Small and mid-size Umrah travel agencies in the US and Canada",
+      "Agencies running Ramadan and December school-holiday Umrah groups",
+      "Masjid-affiliated group-trip organisers working with a licensed agency",
+      "Agency owners who are operators first and marketers second"
+    ],
+    "deliverables": [
+      "Google Business Profile optimisation: correct categories, services, hours and photos, so \"Umrah packages from [your city]\" and \"Umrah travel agency near me\" find you first",
+      "Local SEO pages for your city and your packages — Ramadan Umrah, December Umrah, 10-night and 14-night packages — in the words Muslim families actually search",
+      "A landing page for every package: nights, hotel distance from the Haram, inclusions, from-price and the date the price was checked — so a family can compare without calling three agencies",
+      "A WhatsApp inquiry and callback funnel, so a family that messages in the evening reaches a real person fast, and no enquiry is ever missed silently",
+      "Trust-building short videos — agency introduction, package walkthrough, past pilgrims' written reviews on screen — never claiming footage of the Haram",
+      "A free booking visibility audit first: what a family finds when it searches for Umrah packages in your city today",
+      "A short monthly report: enquiries, package inquiries, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim family with two children sitting together at a dining table at home in the evening, parents looking at a laptop showing Umrah travel packages",
+        "caption": "One search, one family decision. The agency that appears with a complete profile, clear package pages and a working inquiry is the one the family trusts in that moment.",
+        "src": "/images/services/umrah-booking-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Smartphone on a wooden desk showing a friendly chat conversation with a travel agency about Umrah package dates, a passport and printed itinerary beside it",
+        "caption": "The booking is won in the reply, not in the advert: a family that gets a clear answer in minutes stops calling other agencies.",
+        "src": "/images/services/umrah-booking-funnel-whatsapp.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We are not a travel agency, not a visa agent, and not a Nusuk permit handler. We build the funnel that brings you qualified booking inquiries. The travel itself, the visa, the permits and the hotels stay entirely with you as the licensed agency.",
+        "q": "Are you a travel agency or visa agent?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. We make no visa guarantee and no price guarantee — prices change, visas are decided by the authorities, and protections such as ATOL or IATA cover are your agency's own. What we promise is the work that earns enquiries: package pages families trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee visas or prices?"
+      },
+      {
+        "a": "No — we never claim Haram footage, never present a stock clip as a real trip, and never use a past pilgrim's words without permission. The videos show your agency, your packages and written reviews on screen. Trust is the whole business here, and a funnel that fakes it is not a funnel.",
+        "q": "Do your videos show the Haram or real pilgrims?"
+      },
+      {
+        "a": "Yes — a small agency is a common starting point. The funnel is built around your real capacity: the package pages, the WhatsApp inquiry flow and the follow-up all work whether you run two groups a year or twenty. A small agency that answers fast beats a large agency that does not answer at all.",
+        "q": "I run a small agency. Can this still work?"
+      },
+      {
+        "a": "We serve Umrah travel agencies across the US and Canada, with a focus on diaspora cities — Dearborn, Houston, Dallas, Chicago, New York and New Jersey, London and Birmingham, Toronto. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+        "q": "Which cities do you cover?"
+      }
+    ],
+    "image": "/images/services/umrah-booking-funnel-hero.jpg",
+    "imageAlt": "Warm modern travel agency office interior with a consultant desk, Umrah package brochures, a wall map and a small model mosque on a shelf",
+    "imageCaption": "The first booking is decided in a search, not in the office: a family that finds an agency that explains its packages plainly is a family that inquires.",
+    "isNew": true,
+    "name": "Umrah Booking Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly booking-generation retainer. Start with the free booking visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A Muslim family in Dearborn has been saving for two years for their first Umrah. The parents, the grandmother and two children will travel together, and the decision is the biggest the family will make all year. They search \"Umrah packages from Detroit\" and find big aggregator sites, one agency whose website lists no packages at all, and a Facebook page last updated eight months ago. Nobody answers their message that evening. They give up and ask at the masjid instead. The small licensed agency three streets away that could have helped them never knew the family existed — because the family could not find it.",
+      "The arithmetic makes the invisibility expensive. More than 18 million pilgrims now travel for Umrah from outside Saudi Arabia — growth of about 214% between 2022 and 2025 — and the Nusuk app alone has more than 51 million users. A mid-range US package runs roughly $2,500 to $3,500 per person plus $800 to $1,300 in flights, so a single family booking is worth thousands of dollars in package revenue — one or two bookings cover a whole year of a marketing retainer. And the timing is unforgiving: Ramadan 2027 begins around 8 February 2027, agencies take Ramadan bookings three to six months ahead, and last-ten-nights hotels near the Haram sell out months early. Yet most small Umrah agencies still run on referrals and masjid announcements, with generic websites and no package-specific pages on Google. Paid-ad specialists exist in the UK, but no done-for-you organic funnel retainer serves the small US and Canadian agencies at an offshore price. So the gap stays open, in every city where families are searching for Umrah."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim family searches — \"Umrah packages from [your city]\", \"Umrah travel agency near me\" — and report what they find: your profile, your reviews, and the agencies Google shows instead of you.",
+        "title": "Booking visibility audit"
+      },
+      {
+        "text": "Profile, local pages, a landing page for every package, the WhatsApp inquiry funnel and trust-building videos, built with your approved wording and your real prices with a price-check date. We never claim Haram footage and never guarantee a visa.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Enquiries arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own booking diary filling up — especially as Ramadan approaches.",
+        "title": "Families reach you, you take the bookings"
+      }
+    ],
+    "proof": "The demand is the proof: more than 18 million Umrah pilgrims from abroad, about 214% growth since 2022, Ramadan accommodation searches up about 20.67% in Makkah and 25.16% in Madinah year on year — against a $499 to $799 monthly retainer that one family booking repays many times over. Ramadan 2027 begins around 8 February 2027 and agencies take those bookings three to six months ahead, so the agencies that are findable now take the bookings. We start with a free booking visibility audit, so you see exactly what a family finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "modest-member-funnel"
+    ],
+    "short": "Done-for-you booking funnel for small and mid-size Umrah travel agencies — local SEO, Google Business Profile, a landing page for every package and a WhatsApp inquiry funnel that turns searches into booked families.",
+    "slug": "umrah-booking-funnel"
   }
 ];
 

@@ -152,6 +152,23 @@ export default function BlogPage() {
             <p className="small"><Link href="/services/halal-wealth-funnel">Related service →</Link></p>
           </div>
 
+
+================================================================================
+<div className="card" key="how-women-only-fitness-studios-fill-every-class">
+            <img className="card-img" src="/images/blog/how-women-only-fitness-studios-fill-every-class.jpg" alt="Female fitness coach in modest sportswear leading a small group class of women in hijabs in a bright private women-only studio, viewed from behind the group" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-women-only-fitness-studios-fill-every-class">How Women-Only Fitness Studios Fill Every Class</Link></h3>
+            <p>The women-only gym market was about $5.30 billion in 2025 — yet most Muslim-friendly studios are invisible on Google. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/modest-member-funnel">Related service →</Link></p>
+          </div>
+
+================================================================================
+<div className="card" key="how-umrah-travel-agencies-win-more-bookings">
+            <img className="card-img" src="/images/blog/how-umrah-travel-agencies-win-more-bookings.jpg" alt="Muslim family with suitcases and backpacks walking through a bright modern airport departure hall, parents and two children in modest dress" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-umrah-travel-agencies-win-more-bookings">How Umrah Travel Agencies Win More Bookings</Link></h3>
+            <p>More than 18 million pilgrims now travel for Umrah from abroad — yet most small agencies are invisible on Google. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/umrah-booking-funnel">Related service →</Link></p>
+          </div>
+
       </div>
     </div>
   );
