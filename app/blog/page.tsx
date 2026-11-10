@@ -169,6 +169,22 @@ export default function BlogPage() {
             <p className="small"><Link href="/services/umrah-booking-funnel">Related service →</Link></p>
           </div>
 
+================================================================================
+<div className="card" key="how-muslim-cpas-win-clients-before-tax-season">
+            <img className="card-img" src="/images/blog/how-muslim-cpas-win-clients-before-tax-season.jpg" alt="Professional tax preparer's desk at tax season with a laptop, organised folders, a wall calendar, a calculator and a coffee mug in early morning light" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-cpas-win-clients-before-tax-season">How Muslim CPAs Win Clients Before Tax Season</Link></h3>
+            <p>Tax professionals e-filed 73.9 million individual returns in the 2026 season — yet most Muslim CPAs are invisible on Google when business owners search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/halal-tax-bookkeeping-funnel">Related service →</Link></p>
+          </div>
+
+================================================================================
+<div className="card" key="how-women-only-salons-fill-every-chair">
+            <img className="card-img" src="/images/blog/how-women-only-salons-fill-every-chair.jpg" alt="Private curtained styling station in a women-only salon with an elegant chair facing a large mirror, a vanity with professional hair tools and soft warm lighting" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-women-only-salons-fill-every-chair">How Women-Only Salons Fill Every Chair</Link></h3>
+            <p>Women-only hijab-friendly salons are thriving in New York, Chicago, Detroit and Los Angeles — yet most are invisible on Google when clients search. Here is the funnel that fills the appointment book.</p>
+            <p className="small"><Link href="/services/modest-salon-booking-funnel">Related service →</Link></p>
+          </div>
+
       </div>
     </div>
   );

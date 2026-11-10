@@ -6,11 +6,11 @@ export const dynamic = "force-static";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: `${SITE_URL}`, lastModified: "2026-11-07", changeFrequency: "weekly", priority: 1.0 },
-    { url: `${SITE_URL}/services`, lastModified: "2026-11-09", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/work`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/tools`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/books`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog`, lastModified: "2026-11-09", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/about`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/contact`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/privacy-policy`, lastModified: "2026-10-25", changeFrequency: "weekly", priority: 0.8 },
@@ -68,6 +68,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/modest-member-funnel`, lastModified: "2026-11-09", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/umrah-booking-funnel`, lastModified: "2026-11-09", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-women-only-fitness-studios-fill-every-class`, lastModified: "2026-11-09", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-umrah-travel-agencies-win-more-bookings`, lastModified: "2026-11-09", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-umrah-travel-agencies-win-more-bookings`, lastModified: "2026-11-09", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-tax-bookkeeping-funnel`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/modest-salon-booking-funnel`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-cpas-win-clients-before-tax-season`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-women-only-salons-fill-every-chair`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 }
   ];
 }

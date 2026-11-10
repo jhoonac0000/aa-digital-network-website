@@ -2165,7 +2165,93 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you booking funnel for small and mid-size Umrah travel agencies — local SEO, Google Business Profile, a landing page for every package and a WhatsApp inquiry funnel that turns searches into booked families.",
     "slug": "umrah-booking-funnel"
-  }
+  },
+{"audiences":["Muslim CPAs and tax preparers in the US, UK and Canada","Sharia-aware accounting firms, solo practitioners and small firms","Bookkeeping practices serving Muslim-owned small businesses","Firms offering zakat-aware year-end reviews and entity setup"],"deliverables":["Local SEO and Google Business Profile built around \"Muslim accountant near me\" and \"halal tax preparer near me\" searches","Tax-season landing pages, one per service: individual returns, small-business bookkeeping, S-corp and LLC setup, and zakat-aware year-end review","Inquiry and consultation-booking funnel, with fast follow-up on every enquiry — speed wins clients in tax season","Short deadline-explainer videos for general education only, never personal tax advice","A free tax-season visibility audit before you pay anything","Monthly reporting in plain numbers: enquiries, booked consultations and search visibility","All copy in your firm's own wording, respecting CPA advertising rules — no misleading claims, ever"],"extraImages":[{"after":"problem","alt":"Muslim small-business owner seen from behind at a laptop in a home office at dusk, searching for a local accountant, notebook and cup of tea on the desk","caption":"The search happens at home, in the evening, usually under deadline pressure. The firm that answers first wins the client.","src":"/images/services/halal-tax-bookkeeping-funnel-search.jpg"},{"after":"deliverables","alt":"Smartphone on a wooden desk showing a friendly messaging conversation about booking a tax consultation, with an appointment card, a pen and organised tax documents beside it","caption":"The booking is won in the reply. A fast, clear answer turns a search into a consultation on your calendar.","src":"/images/services/halal-tax-bookkeeping-funnel-consultation.jpg"}],"faqs":[{"a":"No — never. We are a marketing service, not an accounting firm. We never give tax advice, never prepare returns and never claim savings. We only bring qualified consultation bookings to licensed CPAs. Every claim on your pages is written in your own wording, and we respect CPA advertising rules throughout.","q":"Do you give tax advice or prepare tax returns?"},{"a":"The one-time funnel build is $1,000 to $2,000, plus a $499 to $799 monthly retainer. We start with a free tax-season visibility audit, so you see what business owners find today before deciding anything, and we confirm your exact figure before you commit.","q":"How much does the Halal Tax & Bookkeeping Funnel cost?"},{"a":"Firms sign their season clients between November and January, and the 2026 filing season opened on 26 January with a 15 April deadline. Starting now puts you in front of owners while they are choosing. Starting in February means competing after most of them have already booked.","q":"When should our firm start — is it too late for this tax season?"},{"a":"\"Muslim accountant near me\" and \"halal tax preparer near me\" are the core searches, plus questions about zakat and tax, S-corp versus LLC, and business zakah. We build your profile and pages around those searches and the real questions owners ask in the first consultation.","q":"What do Muslim business owners actually search for?"},{"a":"Yes — solo practitioners are a common starting point. The funnel is built around your real capacity: the local pages, the service pages and the booking flow all work whether you are one CPA or a whole firm. A solo CPA who answers fast beats a large firm that does not answer at all.","q":"I am a solo CPA. Can this still work for a one-person firm?"}],"image":"/images/services/halal-tax-bookkeeping-funnel-hero.jpg","imageAlt":"Bright modern accounting office desk with a laptop showing a spreadsheet, neatly stacked tax folders, a calculator, a small potted plant and a framed certificate on the wall","imageCaption":"The client is decided by the search, not by the office. The funnel makes sure your firm is the one the search finds first.","isNew":true,"name":"Halal Tax & Bookkeeping Funnel","priceLabel":"$1,000–$2,000 build + $499–$799/mo","priceNote":"The one-time funnel build is $1,000–$2,000 plus a $499–$799 monthly retainer. Start with the free tax-season visibility audit and decide with the facts in front of you.","problem":["Muslim business owners search online first — \"Muslim accountant near me\", \"halal tax preparer near me\" — and they need someone who understands both their tax return and their zakat. Most of them find generic firms, or nobody at all, because the Muslim CPA in their own city is invisible on Google when the search happens.","Most small Muslim accounting firms run on referrals and a thin directory listing. Generic CPA marketing exists, but it is written generically: it never mentions zakat, halal business structure, riba-free financing or business zakah, so it cannot earn the trust of a business owner choosing who handles their money and their religious obligations."],"process":[{"text":"We search the way Muslim business owners in your area search and report what they find — your profile, your pages, and the firms being found instead of you.","title":"Free tax-season visibility audit"},{"text":"Profile, one page per service, consultation booking and fast follow-up are built in your firm's own wording, around the questions owners actually ask.","title":"We build the funnel"},{"text":"Enquiries are answered fast and consultations get booked while the season window is open. Monthly care keeps your visibility growing and reports results in plain numbers.","title":"Consultations and monthly care"}],"proof":"In the 2026 filing season, tax professionals e-filed 73.9 million individual returns — about 53 percent of all e-filings, according to IRS statistics from April 2026 — yet most Muslim CPAs are invisible when a business owner searches. Accounting leads cost $40 to $100 through organic SEO against $150 to $400 on Google Ads (ProgeekTech 2026), and a monthly bookkeeping client typically pays around $500 a month and stays about four years, roughly $24,000 in lifetime value. We start with the free audit: we show you exactly what business owners in your area see when they search, and you judge the funnel on that evidence.","related":["halal-wealth-funnel","halal-local-seo"],"short":"Done-for-you client funnel for Muslim CPAs, tax preparers and Sharia-aware accounting firms — local search, tax-season pages and consultation bookings that fill your season before the deadline rush.","slug":"halal-tax-bookkeeping-funnel"},
+{
+  "slug": "modest-salon-booking-funnel",
+  "name": "Modest Salon Booking Funnel",
+  "short": "A done-for-you booking funnel for women-only and hijab-friendly salons — local SEO, privacy-first pages and a booking flow that answers while your stylists are busy.",
+  "problem": [
+    "A hijab-wearing client in your city is searching right now for a salon where she can take her hijab off in privacy. She types \"women only salon near me\" or \"hijab friendly salon near me\" into Google, and your salon is nowhere in the results — not because your work is not good enough, but because nothing on the internet says, clearly and credibly, that your salon is private. So she books the salon she can find, even if it is further away and half as good as yours.",
+    "And when she does find you, the next failure is quieter. She calls while your stylist is mid-cut, scissors in hand, and nobody answers. She does not leave a voicemail. She calls the next salon on the list. A missed call in this business is not a missed call — it is a lost client, and a regular client in this niche is worth roughly $600 to $1,500 a year."
+  ],
+  "audiences": [
+    "Women-only hair and beauty salons in the US, UK and Canada",
+    "Hijab-friendly salons with private rooms or curtained stations",
+    "Salon owners whose bookings still come only from Instagram and word of mouth",
+    "Salons preparing for Eid and wedding-season demand"
+  ],
+  "deliverables": [
+    "Local SEO and Google Business Profile setup for \"hijab friendly salon near me\" and \"women only salon near me\" searches in your city",
+    "Privacy-first landing pages that state your women-only policy plainly: female-only staff, private room or curtained stations, no male entry during appointments, wudu-friendly and halal products",
+    "An online and WhatsApp booking funnel that takes the booking while your stylists are busy cutting hair — no missed call, no lost client",
+    "Eid and wedding-season campaign pages timed for the December holiday season and Eid al-Fitr 2027 pre-bookings",
+    "Facility-only short videos — salon tour and stylist introductions — with clients never filmed or photographed",
+    "A free booking visibility audit first, so you can see exactly where your salon is invisible on Google before you spend anything",
+    "Monthly reporting on searches, profile views and bookings, in plain language"
+  ],
+  "proof": "Women-only hijab salons are thriving in New York, Chicago, Detroit and Los Angeles, according to Rakwa (31 October 2025), and the global modest clothing market is forecast to grow from about $101.9 billion in 2026 to about $162.3 billion by 2035 — the same wallet that pays for modest beauty. The funnel model itself is proven on salons: one Manchester salon's local SEO and service-page redesign lifted appointment bookings 80% year on year (Ascensor case study). A regular client visits every 4 to 8 weeks at $50 to $150 a visit, worth roughly $600 to $1,500 a year — so two or three new regular clients cover a full year of our retainer.",
+  "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+  "priceNote": "One-time funnel build $1,000–$2,000 plus a $399–$699 monthly retainer. Start with the free booking visibility audit — no obligation, and you see the gaps before you decide anything.",
+  "process": [
+    {
+      "title": "Free booking visibility audit",
+      "text": "We check how your salon appears — or does not appear — when clients search for a women-only or hijab-friendly salon in your city, and we show you the gaps in plain language."
+    },
+    {
+      "title": "We build your funnel",
+      "text": "We build your privacy-first pages, set up your Google Business Profile and booking flow, and film your facility-only tour — your salon's services and your own prices, nothing invented."
+    },
+    {
+      "title": "Bookings arrive, we keep it working",
+      "text": "Your monthly retainer keeps the funnel live: seasonal campaign pages for Eid and weddings, fresh facility content, and monthly reporting on what the funnel is bringing in."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you run the salon or provide salon services?",
+      "a": "No. We provide no salon service at all. We only bring qualified appointment bookings to licensed salons. Your stylists do the hair and beauty work; our job is making sure clients can find you, trust your privacy, and book without a missed call."
+    },
+    {
+      "q": "Will you photograph or film my clients?",
+      "a": "Never. Clients are never photographed or filmed — not for testimonials, not for before-and-after posts, not for any marketing. Our videos show only your facility and your own staff: the salon tour, the private stations, and your stylists introducing themselves."
+    },
+    {
+      "q": "What makes this different from a generic salon marketing agency?",
+      "a": "Generic agencies sell the standard salon playbook — client photos, on-camera testimonials, mixed-gender imagery — and that playbook backfires here, because privacy is the product. We build everything around women-only hours, private rooms, no male entry, and halal and wudu-friendly products."
+    },
+    {
+      "q": "How long before bookings start coming in?",
+      "a": "The booking flow and Google Business Profile work can start bringing enquiries within the first weeks, while local SEO builds over the following months. We do not promise a number of bookings or a date — we report real searches, profile views and bookings every month."
+    },
+    {
+      "q": "What does the free booking visibility audit cover?",
+      "a": "We search the way your clients search — \"hijab friendly salon near me\" and \"women only salon near me\" in your city — and show you where your salon appears, what your competitors show, and which privacy questions your pages fail to answer. You keep the findings either way."
+    }
+  ],
+  "related": [
+    "modest-member-funnel",
+    "halal-local-seo"
+  ],
+  "isNew": true,
+  "image": "/images/services/modest-salon-booking-funnel-hero.jpg",
+  "imageAlt": "Elegant women-only hair salon interior with styling chairs and large mirrors, soft curtained private stations, warm pendant lighting, green plants and a reception counter with fresh flowers",
+  "imageCaption": "Privacy is the product here, not an afterthought — the room itself has to say it before a single word is read.",
+  "extraImages": [
+    {
+      "after": "problem",
+      "src": "/images/services/modest-salon-booking-funnel-search.jpg",
+      "alt": "A woman's hands in modest dress holding a smartphone showing a map search for salons, sitting in a bright living room with a cup of tea on a side table, face not shown",
+      "caption": "She searches, she compares, she books the salon she can find. If that salon is not yours, the search was your only chance — and it is already gone."
+    },
+    {
+      "after": "deliverables",
+      "src": "/images/services/modest-salon-booking-funnel-booking.jpg",
+      "alt": "Salon reception desk with an open appointment book, a tablet showing a booking calendar, a small vase of white flowers and neatly folded towels",
+      "caption": "The booking is won while the stylist is busy cutting hair — that is the whole point of the funnel."
+    }
+  ]
+}
 ];
 
 export function getService(slug: string): Service | undefined {
