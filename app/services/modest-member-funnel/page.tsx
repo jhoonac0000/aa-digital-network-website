@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Modest Member Funnel | AA Digital Network",
-  description: "Member funnel for women-only and Muslim-friendly fitness studios — local SEO, Google Business Profile, privacy-first landing pages and a trial-class booking funnel.",
+  description: "Member funnel for women-only and Muslim-friendly fitness studios — local SEO, Google Business Profile and privacy-first landing pages.",
   alternates: { canonical: `https://aa-digital-network-website.pages.dev/services/modest-member-funnel` },
-  openGraph: { title: "Modest Member Funnel | AA Digital Network", description: "Member funnel for women-only and Muslim-friendly fitness studios — local SEO, Google Business Profile, privacy-first landing pages and a trial-class booking funnel.", url: `https://aa-digital-network-website.pages.dev/services/modest-member-funnel`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
+  openGraph: { title: "Modest Member Funnel | AA Digital Network", description: "Member funnel for women-only and Muslim-friendly fitness studios — local SEO, Google Business Profile and privacy-first landing pages.", url: `https://aa-digital-network-website.pages.dev/services/modest-member-funnel`, type: "website", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/og.png`] },
 };
 
 import ServicePage from "@/components/ServicePage";
