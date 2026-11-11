@@ -2968,7 +2968,249 @@ export const ARTICLES: Article[] = [
       "a": "Start with the free booking visibility audit — we show you where your salon appears in client searches and what is missing. If you go ahead, the one-time build is $1,000–$2,000 and the monthly retainer is $399–$699, with monthly reporting on what the funnel brings in."
     }
   ]
-}
+}  ,
+  {
+    "excerpt": "The US senior living market is about $76.39 billion in 2026 — yet most Muslim-friendly communities are invisible on Google when families search. Here is the funnel that puts you first.",
+    "extraImages": [
+      {
+        "after": "The prayer room, the halal kitchen and the small details that decide",
+        "alt": "Quiet prayer room with folded prayer mats and a bookshelf beside a bright clean halal kitchen in a senior living community, a chef in modest dress preparing food",
+        "caption": "The prayer room and the halal kitchen are not extras on the tour — they are the first two things a Muslim family checks, and the reason the pages must show them plainly.",
+        "src": "/images/blog/how-senior-living-communities-reach-muslim-families-2.jpg"
+      },
+      {
+        "after": "The WhatsApp reply that wins the tour",
+        "alt": "Close-up of a smartphone on a wooden desk showing a friendly WhatsApp chat with a senior living community about booking a family tour, a notebook with handwritten questions beside it",
+        "caption": "A tour is won in the reply, not in the advert: a family that gets a clear answer in minutes stops calling other communities.",
+        "src": "/images/blog/how-senior-living-communities-reach-muslim-families-3.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "At AA Digital Network, the one-time funnel build is $1,000 to $2,000, plus a $499 to $799 monthly family-inquiry retainer. We start with a free family visibility audit, so you see what Muslim families find today before deciding anything, and we confirm your exact figure before you commit.",
+        "q": "How much does a Faith-Aware Senior Living Funnel cost?"
+      },
+      {
+        "a": "No — never. We do not provide care, medical advice, placement advice or any health service. We build the funnel that brings you qualified family enquiries and tour bookings. The care, the licensing and the home itself stay entirely with you as the licensed facility.",
+        "q": "Are you a care provider or placement agency?"
+      },
+      {
+        "a": "Only with written consent, and only ever a resident who has agreed. Otherwise our videos show the facility, the staff, the prayer room and the kitchen only — never a resident in the background and never a real family story without permission. Dignity is the whole business here.",
+        "q": "Do your videos show residents?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. A resident's decision depends on your rooms, your prices, your licence, your reviews and your local market — things no agency controls. What we promise is the work that earns enquiries: pages families trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee a new resident?"
+      },
+      {
+        "a": "Yes — a small home is a common starting point. The funnel is built around your real capacity: the local pages, the tour booking and the follow-up all work whether you run a six-resident home or a forty-resident community. A small home that answers fast beats a large chain that does not answer at all.",
+        "q": "I run a small six-resident home. Can this still work?"
+      }
+    ],
+    "image": "/images/blog/how-senior-living-communities-reach-muslim-families.jpg",
+    "imageAlt": "Muslim family with an elderly father in a white cap visiting a bright senior living community garden with a friendly director, green courtyard and modern accessible building behind them",
+    "imageCaption": "The first tour is decided in a search, not in the community: a family that finds a place that understands halal meals, prayer and modesty is a family that books a visit.",
+    "related": [
+      {
+        "slug": "how-muslim-home-care-agencies-reach-families-first",
+        "title": "How Muslim Home-Care Agencies Reach the Families Who Need Them First"
+      },
+      {
+        "slug": "how-muslim-funeral-homes-get-found-when-families-need-them",
+        "title": "How Muslim Funeral Homes Get Found When Families Need Them"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The short answer first",
+        "paragraphs": [
+          "If you run a small or mid-size Muslim-friendly senior living community and want more family enquiries, the honest answer is a system, not a single advert. A complete Google Business Profile, local pages that match the searches Muslim families actually type, landing pages that explain halal meals, prayer space and same-gender care in plain words, and a WhatsApp tour-booking funnel that answers fast will do more for your tour diary than any one-off promotion. Muslim families are not browsing for inspiration — they are choosing where their mother or father will live — and they are choosing the community that explains itself first.",
+          "That is the whole idea behind the service we run for senior living communities: a [Faith-Aware Senior Living Funnel](/services/faith-aware-senior-living) that builds the profile, the local pages, the faith-aware pages and the tour flow for you, for $499 to $799 a month after a $1,000 to $2,000 build, starting with a free audit of what a family finds when it searches for you today. Everything in this guide explains how that funnel works, what families actually search for, and what it can and cannot promise — so you can judge whether it fits your community before spending anything."
+        ]
+      },
+      {
+        "heading": "The daughter searching at midnight",
+        "paragraphs": [
+          "Picture a daughter in Houston. Her father is eighty-one, living alone since her mother passed, and the family has been avoiding this conversation for a year. Tonight she finally opens her laptop after the children are asleep and searches \"Muslim assisted living near me\". What she finds is a big chain's website, a directory listing with no photos, and a community whose pages say nothing about halal meals, prayer space or same-gender care. She sends a message. Nobody answers that night. She closes the laptop feeling guilty for even searching, and the next morning she asks at the masjid instead. The small faith-aware home four streets away that could have helped her family never knew she existed — because she could not find it.",
+          "We see this pattern across every senior living market we audit, and it is rarely about the community's quality. The invisible community usually assumes the problem is that families are too few, or too private, or too hard to reach. They are none of those things. They are a proven, growing market — the US senior living market is about $76.39 billion in 2026 and forecast to reach about $101.86 billion by 2031, and nearly all 69 million baby boomers will be over 70 by 2033 — and Muslim families are ageing into the same wave, with more than 2.5 million Muslims in the UK described as growing and ageing. The problem is upstream: the communities that understand Muslim families are invisible in the one place families look, and the communities that are visible do not understand them.",
+          "There is a second, quieter cost. Every family that gives up on finding a faith-aware community, or places a parent in a generic home because nobody local offered an alternative, is a family that will remember who helped them — and who did not. A single resident at a faith-aware home is worth $7,500 to $10,500 a month in fees — Alma's Senior Haven in Northern Virginia publishes exactly that range — so one new resident covers a whole year of a marketing retainer many times over. But the real arithmetic is not the community's: it is the family's. This is where their parent will live, eat and pray, and the community that explains its faith-aware care plainly is the one they will choose — and recommend to every cousin, colleague and masjid friend they know."
+        ]
+      },
+      {
+        "bullets": [
+          "\"Muslim assisted living near me\" — the highest-intent search in the whole system, typed by a family that has already decided a parent needs a community and is choosing which one to tour",
+          "\"Halal senior living near me\" — the search of a family that wants halal food and a faith-aware routine, not just a bed in a generic home",
+          "\"Muslim care home near me\" with a city name — the search of a family that wants a real home, a real person, and someone they can visit before they decide",
+          "\"Islamic senior living\" or \"Muslim senior living [city]\" — the search of a family planning ahead, often months before a move, looking for the community that has its faith-aware details ready"
+        ],
+        "heading": "What Muslim families actually search for",
+        "paragraphs": [
+          "Start with the searches, because they explain why this is worth fixing. Muslim families do not search the way senior living agencies think they search. They search in worry, in plain words, on a phone, late at night — and they call the first result that explains it in language they understand. \"Muslim assisted living near me\" is typed by a daughter who has already decided her father needs help. \"Halal senior living near me\" is typed by a family that wants a real community, a real person, and someone they can visit before they decide. \"Muslim care home near me\" is typed by a family comparing care, checking whether prayer, food and modesty are handled before they ever call.",
+          "Two consequences follow. First, if your website is generic — \"senior living\" with no city, no halal meals, no prayer space and no care details — you are absent from the exact searches that matter, even if you rank well for generic terms. The family searching for a Muslim community in their city never sees you, because Google matches their words to your pages, and your pages do not have their words. Second, the family who does find you will compare your pages against competitors' pages — and judge you on clarity, honesty and ease of booking a tour, not on the brochure they cannot verify. A page that lists the halal kitchen, the prayer-time routine, the same-gender care option and the visiting hours, and offers a tour in one tap, beats a bigger chain with a silent website, every time.",
+          "This is where a small Muslim community should win easily, and where most communities say almost nothing. A Muslim family choosing a home for a parent is checking a specific list — consciously or not. Is the food halal, every meal, every day? Is there a prayer space, and is the prayer-time routine respected? Can same-gender care be arranged? Are Urdu or Arabic-speaking staff available? Can the family visit freely, including at Ramadan? Generic senior-living marketing agencies cannot write this list credibly, because they do not know which details matter — and the communities themselves are operators, not marketers."
+        ]
+      },
+      {
+        "heading": "The prayer room, the halal kitchen and the small details that decide",
+        "paragraphs": [
+          "The decision to tour a community is almost never made in an office. It is made at home, in the evening, with the family around the table — usually after something happened: a fall, a hospital visit, a neighbour's comment, a Ramadan that made them count the years. One sibling reads, the other listens, the parent asks about the food and the prayer room, and together they decide whether to message someone. That is the moment the funnel is built for, and it is the moment most community websites completely ignore.",
+          "So the funnel starts with the evening reader in mind. The faith-aware pages are written in plain language, not care-industry language — short sentences, clear headings, no jargon without an explanation beside it. The details sit on the page, not behind a form: a family can read about the halal kitchen, the prayer space, the same-gender care option and the visiting hours without giving an email address first, because trust is earned before it is asked for. And the tour booking is one tap, on WhatsApp or a short form, with a clear statement of what happens next and what it costs. A family that finds their exact questions answered does not keep searching. They ask, they get an answer, and they come to you.",
+          "Notice what this list is: your daily working knowledge, the things you explain at every first enquiry without thinking. A generic agency cannot write it, because it does not know which details a careful family checks first. And a community that hides its faith-aware details until the family is already on the phone is asking the most careful customers in the market to commit blind. Say it plainly on your pages. The evening reader is not shopping for the cheapest community. They are shopping for the community they can trust with their parent's daily life."
+        ]
+      },
+      {
+        "heading": "One page per community: the change that fills tours",
+        "paragraphs": [
+          "Most small communities list everything in one place — a single page, a PDF, or a Facebook post — and wonder why the phone stays quiet. A family comparing communities does not want a list. They want a page. One page for the assisted-living wing, one page for the residential community, one page for the new building opening in spring: each with its own rooms, its own care details, its own halal kitchen and prayer arrangements, its own from-price and the date that price was checked. A family that lands on the exact page for the exact care their parent needs does not keep searching. They read, they compare, and they book a tour.",
+          "The page-per-community change does three jobs at once. First, it matches the search: Google can send the family searching for \"Muslim assisted living in Houston\" to the assisted-living page, not to a homepage that says nothing about Houston. Second, it answers the family's real questions before they ask them — the parent's walking distance to the prayer room, the halal meals, the staff languages, the visiting hours — so the enquiry that arrives is already serious. Third, it proves the community is real and organised: a community with a page for every wing is a community that runs a real home, and families can feel the difference between that and a bare Facebook page in seconds.",
+          "Building those pages is our work, not yours: the local pages, the faith-aware pages in your approved wording with your real prices and price-check dates, and the follow-up sequence that turns an enquiry into a booked family tour — gently, in the family's own language, with no pressure and no countdown timers. A family that has just been helped for free does not need to be chased. They book a tour, because the next step is obvious, and because the community that just explained its care plainly is the community they want to visit."
+        ]
+      },
+      {
+        "heading": "The WhatsApp reply that wins the tour",
+        "paragraphs": [
+          "Families decide together, in a group chat, in the evening — and the community that answers first usually wins the tour. That is the whole reason the funnel is built around WhatsApp, not around a contact form nobody checks. When a daughter messages at 9pm about a tour for her father, the reply cannot wait until Monday morning, because by Monday she has messaged three other communities and toured with the one that answered. Speed is not a nice extra here. It is the funnel.",
+          "So the enquiry flow is built for the evening, not for office hours. A WhatsApp enquiry reaches a real person fast, with the community details already in front of them. A missed message gets a follow-up, not silence. A family that asked about assisted living gets the assisted-living page, not a generic brochure. And every enquiry arrives organised — which community, which care level, how soon — so the person answering can give a real answer in the first message instead of asking five questions back. The communities that win tours are rarely the cheapest. They are the ones that answer, clearly, while the family is still deciding.",
+          "This is also why the funnel never makes a promise it cannot keep. No care guarantee, no medical claim, no \"guaranteed place\" headline. The reply is honest about what is fixed and what can change, and the price-check date on the page says so in plain words. A family choosing a home for a parent is listening for honesty, because the decision matters too much for a sales trick. The community that answers fast and answers honestly is the community the family tours — and the community the whole masjid hears about."
+        ]
+      },
+      {
+        "heading": "What the funnel must never do",
+        "paragraphs": [
+          "Every community owner we work with asks the same question, usually first: where is the line? The answer is that the line is absolute, and the funnel is built around it. We are not a care provider. We are not a medical adviser. We are not a placement agency. The funnel sends qualified families to you, a licensed facility. The care, the licensing and the home stay entirely with you. Any licence or rating shown is your facility's own — we never claim it, and never imply it. A funnel that blurs that line is not a funnel — it is a liability, and we will not build one.",
+          "Two more boundaries are absolute. We never guarantee a resident, a room or a price, because prices change, rooms fill, and any agency that guarantees either is selling certainty that does not exist. And we never film a resident without written consent — not in a testimonial, not in a tour video, not in the background of a shot. The videos show your facility, your staff, your prayer room and your kitchen only. Trust is the whole business here, and a funnel that fakes it is not a funnel.",
+          "The same honesty rule governs the whole funnel. No fake testimonials, no invented residents, no borrowed credentials. The proof on the page is the public arithmetic — a US senior living market of about $76.39 billion in 2026 growing toward about $101.86 billion by 2031, new Muslim facilities opening now with monthly rates of $7,500 to $10,500, and Sharia-compliant investor Arcapita buying a US senior living portfolio for $110 million — and the free audit that shows a community exactly where it stands before spending anything. A family choosing a home for a parent is listening for honesty, and honesty is the one thing a funnel cannot fake."
+        ]
+      },
+      {
+        "heading": "What it costs, and what nobody can promise",
+        "paragraphs": [
+          "Our [Faith-Aware Senior Living Funnel](/services/faith-aware-senior-living) is $499 to $799 a month depending on the scope of enquiry management and the number of cities you serve, with a one-time build of $1,000 to $2,000, starting with a free family visibility audit so you see what families find today before committing. For scale: a single resident is worth $7,500 to $10,500 a month in fees, so one new resident covers a whole year of the funnel many times over — and unlike an advert, the profile, pages and reviews you build keep working after the month ends. And the timing is unforgiving: new Muslim facilities are opening now, RayanCare is building the UK's first Muslim-focused residential care home, and Alma's Senior Haven opens in spring 2027 — so the communities that are findable now take the families. Message us on WhatsApp with your city and we will check your local competition as part of the audit.",
+          "Two boundaries, stated plainly. We are not a care provider, medical adviser or placement agency — that stays entirely with your licensed facility. And nobody can guarantee a resident, a room or a number of tours: enquiries depend on your rooms, your prices, your reviews and many factors outside any agency's control, and any agency that guarantees residents is selling certainty that does not exist. What we can promise is the work itself — faith-aware pages families trust, every detail explained plainly, enquiries that arrive fast, and steady activity — reported in plain monthly numbers, so you can judge us on your own tour diary filling up. The same discipline applies the moment an enquiry arrives, which is why an [instant lead response](/services/instant-lead-response) system matters, and the same funnel thinking works for any community service — it is the same discipline behind our [GBP fix and review system](/services/gbp-fix-review-system) for local businesses. If this fits your community, the audit is free, and the first step is a message."
+        ]
+      }
+    ],
+    "service": "faith-aware-senior-living",
+    "slug": "how-senior-living-communities-reach-muslim-families",
+    "title": "How Senior Living Communities Reach Muslim Families First"
+  },
+  {
+    "excerpt": "Muzz reports 21 million users — yet boutique Muslim matchmakers are invisible on Google when families search. Here is the funnel that puts you first.",
+    "extraImages": [
+      {
+        "after": "Privacy is the product: the pages that earn trust",
+        "alt": "Muslim family at home in the evening, parents and their adult daughter in a hijab sitting around a dining table with a laptop, discussing a matchmaker's profile together",
+        "caption": "The decision is made at home, together, in the evening. If your pages have no clear vetting process and no easy way to book a private consultation, that evening belongs to another matchmaker.",
+        "src": "/images/blog/how-muslim-matchmakers-reach-families-first-2.jpg"
+      },
+      {
+        "after": "The consultation, not the catalogue: the funnel that books",
+        "alt": "Close-up of a smartphone on a wooden desk showing a clean private consultation booking page for a Muslim matchmaking service with a calendar and a confirm button",
+        "caption": "A consultation is won in the reply, not in the advert: a family that gets a clear answer in minutes stops contacting other matchmakers.",
+        "src": "/images/blog/how-muslim-matchmakers-reach-families-first-3.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "At AA Digital Network, the one-time funnel build is $1,000 to $2,000, plus a $399 to $699 monthly inquiry-generation retainer. We start with a free inquiry visibility audit, so you see what families find today before deciding anything, and we confirm your exact figure before you commit.",
+        "q": "How much does a Dignified Matchmaker Funnel cost?"
+      },
+      {
+        "a": "No — never. We do not do matchmaking, vetting or introductions, and we never speak to a family as if we were the matchmaker. We build the funnel that brings you qualified consultation enquiries. The matchmaking itself, the vetting and every introduction stay entirely with you and your process.",
+        "q": "Are you a matchmaker?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. A match depends on your process, your network, your reputation and the families themselves — things no agency controls. What we promise is the work that earns enquiries: pages families trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee a match or a marriage?"
+      },
+      {
+        "a": "Never. No client is ever photographed, filmed or named for marketing — not in a testimonial, not in a success story, not in the background of a shot. Our videos show you, your process and your consultation only. Privacy is the reason families choose you, so it is the one rule we never break.",
+        "q": "Do you show client photos or stories?"
+      },
+      {
+        "a": "Yes — a solo matchmaker is a common starting point. The funnel is built around your real capacity: the local pages, the consultation booking and the follow-up all work whether you take five clients a month or fifty. A solo matchmaker who answers fast beats a large service that does not answer at all.",
+        "q": "I am a solo matchmaker. Can this still work?"
+      }
+    ],
+    "image": "/images/blog/how-muslim-matchmakers-reach-families-first.jpg",
+    "imageAlt": "Professional Muslim matchmaker woman wearing a hijab at her desk in a bright private office, laptop open to a consultation booking page, notebook with handwritten notes beside it",
+    "imageCaption": "The first consultation is decided in a search, not in the office: a family that finds a matchmaker who understands privacy, vetting and wali involvement is a family that books a call.",
+    "related": [
+      {
+        "slug": "how-muslim-wedding-planners-get-more-bookings",
+        "title": "How Muslim Wedding Planners Get More Bookings: The Funnel, Step by Step"
+      },
+      {
+        "slug": "how-muslim-therapists-reach-clients-who-need-them",
+        "title": "How Muslim Therapists Reach Clients Who Need Them"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The short answer first",
+        "paragraphs": [
+          "If you run a boutique Muslim matchmaking service and want more consultation enquiries, the honest answer is a system, not a single advert. A complete Google Business Profile, local pages that match the searches singles and parents actually type, privacy-first landing pages that explain vetting, wali involvement and confidentiality in plain words, and a WhatsApp consultation-booking funnel that answers fast will do more for your diary than any one-off promotion. Muslim families are not browsing for inspiration — they are looking for a person they can trust with the most private decision of their lives — and they are choosing the matchmaker who explains herself first.",
+          "That is the whole idea behind the service we run for matchmakers: a [Dignified Matchmaker Funnel](/services/dignified-matchmaker-funnel) that builds the profile, the local pages, the privacy-first pages and the consultation flow for you, for $399 to $699 a month after a $1,000 to $2,000 build, starting with a free audit of what a family finds when it searches for you today. Everything in this guide explains how that funnel works, what families actually search for, and what it can and cannot promise — so you can judge whether it fits your service before spending anything."
+        ]
+      },
+      {
+        "heading": "The mother searching quietly",
+        "paragraphs": [
+          "Picture a mother in London. She has been quietly looking for a matchmaker for her daughter for six months. She does not want an app, a public profile or a photo gallery — she wants a real person who vets properly, involves the wali, and keeps everything confidential. One evening she opens her laptop after dinner and searches \"Muslim matchmaker near me\". What she finds is a big marriage app, a directory listing with no details, and an Instagram page last updated four months ago. She sends a message. Nobody answers that evening. She closes the laptop and asks a friend instead. The boutique matchmaker two streets away who could have helped her family never knew they existed — because the family could not find her.",
+          "We see this pattern across every matchmaking market we audit, and it is rarely about the matchmaker's quality. The invisible matchmaker usually assumes the problem is that families are too few, or too private, or too hard to reach. They are none of those things. They are a proven, growing market — Muzz, the world's largest Muslim marriage app, reports more than 21 million users and over 800,000 marriages, and launched in India in April 2026 — and that very success has warmed the audience for human matchmaking, with boutique services going mainstream after Hulu's \"Muslim Matchmaker\" in 2025. The problem is upstream: the matchmakers that understand Muslim families are invisible in the one place families look, and the services that are visible do not understand them.",
+          "There is a second, quieter cost. Every family that gives up on finding a vetted matchmaker, or settles for an app because nobody local offered a human alternative, is a family that will remember who helped them — and who did not. A boutique matchmaking package runs £500 for six months or £1,000 for twelve months — Muslim Souls publishes exactly that range — and Love Inshallah charges $29 to $349 a month, so one or two new clients cover a whole year of a marketing retainer. But the real arithmetic is not the matchmaker's: it is the family's. This is their daughter's or son's future, and the matchmaker who explains her process plainly is the one they will trust — and recommend to every cousin, colleague and masjid friend they know."
+        ]
+      },
+      {
+        "bullets": [
+          "\"Muslim matchmaker near me\" — the highest-intent search in the whole system, typed by a single or a parent who has already decided they want a human matchmaker and is choosing which one to call",
+          "\"Muslim marriage matchmaking service\" — the search of a family that wants a vetted, human service, not an app, and is checking who does this properly in their city",
+          "\"Muslim matchmaker [city]\" or \"halal matchmaking service\" — the search of a family that wants a real person, a real process, and someone they can speak to before they share anything",
+          "\"Boutique Muslim matchmaker\" or \"Muslim matchmaker for professionals\" — the search of a family looking for a discreet, personal service, often for a daughter or son who has tried the apps and wants something vetted"
+        ],
+        "heading": "What singles and parents actually search for",
+        "paragraphs": [
+          "Start with the searches, because they explain why this is worth fixing. Muslim singles and parents do not search the way dating agencies think they search. They search quietly, in plain words, on a phone, in the evening — and they call the first result that explains it in language they understand. \"Muslim matchmaker near me\" is typed by a mother who has already decided she wants a human matchmaker. \"Muslim marriage matchmaking service\" is typed by a family that wants a real person and a real process. \"Boutique Muslim matchmaker\" is typed by a family looking for discretion, often for a son or daughter who has tried the apps and wants something vetted.",
+          "Two consequences follow. First, if your website is thin — a single page, an Instagram bio, no city, no process and no consultation booking — you are absent from the exact searches that matter, even if you rank well for your own name. The family searching for a matchmaker in their city never sees you, because Google matches their words to your pages, and your pages do not have their words. Second, the family who does find you will compare your pages against competitors' pages — and judge you on clarity, honesty and ease of booking a consultation, not on the testimonials they cannot verify. A page that explains the vetting process, the wali's role, the confidentiality promise and the consultation fee, and offers a booking in one tap, beats a bigger service with a silent website, every time.",
+          "This is where a boutique matchmaker should win easily, and where most matchmakers say almost nothing. A Muslim family choosing a matchmaker is checking a specific list — consciously or not. Who vets the other side, and how? Is the wali involved, and at which step? Are photos ever shared publicly? What happens to our details if we decide not to proceed? How much does a consultation cost, and what does it include? Generic dating-marketing agencies cannot write this list credibly, because their playbook — public photos, swiping, public success stories — is the exact opposite of what this family wants, and the matchmakers themselves are connectors, not marketers."
+        ]
+      },
+      {
+        "heading": "Privacy is the product: the pages that earn trust",
+        "paragraphs": [
+          "The decision to book a consultation is almost never made in an office. It is made at home, in the evening, with the family around the table — usually after something happened: a daughter mentioned she is ready, a friend's son got married through a matchmaker, a parent counted the years. One parent reads, the other listens, the daughter asks about privacy and the wali's role, and together they decide whether to message someone. That is the moment the funnel is built for, and it is the moment most matchmaker websites completely ignore.",
+          "So the funnel starts with the evening reader in mind. The privacy-first pages are written in plain language, not agency language — short sentences, clear headings, no jargon without an explanation beside it. The details sit on the page, not behind a form: a family can read about the vetting process, the wali's involvement, the confidentiality promise and the consultation fee without giving a name or a photo first, because trust is earned before it is asked for. And the consultation booking is one tap, on WhatsApp or a short form, with a clear statement of what happens next and what it costs. A family that finds their exact questions answered does not keep searching. They ask, they get an answer, and they book a call.",
+          "Notice what this list is: your daily working knowledge, the things you explain at every first enquiry without thinking. A generic agency cannot write it, because it does not know which details a careful family checks first. And a matchmaker who hides her process and her privacy promise until the family is already on the phone is asking the most private customers in the market to commit blind. Say it plainly on your pages. The evening reader is not shopping for the cheapest matchmaker. They are shopping for the matchmaker they can trust with their family's privacy."
+        ]
+      },
+      {
+        "heading": "The consultation, not the catalogue: the funnel that books",
+        "paragraphs": [
+          "Most boutique matchmakers list everything in one place — a single page, an Instagram bio, or a WhatsApp status — and wonder why the phone stays quiet. A family comparing matchmakers does not want a list. They want a page. One page for the consultation, one page for the vetting process, one page for the service in their city: each with its own explanation, its own fee, its own confidentiality promise and its own booking button. A family that lands on the exact page for the exact service they want does not keep searching. They read, they compare, and they book a consultation.",
+          "The page-per-service change does three jobs at once. First, it matches the search: Google can send the family searching for \"Muslim matchmaker in London\" to the London page, not to a homepage that says nothing about London. Second, it answers the family's real questions before they ask them — the vetting steps, the wali's role, what happens to their details, what a consultation costs — so the enquiry that arrives is already serious. Third, it proves the matchmaker is real and organised: a matchmaker with a page for every part of her service is a matchmaker who runs a real practice, and families can feel the difference between that and a bare Instagram page in seconds.",
+          "Building those pages is our work, not yours: the local pages, the privacy-first pages in your approved wording with your real fees, and the follow-up sequence that turns an enquiry into a booked consultation — gently, in the family's own language, with no pressure and no countdown timers. A family that has just been helped for free does not need to be chased. They book, because the next step is obvious, and because the matchmaker who just explained her process plainly is the matchmaker they want to speak to."
+        ]
+      },
+      {
+        "heading": "What the funnel must never do",
+        "paragraphs": [
+          "Every matchmaker we work with asks the same question, usually first: where is the line? The answer is that the line is absolute, and the funnel is built around it. We are not a matchmaker. We do not vet anyone. We do not make introductions. The funnel sends qualified families to you. The matchmaking, the vetting and every introduction stay entirely with you. Any claim about your process or your success is your wording — we never invent it, and never imply it. A funnel that blurs that line is not a funnel — it is a liability, and we will not build one.",
+          "Two more boundaries are absolute. We never guarantee a match, a marriage or a number of introductions, because a match depends on the families themselves, and any agency that guarantees one is selling certainty that does not exist. And we never show a client — not a photo, not a name, not a story, not even a blurred face in the background of a shot. The videos show you, your process and your consultation only. Privacy is the whole business here, and a funnel that breaks it is not a funnel.",
+          "The same honesty rule governs the whole funnel. No fake testimonials, no invented couples, no borrowed success stories. The proof on the page is the public arithmetic — more than 21 million users and over 800,000 marriages claimed by the largest Muslim marriage app, boutique packages at £500 to £1,000 and $29 to $349 a month, and a mainstream shift toward vetted human introductions after \"Muslim Matchmaker\" — and the free audit that shows a matchmaker exactly where she stands before spending anything. A family choosing a matchmaker is listening for honesty, and honesty is the one thing a funnel cannot fake."
+        ]
+      },
+      {
+        "heading": "What it costs, and what nobody can promise",
+        "paragraphs": [
+          "Our [Dignified Matchmaker Funnel](/services/dignified-matchmaker-funnel) is $399 to $699 a month depending on the scope of enquiry management and the number of cities you serve, with a one-time build of $1,000 to $2,000, starting with a free inquiry visibility audit so you see what families find today before committing. For scale: a boutique package runs £500 for six months or £1,000 for twelve, so one or two new clients cover a whole year of the funnel — and unlike an advert, the profile, pages and reviews you build keep working after the month ends. And the timing is unforgiving: the apps have warmed the audience, the shows have made human matchmaking mainstream, and every month brings new singles and new parents searching — so the matchmakers that are findable now take the consultations. Message us on WhatsApp with your city and we will check your local competition as part of the audit.",
+          "Two boundaries, stated plainly. We are not a matchmaker, a vetting service or an introduction agency — that stays entirely with you. And nobody can guarantee a match, a marriage or a number of introductions: enquiries depend on your process, your reputation, your fees and many factors outside any agency's control, and any agency that guarantees a match is selling certainty that does not exist. What we can promise is the work itself — privacy-first pages families trust, every step explained plainly, enquiries that arrive fast, and steady activity — reported in plain monthly numbers, so you can judge us on your own consultation diary filling up. The same discipline applies the moment an enquiry arrives, which is why an [instant lead response](/services/instant-lead-response) system matters, and the same funnel thinking works for any community service — it is the same discipline behind our [GBP fix and review system](/services/gbp-fix-review-system) for local businesses. If this fits your service, the audit is free, and the first step is a message."
+        ]
+      }
+    ],
+    "service": "dignified-matchmaker-funnel",
+    "slug": "how-muslim-matchmakers-reach-families-first",
+    "title": "How Muslim Matchmakers Reach Families First"
+  }
 ];
 
 export function getArticle(slug: string): Article | undefined {

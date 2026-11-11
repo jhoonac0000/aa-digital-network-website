@@ -72,6 +72,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/halal-tax-bookkeeping-funnel`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/modest-salon-booking-funnel`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-muslim-cpas-win-clients-before-tax-season`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-women-only-salons-fill-every-chair`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-women-only-salons-fill-every-chair`, lastModified: "2026-11-10", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/faith-aware-senior-living`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/dignified-matchmaker-funnel`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-senior-living-communities-reach-muslim-families`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-matchmakers-reach-families-first`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 }
   ];
 }

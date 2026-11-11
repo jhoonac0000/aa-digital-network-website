@@ -185,6 +185,22 @@ export default function BlogPage() {
             <p className="small"><Link href="/services/modest-salon-booking-funnel">Related service →</Link></p>
           </div>
 
+================================================================================
+<div className="card" key="how-senior-living-communities-reach-muslim-families">
+            <img className="card-img" src="/images/blog/how-senior-living-communities-reach-muslim-families.jpg" alt="Muslim family with an elderly father in a white cap visiting a bright senior living community garden with a friendly director, green courtyard and modern accessible building behind them" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-senior-living-communities-reach-muslim-families">How Senior Living Communities Reach Muslim Families First</Link></h3>
+            <p>The US senior living market is about $76.39 billion in 2026 — yet most Muslim-friendly communities are invisible on Google when families search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/faith-aware-senior-living">Related service →</Link></p>
+          </div>
+
+================================================================================
+<div className="card" key="how-muslim-matchmakers-reach-families-first">
+            <img className="card-img" src="/images/blog/how-muslim-matchmakers-reach-families-first.jpg" alt="Professional Muslim matchmaker woman wearing a hijab at her desk in a bright private office, laptop open to a consultation booking page, notebook with handwritten notes beside it" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-matchmakers-reach-families-first">How Muslim Matchmakers Reach Families First</Link></h3>
+            <p>Muzz reports 21 million users — yet boutique Muslim matchmakers are invisible on Google when families search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/dignified-matchmaker-funnel">Related service →</Link></p>
+          </div>
+
       </div>
     </div>
   );
