@@ -2421,6 +2421,176 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you inquiry funnel for boutique Muslim matchmakers and human matchmaking services — local SEO, Google Business Profile, privacy-first landing pages and a confidential consultation-booking funnel that turns searches into booked first calls.",
     "slug": "dignified-matchmaker-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Small halal meal-prep and meal-kit brands in the US, UK, Canada and Australia selling weekly ready meals, pre-portioned recipe kits or zabiha meat boxes",
+      "Founder-run halal kitchens selling on Shopify, Instagram or TikTok",
+      "Halal meal-prep brands preparing suhoor and iftar boxes and Ramadan meal plans",
+      "Meal-kit brands whose customers find them on TikTok and Instagram but never reach a subscription page"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so \"halal meal prep near me\" and \"halal meal kit delivery\" find your kitchen first where you operate",
+      "Trial-box landing pages: first-box discount, first-week menu and a clear subscription signup in the brand's own words",
+      "A WhatsApp order and subscription funnel, so a customer who messages in the evening reaches a real person fast and no order is ever missed silently",
+      "Email and WhatsApp retention flow: weekly menu reminders, skip and pause help, and a referral offer that turns subscribers into referrers",
+      "12 food Shorts and Reels a month — dish close-ups, packing, founder and chef story — because food is a visual product and video is its biggest selling tool",
+      "A free subscription visibility audit first: what a customer finds when they search for halal meal prep in your city today",
+      "A short monthly report: trial boxes, new subscribers, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim family at home in the evening, mother in a hijab and father sitting on a sofa with a laptop, searching for halal meal prep delivery, a weekly meal box on the coffee table",
+        "caption": "The order is decided at home, in the evening, usually after a long day. The brand that appears with a clear menu, a trial box and a working subscription signup is the one the family tries first.",
+        "src": "/images/services/halal-meal-prep-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Close-up of hands in food-safe gloves packing fresh halal meals into labelled weekly meal boxes, steam rising, fresh herbs and colourful vegetables, bright clean kitchen",
+        "caption": "Packing day is the product: the Shorts and Reels we film here — steam, colour, a real kitchen — are what turn a scroll into a trial box.",
+        "src": "/images/services/halal-meal-prep-funnel-packing.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We are not a meal-prep brand, a kitchen or a food business. We build the funnel that brings you trial-box orders and subscribers. The cooking, the sourcing, the zabiha certification and every meal stay entirely with you and your kitchen.",
+        "q": "Do you cook or deliver the meals?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Subscribers depend on your food, your prices, your delivery area and your reviews — things no agency controls. What we promise is the work that earns orders: pages customers trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee subscribers or revenue?"
+      },
+      {
+        "a": "Only with your approval, and only ever your kitchen, your team and your food. We never film a customer, and we never claim a certification or a sourcing detail in your name — every halal claim on the page is your own wording, checked by you before it goes live.",
+        "q": "Do you film my kitchen or my customers?"
+      },
+      {
+        "a": "Yes — a small founder-run kitchen is a common starting point. The funnel is built around your real capacity: the local pages, the trial-box offer and the follow-up all work whether you cook twenty boxes a week or two hundred. A small kitchen that answers fast beats a large brand that does not answer at all.",
+        "q": "I run a small kitchen. Can this still work?"
+      },
+      {
+        "a": "We serve halal meal-prep and meal-kit brands across the US, UK, Canada and Australia, with a focus on diaspora cities — New York and New Jersey, Houston, Chicago, Dearborn, Dallas, London and Birmingham, Toronto, Sydney and Melbourne. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+        "q": "Which cities do you cover?"
+      }
+    ],
+    "image": "/images/services/halal-meal-prep-funnel-hero.jpg",
+    "imageAlt": "Bright modern halal meal-prep kitchen, a chef in a white apron packing fresh colourful weekly meal boxes on a steel counter, steaming rice dishes, grilled chicken and fresh vegetables in containers",
+    "imageCaption": "The first box is decided in a search, not in the kitchen: a customer who finds a brand that explains its menu, its halal sourcing and its trial offer plainly is a customer who orders.",
+    "isNew": true,
+    "name": "Halal Meal-Prep Subscription Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly subscription-growth retainer. Start with the free subscription visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A mother in Houston works full time, the children are home by four, and dinner is the same tired question every evening. She wants food her family can trust — zabiha meat, a halal kitchen, no guesswork — and she wants it ready. She searches \"halal meal prep near me\" on her phone and finds a big generic meal-kit brand, an Instagram page with no menu and no prices, and a small halal kitchen whose website says nothing about a trial box, a weekly plan or delivery. She sends a message. Nobody answers that evening. She orders from the generic brand instead and cooks the meat herself. The small halal kitchen four streets away that could have fed her family every week never knew she existed — because she could not find it, or could not order from it.",
+      "The arithmetic makes the invisibility expensive. The halal meal kits market is forecast to grow from about $2.4 billion to about $6.0 billion by 2033, at 10.30% a year, and new halal meal-kit startups are appearing right now in the US, the UK and Australia — HalalMealKits in New Jersey with IFANCA-certified ingredients, Simply Halal, Boxed Halal, Halal Fresh and HalalBox. A food and beverage subscription is typically worth about $300 to $800 in lifetime value, and a meal kit for two costs about $25 to $35 — so five to ten new subscribers cover a whole year of a marketing retainer. And the audience is wider than most brands think: about 30% of halal meal-kit customers are not Muslim, choosing halal for ethical and healthy eating. Yet the small halal brands themselves are almost invisible on Google, their marketing is a founder's own Instagram, and no proper subscription funnel exists for \"halal meal prep near me\". Generic food-marketing agencies chase the big players, and their copy never mentions zabiha sourcing or certification. So the gap stays open, in every city where families are searching for a halal box they can trust."
+    ],
+    "process": [
+      {
+        "text": "We search the way a customer searches — \"halal meal prep near me\", \"halal meal kit delivery\" plus your city — and report what they find: your profile, your reviews, and the brands Google shows instead of you.",
+        "title": "Subscription visibility audit"
+      },
+      {
+        "text": "Profile, local pages, the trial-box landing pages, the WhatsApp subscription funnel, the retention flow and the monthly food Shorts, built with your approved wording and your real menu and prices. We never claim a certification in your name and never make a health or diet claim.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Trial orders and subscriptions arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own subscriber list growing.",
+        "title": "Customers reach you, you cook and deliver"
+      }
+    ],
+    "proof": "The market is the proof: a halal meal kits market forecast to grow from about $2.4 billion to about $6.0 billion by 2033 at 10.30% a year, new halal meal-kit startups appearing now across the US, UK and Australia, and a food subscription typically worth about $300 to $800 in lifetime value — against a $499 to $799 monthly retainer. Five to ten new subscribers cover a whole year of the funnel, and Ramadan 2027 starts around 8 February, so the brands that set up their funnel and content now are the ones that catch the suhoor and iftar wave. We start with a free subscription visibility audit, so you see exactly what a customer finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you subscription funnel for small halal meal-prep and meal-kit brands — local SEO, Google Business Profile, trial-box landing pages, a WhatsApp order funnel, retention flow and 12 food Shorts a month that turn searches into weekly subscribers.",
+    "slug": "halal-meal-prep-funnel"
+  },
+  {
+    "audiences": [
+      "Small Muslim-owned halal supplements and vitamins brands in the US, UK, Canada and Australia selling collagen, multivitamins, omega-3, vitamin D, protein powder or gummies",
+      "Founder-run supplement brands selling on Shopify, Amazon or TikTok Shop",
+      "Supplement brands whose customers search \"halal collagen\" or \"halal vitamins\" but never reach a subscription page",
+      "Brands preparing January health-resolution and Ramadan energy and immunity campaigns"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so \"halal collagen\", \"halal vitamins\" and \"halal protein powder\" find your brand first where you operate",
+      "Product landing pages with a clear certification and sourcing story — zabiha bovine versus marine collagen, pork-gelatin-free capsules, alcohol-free — in your own approved wording",
+      "A \"Subscribe & Save\" trial funnel: first-order discount, monthly refill signup, and a clear pause and skip promise",
+      "Email and WhatsApp retention flow: refill reminders, subscription pause and skip help, and review requests that build trust",
+      "12 product Shorts and Reels a month — ingredient explainers, founder story, \"what is in this bottle and why\" — face and product only, modest presentation",
+      "A free supplement visibility audit first: what a customer finds when they search for halal supplements in your market today",
+      "A short monthly report: trial orders, new subscribers, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim woman wearing a hijab at home in a bright kitchen, reading a supplement bottle label carefully at the counter in morning light, other supplement bottles nearby",
+        "caption": "The label is read before the order is placed. The brand that explains its certification and its ingredients plainly — in its own words — is the one the customer trusts with something she will swallow.",
+        "src": "/images/services/halal-supplements-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Hands opening a neat subscription delivery box of halal vitamins and supplements, bottles arranged in rows, tissue paper, bright clean background",
+        "caption": "The refill box is the product arriving every month. The funnel exists to make that box arrive on time, every time — and to make the next one easy to keep.",
+        "src": "/images/services/halal-supplements-funnel-unboxing.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We are not a supplement brand, a manufacturer or a health service. We build the funnel that brings you trial orders and subscribers. The products, the formulation, the certification and every claim about them stay entirely with you and your brand.",
+        "q": "Do you make or sell the supplements?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Subscribers depend on your products, your prices, your reviews and your market — things no agency controls. What we promise is the work that earns orders: pages customers trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee subscribers or sales?"
+      },
+      {
+        "a": "Never. We make no health, treatment or outcome claim, and no disease-treatment claim of any kind. Every claim on the page is your own wording about your certification and ingredients, checked by you before it goes live, and kept inside the supplement advertising rules.",
+        "q": "Do you make health claims for my products?"
+      },
+      {
+        "a": "Yes — a small founder-run brand is a common starting point. The funnel is built around your real capacity: the local pages, the trial offer and the follow-up all work whether you sell twenty bottles a month or two thousand. A small brand that answers fast beats a large brand that does not answer at all.",
+        "q": "I run a small supplement brand. Can this still work?"
+      },
+      {
+        "a": "We serve halal supplement brands across the US, UK, Canada and Australia, with a focus on diaspora cities — New York and New Jersey, Houston, Chicago, Dearborn, Dallas, London and Birmingham, Toronto, Sydney and Melbourne. Message us on WhatsApp with your city and we will check your local competition as part of the free audit.",
+        "q": "Which cities do you cover?"
+      }
+    ],
+    "image": "/images/services/halal-supplements-funnel-hero.jpg",
+    "imageAlt": "Clean bright product photograph of halal supplement bottles, collagen, multivitamins and omega-3, arranged on a white desk with green leaves and a glass of water, a small halal certification badge on the labels",
+    "imageCaption": "The first bottle is decided in a search, not on the shelf: a customer who finds a brand that explains its certification and its ingredients plainly is a customer who subscribes.",
+    "isNew": true,
+    "name": "Halal Supplements Subscription Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly subscription-growth retainer. Start with the free supplement visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A mother in Dearborn has been looking for a collagen powder she can trust for three months. She wants to know one thing before anything else: is it really halal — zabiha bovine or marine, pork-gelatin-free, alcohol-free — and who certified it. She searches \"halal collagen\" on her phone and finds a big generic brand, an Amazon listing with no certification story, and a small Muslim-owned brand whose website says nothing about its sourcing, its certification or a subscription. She sends a message. Nobody answers that evening. She buys the generic bottle instead and hopes for the best. The small halal brand that could have kept her as a monthly subscriber for years never knew she existed — because she could not find it, or could not trust what she found.",
+      "The arithmetic makes the invisibility expensive. The halal nutritional supplements market is forecast to grow from about $6.25 billion in 2025 to about $11.03 billion by 2032, at 8.45% a year, and a second report puts it at about $6.92 billion in 2026 rising to about $18.36 billion by 2035. Collagen is one of the best-selling supplements of 2026: one collagen brand sold 843,777 units on TikTok Shop US, and one supplement brand made about $6.64 million in thirty days on TikTok Shop US — 243,000 units, number one in the Health category. A supplement bottle typically costs about $25 to $35, and a subscriber refills every month, so one subscriber is worth about $300 to $400 a year — fifteen to twenty-five new subscribers cover a whole year of a marketing retainer. And the rules are moving our way: in Indonesia, mandatory halal certification for herbal medicines and health supplements took full effect on 17 October 2026, so certification is turning from a selling point into a compliance requirement. Yet the small halal brands themselves are almost invisible on Google, their marketing is the founder's own Instagram, and no proper subscription funnel exists for \"halal collagen\" or \"halal vitamins\". Generic supplement agencies chase the big direct-to-consumer brands, and their copy cannot credibly explain why one capsule is halal and another is not. So the gap stays open, in every city where customers are searching for a supplement they can trust."
+    ],
+    "process": [
+      {
+        "text": "We search the way a customer searches — \"halal collagen\", \"halal vitamins\", \"halal protein powder\" plus your market — and report what they find: your profile, your reviews, and the brands Google and TikTok Shop show instead of you.",
+        "title": "Supplement visibility audit"
+      },
+      {
+        "text": "Profile, local pages, the product landing pages with your certification and sourcing story, the Subscribe & Save trial funnel, the retention flow and the monthly product Shorts, built with your approved wording. We never make a health, treatment or outcome claim, and never write a certification claim you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Trial orders and subscriptions arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own subscriber list growing.",
+        "title": "Customers reach you, you ship the refills"
+      }
+    ],
+    "proof": "The market is the proof: a halal nutritional supplements market forecast to grow from about $6.25 billion in 2025 to about $11.03 billion by 2032, collagen among the best-selling supplements of 2026 with one brand selling 843,777 units on TikTok Shop US, and a subscriber worth about $300 to $400 a year on a $25 to $35 bottle — against a $499 to $799 monthly retainer. Fifteen to twenty-five new subscribers cover a whole year of the funnel, and the timing is unforgiving: January health resolutions are the biggest supplement sales wave of the year, and Ramadan 2027 starts around 8 February, so the brands that set up their funnel and content now are the ones that catch both waves. We start with a free supplement visibility audit, so you see exactly what a customer finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you subscription funnel for small halal supplement and vitamin brands — local SEO, Google Business Profile, certification-story product pages, a Subscribe & Save trial funnel, retention flow and 12 product Shorts a month that turn searches into monthly refills.",
+    "slug": "halal-supplements-funnel"
   }
 ];
 

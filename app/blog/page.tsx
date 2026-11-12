@@ -201,6 +201,22 @@ export default function BlogPage() {
             <p className="small"><Link href="/services/dignified-matchmaker-funnel">Related service →</Link></p>
           </div>
 
+================================================================================
+<div className="card" key="how-halal-meal-prep-brands-win-weekly-subscribers">
+            <img className="card-img" src="/images/blog/how-halal-meal-prep-brands-win-weekly-subscribers.jpg" alt="Overhead flat-lay of a full week of halal meal-prep boxes in a row, colourful dishes, a printed weekly menu card, fresh ingredients scattered, bright clean background" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-meal-prep-brands-win-weekly-subscribers">How Halal Meal-Prep Brands Win Weekly Subscribers</Link></h3>
+            <p>The halal meal kits market is forecast to grow from $2.4B to $6.0B by 2033 — yet most small halal meal-prep brands are invisible on Google when families search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/halal-meal-prep-funnel">Related service →</Link></p>
+          </div>
+
+================================================================================
+<div className="card" key="how-halal-supplement-brands-win-subscribe-and-save-customers">
+            <img className="card-img" src="/images/blog/how-halal-supplement-brands-win-subscribe-and-save-customers.jpg" alt="Flat-lay morning routine: halal supplement bottles, capsules in a small dish, a glass of water, a notebook and a phone showing a refill reminder, bright clean background" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-supplement-brands-win-subscribe-and-save-customers">How Halal Supplement Brands Win Subscribe-and-Save Customers</Link></h3>
+            <p>The halal supplements market is forecast to grow from $6.25B to $11.03B by 2032 — yet most small halal vitamin brands are invisible on Google when customers search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/halal-supplements-funnel">Related service →</Link></p>
+          </div>
+
       </div>
     </div>
   );

@@ -76,6 +76,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/faith-aware-senior-living`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/dignified-matchmaker-funnel`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-senior-living-communities-reach-muslim-families`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-matchmakers-reach-families-first`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-matchmakers-reach-families-first`, lastModified: "2026-11-11", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-meal-prep-funnel`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-supplements-funnel`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-halal-meal-prep-brands-win-weekly-subscribers`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-halal-supplement-brands-win-subscribe-and-save-customers`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 }
   ];
 }
