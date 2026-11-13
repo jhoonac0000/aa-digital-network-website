@@ -80,6 +80,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/halal-meal-prep-funnel`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/halal-supplements-funnel`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-halal-meal-prep-brands-win-weekly-subscribers`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-halal-supplement-brands-win-subscribe-and-save-customers`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-halal-supplement-brands-win-subscribe-and-save-customers`, lastModified: "2026-11-12", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/quran-academy-enrollment-funnel`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/dignified-birth-funnel`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-online-quran-academies-turn-trials-into-students`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-doulas-reach-families-who-need-them`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 }
   ];
 }

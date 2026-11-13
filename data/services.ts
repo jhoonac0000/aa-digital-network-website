@@ -2591,6 +2591,176 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you subscription funnel for small halal supplement and vitamin brands — local SEO, Google Business Profile, certification-story product pages, a Subscribe & Save trial funnel, retention flow and 12 product Shorts a month that turn searches into monthly refills.",
     "slug": "halal-supplements-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Small and mid-size online Quran academies in the US, UK, Canada and Australia teaching live one-to-one classes — Noorani Qaida, Tajweed, Hifz and Ijazah",
+      "Solo tutors and small teacher teams of five to twenty teachers who cannot afford a $3,000-a-month agency",
+      "Academies whose parents search \"online Quran classes\" or \"online Quran teacher for kids\" but never reach a trial-booking page",
+      "Academies preparing for the Ramadan 2027 enrollment wave, when Quran-learning searches peak every year"
+    ],
+    "deliverables": [
+      "Local and international SEO and Google Business Profile optimisation, so \"online Quran classes\", \"online Quran teacher for kids\" and \"learn Quran online\" find your academy first",
+      "A trial-class booking funnel with timezone-aware booking pages — a parent books in their own time zone, in one tap, with no back-and-forth about times",
+      "A WhatsApp parent-inquiry funnel: every enquiry answered fast, trial booked while the parent is still deciding, because the academy that replies first wins the student",
+      "Trust-building short videos — teacher introductions, trial-class process explainers and parent FAQs — with no recitation in marketing videos, ever",
+      "One landing page per programme — Noorani Qaida, Tajweed, Hifz and Ijazah — in your academy's own wording, with your teachers' credentials as you state them",
+      "A free trial-booking visibility audit first: what a parent finds when they search for online Quran classes in your market today",
+      "A short monthly report: trial bookings, enrollments, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim parent at home in the evening searching for online Quran classes on a smartphone, a laptop open beside them and a Quran resting on a wooden stand in soft light",
+        "caption": "The search happens at home, in the evening, usually while comparing three or four academies at once. The academy that answers first wins the trial.",
+        "src": "/images/services/quran-academy-enrollment-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Young child wearing a headset sitting at a laptop during a cheerful online Quran lesson, a parent nearby, a notebook and a Quran stand on the desk in a bright room",
+        "caption": "The trial class is the product being sold. When booking it takes one tap in the parent's own time zone, the trial happens — and the enrollment follows.",
+        "src": "/images/services/quran-academy-enrollment-funnel-trial.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We are not a Quran academy and we do not teach. We build the funnel that brings you trial bookings and enrolled students. The teaching, the teachers, the curriculum and every claim about them stay entirely with you and your academy.",
+        "q": "Do you teach the Quran?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Enrollments depend on your teachers, your prices, your trial experience and your market — things no agency controls. What we promise is the work that earns trials: pages parents trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee enrollments or students?"
+      },
+      {
+        "a": "Never. Our rule is absolute: no recitation in marketing videos. Our videos show teacher introductions, the trial-class process and parent FAQs only. The Quran is taught in your classes, by your teachers — never used as marketing audio.",
+        "q": "Do your marketing videos include Quran recitation?"
+      },
+      {
+        "a": "In your academy's own wording, checked by you before anything goes live. We never invent an ijazah, a qualification or a teaching claim. If a teacher holds an ijazah, we show it exactly as you state it — and nothing more.",
+        "q": "How do you show our teachers' credentials?"
+      },
+      {
+        "a": "Yes — a small academy is a common starting point. The funnel is built around your real capacity: the programme pages, the trial offer and the follow-up all work whether you have five teachers or fifty. A small academy that answers fast beats a large academy that does not answer at all.",
+        "q": "We are a small academy with five teachers. Can this still work?"
+      }
+    ],
+    "image": "/images/services/quran-academy-enrollment-funnel-hero.jpg",
+    "imageAlt": "Muslim mother wearing a hijab sitting with her young child at a laptop in a bright living room, an online Quran class with a friendly teacher on the screen, a Quran on a wooden stand beside them",
+    "imageCaption": "The enrollment is decided in the trial, not on the homepage: a parent who can see the teacher, book in their own time zone and get a fast reply stops comparing academies.",
+    "isNew": true,
+    "name": "Online Quran Academy Enrollment Funnel",
+    "priceLabel": "$750–$1,500 build + $299–$499/mo",
+    "priceNote": "The one-time funnel build is $750–$1,500, plus a $299–$499 monthly enrollment retainer. Start with the free trial-booking visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A mother in Toronto has decided her seven-year-old should start Quran classes online. She searches \"online Quran teacher for kids\" on her phone and opens four academies in one evening. Three of them have the same thin website: a list of prices, a WhatsApp number, and nothing that tells her who the teacher is, how a trial class works, what time the class would be in her time zone, or whether the teacher is qualified. She sends a message to two of them. One answers the next morning. The other never answers at all. By the end of the week she has tried a free trial with the academy that replied first — and enrolled her son there. The academy with the better teachers never knew she existed, because she could not find it, could not trust what she found, or could not book a trial in her own time zone.",
+      "The arithmetic makes the invisibility expensive. Google Trends data (Zenodo, 31 October 2026) shows searches for \"online Quran learning\", \"learn Quran online\" and \"online Quran teacher\" rising from December 2019 to January 2026, peaking every Ramadan. Umm Al-Qura University's online Quran centre reached 32,798 students across 90 countries in 2026 — and that is a single institution. GreyRadius puts the global Islamic education market above $80 billion a year. A single student typically pays $35 to $70 a month and often stays for years, so one student is worth about $420 to $840 a year — two or three new enrolled students a month cover a whole year of a marketing retainer. Yet the small academies themselves are almost invisible on Google, their marketing is Google Ads plus word of mouth, and no proper trial-booking funnel exists for \"online Quran classes\". Generic education agencies chase the big platforms, and Islamic-marketing agencies focus on masjids, charities and Umrah brands — online academies are on nobody's radar. So the gap stays open, in every city where parents are searching for a teacher they can trust with their child."
+    ],
+    "process": [
+      {
+        "text": "We search the way a parent searches — \"online Quran classes\", \"online Quran teacher for kids\" plus your market — and report what they find: your profile, your pages, your trial offer, and the academies Google shows instead of you.",
+        "title": "Trial-booking visibility audit"
+      },
+      {
+        "text": "Profile, programme pages, the timezone-aware trial-booking funnel, the WhatsApp parent funnel and the trust-building videos, built with your approved wording. We never teach the Quran, never include recitation in marketing videos, and never write a credential or learning claim you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Trial bookings and enrollments arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own student list growing.",
+        "title": "Parents reach you, you teach the classes"
+      }
+    ],
+    "proof": "The market is the proof: searches for online Quran learning have risen steadily since 2019 and peak every Ramadan, one university centre alone teaches 32,798 students across 90 countries, and the global Islamic education market is above $80 billion a year — against a $299 to $499 monthly retainer. A student on a typical $35 to $70 monthly plan is worth about $420 to $840 a year and often stays for years, so two or three new enrolled students a month cover a whole year of the funnel, and Ramadan 2027 starts around 8 February, so the academies that set up their funnel and content now are the ones that catch the enrollment wave. We start with a free trial-booking visibility audit, so you see exactly what a parent finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you enrollment funnel for online Quran academies — search, Google Business Profile, trial-class booking pages, a WhatsApp parent-inquiry funnel and trust-building teacher videos that turn free trials into enrolled students.",
+    "slug": "quran-academy-enrollment-funnel"
+  },
+  {
+    "audiences": [
+      "Muslim doulas and faith-aware birth support practices in the US, UK and Canada — birth and postpartum doulas and childbirth educators",
+      "Solo certified doulas and small collectives in diaspora cities — Chicago, Seattle, Philadelphia, New York and New Jersey, Houston, London, Birmingham and Toronto",
+      "Doulas whose clients search \"Muslim doula near me\" or \"Muslim birth doula near me\" but never reach a consultation-booking page",
+      "Practices ready for the wave Medicaid expansion and employer doula benefits are creating right now, as families search for doula support for the first time"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so \"Muslim doula near me\" and \"Muslim birth doula near me\" find your practice first in your city",
+      "Privacy-first landing pages — female-only support, modesty during labour, prayer breaks, halal hospital meals and dates for early labour, husband and family involvement, and a hospital birth-plan template",
+      "A free-consultation to package-booking funnel: the family that books a consultation first is the family you keep, because pregnant families often speak to two or three doulas in the same week",
+      "Dignified short videos — doula introductions, birth-plan process explainers and postpartum support guides — with clients never photographed or filmed, ever",
+      "One landing page per service — birth doula, postpartum doula and childbirth education — in your own wording, with your certification and services as you state them",
+      "A free birth visibility audit first: what an expectant mother finds when she searches for a Muslim doula in your city today",
+      "A short monthly report: consultations booked, packages sold, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Expectant Muslim mother wearing a hijab at home searching for a Muslim doula on her smartphone, a notebook with questions beside her, soft evening light",
+        "caption": "The search happens at home, often late at night, while comparing two or three doulas at once. The doula who answers first wins the consultation.",
+        "src": "/images/services/dignified-birth-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Doula and expectant mother reviewing a printed birth-plan document together at a wooden table, a pen, a notebook and a small bowl of dates nearby, warm and modest setting",
+        "caption": "The birth plan is the product being sold. When a mother can see her wishes written down before the consultation, she books with confidence.",
+        "src": "/images/services/dignified-birth-funnel-consult.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We are not a doula, a midwife or any medical service. We build the funnel that brings you consultation bookings and clients. The birth support, the care and every claim about it stay entirely with you and your practice.",
+        "q": "Are you a doula or a midwife?"
+      },
+      {
+        "a": "Never. We give no medical advice, make no claim about birth outcomes and never quote a C-section rate or any medical statistic as a promise. Every claim on the page is your own wording about your certification and services, checked by you before it goes live.",
+        "q": "Do you give medical advice or promise a birth outcome?"
+      },
+      {
+        "a": "Never. No client is ever photographed or filmed — not in a video, not in a testimonial, not anywhere on your pages. Our videos show you, the doula, and the birth-plan process only. Privacy is the selling point, and we protect it absolutely.",
+        "q": "Will you photograph or film me or my baby?"
+      },
+      {
+        "a": "Only where your practice is enrolled. We pitch Medicaid-covered families only in the states where you hold Medicaid doula enrollment, and we never claim coverage you do not have. Tell us your enrollment states in the audit and we build the pages around them.",
+        "q": "Do you work with Medicaid-covered clients?"
+      },
+      {
+        "a": "Yes — a solo doula is a common starting point. The funnel is built around your real capacity: the service pages, the consultation offer and the follow-up all work whether you take two births a month or ten. A solo doula who answers fast beats a large collective that does not answer at all.",
+        "q": "I am a solo doula. Can this still work for a one-person practice?"
+      }
+    ],
+    "image": "/images/services/dignified-birth-funnel-hero.jpg",
+    "imageAlt": "Muslim pregnant woman wearing a hijab in a calm consultation with a doula in a warm living room, a birth-plan folder and a cup of tea on the table between them, soft natural light",
+    "imageCaption": "The booking is decided in the consultation, not on a directory listing: a mother who can see her modesty, her prayer breaks and her birth plan understood stops searching.",
+    "isNew": true,
+    "name": "Dignified Birth Client Funnel",
+    "priceLabel": "$750–$1,500 build + $299–$499/mo",
+    "priceNote": "The one-time funnel build is $750–$1,500, plus a $299–$499 monthly client retainer. Start with the free birth visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A mother in Chicago is twenty-eight weeks pregnant and looking for a doula who understands her faith. She wants female-only support, modesty during labour, prayer breaks, halal hospital meals and dates for early labour, and a birth plan her husband and family can be part of. She searches \"Muslim doula near me\" on her phone and finds a national directory listing, a generic doula agency with stock photos, and one Muslim doula whose website says almost nothing about any of it — no services, no package, no way to book a consultation. She sends a message. Nobody answers that evening. She books the generic agency instead and hopes for the best. The doula who could have supported her through the most delicate weeks of her life never knew she existed — because she could not find her, or could not trust what she found.",
+      "The arithmetic makes the invisibility expensive. The doula care market is forecast to grow from about $1.5 billion in 2025 to about $3.26 billion by 2034, at 9.0% a year, with North America holding about 55% of it. Coverage is expanding right now: the states offering doula care through Medicaid grew from 14 in April 2024 to 26 plus Washington DC by March 2026, and 28 plus DC by October 2026. A birth doula package has a median price of $1,400 and an average of $1,724 — one or two new clients cover a whole year of a marketing retainer. Yet Muslim doulas market on Instagram and word of mouth, their websites are thin, and no proper funnel exists for \"Muslim doula near me\". Directories sell listings, not done-for-you marketing, and generic doula agencies chase the big collectives — a solo Muslim doula is too small for them to bother with. So the gap stays open, in every city where expectant mothers are searching for a doula who understands their deen."
+    ],
+    "process": [
+      {
+        "text": "We search the way an expectant mother searches — \"Muslim doula near me\", \"Muslim birth doula near me\" plus your city — and report what she finds: your profile, your pages, your consultation offer, and the doulas Google and the directories show instead of you.",
+        "title": "Birth visibility audit"
+      },
+      {
+        "text": "Profile, service pages, the free-consultation booking funnel, the birth-plan template and the dignified videos, built with your approved wording. We never give medical advice, never claim a birth outcome, and never photograph or film a client.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Consultations and package bookings arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own client list growing.",
+        "title": "Families reach you, you support the births"
+      }
+    ],
+    "proof": "The market is the proof: a doula care market forecast to grow from about $1.5 billion in 2025 to about $3.26 billion by 2034, Medicaid doula coverage expanding from 14 states to 28 plus Washington DC in two years, and a birth doula package worth a median $1,400 and an average $1,724 — against a $299 to $499 monthly retainer. One or two new clients cover a whole year of the funnel, and the timing is unforgiving: employer doula benefits opened to about 7.2 million members in March 2026, so families are searching for doula support for the first time right now. We start with a free birth visibility audit, so you see exactly what an expectant mother finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you client funnel for Muslim doulas and faith-aware birth support practices — local SEO, Google Business Profile, privacy-first landing pages, a free-consultation booking funnel and dignified short videos that turn searches into booked birth packages.",
+    "slug": "dignified-birth-funnel"
   }
 ];
 

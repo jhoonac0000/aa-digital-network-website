@@ -216,6 +216,21 @@ export default function BlogPage() {
             <p>The halal supplements market is forecast to grow from $6.25B to $11.03B by 2032 — yet most small halal vitamin brands are invisible on Google when customers search. Here is the funnel that puts you first.</p>
             <p className="small"><Link href="/services/halal-supplements-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-online-quran-academies-turn-trials-into-students">
+            <img className="card-img" src="/images/blog/how-online-quran-academies-turn-trials-into-students.jpg" alt="Warm family learning corner at home: a laptop showing an online Quran class, a Quran resting on a wooden stand, prayer beads and a notebook, soft morning light" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-online-quran-academies-turn-trials-into-students">How Online Quran Academies Turn Free Trials Into Enrolled Students</Link></h3>
+            <p>Google searches for online Quran learning have risen since 2019 — yet most small academies are invisible when parents search. Here is the funnel that turns free trials into enrolled students.</p>
+            <p className="small"><Link href="/services/quran-academy-enrollment-funnel">Related service →</Link></p>
+          </div>
+
+================================================================================
+<div className="card" key="how-muslim-doulas-reach-families-who-need-them">
+            <img className="card-img" src="/images/blog/how-muslim-doulas-reach-families-who-need-them.jpg" alt="Warm photo of a doula consultation at home: two women in hijab talking over tea with a birth-plan folder on the table, calm and modest setting, soft natural light" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-doulas-reach-families-who-need-them">How Muslim Doulas Reach Families Who Need Them</Link></h3>
+            <p>The doula market is set to more than double by 2034 — yet Muslim doulas are invisible on Google when expectant mothers search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/dignified-birth-funnel">Related service →</Link></p>
+          </div>
+
 
       </div>
     </div>
