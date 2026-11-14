@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "How Online Quran Academies Turn Free Trials Into Enrolled Students | AA Digital Network",
-  description: "Searches for online Quran learning have risen since 2019 — yet most small academies are invisible when parents search. The funnel that turns trials into students.",
+  title: "How Online Quran Academies Win Enrolled Students | AA Digital Network",
+  description: "Online Quran learning searches have risen since 2019 — yet most small academies stay invisible to parents. The funnel that turns trials into students.",
   alternates: { canonical: `https://aa-digital-network-website.pages.dev/blog/how-online-quran-academies-turn-trials-into-students` },
-  openGraph: { title: "How Online Quran Academies Turn Free Trials Into Enrolled Students | AA Digital Network", description: "Searches for online Quran learning have risen since 2019 — yet most small academies are invisible when parents search. The funnel that turns trials into students.", url: `https://aa-digital-network-website.pages.dev/blog/how-online-quran-academies-turn-trials-into-students`, type: "article", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/images/blog/how-online-quran-academies-turn-trials-into-students.jpg`] },
+  openGraph: { title: "How Online Quran Academies Win Enrolled Students | AA Digital Network", description: "Online Quran learning searches have risen since 2019 — yet most small academies stay invisible to parents. The funnel that turns trials into students.", url: `https://aa-digital-network-website.pages.dev/blog/how-online-quran-academies-turn-trials-into-students`, type: "article", siteName: "AA Digital Network", images: [`https://aa-digital-network-website.pages.dev/images/blog/how-online-quran-academies-turn-trials-into-students.jpg`] },
 };
 
 import ArticleView from "@/components/ArticleView";
