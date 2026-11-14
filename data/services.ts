@@ -2761,6 +2761,176 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you client funnel for Muslim doulas and faith-aware birth support practices — local SEO, Google Business Profile, privacy-first landing pages, a free-consultation booking funnel and dignified short videos that turn searches into booked birth packages.",
     "slug": "dignified-birth-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Halal catering companies in the US, UK and Canada serving weddings and walimas, corporate events, community and iftar gatherings, and school and hospital contracts",
+      "Zabiha-certified kitchens in diaspora cities — Dearborn, Houston, Chicago, New Jersey and New York, Dallas, London, Birmingham and Toronto — whose bookings still come from referrals and word of mouth",
+      "Caterers whose families search \"halal catering near me\" or \"Muslim wedding catering near me\" but never reach a menu, a price or a quote-request page",
+      "Caterers preparing for the triple wave right now: December holiday and corporate parties, the November-to-February engagement season, and Ramadan 2027 iftar catering quotes"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so \"halal catering near me\", \"Muslim wedding catering near me\" and \"halal corporate catering\" find your kitchen first in your city",
+      "Menu and per-person pricing landing pages — Desi, Arab, Mediterranean and American menus, buffet versus plated, with your real prices and your real minimums",
+      "A quote-request and WhatsApp inquiry funnel: the caterer who answers first and books the tasting wins the event, because families usually ask two or three caterers for a quote in the same week",
+      "Appetite-building short videos — dish close-ups, live cooking and station footage, tasting-event walkthroughs — because food is the most visual product there is, and video is the strongest selling tool a caterer owns",
+      "A tasting-booking page that turns a quote request into a booked tasting, with the date, the menu and the party size agreed before anyone picks up the phone",
+      "A free catering visibility audit first: what a family finds when they search for halal catering in your city today",
+      "A short monthly report: quote requests, tastings booked, events won, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim mother wearing a hijab at home in the evening searching for a halal caterer on her smartphone, a wedding invitation and a notebook with menu notes beside her on the sofa",
+        "caption": "The search happens at home, in the evening, usually while comparing two or three caterers at once. The caterer who answers first and books the tasting wins the event.",
+        "src": "/images/services/halal-catering-booking-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Chef in a white uniform presenting small tasting plates of colourful Desi and Mediterranean dishes on a long table while a couple in modest dress samples the food",
+        "caption": "The tasting is the product being sold. When a family can taste the food and see the kitchen before the event, the quote stops being a price comparison.",
+        "src": "/images/services/halal-catering-booking-funnel-tasting.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not cook, serve or sell food. We build the funnel that brings you qualified quote requests and tasting bookings. The cooking, the kitchen, the certification and every claim about them stay entirely with you and your company.",
+        "q": "Do you cook the food or cater the event?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Bookings depend on your food, your prices, your tasting experience and your market — things no agency controls. What we promise is the work that earns quotes: pages families trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee bookings or events?"
+      },
+      {
+        "a": "In your own wording, checked by you before anything goes live. We show your certification exactly as your certifier states it — the certifier, the scope and the date — and nothing more. We never invent a certification, a claim about zabiha sourcing, or a kitchen standard you do not hold.",
+        "q": "How do you show our halal certification?"
+      },
+      {
+        "a": "Yes — a small kitchen is a common starting point. The funnel is built around your real capacity: the menu pages, the tasting offer and the follow-up all work whether you serve fifty guests or five hundred. A small caterer who answers fast beats a large caterer that does not answer at all.",
+        "q": "We are a small caterer. Can this still work for us?"
+      },
+      {
+        "a": "Your kitchen and your food, yes — with your approval. Your guests, never without written consent, and we prefer never to film guests at all. Our videos show dish close-ups, live cooking and the tasting experience, not the people eating at your events.",
+        "q": "Will you film our kitchen or our guests?"
+      }
+    ],
+    "image": "/images/services/halal-catering-booking-funnel-hero.jpg",
+    "imageAlt": "Elegant halal wedding catering buffet with chafing dishes of biryani and grilled kebabs, a chef serving guests, warm golden lighting and floral table decorations",
+    "imageCaption": "The booking is decided at the tasting, not on a directory listing: a family that can see the menu, the per-person price and the tasting date stops comparing caterers.",
+    "isNew": true,
+    "name": "Halal Catering Booking Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly booking retainer. Start with the free catering visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A mother in Houston is planning her daughter's walima for three hundred guests. She searches \"Muslim wedding catering near me\" on her phone and opens three caterers in one evening. Two of them have the same thin website: a phone number, a few photos, and nothing that tells her what the menu costs per person, whether the meat is zabiha-certified, what a tasting involves, or how to request a quote. She sends a message to all three. One answers the next morning with a price and a tasting date. The other two answer two days later — or never. By the end of the week she has tasted the food of the caterer who replied first, and booked the event there. The caterer with the better kitchen never knew she existed, because she could not find it, could not trust what she found, or could not get a quote without a phone call.",
+      "The arithmetic makes the invisibility expensive. Average US wedding catering is about $80 a person (The Knot, 2026), so a hundred-guest walima is roughly an $8,000 event, and Zola puts the median at $6,927 — one new wedding booking covers a whole year of a marketing retainer several times over. The catering market itself is growing: about $165 billion in 2026, forecast to reach about $279.2 billion by 2036 at 5.4 percent a year, with corporate events making up about 30.4 percent of occasion revenue and 80 percent of companies ordering catering at least once a month. On the halal side the demand is even sharper — the global halal food market is about $3.39 to $3.71 trillion in 2026, and halal caterers report a steady increase in requests for halal wedding options over the past three years. Yet halal caterers market on referrals and masjid word of mouth, their websites carry no menu, no pricing and no quote funnel, and no Muslim-specific marketing specialist serves them — generic catering agencies chase the big chains, and a small halal caterer is too small for them to bother with. So the gap stays open, and the timing is unforgiving: engagement season runs November to February, December brings holiday and corporate parties, and Ramadan 2027 starts around 8 February, with iftar and large-gathering catering quotes being requested right now."
+    ],
+    "process": [
+      {
+        "text": "We search the way a family searches — \"halal catering near me\", \"Muslim wedding catering near me\" plus your city — and report what they find: your profile, your pages, your menu and quote offer, and the caterers Google shows instead of you.",
+        "title": "Catering visibility audit"
+      },
+      {
+        "text": "Profile, menu and per-person pricing pages, the quote-request and WhatsApp funnel, the tasting-booking page and the appetite-building videos, built with your approved wording. We never cook, never sell food, and never write a certification or price you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Quote requests and tasting bookings arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own event calendar filling up.",
+        "title": "Families reach you, you cook the events"
+      }
+    ],
+    "proof": "The market is the proof: a catering market of about $165 billion in 2026 growing to about $279.2 billion by 2036, corporate events at about 30.4 percent of occasion revenue with 80 percent of companies ordering catering at least monthly, and a halal food market of about $3.39 to $3.71 trillion — against a $499 to $799 monthly retainer. One wedding booking at about $80 a person is roughly $8,000 for a hundred guests, so a single event covers a whole year of the funnel, and the timing is a triple wave: December holiday and corporate parties, engagement season through February, and Ramadan 2027 iftar catering quotes being requested now. We start with a free catering visibility audit, so you see exactly what a family finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you booking funnel for halal catering companies — local SEO, Google Business Profile, menu and per-person pricing pages, a quote-request and WhatsApp funnel, and appetite-building short videos that turn searches into tasting bookings and event bookings.",
+    "slug": "halal-catering-booking-funnel"
+  },
+  {
+    "audiences": [
+      "Independent Muslim-friendly hotels, resorts, boutique stays and serviced apartments in the US, UK and Canada, plus Turkey, Malaysia and the UAE — typically twenty to eighty rooms",
+      "Properties in London, New York, Orlando, Toronto, Istanbul, Dubai, Kuala Lumpur and the Maldives that already welcome Muslim families but lose bookings to online travel agencies",
+      "Properties that hold a halal certification or a CrescentRating, or offer halal breakfast, a prayer room, Qibla direction and family rooms — and say almost none of it on Google",
+      "Properties preparing for the double wave right now: December winter-holiday travel and Ramadan 2027 hotel bookings, both being planned today"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so \"halal hotel near me\", \"Muslim friendly hotel [city]\" and \"halal resort\" find your property first",
+      "Faith-aware landing pages — halal breakfast, prayer room and Qibla direction, family rooms, alcohol-free floors, the distance to the nearest masjid, and wudu-friendly washrooms — in your own wording",
+      "Direct-booking pages linked to your own booking engine, so the guest books with you and the 15 to 25 percent OTA commission stays in your pocket",
+      "A WhatsApp inquiry funnel: the hotel that answers first and books direct wins the family, because Muslim families usually compare three or four hotels in the same week",
+      "Short hotel walkthrough videos — room tours, the halal breakfast spread and the prayer facilities — with guests never filmed, ever",
+      "A free Muslim-traveler visibility audit first: what a Muslim family finds when they search for a halal hotel in your city today",
+      "A short monthly report: direct inquiries, direct bookings, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim family at home in the evening planning a holiday, the father holding a smartphone searching for a Muslim-friendly hotel, a laptop showing hotel photos and a notebook with travel dates on the coffee table",
+        "caption": "The search happens at home, in the evening, usually while comparing three or four hotels at once. The hotel that answers first and books direct wins the family.",
+        "src": "/images/services/halal-direct-booking-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Generous halal breakfast spread in a bright hotel dining room with fresh bread, olives, cheese, dates, fruit, eggs and tea on a white tablecloth in morning sunlight",
+        "caption": "The breakfast is the proof a family can see. When halal breakfast, the prayer room and the family room are shown plainly, the family stops scrolling OTAs.",
+        "src": "/images/services/halal-direct-booking-funnel-breakfast.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not run your hotel, handle bookings or take payments. We build the funnel that brings qualified direct inquiries and bookings to your own booking engine. The property, the rooms, the rates and every claim about them stay entirely with you.",
+        "q": "Do you run our hotel or handle bookings and payments?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Occupancy depends on your rooms, your rates, your season and your market — things no agency controls. What we promise is the work that earns direct bookings: pages families trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee occupancy, rates or revenue?"
+      },
+      {
+        "a": "In your own wording, checked by you before anything goes live. We show your certification exactly as your certifier states it — the certifier, the scope and the date — and nothing more. We never invent a certification, a halal claim, or a facility you do not have.",
+        "q": "How do you show our halal certification?"
+      },
+      {
+        "a": "Never. No guest is ever photographed or filmed — not in a video, not in a testimonial, not anywhere on your pages. Our videos show the rooms, the breakfast spread and the prayer facilities only. Privacy is the selling point, and we protect it absolutely.",
+        "q": "Will you film our guests?"
+      },
+      {
+        "a": "Yes — a twenty-five-room property is a common starting point. The funnel is built around your real capacity: the faith-aware pages, the direct-booking offer and the follow-up all work whether you have twenty rooms or eighty. A small property that answers fast beats a large chain that does not answer at all.",
+        "q": "We are a small property with twenty-five rooms. Can this still work?"
+      }
+    ],
+    "image": "/images/services/halal-direct-booking-funnel-hero.jpg",
+    "imageAlt": "Bright Muslim-friendly hotel room with a neatly made double bed, a folded prayer mat and a small Qibla direction marker on the bedside table, soft daylight through the window",
+    "imageCaption": "The booking is decided on the direct page, not on an OTA listing: a family that can see the halal breakfast, the prayer room and the family room books with the property itself.",
+    "isNew": true,
+    "name": "Halal Direct-Booking Funnel",
+    "priceLabel": "$1,500–$2,500 build + $599–$999/mo",
+    "priceNote": "The one-time funnel build is $1,500–$2,500, plus a $599–$999 monthly direct-booking retainer. Start with the free Muslim-traveler visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A family in London is planning a four-night stay in Istanbul for Ramadan. They search \"Muslim friendly hotel Istanbul\" on the phone and open four properties in one evening. Three of them are OTA listings: a room, a price, a commission taken before the hotel sees a penny — and nothing that tells the family whether breakfast is halal, whether there is a prayer room, which way Qibla faces, whether the floor is alcohol-free, or how far the nearest masjid is. The fourth is the hotel's own site, but it says almost nothing about any of it either, and its booking button leads back to an OTA. The family books the OTA listing with the best photos and hopes for the best. The hotel that could have welcomed them — and kept the full rate — never knew they existed, because they could not find it, could not trust what they found, or could not book direct.",
+      "The arithmetic makes the invisibility expensive. OTA commission in 2026 runs 15 to 25 percent — Booking.com around 15 percent, Expedia 18 to 22 percent, and 25 percent or more for preferred placement — while a direct booking costs about 4.5 percent all-in (RevPARGenius, May 2026), so a $200 room saves about $27 on every booking. Cloudbeds 2026 puts the average direct booking at $516 against $312 on an OTA — 66 percent more — with OTA cancellations at 21.8 percent against 10.6 percent direct. And the demand is rising fast: Mastercard and CrescentRating's GMTI 2026 counts Muslim international arrivals at 176 million in 2024 rising to 196 million in 2025, 208 million forecast for 2026 and 262 million by 2030, with $310 billion in annual spend; halal tourism spending is about $265 billion in 2025, forecast to reach about $530 billion by 2034, and accommodation is the largest service type at 34 percent of spend. A family stay of three or four nights at $150 to $250 a night is $450 to $1,000 — one or two new direct bookings cover a whole year of a marketing retainer, and every direct booking also saves the 15 to 20 percent OTA commission. Yet no offshore done-for-you funnel retainer serves small independent Muslim-friendly properties: halal-travel platforms are listing sites, not agencies, CrescentRating consults for destinations and big groups, and generic hotel agencies chase the big chains. So the gap stays open, and the timing is unforgiving: December winter-holiday travel and Ramadan 2027 hotel bookings are being planned right now."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim family searches — \"halal hotel near me\", \"Muslim friendly hotel [city]\" plus your city — and report what they find: your profile, your pages, your direct-booking offer, and the properties Google and the OTAs show instead of you.",
+        "title": "Muslim-traveler visibility audit"
+      },
+      {
+        "text": "Profile, faith-aware landing pages, the direct-booking pages linked to your own booking engine, the WhatsApp inquiry funnel and the walkthrough videos, built with your approved wording. We never run the hotel, never handle a booking or a payment, and never write a certification or rate you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Direct inquiries and direct bookings arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own direct-booking share growing.",
+        "title": "Families reach you, you host the stays"
+      }
+    ],
+    "proof": "The market is the proof: Muslim international arrivals rising from 176 million in 2024 to 196 million in 2025 and a forecast 262 million by 2030 with $310 billion in annual spend, halal tourism spending of about $265 billion in 2025 heading for about $530 billion by 2034, and accommodation as the largest service type at 34 percent of spend — against a $599 to $999 monthly retainer. The direct-booking arithmetic is just as plain: 15 to 25 percent OTA commission against about 4.5 percent all-in for a direct booking, an average direct booking of $516 against $312 on an OTA, and OTA cancellations at 21.8 percent against 10.6 percent direct. One family stay of three or four nights at $150 to $250 is $450 to $1,000, so one or two new direct bookings cover a whole year of the funnel, and the timing is a double wave: December winter-holiday travel and Ramadan 2027 bookings being planned now. We start with a free Muslim-traveler visibility audit, so you see exactly what a family finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you direct-booking funnel for independent Muslim-friendly hotels and resorts — local SEO, Google Business Profile, faith-aware landing pages, direct-booking pages linked to your own booking engine, and a WhatsApp inquiry funnel that turns searches into direct bookings instead of OTA commissions.",
+    "slug": "halal-direct-booking-funnel"
   }
 ];
 

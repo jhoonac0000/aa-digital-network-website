@@ -232,6 +232,20 @@ export default function BlogPage() {
           </div>
 
 
+================================================================================
+<div className="card" key="how-halal-caterers-win-more-event-bookings">
+            <img className="card-img" src="/images/blog/how-halal-caterers-win-more-event-bookings.jpg" alt="Lavish halal wedding dinner buffet with chafing dishes of biryani, kebabs and curries, a chef carving roast meat at a live station, elegant floral centrepieces and warm celebratory lighting" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-caterers-win-more-event-bookings">How Halal Caterers Win More Event Bookings</Link></h3>
+            <p>The average US wedding catering bill is about $80 a person — yet most halal caterers are invisible on Google when families search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/halal-catering-booking-funnel">Related service →</Link></p>
+          </div>
+<div className="card" key="how-muslim-friendly-hotels-win-direct-bookings">
+            <img className="card-img" src="/images/blog/how-muslim-friendly-hotels-win-direct-bookings.jpg" alt="Welcoming boutique hotel entrance and lobby at dusk with warm lights, a reception desk, luggage beside a comfortable armchair and a small prayer room area in soft focus" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-friendly-hotels-win-direct-bookings">How Muslim-Friendly Hotels Win Direct Bookings</Link></h3>
+            <p>OTA commission runs 15 to 25 percent — yet most Muslim-friendly hotels are invisible on Google when families search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/halal-direct-booking-funnel">Related service →</Link></p>
+          </div>
+
       </div>
     </div>
   );

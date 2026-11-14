@@ -84,6 +84,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/quran-academy-enrollment-funnel`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/dignified-birth-funnel`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-online-quran-academies-turn-trials-into-students`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-doulas-reach-families-who-need-them`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-doulas-reach-families-who-need-them`, lastModified: "2026-11-13", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-catering-booking-funnel`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-direct-booking-funnel`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-halal-caterers-win-more-event-bookings`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-friendly-hotels-win-direct-bookings`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 }
   ];
 }
