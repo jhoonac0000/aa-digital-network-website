@@ -246,6 +246,19 @@ export default function BlogPage() {
             <p className="small"><Link href="/services/halal-direct-booking-funnel">Related service →</Link></p>
           </div>
 
+<div className="card" key="how-muslim-couples-find-a-fertility-clinic-they-trust">
+            <img className="card-img" src="/images/blog/how-muslim-couples-find-a-fertility-clinic-they-trust.jpg" alt="Bright welcoming fertility clinic reception and waiting area with soft armchairs, plants and frosted-glass consultation room doors, warm natural light, calm and private" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-couples-find-a-fertility-clinic-they-trust">How Muslim Couples Find a Fertility Clinic They Can Trust</Link></h3>
+            <p>One IVF cycle costs $12,000 to $30,000 — yet most Muslim-friendly clinics are invisible on Google when couples search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/faith-aware-fertility-funnel">Related service →</Link></p>
+          </div>
+<div className="card" key="how-muslim-families-find-a-tradesman-they-trust">
+            <img className="card-img" src="/images/blog/how-muslim-families-find-a-tradesman-they-trust.jpg" alt="Technician in a clean uniform shaking hands with a homeowner at the front door of a family home, both smiling, modest dress, welcoming and professional" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-families-find-a-tradesman-they-trust">How Muslim Families Find a Tradesman They Can Trust</Link></h3>
+            <p>Two in three emergency calls go unanswered — yet most Muslim-owned contractors are invisible on Google when families search. Here is the funnel that puts you first.</p>
+            <p className="small"><Link href="/services/trusted-tradesman-funnel">Related service →</Link></p>
+          </div>
+
       </div>
     </div>
   );

@@ -2931,6 +2931,176 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you direct-booking funnel for independent Muslim-friendly hotels and resorts — local SEO, Google Business Profile, faith-aware landing pages, direct-booking pages linked to your own booking engine, and a WhatsApp inquiry funnel that turns searches into direct bookings instead of OTA commissions.",
     "slug": "halal-direct-booking-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Independent fertility clinics and reproductive endocrinologists in the US, UK and Canada, in diaspora cities where Muslim families are searching for a clinic they can trust",
+      "Clinics with female doctors who can offer a female-doctor consultation option — and never say so on their website",
+      "Clinics preparing for the coverage wave: California's IVF mandate from 1 January 2026, Illinois' expanded mandate, and a possible federal standalone IVF benefit from 2027",
+      "Clinics that already serve Muslim patients quietly — with prayer-friendly timings and careful embryo handling — but say none of it online, so couples never find them"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so \"Muslim fertility clinic near me\", \"halal IVF near me\" and \"Islamic fertility clinic\" find your clinic first in your city",
+      "Faith-aware landing pages in your own wording: IVF only from the husband-and-wife's own gametes, no donor or surrogacy promotion, a female-doctor option, husband-and-wife joint consultation, prayer-friendly appointment timings, and embryo handling and storage per the couple's wishes stated clearly",
+      "A free-consultation to treatment-plan booking funnel: the couple books a consultation, receives a clear treatment plan, and knows exactly what happens next",
+      "Fast-reply and WhatsApp follow-up handled for you, because the clinic that answers first — with a kind, private reply — is the clinic that books the consultation",
+      "Dignified short videos: a doctor introduction, a simple IVF process explainer, and a clinic tour, with patients never photographed or filmed — privacy is the selling point",
+      "A free fertility visibility audit first: what a Muslim couple finds when they search for a fertility clinic in your city today",
+      "A short monthly report: consultation enquiries, consultations booked, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim couple at home in the evening looking at a laptop together searching for a fertility clinic, a notebook with questions on the coffee table, warm lamp light",
+        "caption": "The search happens at home, in the evening, usually after months of quiet worry. The clinic that answers first, in language the couple trusts, wins the consultation.",
+        "src": "/images/services/faith-aware-fertility-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Female doctor in a hijab explaining a simple IVF process diagram on a desk to a Muslim couple, both listening, bright private clinic office",
+        "caption": "A process explained in plain words, with the couple's own questions answered — that is what turns a first call into a booked consultation.",
+        "src": "/images/services/faith-aware-fertility-funnel-consultation.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We give no medical advice, no diagnosis, no treatment recommendation and no success-rate guarantee. We build the funnel that brings qualified couples to a consultation with your licensed clinic. The medicine, the treatment plan, the success data and every claim about them stay entirely with you and your clinicians.",
+        "q": "Do you give medical advice or a success-rate guarantee?"
+      },
+      {
+        "a": "No. We never promote donor eggs, donor sperm or surrogacy to a Muslim audience, and we never put them on your faith-aware pages. Islamic bioethics permits IVF only with the spouses' own gametes while the marriage is intact, with no third party involved. Your pages say that plainly, in your own wording, and we show your clinic's own scholar reference — we give no fatwa ourselves.",
+        "q": "Do you promote donor eggs, donor sperm or surrogacy?"
+      },
+      {
+        "a": "Never. No patient is ever photographed or filmed — not in a video, not in a testimonial, not anywhere on your pages. Our videos show the doctor, the process explained in plain words, and the clinic itself. A patient's photo or story is used only with written consent, and we prefer never to use one at all. Privacy is the selling point, and we protect it absolutely.",
+        "q": "Will you film our patients?"
+      },
+      {
+        "a": "Yes — a small independent clinic is a common starting point. The funnel is built around your real capacity: the faith-aware pages, the free-consultation offer and the follow-up all work whether you have one doctor or a team of five. One new patient is worth $12,000 to $30,000 for a single IVF cycle, so one consultation booked covers a whole year of the retainer. A small clinic that answers fast beats a large clinic that does not answer at all.",
+        "q": "We are a small independent clinic. Can this still work for us?"
+      },
+      {
+        "a": "In your own wording, checked by you before anything goes live. We show your faith position exactly as you state it — IVF only from the spouses' own gametes, the female-doctor option, prayer-friendly timings, embryo handling per the couple's wishes — alongside your own credentials, your CDC or SART-verified success data, and your own scholar reference. We never invent a position, a credential or a success figure you do not hold.",
+        "q": "How do you show our faith position and our scholar reference?"
+      }
+    ],
+    "image": "/images/services/faith-aware-fertility-funnel-hero.jpg",
+    "imageAlt": "Bright modern fertility clinic consultation room with a female doctor in a white coat and hijab speaking kindly with a Muslim couple in modest dress across a desk, soft daylight and plants",
+    "imageCaption": "The consultation is decided on trust: a couple that can see the faith-aware approach, the female-doctor option and the privacy promise books the consultation.",
+    "isNew": true,
+    "name": "Faith-Aware Fertility Consultation Funnel",
+    "priceLabel": "$1,500–$2,500 build + $599–$999/mo",
+    "priceNote": "The one-time funnel build is $1,500–$2,500, plus a $599–$999 monthly consultation retainer. Start with the free fertility visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A Muslim couple in Dearborn have been trying for a child for two years. One evening, after months of quiet worry, they sit down together and search for a fertility clinic. What they find is a wall of generic pages: donor eggs, donor sperm and surrogacy promoted on the homepage, stock photos of smiling strangers, and nothing that tells them whether IVF is done only with the spouses' own gametes, whether a female doctor is available, whether appointments can respect prayer times, or how embryos are handled and stored. They open three clinics. Two of them never answer the enquiry form at all. The third answers two days later with a price list and nothing else. By the end of the week they have booked a consultation with the clinic that replied first and spoke their language — or they have given up searching altogether, and the clinic that already serves Muslim patients quietly, with exactly the care they wanted, never knew they existed.",
+      "The arithmetic makes the invisibility expensive. One IVF cycle in the United States costs $12,000 to $30,000, averaging about $12,400 — so a single new patient covers a whole year of a marketing retainer several times over. The market is large and growing: global fertility services are worth about $35.48 billion in 2026, forecast to reach about $68.33 billion by 2035 at 7.6 percent a year, with IVF making up about 80.9 percent of it, and the World Health Organization counts about 17.5 percent of adults as affected by infertility. And the timing is a wave: California's SB 729 requires large-group plans to cover IVF from 1 January 2026, Illinois expanded its mandate the same day, twenty-five states plus DC now have a fertility insurance law, and a federal proposal would let employers offer IVF as a standalone benefit from 2027. Yet the clinics that could serve Muslim couples best are invisible in the one place couples look, and no done-for-you funnel speaks to Muslim couples in their own terms — so the gap stays open, and the couples keep searching."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim couple searches — \"Muslim fertility clinic near me\", \"halal IVF near me\", \"Islamic fertility clinic\" plus your city — and report what they find: your profile, your pages, your consultation offer, and the clinics Google shows instead of you.",
+        "title": "Fertility visibility audit"
+      },
+      {
+        "text": "Profile, faith-aware landing pages, the free-consultation to treatment-plan booking funnel, the fast-reply and WhatsApp follow-up, and the dignified doctor and process videos, built with your approved wording. We give no medical advice, never promote donor or surrogacy services to a Muslim audience, and never film a patient.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Consultation enquiries arrive organised, with follow-up handled for you, and couples reach a consultation where you explain the treatment plan in your own words. Each month's report shows what came in and where it came from, so you can judge the funnel on your own consultation diary filling up.",
+        "title": "Couples reach you, you treat them"
+      }
+    ],
+    "proof": "The market is the proof: global fertility services worth about $35.48 billion in 2026, forecast to reach about $68.33 billion by 2035, with IVF at about 80.9 percent of the market and about 17.5 percent of adults affected by infertility — against a $599 to $999 monthly retainer. One IVF cycle costs $12,000 to $30,000, so a single new patient covers a whole year of the funnel several times over. Demand is visibly rising: Progyny served 604 clients in the second quarter of 2026 against 542 a year earlier, and the coverage wave is arriving now, with California and Illinois mandating IVF coverage from 1 January 2026 and a federal standalone-benefit proposal for 2027. Clinics that already market a faith-aware position — Malaysia's Alhaya Fertility Centre and Pakistan's Australian Concept with their Halal IVF — show the demand is real and the language exists. We start with a free fertility visibility audit, so you see exactly what a Muslim couple finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you consultation funnel for Muslim-friendly fertility clinics — local SEO, Google Business Profile, faith-aware landing pages, a free-consultation to treatment-plan booking funnel, and dignified videos that turn searches into booked consultations.",
+    "slug": "faith-aware-fertility-funnel"
+  },
+  {
+    "slug": "trusted-tradesman-funnel",
+    "name": "Trusted Tradesman Funnel",
+    "short": "Done-for-you local booking funnel for Muslim-owned plumbers, HVAC technicians, electricians and handymen — local SEO, Google Business Profile, faith-aware landing pages and a 24/7 missed-call rescue that turns emergency searches into booked visits.",
+    "problem": [
+      "It is two in the morning in January and the furnace has stopped. A homeowner in Dearborn wraps a blanket around her shoulders, picks up her phone and searches for an emergency heating repair near her. She calls the first plumber on the list. Nobody answers. She calls the second. Voicemail again. The third picks up, asks two questions, and books a visit for the morning. The first two contractors never knew she existed — and by the time they return her call, the job is already done. This is not a rare night. Industry benchmarks from July 2026, tracking more than 70 million calls, show that HVAC calls are answered by a human only 34 percent of the time. In other words, two out of every three emergency calls go unanswered, and in an emergency the homeowner does not wait — she dials the next number.",
+      "The arithmetic makes every missed call expensive. The average HVAC repair job brought in $1,205 in 2025, up from $818 in 2021, so a single answered call can cover a whole month of a marketing retainer. A furnace repair averages about $352, an emergency plumbing visit about $377, and a water heater replacement about $1,193. And there is a second problem on top of the missed calls: trust. A Muslim family is inviting a stranger into their home, often when the women of the house are alone there. They want to know who is coming, whether prayer times will be respected, whether the technician will knock and announce himself, wear shoe covers, and behave modestly in their home. A contractor who cannot answer those questions before the visit never gets the chance to prove his work."
+    ],
+    "audiences": [
+      "Muslim-owned plumbing, HVAC, electrical and handyman businesses in US, UK and Canadian diaspora cities — Dearborn, Houston, Chicago, New Jersey and New York, Dallas, London, Birmingham and Toronto — whose bookings still come from referrals and word of mouth",
+      "Shops already working in Muslim areas that win jobs on reputation but are invisible on Google when a family searches for a Muslim plumber near me or a Muslim electrician near me",
+      "Emergency and maintenance contractors — furnace and boiler repair, AC repair, drain and leak work, panel upgrades and general handyman jobs — who lose work to missed calls at night and on weekends",
+      "Small shops losing jobs to missed calls and to shared leads from Angi and Thumbtack, where the same job is sold to three or four contractors and the fastest reply wins"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so 'Muslim plumber near me', 'Muslim electrician near me' and 'emergency HVAC near me' find your business first in your city, with your real service area, hours and reviews shown plainly",
+      "Faith-aware landing pages — prayer-time respect, modest entry etiquette, knock and announce, shoe covers, no smoking or alcohol on site, and an Urdu or Arabic-speaking technician option — in your own wording, approved by you before anything goes live",
+      "A 24/7 missed-call rescue and WhatsApp callback funnel: every missed call gets an instant text and a callback offer, because in an emergency the homeowner dials the next number within minutes",
+      "Seasonal maintenance-plan pages — furnace tune-up before winter, AC tune-up before summer — that turn one emergency visit into a customer who calls you every year",
+      "Trust-building short videos — technician introductions, before-and-after footage of the work, and simple explanations of common problems — never filming a family's private spaces without written consent",
+      "A free missed-call and visibility audit first: what a homeowner finds when they search for your trade in your city today, and how many calls you are likely missing",
+      "A short monthly report: calls answered, visits booked, maintenance plans sold, and where they came from"
+    ],
+    "proof": "The market is the proof: the US home services market is about $0.87 trillion in 2025, forecast to reach about $1.42 trillion by 2030 at 10.23 percent a year, with plumbing at about $191.4 billion in 2026 and the US HVAC systems market growing from $31.7 billion in 2025 to $54 billion by 2033. Against that demand, the July 2026 benchmarks show HVAC calls answered by a human only 34 percent of the time — two in three emergency calls missed — while the average HVAC repair job is worth $1,205, a furnace repair about $352, an emergency plumbing visit about $377 and a water heater replacement about $1,193. One answered call can cover a whole month of the retainer, and the technician shortage — about 110,000 HVAC technicians and about 550,000 plumbers projected short — means the contractors who answer first win the work. We start with a free missed-call and visibility audit, so you see exactly what a homeowner finds today before deciding anything.",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly booking retainer. Start with the free missed-call and visibility audit, see where you stand, and decide with the facts in front of you.",
+    "process": [
+      {
+        "title": "Missed-call and visibility audit",
+        "text": "We search the way a homeowner searches — 'Muslim plumber near me', 'emergency HVAC near me' plus your city — and report what they find: your profile, your pages, your reviews, and the contractors Google shows instead of you. We also show you what the missed calls are costing you, in plain numbers."
+      },
+      {
+        "title": "We build the funnel",
+        "text": "Profile, faith-aware landing pages, the missed-call rescue and WhatsApp callback funnel, the seasonal maintenance-plan pages and the trust-building videos, built with your approved wording. We never do repairs, never set your prices, and never write a claim about your licence or your work that you have not approved."
+      },
+      {
+        "title": "Jobs reach you, you fix them",
+        "text": "Calls and WhatsApp inquiries arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own booked visits growing."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do you do the repairs yourselves?",
+        "a": "No — never. We do no repair or installation of any kind. We build the funnel that brings you qualified booking calls and inquiries. The work itself, your licence, your rates and your emergency policy stay entirely with you and your company."
+      },
+      {
+        "q": "Do you guarantee response times or prices?",
+        "a": "No, and you should distrust any agency that does. Response times and prices are yours alone — they depend on your schedule, your team and your market, things no agency controls. What we promise is the work that earns the call: pages families trust, a profile they can find, and replies that arrive fast."
+      },
+      {
+        "q": "Will you film inside our customers' homes?",
+        "a": "Never without the family's written consent — and we prefer never to film private spaces at all. Our videos show technician introductions, the work itself and before-and-after footage of equipment and fittings, not the family's rooms or the people living there."
+      },
+      {
+        "q": "We are a one-van business — can this still work?",
+        "a": "Yes — a one-van shop is a common starting point. The funnel is built around your real capacity: the faith-aware pages, the missed-call rescue and the follow-up all work whether you run one van or five. A small contractor who answers first beats a large company that does not answer at all."
+      },
+      {
+        "q": "What is the missed-call audit, and what does it cost?",
+        "a": "It is free. We check what a homeowner finds when they search for your trade in your city, how your profile compares with the contractors Google shows instead of you, and how many calls you are likely missing. You see the facts first, and then decide whether the funnel is worth building."
+      }
+    ],
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "isNew": true,
+    "image": "/images/services/trusted-tradesman-funnel-hero.jpg",
+    "imageAlt": "Friendly Muslim technician in a clean work uniform with a tool bag standing at a home's front door, smiling and professional, a service van parked on the driveway behind him",
+    "imageCaption": "The job is won at the front door: a homeowner who can see a trusted, professional technician — and reach him on the first call — books the visit.",
+    "extraImages": [
+      {
+        "after": "problem",
+        "src": "/images/services/trusted-tradesman-funnel-missed-call.jpg",
+        "alt": "Smartphone on a kitchen counter showing several missed call notifications, a technician's tools and work gloves beside it, soft evening light",
+        "caption": "Two out of three emergency calls go unanswered. Every missed call on that screen was a job — and the homeowner has already dialled the next number."
+      },
+      {
+        "after": "deliverables",
+        "src": "/images/services/trusted-tradesman-funnel-technician.jpg",
+        "alt": "Professional technician in uniform and shoe covers servicing a home furnace in a tidy utility room, toolbox open beside him, bright clean light",
+        "caption": "The work itself is the proof. A tidy van, shoe covers at the door and a job done properly — that is what turns one emergency call into a customer for years."
+      }
+    ]
   }
 ];
 

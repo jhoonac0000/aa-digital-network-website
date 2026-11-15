@@ -88,6 +88,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/halal-catering-booking-funnel`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/halal-direct-booking-funnel`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-halal-caterers-win-more-event-bookings`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-friendly-hotels-win-direct-bookings`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-friendly-hotels-win-direct-bookings`, lastModified: "2026-11-14", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/faith-aware-fertility-funnel`, lastModified: "2026-11-15", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/trusted-tradesman-funnel`, lastModified: "2026-11-15", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-couples-find-a-fertility-clinic-they-trust`, lastModified: "2026-11-15", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-families-find-a-tradesman-they-trust`, lastModified: "2026-11-15", changeFrequency: "weekly", priority: 0.8 }
   ];
 }
