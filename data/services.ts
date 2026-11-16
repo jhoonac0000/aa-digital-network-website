@@ -3101,6 +3101,91 @@ export const SERVICES: Service[] = [
         "caption": "The work itself is the proof. A tidy van, shoe covers at the door and a job done properly — that is what turns one emergency call into a customer for years."
       }
     ]
+  }  ,
+  {
+    "audiences": [
+      "Muslim-owned residential cleaning companies in US, UK and Canadian diaspora cities — Houston, Dearborn and Detroit, Chicago, New Jersey and New York, Dallas, London, Birmingham and Toronto — whose bookings still come from referrals and word of mouth",
+      "Companies already working in Muslim areas that win cleans on reputation but are invisible on Google when a family searches for a Muslim cleaning service near me or a halal cleaning service near me",
+      "Owner-operator teams offering weekly and biweekly recurring cleans, deep cleans, move-in and move-out cleans and post-renovation cleans, who lose work to slow replies and to shared leads",
+      "Small cleaning companies losing bookings to lead platforms, where the same inquiry is sold to several companies and the fastest reply wins"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so 'Muslim cleaning service near me', 'halal cleaning service near me' and 'women only cleaning service near me' find your business first in your city, with your real service area, hours and reviews shown plainly",
+      "Faith-aware landing pages — female-only cleaning team option, prayer-area cleaning with tahara in mind, halal cleaning products free of alcohol and pork-derived ingredients, a dedicated no-pet vacuum and equipment, shoe covers, and prayer-time respect — in your own wording, approved by you before anything goes live",
+      "An online and WhatsApp booking and recurring-plan funnel: a family can book a one-off deep clean or a weekly or biweekly plan in a few taps, with a clear price and a clear statement of what happens next",
+      "Seasonal deep-clean pages — holiday deep cleans before guests arrive in November and December, and pre-Ramadan deep cleans before Ramadan — that catch the two biggest booking waves of the year",
+      "Trust-building short videos — team introductions, a prayer-corner cleaning demo, and before-and-after footage of the work — never filming a family's private spaces without written consent",
+      "A free cleaning visibility audit first: what a Muslim family finds when they search for a cleaning service in your city today, and how many bookings you are likely losing",
+      "A short monthly report: inquiries received, cleans booked, recurring plans sold, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Woman cleaner in hijab and gloves carefully dusting a wooden shelf in a home prayer corner, a folded prayer mat, prayer beads and a carved wooden Quran stand arranged with care",
+        "caption": "The prayer corner is where trust is decided. A team that cleans it with tahara in mind — and says so plainly on the page — is the team the family books.",
+        "src": "/images/services/faith-aware-home-cleaning-funnel-prayer-corner.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Friendly professional cleaner in hijab, modest dress and apron carrying a tidy cleaning caddy with spray bottles and cloths, standing at the front door of a bright family home in the morning sun",
+        "caption": "A booked clean starts at the front door: a named team member, on time, with her own products — that is what turns one deep clean into a customer every two weeks.",
+        "src": "/images/services/faith-aware-home-cleaning-funnel-arrival.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do no cleaning of any kind. We build the funnel that brings you qualified booking inquiries from Muslim families. The cleaning itself, your team, your products and your prices stay entirely with you and your company.",
+        "q": "Do you do the cleaning yourselves?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. Response times and prices are yours alone — they depend on your schedule, your team and your market, things no agency controls. What we promise is the work that earns the booking: pages families trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee response times or prices?"
+      },
+      {
+        "a": "Yes — the female-only team option is one of the first things on the page, in your own wording. Many Muslim families will only book a company that offers it, and a page that states it plainly wins the booking from a listing that says nothing about who is coming into the home.",
+        "q": "Can families ask for a female-only team?"
+      },
+      {
+        "a": "Never without the family's written consent — and we prefer never to film private spaces at all. Our videos show team introductions, the prayer-corner cleaning demo and before-and-after footage of the work itself, not the family's rooms or the people living there.",
+        "q": "Will you film inside our customers' homes?"
+      },
+      {
+        "a": "It is free. We check what a Muslim family finds when they search for a cleaning service in your city today, how your profile compares with the companies Google shows instead of you, and how many bookings you are likely losing. You see the facts first, and then decide whether the funnel is worth building.",
+        "q": "What is the cleaning visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/faith-aware-home-cleaning-funnel-hero.jpg",
+    "imageAlt": "Two professional Muslim women cleaners in hijab, modest dress and aprons cleaning a bright family living room, one wiping a table and one vacuuming a rug, a folded prayer mat and wooden Quran stand in the background",
+    "imageCaption": "The booking is won before the clean starts: a family that can see a trusted, professional team — and reach them on the first message — books the slot.",
+    "isNew": true,
+    "name": "Faith-Aware Home Cleaning Booking Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly booking retainer. Start with the free cleaning visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is a Thursday evening in Houston and guests are coming for the weekend. A mother looks at the kitchen, the bathrooms and the prayer corner, and knows the house needs a proper clean before Saturday — and she knows she does not have the hours to do it herself. She picks up her phone and searches for a Muslim cleaning service near her. She messages the first company on the list. No reply. She messages the second. An automated reply, then silence. The third answers within minutes, offers a female-only team, explains the prayer-area cleaning and the halal products plainly, and books a Friday slot. The first two companies never knew she existed — and by the time they reply, the clean is already booked, and the family will remember the name of the company that answered.",
+      "The arithmetic makes every slow reply expensive. A typical recurring clean costs about $120 to $200 a visit, and a family books every two weeks — so one new recurring client is worth roughly $3,000 to $5,000 a year. Two or three new recurring clients cover a whole year of a marketing retainer. And there is a second problem on top of the slow replies: trust. A Muslim family is inviting strangers into their home, often when the women of the house are alone there. They want to know who is coming, whether the team is female-only, whether the prayer area will be cleaned with tahara in mind, whether the products are halal, whether a dedicated no-pet vacuum is used, and whether prayer times will be respected. A cleaning company that cannot answer those questions before the visit never gets the chance to prove its work."
+    ],
+    "process": [
+      {
+        "text": "We search the way a busy family searches — 'Muslim cleaning service near me', 'halal cleaning service near me' plus your city — and report what they find: your profile, your pages, your reviews, and the companies Google shows instead of you. We also show you what the slow replies are costing you, in plain numbers.",
+        "title": "Cleaning visibility audit"
+      },
+      {
+        "text": "Profile, faith-aware landing pages, the online and WhatsApp booking funnel, the recurring-plan pages, the seasonal deep-clean pages and the trust-building videos, built with your approved wording. We never do any cleaning, never set your prices, and never write a claim about your team, your products or your work that you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Inquiries and bookings arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own recurring clients growing.",
+        "title": "Bookings reach you, you clean them"
+      }
+    ],
+    "proof": "The market is the proof: the US residential maid-services market is about $17.2 billion in 2025, forecast to grow about 5.5 percent in 2026, and 16 percent of US households now pay for cleaning, double the 8 percent of 2012. Residential cleaning is the fastest-growing segment of the whole cleaning industry at about 8.2 percent a year, and the global cleaning services market is about $470 to $482 billion in 2026, forecast to reach about $859 billion by 2034. Against that demand, the Muslim side of the market is wide open: Halal Maids in Houston is already marketing a prayer area cleaned with pakeezgi and a dedicated NOPET vacuum, and a London guide calls the Muslim housekeeping service a fairly recent trend, with families searching for tahara, modesty and same-gender teams — yet no Muslim-specific cleaning marketing specialist exists. One recurring client at $120 to $200 a visit, every two weeks, is worth roughly $3,000 to $5,000 a year, so two or three new recurring clients cover a whole year of the retainer. We start with a free cleaning visibility audit, so you see exactly what a family finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you booking funnel for Muslim-owned residential cleaning companies — local SEO, Google Business Profile, faith-aware landing pages and a WhatsApp booking system that turns 'Muslim cleaning service near me' searches into recurring weekly and biweekly cleans.",
+    "slug": "faith-aware-home-cleaning-funnel"
   }
 ];
 

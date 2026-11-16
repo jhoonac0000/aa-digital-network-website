@@ -258,6 +258,12 @@ export default function BlogPage() {
             <p>Two in three emergency calls go unanswered — yet most Muslim-owned contractors are invisible on Google when families search. Here is the funnel that puts you first.</p>
             <p className="small"><Link href="/services/trusted-tradesman-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-muslim-families-find-a-cleaning-service-they-trust">
+            <img className="card-img" src="/images/blog/how-muslim-families-find-a-cleaning-service-they-trust.jpg" alt="Professional cleaner in hijab and modest dress shaking hands warmly with a smiling Muslim mother in hijab at the front door of a spotless bright family home" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-families-find-a-cleaning-service-they-trust">How Muslim Families Find a Cleaning Service They Can Trust</Link></h3>
+            <p>Muslim families message two or three cleaning companies in one week — yet most Muslim-owned cleaners are invisible on Google. Here is the funnel.</p>
+            <p className="small"><Link href="/services/faith-aware-home-cleaning-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>
