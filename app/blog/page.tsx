@@ -264,6 +264,12 @@ export default function BlogPage() {
             <p>Muslim families message two or three cleaning companies in one week — yet most Muslim-owned cleaners are invisible on Google. Here is the funnel.</p>
             <p className="small"><Link href="/services/faith-aware-home-cleaning-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-muslim-women-find-a-female-driving-instructor-they-trust">
+            <img className="card-img" src="/images/blog/how-muslim-women-find-a-female-driving-instructor-they-trust.jpg" alt="Confident Muslim woman in hijab driving a car through a city street, a female driving instructor in hijab smiling in the passenger seat, both relaxed and happy" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-women-find-a-female-driving-instructor-they-trust">How Muslim Women Find a Female Driving Instructor They Can Trust</Link></h3>
+            <p>Muslim women message two or three driving schools in one week — yet most women-only schools are invisible on Google. Here is the funnel.</p>
+            <p className="small"><Link href="/services/she-drives-booking-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>

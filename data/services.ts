@@ -3186,6 +3186,91 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you booking funnel for Muslim-owned residential cleaning companies — local SEO, Google Business Profile, faith-aware landing pages and a WhatsApp booking system that turns 'Muslim cleaning service near me' searches into recurring weekly and biweekly cleans.",
     "slug": "faith-aware-home-cleaning-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Women-only driving schools and female driving instructors in UK, US and Canadian diaspora cities — London, Birmingham, Manchester, Bradford, New York and New Jersey, Houston, Dearborn and Michigan, Chicago, Toronto and Mississauga — whose bookings still come from referrals and word of mouth",
+      "Solo female instructors (UK: DVSA-approved ADIs) who teach Muslim women learners and lose work to slow replies and to shared leads, while larger schools take the bookings",
+      "Small ladies' driving schools offering weekly lessons and intensive courses, whose websites and Google presence are too weak for learners to find them",
+      "Driving schools that already serve Muslim women learners but say nothing about it on their pages, so the learners searching for a female instructor never find them"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so 'female driving instructor near me', 'ladies driving school near me' and 'Muslim female driving instructor' find your school first in your city, with your real service area, hours and reviews shown plainly",
+      "Privacy-first landing pages — female instructor guarantee, hijab-friendly lessons, home pick-up and drop-off, flexible timings, prayer-break respect, and an Urdu or Arabic-speaking instructor option — in your own wording, approved by you before anything goes live",
+      "A lesson-booking and intensive-course funnel: a learner can book a first lesson or a full intensive course in a few taps, with a clear price and a clear statement of what happens next",
+      "Test-slot and backlog pages — practical test waiting times in your area, how intensive courses work, and what to expect at each stage — that catch learners while the UK test backlog is at its peak",
+      "Trust-building short videos — a 30-second instructor introduction, a car tour, and confidence-building tips — never filming a learner, with or without consent",
+      "A free booking visibility audit first: what a Muslim woman finds when she searches for a female driving instructor in your city today, and how many bookings you are likely losing",
+      "A short monthly report: inquiries received, lessons booked, intensive courses sold, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim woman learner in hijab in the driver's seat of a modern car, a female driving instructor in hijab beside her pointing encouragingly at the dashboard, both calm and smiling",
+        "caption": "The first lesson is a trust decision, not a price decision. A learner who sees a female instructor beside her — patient, professional, in her own language — relaxes and learns.",
+        "src": "/images/services/she-drives-booking-funnel-learner-lesson.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Inside a clean modern driving-school car, a learner's hands on the steering wheel while the instructor points to the dashboard controls, a lesson checklist on a clipboard on the passenger seat",
+        "caption": "The car is the classroom. A tidy dual-controlled car, a calm instructor and a clear plan for the lesson — that is what turns one trial lesson into forty-five hours of bookings.",
+        "src": "/images/services/she-drives-booking-funnel-car-interior.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do no driving instruction of any kind. We build the funnel that brings you qualified lesson bookings from women learners. The teaching itself, your licence, your rates and your lesson policy stay entirely with you and your school.",
+        "q": "Do you teach driving yourselves?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. A test pass depends on the learner, the test and the day — things no agency controls. What we promise is the work that earns the booking: pages learners trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee test passes?"
+      },
+      {
+        "a": "Never — not even with consent. Our videos show instructor introductions, car tours and confidence-building tips, never a learner in a lesson. A learner's privacy is absolute, and a school that protects it is a school women recommend.",
+        "q": "Will you film our learners?"
+      },
+      {
+        "a": "Yes — a solo instructor is a common starting point. The funnel is built around your real capacity: the privacy-first pages, the booking funnel and the follow-up all work whether you teach ten learners a week or forty. A solo instructor who answers first beats a large school that does not answer at all.",
+        "q": "We are a solo instructor — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim woman finds when she searches for a female driving instructor in your city today, how your profile compares with the schools Google shows instead of you, and how many bookings you are likely losing. You see the facts first, and then decide whether the funnel is worth building.",
+        "q": "What is the booking visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/she-drives-booking-funnel-hero.jpg",
+    "imageAlt": "Friendly Muslim woman driving instructor in hijab and modest dress smiling beside a clean white car with a red L learner plate, holding the car keys, on a bright suburban street",
+    "imageCaption": "The booking is won before the first lesson: a learner who can see a friendly female instructor — and reach her on the first message — books the slot.",
+    "isNew": true,
+    "name": "She Drives Booking Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly booking retainer. Start with the free booking visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is a Tuesday evening in Birmingham and a young mother has finally decided to learn to drive. She has put it off for two years — not because she does not want to drive, but because the thought of sitting in a closed car for an hour with a strange man is the one thing stopping her. She picks up her phone and searches for a female driving instructor near her. She messages the first school on the list. No reply. She messages the second. An automated reply, then silence. The third answers within minutes, guarantees a female instructor, explains the home pick-up and the prayer-break respect plainly, and books a first lesson for Thursday. The first two schools never knew she existed — and by the time they reply, the lesson is already booked, and she will tell her sisters and her friends the name of the school that answered.",
+      "The arithmetic makes every slow reply expensive. In the UK a single learner is worth £1,400 to £2,800 to a school — about 45 hours of lessons at £35 to £45 an hour — so one new learner covers a whole year of a marketing retainer several times over. And there is a second problem on top of the slow replies: trust. A Muslim woman is spending hours alone in a closed car with her instructor. She wants to know that the instructor is a woman, that she can wear her hijab comfortably, that she will be picked up from home, that prayer breaks will be respected, and that she can ask for an Urdu or Arabic-speaking instructor. A driving school that cannot answer those questions before the first lesson never gets the chance to prove its teaching."
+    ],
+    "process": [
+      {
+        "text": "We search the way a learner searches — 'female driving instructor near me', 'ladies driving school near me' plus your city — and report what she finds: your profile, your pages, your reviews, and the schools Google shows instead of you. We also show you what the slow replies are costing you, in plain numbers.",
+        "title": "Booking visibility audit"
+      },
+      {
+        "text": "Profile, privacy-first landing pages, the lesson and intensive-course booking funnel, the test-slot pages and the trust-building videos, built with your approved wording. We never teach driving, never set your prices, and never write a claim about your licence or your teaching that you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Inquiries and lesson bookings arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own diary filling up.",
+        "title": "Bookings reach you, you teach them"
+      }
+    ],
+    "proof": "The market is the proof: the UK practical driving test backlog is at its peak — the DVSA's July 2026 data puts the median wait at 11.1 weeks, with some centres at 24 weeks or more and London at 20 to 22 weeks — and the DVSA took a record 2.169 million tests in 2025–26 yet still does not expect to meet its 7-week target before the end of 2027. Learners are waiting months, and lesson demand is structural, not seasonal. Against that demand, the women-only side of the market is wide open: Salam Driving School in London opened in 2019 because Muslim women — especially hijab and niqab wearers — needed female instructors, Abbies Driving School in Newham runs on Muslim female instructors, a 'She Drives' women-only flyer went viral with 410 likes and 150 comments of women tagging their friends, and Lahore's government opened 10 female-only driving schools in 2026 — yet no marketing agency specialises in bringing bookings to these schools. One UK learner at £1,400 to £2,800 is worth several years of the retainer. We start with a free booking visibility audit, so you see exactly what a learner finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you booking funnel for women-only driving schools and female driving instructors — local SEO, Google Business Profile, privacy-first landing pages and a lesson-booking system that turns 'female driving instructor near me' searches into booked lessons and intensive courses.",
+    "slug": "she-drives-booking-funnel"
   }
 ];
 
