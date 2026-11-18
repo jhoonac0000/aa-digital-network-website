@@ -270,6 +270,12 @@ export default function BlogPage() {
             <p>Muslim women message two or three driving schools in one week — yet most women-only schools are invisible on Google. Here is the funnel.</p>
             <p className="small"><Link href="/services/she-drives-booking-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-muslim-families-find-a-halal-wedding-venue-they-trust">
+            <img className="card-img" src="/images/blog/how-muslim-families-find-a-halal-wedding-venue-they-trust.jpg" alt="Grand empty wedding banquet hall set for a nikah and walima, an elegant stage with white and gold drapes and floral arches, round tables with white linen and gold chairs, crystal chandeliers, no people" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-families-find-a-halal-wedding-venue-they-trust">How Muslim Families Find a Halal Wedding Venue They Trust</Link></h3>
+            <p>The venue takes 24–40% of a wedding budget — yet most Muslim-friendly halls are invisible on Google. Here is the funnel that turns searches into tours.</p>
+            <p className="small"><Link href="/services/halal-venue-booking-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>

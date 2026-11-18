@@ -3271,6 +3271,91 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you booking funnel for women-only driving schools and female driving instructors — local SEO, Google Business Profile, privacy-first landing pages and a lesson-booking system that turns 'female driving instructor near me' searches into booked lessons and intensive courses.",
     "slug": "she-drives-booking-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Muslim-friendly banquet halls and wedding venues in the US, UK and Canada — nikah and walima halls for 100 to 1,000 guests — whose dates still fill through referrals and masjid word of mouth",
+      "Single-owner venues in diaspora cities — Dearborn, Houston, Chicago, New Jersey and New York, Dallas, London, Birmingham, Toronto and Mississauga — with no marketing team and a website that shows no dates, no capacity and no way to book a tour",
+      "Venues that already welcome Muslim families — alcohol-free, prayer room, halal catering — but say almost none of it on Google, so the families searching for a halal venue never find them",
+      "Venues preparing for the wave right now: engagement season runs November to February, December is the busiest proposal month, and the bulk of venue bookings land January to April"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so 'Muslim wedding venue near me', 'halal banquet hall near me' and 'Islamic wedding hall near me' find your venue first in your city, with your real capacity, dates and reviews shown plainly",
+      "Faith-aware landing pages — alcohol-free policy, prayer room and wudu facilities, separate seating option, halal catering in-house or external caterer welcome, dry-hire flexibility, and multi-day nikah plus walima packages — in your own wording, approved by you before anything goes live",
+      "A tour-booking and date-hold funnel: a family can see your capacity and date availability, book a tour in a few taps, and hold a date while they decide — because the venue that gives the first tour and holds the date wins the booking",
+      "An availability calendar that shows which dates are open for 100 to 1,000 guests, so families stop asking and start booking, and your diary stops filling by phone tag",
+      "Cinematic venue tour videos — an empty-hall walkthrough, the stage and ballroom, the prayer room — never filming a couple or a guest, ever",
+      "A free venue visibility audit first: what a Muslim family finds when they search for a halal wedding venue in your city today, and how many tour bookings you are likely losing",
+      "A short monthly report: tours booked, dates held, bookings won, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim mother wearing a hijab at home in the evening searching for a wedding venue on her smartphone, a wedding invitation and a notebook with venue notes beside her, a laptop showing banquet hall photos on the coffee table",
+        "caption": "The search happens at home, in the evening, usually while comparing five to ten venues at once. The venue that answers first and books the tour wins the date.",
+        "src": "/images/services/halal-venue-booking-funnel-search.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Elegant empty wedding venue ballroom seen through open double doors, white chairs along a flower-lined aisle, a floral stage with drapes, and a prayer room door visible at the side",
+        "caption": "The tour is the product being sold. When a family can walk the empty hall, see the stage, the prayer room and the seating — before the event — the date stops being a price comparison.",
+        "src": "/images/services/halal-venue-booking-funnel-tour.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not run a venue, manage weddings, or take a booking on your behalf. We build the funnel that brings you qualified tour bookings and date-holds from Muslim families. The hall, the dates, the capacity and every claim about them stay entirely with you and your venue.",
+        "q": "Do you run the venue or manage weddings yourselves?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. A date depends on your calendar and your capacity, and a booking depends on the family, the date and the price — things no agency controls. What we promise is the work that earns tours: pages families trust, a profile they can find, and replies that arrive fast.",
+        "q": "Do you guarantee dates or bookings?"
+      },
+      {
+        "a": "Never — not even with consent. Our videos show empty-hall walkthroughs, the stage and ballroom, and the prayer room, never a couple or a guest at an event. A family's wedding day is private, and a venue that protects it is a venue families recommend.",
+        "q": "Will you film or photograph our couples or guests?"
+      },
+      {
+        "a": "Yes — most Muslim-friendly venues are single-owner small businesses, and that is exactly who this funnel is built for. The pages, the tour offer and the follow-up all work whether your hall seats a hundred guests or a thousand. A small venue that answers fast beats a large hall that does not answer at all.",
+        "q": "We are a small single-owner hall — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim family finds when they search for a halal wedding venue in your city today, how your profile compares with the venues Google shows instead of you, and how many tour bookings you are likely losing. You see the facts first, and then decide whether the funnel is worth building.",
+        "q": "What is the venue visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/halal-venue-booking-funnel-hero.jpg",
+    "imageAlt": "Elegant empty Muslim-friendly wedding banquet hall with a decorated stage, white and gold draped ceiling, warm chandeliers, round tables with white linen and floral centrepieces, no people",
+    "imageCaption": "The booking is won at the tour, not on a directory listing: a family that can see the hall, the capacity and the date stops comparing venues.",
+    "isNew": true,
+    "name": "Halal Venue Booking Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly booking retainer. Start with the free venue visibility audit, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "A mother in Dearborn is planning her daughter's nikah and walima for four hundred guests. She searches 'Muslim wedding venue near me' on her phone and opens five halls in one evening. Four of them have the same thin website: a phone number, a few photos, and nothing that tells her whether the hall is alcohol-free, whether there is a prayer room, whether halal catering is welcome, whether the hall seats four hundred, or which dates are still open. She sends a message to all five. One answers the next morning with a tour time and a date-hold offer. The other four answer two days later — or never. By the end of the week she has walked the hall that replied first, held the date, and booked the venue there. The hall with the better ballroom never knew she existed, because she could not find it, could not trust what she found, or could not book a tour without a phone call.",
+      "The arithmetic makes the invisibility expensive. The venue is the biggest line in a wedding budget — 24 to 40 percent of it — and the average venue costs $12,200 to $12,900 (The Knot 2026 Real Weddings Study, 10,474 couples). One venue booking is $6,000 to $12,000 or more in rental alone, so a single new booking covers a whole year of a marketing retainer several times over. The market itself is growing: US wedding services were about $66 billion in 2025, forecast to reach about $95.35 billion by 2030 at 6.8 percent a year. Yet about 35,829 venues in the US are mostly single-owner small businesses — 71.8 percent of them — with no marketing team, thin websites, and no tour funnel. No Muslim-specific venue-marketing specialist serves them; generic venue agencies chase the big hotel chains, and a single-owner Muslim banquet hall is too small for them to bother with. So the gap stays open, and the timing is unforgiving: 35 to 50 percent of proposals happen between November and February, December is the busiest month at about 19 percent, and the bulk of venue bookings land January to April — families engaged this winter are researching venues right now."
+    ],
+    "process": [
+      {
+        "text": "We search the way a family searches — 'Muslim wedding venue near me', 'halal banquet hall near me' plus your city — and report what they find: your profile, your pages, your capacity and date offer, and the venues Google shows instead of you. We also show you what the slow replies are costing you, in plain numbers.",
+        "title": "Venue visibility audit"
+      },
+      {
+        "text": "Profile, faith-aware landing pages, the tour-booking and date-hold funnel, the availability calendar and the cinematic venue tour videos, built with your approved wording. We never run a venue, never set your prices, and never write a claim about your capacity, your dates or your faith features that you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Tour bookings and date-holds arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own dates filling up.",
+        "title": "Families reach you, you host the weddings"
+      }
+    ],
+    "proof": "The market is the proof: a US wedding services market of about $66 billion in 2025 growing to about $95.35 billion by 2030, the venue taking 24 to 40 percent of the budget at an average $12,200 to $12,900 — against a $499 to $799 monthly retainer. One booking at $6,000 to $12,000 or more in rental alone covers a whole year of the funnel, and the timing is a season, not a hope: 35 to 50 percent of proposals happen November to February, December is the busiest month, and the bulk of venue bookings land January to April. The demand is already visible in real venues: Froyle Park near London, a Muslim weddings specialist for 300 guests; Meridian Grand in North London, 800 guests with in-house halal catering; Prested Hall in Essex, a nikah venue with a prayer room and dry hire; Vibe Venue in Dearborn Heights, 100 percent halal with no alcohol; Matrimony Manor in London, 1,000 capacity and Shariah-conscious; Grand Cinnamon in Toronto and Scarborough with halal catering — yet none of them has a Muslim-specific funnel bringing them tour bookings. We start with a free venue visibility audit, so you see exactly what a family finds today before deciding anything.",
+    "related": [
+      "halal-local-seo",
+      "gbp-fix-review-system"
+    ],
+    "short": "Done-for-you tour and date-hold funnel for Muslim-friendly banquet halls and wedding venues — local SEO, Google Business Profile, faith-aware landing pages, an availability calendar and cinematic venue tour videos that turn searches into booked tours and held dates.",
+    "slug": "halal-venue-booking-funnel"
   }
 ];
 
