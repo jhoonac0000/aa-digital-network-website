@@ -3356,6 +3356,91 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you tour and date-hold funnel for Muslim-friendly banquet halls and wedding venues — local SEO, Google Business Profile, faith-aware landing pages, an availability calendar and cinematic venue tour videos that turn searches into booked tours and held dates.",
     "slug": "halal-venue-booking-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Small Muslim-owned halal pet food brands in the US, UK and Canada — HMC-certified dry, wet and raw food and treats sold on Shopify, Amazon and TikTok Shop — whose trial orders still come from a founder's own Instagram and an Amazon listing",
+      "UK brands already on the shelf — in Morrisons stores or independent pet shops — whose subscription base is still tiny because nobody has built them a trial-to-subscriber funnel",
+      "US and Canadian brands where halal pet food barely exists yet, and where the first brand with a proper funnel wins the category before the giants arrive",
+      "Brands about to launch a new line — dog food after cat food, wet food after dry, treats after meals — and needing each launch to land with subscribers, not just a post"
+    ],
+    "deliverables": [
+      "Search and Google Business Profile optimisation, so 'halal pet food', 'halal cat food' and 'halal dog food' find your brand first in your city and country, with your certification and your trial offer shown plainly",
+      "Trial-box landing pages with a feeding-plan quiz — the pet's weight and age decide the plan — so a first-time buyer can try a small box at a trial price instead of committing to a full bag they have not tested",
+      "A Subscribe & Save funnel that turns the trial into a monthly refill: the right bag, the right size, arriving before the last one runs out, with pause and skip always one tap away",
+      "An email and WhatsApp retention flow — refill reminders, subscription pause and skip help, and review requests — so subscribers stay because the service is easy, not because cancelling is hard",
+      "Twelve pet Shorts and Reels a month — the pet eating, the trial box being opened, the founder's story, what is in the bag and why — because the pet is the star and pet content is the most shared content on the internet",
+      "A free pet-brand visibility audit first, plus a free 30-second demo Reel of your hero product with a pet and a trial box, so you see the quality before spending anything",
+      "A short monthly report: trial orders, subscribers gained, subscribers kept, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Open pet food trial subscription box on a wooden table with dry food bags, treat pouches, a 7-day feeding plan card and a measuring scoop, a curious tabby cat sniffing the box edge",
+        "caption": "The trial box is the moment a stranger becomes a customer. A small box, a clear feeding plan, and a pet that finishes the bowl — that is what turns a search into a subscription.",
+        "src": "/images/services/halal-pet-food-subscription-funnel-trial.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Laptop on a desk showing a pet feeding-plan quiz asking a dog's weight and age with a build-my-plan button, a bowl of kibble and a happy beagle sitting beside the desk",
+        "caption": "The quiz does the selling a product page cannot: it asks about the pet, not the buyer, and answers with a plan sized for that animal. Owners trust a plan made for their pet.",
+        "src": "/images/services/halal-pet-food-subscription-funnel-quiz.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not make pet food, sell pet food, or handle a single bag. We build the funnel that brings you qualified trial-box orders and subscriptions from Muslim pet owners. The food, the recipes, the certification and every claim about them stay entirely with you and your brand.",
+        "q": "Do you make or sell the pet food yourselves?"
+      },
+      {
+        "a": "No. A subscription depends on your food, your price and the pet finishing the bowl. What we promise is the work that earns trials: pages owners trust, a quiz that fits the pet, and a subscription that is easy to keep. One subscriber is worth about £238 a year, so fifteen to twenty-five new ones cover a whole year of the retainer.",
+        "q": "Do you guarantee subscribers or sales?"
+      },
+      {
+        "a": "Never. We make no veterinary, health or nutrition claim of any kind, and we never write a claim about your food that you have not approved in your own wording. Your certification and your ingredients are shown exactly as your certifier and your own labels state them — that wording is the trust, and we do not touch it.",
+        "q": "Will you make health or nutrition claims about our food?"
+      },
+      {
+        "a": "Yes — most halal pet brands are founder-run kitchen-table operations, and that is exactly who this funnel is built for. The trial box, the quiz and the twelve Shorts a month all work whether you sell one recipe or ten. A small brand that answers the halal question first beats a big brand that never mentions it.",
+        "q": "We are a tiny founder-run brand — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim pet owner finds when they search for halal pet food in your market today, how your brand compares with the brands Google and Amazon show instead of you, and how many trial orders you are likely losing. We also make a free 30-second demo Reel of your hero product, so you can judge the quality before deciding.",
+        "q": "What is the pet-brand visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/halal-pet-food-subscription-funnel-hero.jpg",
+    "imageAlt": "Happy ginger cat and golden retriever sitting side by side in a bright modern kitchen with a full food bowl and a plain premium pet food bag beside them",
+    "imageCaption": "The owner asks one question first — is this food halal for my pet? A brand that answers it plainly, with its certification shown, wins the subscriber before price is ever compared.",
+    "isNew": true,
+    "name": "Halal Pet Food Subscription Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly subscription retainer. Start with the free pet-brand visibility audit and a free 30-second demo Reel, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is ten o'clock at night in Manchester and a cat owner has just noticed the food bag is nearly empty. Her cat eats only halal food — she has checked every label since she got him — so she searches 'halal cat food' on her phone. She finds an Amazon listing with a long name and no clear answer about certification, a big-brand page that never mentions halal at all, and one small brand whose Instagram looks lovely but whose website has no trial box, no feeding plan, and no way to subscribe. She adds the Amazon bag to her basket because it is the only option with a buy button — and the small halal brand she would have preferred never knew she existed, because she could not find it, could not trust what she found, or could not try it without buying a full bag first.",
+      "The arithmetic makes the invisibility expensive. A Hurayra bag costs £22 and a subscription £19.80 a month, so one subscriber is worth about £238 a year — which means fifteen to twenty-five new subscribers cover a whole year of a marketing retainer. The market itself is growing about twice as fast as ordinary pet food: the global halal pet food market was about $2.5 billion in 2025, growing at about 7.8 percent a year, with the halal segment growing near 14 percent a year against about 6 percent for pet food in general. Nestlé Purina and Mars have already launched halal lines, and in the UK small brands are scaling now — Hurayra of Leeds launched the UK's first HMC-certified halal cat food and has been stocked in Morrisons stores since September 2025, Maya Halal Pet Food of Manchester sells the world's first HMC-certified wet, raw food and treats, and Healthy Pets UK sells halal-certified dog food. There are more than 600,000 Muslim pet owners in the UK alone, and in the US and Canada halal pet food barely exists — yet almost none of these brands has a subscription funnel bringing them subscribers. The demand is already searching; the funnel is what is missing."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim pet owner searches — 'halal pet food', 'halal cat food', 'halal dog food' plus your city — and report what they find: your brand, your pages, your certification story, and the brands Google and Amazon show instead of you. We also show you what the missing trial box is costing you, in plain numbers, and we make you a free 30-second demo Reel of your hero product so you can judge our work before deciding anything.",
+        "title": "Pet-brand visibility audit"
+      },
+      {
+        "text": "Search and profile, the trial-box landing pages, the feeding-plan quiz, the Subscribe & Save funnel, the retention flow and the twelve pet Shorts a month, built with your approved wording. We never make or sell pet food, never set your prices, and never write a veterinary, health or nutrition claim — your certification and ingredients are shown in your own wording, exactly as your certifier states them.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Trial orders and subscriptions arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own subscriber count growing.",
+        "title": "Trial orders reach you, you feed the pets"
+      }
+    ],
+    "proof": "The market is the proof: a global halal pet food market of about $2.5 billion in 2025, growing at about 7.8 percent a year — and the halal segment growing near 14 percent a year, about twice the pace of ordinary pet food. The giants have already noticed: Nestlé Purina and Mars have launched halal lines, which is what happens just before a category goes mainstream. The live proof is in the UK: Hurayra of Leeds launched the UK's first HMC-certified halal cat food and has been stocked in Morrisons stores since September 2025, at £22 a bag, £19.80 a month on subscription and £13.50 for a trial pack; Maya Halal Pet Food of Manchester sells HMC-certified wet, raw food and treats; Healthy Pets UK sells halal-certified dog food — yet none of them has a Muslim-specific subscription funnel bringing them trial orders. Against a $499 to $799 monthly retainer, one subscriber is worth about £238 a year, and fifteen to twenty-five new subscribers cover a whole year of the funnel. We start with a free pet-brand visibility audit and a free demo Reel, so you see exactly what a pet owner finds today before deciding anything.",
+    "related": [
+      "halal-meal-prep-funnel",
+      "halal-supplements-funnel"
+    ],
+    "short": "Done-for-you subscription funnel for halal pet food brands — SEO, trial-box landing pages, a feeding-plan quiz, Subscribe & Save and twelve pet Shorts a month that turn 'halal cat food' searches into monthly subscribers.",
+    "slug": "halal-pet-food-subscription-funnel"
   }
 ];
 

@@ -276,6 +276,12 @@ export default function BlogPage() {
             <p>The venue takes 24–40% of a wedding budget — yet most Muslim-friendly halls are invisible on Google. Here is the funnel that turns searches into tours.</p>
             <p className="small"><Link href="/services/halal-venue-booking-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-halal-pet-food-brands-win-subscribers">
+            <img className="card-img" src="/images/blog/how-halal-pet-food-brands-win-subscribers.jpg" alt="Cheerful orange tabby cat eating premium dry food from a ceramic bowl and a golden retriever puppy waiting beside it, a neat shelf of labelled pet food bags behind them in a bright modern kitchen" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-pet-food-brands-win-subscribers">How Halal Pet Food Brands Win Subscribers</Link></h3>
+            <p>Muslim pet owners search 'halal cat food' daily — yet most halal pet brands have no subscription funnel. Here is the one that turns searches into subscribers.</p>
+            <p className="small"><Link href="/services/halal-pet-food-subscription-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>

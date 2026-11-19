@@ -98,6 +98,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/she-drives-booking-funnel`, lastModified: "2026-11-17", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-muslim-women-find-a-female-driving-instructor-they-trust`, lastModified: "2026-11-17", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/halal-venue-booking-funnel`, lastModified: "2026-11-18", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-families-find-a-halal-wedding-venue-they-trust`, lastModified: "2026-11-18", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-families-find-a-halal-wedding-venue-they-trust`, lastModified: "2026-11-18", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-pet-food-subscription-funnel`, lastModified: "2026-11-19", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-halal-pet-food-brands-win-subscribers`, lastModified: "2026-11-19", changeFrequency: "weekly", priority: 0.8 }
   ];
 }
