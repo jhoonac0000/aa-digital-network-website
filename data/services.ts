@@ -3441,6 +3441,91 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you subscription funnel for halal pet food brands — SEO, trial-box landing pages, a feeding-plan quiz, Subscribe & Save and twelve pet Shorts a month that turn 'halal cat food' searches into monthly subscribers.",
     "slug": "halal-pet-food-subscription-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Muslim homeschool curriculum providers in the US, UK and Canada — print curricula like IQRA', Safar and Noorart, live-online programs like Zaid Academy, unit-study providers like Allamah — whose enrollments still come from word of mouth and a Facebook group",
+      "New Islamic curriculum entrants launching in 2026 and 2027 — Ihsaan Home Academy's free K–High School guide, the Clear Deen, FAITH and AI RoboVision curricula from ISLA's first Curriculum Palooza — that need their first families, not just a launch post",
+      "Established providers whose product is real — Al-Azhar certified teachers, grade-wise lessons, sibling pricing — but whose marketing is nearly zero: a handful of followers and no trial funnel at all",
+      "Providers about to open a mid-year intake or a January switch window, when families change curriculum mid-year and the providers that answer first win the family"
+    ],
+    "deliverables": [
+      "Search and local SEO, so 'Muslim homeschool curriculum', 'Islamic homeschool program' and 'Muslim homeschool near me' find your program first in your city and country, with your trial offer and your grade range shown plainly",
+      "Grade-wise landing pages with sample lessons, teacher credentials and sibling pricing, so a parent can see exactly what her child will learn before she ever messages you",
+      "A parent-inquiry and free trial-class booking funnel — the family books a live trial in one tap, with a reminder before the class — because the provider that books the trial first wins the family",
+      "A fast, human reply to every inquiry within minutes, not days, with the trial link already in the first message",
+      "Trust-building short videos — sample-lesson clips and teacher intros — made with your approved wording, and children filmed only with written parental consent",
+      "A free enrollment visibility audit first, plus a free 30-second demo Reel of one of your sample lessons, so you see the quality before spending anything",
+      "A short monthly report: trial classes booked, families enrolled, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Laptop on a tidy home desk showing a free trial class booking page with a calendar and a 'Book a free trial class' button, a notebook and pencil beside it, a cup of tea",
+        "caption": "The trial class is the moment a stranger becomes a family. A parent who can book a free live lesson in one tap — with a clear time and no card required — stops comparing and starts deciding.",
+        "src": "/images/services/homeschool-enrollment-funnel-trial.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Neat stack of colourful Islamic homeschool curriculum books and printed lesson sheets on a wooden desk, a small globe and coloured pencils beside them, Arabic alphabet flashcards visible",
+        "caption": "The curriculum is the product, and it has to be visible. Grade-wise sample lessons, teacher credentials and sibling pricing on the page — a parent who can see the lessons trusts the program before the first message.",
+        "src": "/images/services/homeschool-enrollment-funnel-curriculum.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not make curriculum and we do not teach. We build the funnel that brings you qualified trial bookings and enrollments from Muslim parents. The curriculum, the teachers, the lessons and every claim about them stay entirely with you and your program.",
+        "q": "Do you make the curriculum or teach the children yourselves?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. An enrollment depends on your program, your price and the family — things no agency controls. What we promise is the work that earns trials: pages parents trust, a booking funnel that answers fast, and sample-lesson videos that show the teaching. Three or four new families cover a whole year of the retainer.",
+        "q": "Do you guarantee enrollments?"
+      },
+      {
+        "a": "Never — not even with consent for marketing. Our videos show sample lessons and teacher intros, and a child appears only with written parental consent, in a lesson the parents have approved. A family's children are private, and a provider that protects them is a provider parents recommend.",
+        "q": "Will you film our students?"
+      },
+      {
+        "a": "Yes — most Muslim homeschool providers are small, often mom- or teacher-run, and that is exactly who this funnel is built for. The grade-wise pages, the trial booking and the demo Reel all work whether you serve twenty families or two hundred. A small provider that answers fast beats a large program that does not answer at all.",
+        "q": "We are a tiny mom-run program — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim parent finds when they search for a homeschool curriculum in your market today, how your program compares with the providers Google shows instead of you, and how many trial bookings you are likely losing. We also make a free 30-second demo Reel of one of your sample lessons, so you can judge the quality before deciding.",
+        "q": "What is the enrollment visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/homeschool-enrollment-funnel-hero.jpg",
+    "imageAlt": "Muslim mother in a hijab sitting beside her young daughter at a small desk, both looking at a laptop showing a colourful Islamic homeschool lesson, open storybooks and a globe on the desk",
+    "imageCaption": "The enrollment is won at the trial class, not on a directory listing: a parent who can see a sample lesson, the teacher and the price stops comparing programs.",
+    "isNew": true,
+    "name": "Homeschool Enrollment Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly enrollment retainer. Start with the free enrollment visibility audit and a free 30-second demo Reel of one of your sample lessons, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is a Sunday evening in Houston and a mother has just decided her daughter will not go back to the same school next term. She has heard about Islamic homeschooling from a friend, so she searches 'Muslim homeschool curriculum' on her phone and opens four providers in one evening. Three of them have the same thin presence: a Facebook page with a few posts, no sample lesson, no teacher names, no price, and no way to book a trial class without sending a message and waiting. One answers the next morning with a free trial class time and a sample lesson link. The other three answer two days later — or never. By the end of the week her daughter has sat in the trial class, liked the teacher, and enrolled. The provider with the better curriculum never knew she existed, because she could not find it, could not trust what she found, or could not book a trial without a phone call.",
+      "The arithmetic makes the invisibility expensive. A live program like Zaid Academy charges $40 to $80 a month per student, so one new family with two children is worth about $960 to $1,920 a year to the provider — which means three or four new families cover a whole year of a marketing retainer. Print curriculum sets sell for $80 to $350 each, so every new family is direct revenue twice over. The market itself is at its highest level ever: homeschooled children in the US grew from about 1.7 million in 2016 to more than 3.4 million in 2025–26 — about 6 to 7 percent of school-age children, more than double since 2019 — and in 2025–26, 17 of 22 reporting states were still growing. Yet the Muslim providers serving this wave are tiny and nearly invisible: Zaid Academy has a real product — Al-Azhar certified teachers and more than 200 families — but only 43 followers on Instagram and 390 on Facebook, and new providers are launching right now, from Ihsaan Home Academy's free K–High School curriculum guide in 2027 to the curricula shown at ISLA's first Curriculum Palooza in 2026. No Muslim-specific marketing agency serves them; generic edtech agencies chase the big curriculum brands, and a mom-run Islamic program is too small for them to bother with. So the gap stays open, and the timing is unforgiving: the mid-year switch window in January is weeks away, and parents comparing programs this winter are booking trials now."
+    ],
+    "process": [
+      {
+        "text": "We search the way a parent searches — 'Muslim homeschool curriculum', 'Islamic homeschool program' plus your city — and report what they find: your program, your pages, your sample lessons, and the providers Google shows instead of you. We also show you what the slow replies are costing you, in plain numbers, and we make you a free 30-second demo Reel of one of your sample lessons.",
+        "title": "Enrollment visibility audit"
+      },
+      {
+        "text": "Search and local pages, the grade-wise landing pages with sample lessons and sibling pricing, the trial-class booking funnel, the fast-reply system and the sample-lesson videos, built with your approved wording. We never make curriculum, never teach, and never write a claim about your program — your lessons, your teachers or your outcomes — that you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Trial bookings and enrollments arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own families enrolling.",
+        "title": "Families reach you, you teach the children"
+      }
+    ],
+    "proof": "The market is the proof: homeschooled children in the US grew from about 1.7 million in 2016 to more than 3.4 million in 2025–26 — about 6 to 7 percent of school-age children, more than double since 2019 — and the Johns Hopkins Homeschool Hub reported in September 2026 that 17 of 22 reporting states were still growing, with many at their highest numbers ever. The demand is already visible in real providers: Zaid Academy runs a live program with Al-Azhar certified teachers and more than 200 families at $40 to $80 a month per student, yet has only 43 Instagram followers and 390 on Facebook; Ihsaan Home Academy is launching a free K–High School curriculum guide in 2027; ISLA held its first Curriculum Palooza in 2026, launching new Islamic curricula; and Muslimhomeschool.com updated its comparison page on 14 November 2026 because parents are actively comparing right now. Against a $399 to $699 monthly retainer, one new family with two children is worth about $960 to $1,920 a year, so three or four new families cover a whole year of the funnel — and the mid-year switch window in January is weeks away. We start with a free enrollment visibility audit and a free demo Reel, so you see exactly what a parent finds today before deciding anything.",
+    "related": [
+      "islamic-schools-admissions",
+      "quran-academy-enrollment-funnel"
+    ],
+    "short": "Done-for-you enrollment funnel for Muslim homeschool curriculum providers and online Islamic homeschool programs — SEO, grade-wise landing pages, free trial-class booking and sample-lesson videos that turn parent searches into enrolled families.",
+    "slug": "homeschool-enrollment-funnel"
   }
 ];
 

@@ -282,6 +282,12 @@ export default function BlogPage() {
             <p>Muslim pet owners search 'halal cat food' daily — yet most halal pet brands have no subscription funnel. Here is the one that turns searches into subscribers.</p>
             <p className="small"><Link href="/services/halal-pet-food-subscription-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-muslim-homeschool-providers-win-enrollments">
+            <img className="card-img" src="/images/blog/how-muslim-homeschool-providers-win-enrollments.jpg" alt="Muslim mother in a hijab and two children sitting around a table doing homeschool lessons together, open books, a tablet showing a lesson, a whiteboard with Arabic letters behind them" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-homeschool-providers-win-enrollments">How Muslim Homeschool Providers Win Enrollments</Link></h3>
+            <p>Muslim parents compare 3–4 homeschool programs in a week — yet most Islamic providers have no funnel. Here is the one that turns trials into enrollments.</p>
+            <p className="small"><Link href="/services/homeschool-enrollment-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>
