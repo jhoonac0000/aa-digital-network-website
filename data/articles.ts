@@ -4830,6 +4830,127 @@ export const ARTICLES: Article[] = [
     "service": "homeschool-enrollment-funnel",
     "slug": "how-muslim-homeschool-providers-win-enrollments",
     "title": "How Muslim Homeschool Providers Win Enrollments"
+  },
+  {
+    "excerpt": "Shoppers search 'Ramadan decor' from December — yet most Islamic decor brands have no funnel. Here is the one that turns searches into orders.",
+    "extraImages": [
+      {
+        "after": "A $3.7 billion market with a calendar you can set your watch by",
+        "alt": "Flat-lay of Ramadan decor products on a light wooden table seen from above: a brass lantern, crescent moon fairy lights, a framed Arabic calligraphy print, a folded prayer rug and a kraft gift box",
+        "caption": "The Ramadan collection is a set, not a shelf of singles. A flat-lay that shows the lantern, the lights, the art and the gift box together is what turns a browser into a buyer.",
+        "src": "/images/blog/how-islamic-home-decor-brands-win-more-orders-2.jpg"
+      },
+      {
+        "after": "Videos where the styling is the selling",
+        "alt": "Hands in modest sleeves opening an elegant kraft gift box on a table, revealing a small brass lantern and a framed Arabic calligraphy art print wrapped in tissue paper",
+        "caption": "The unboxing is the review before the review. A gift set that opens beautifully gets filmed, shared and remembered — and the next order comes from the person who watched it.",
+        "src": "/images/blog/how-islamic-home-decor-brands-win-more-orders-3.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Because the shopper's questions are specific and almost no brand answers them. She wants to see how the lantern looks lit in a real room, whether the calligraphy art suits her wall, what to gift for a nikah, and what the set costs together — before she messages anyone. A brand that hides those answers behind a listing loses her to the first shop that shows them, even a smaller one.",
+        "q": "Why do Islamic decor brands struggle to sell online?"
+      },
+      {
+        "a": "A page built around the occasion, not the product. A 'Nikah gift' page shows one complete gift set — the art, the lantern, the box — with a price and a buy button, instead of asking the buyer to assemble a gift from a catalogue. It answers the only question a gift buyer has: what should I give? That is why gift guides outsell catalogues for decor, and why we build them first.",
+        "q": "What is a gift-guide page, and why does it sell decor?"
+      },
+      {
+        "a": "No, and any agency that promises a number is selling certainty it does not control. Orders depend on your products, your prices and the shopper. What a funnel can promise is the work that earns orders: pages shoppers trust, gift guides that answer the real question, a cart flow that follows up, styling videos that show the product in a real room, and a monthly report on your orders and average order value.",
+        "q": "Can a funnel guarantee orders?"
+      },
+      {
+        "a": "It is free. We check what a shopper finds when she searches for Islamic wall art or Ramadan decor in your market today, how your brand compares with the brands Google, Amazon and Etsy show instead of you, and how many orders you are likely losing. We also make a free 30-second styling Reel of your hero product, so you see the quality before deciding anything.",
+        "q": "What is the decor visibility audit, and what does it cost?"
+      },
+      {
+        "a": "No — never. We do not make decor and we do not sell decor. We build the funnel that brings you qualified orders from shoppers searching for Islamic home decor. The products, the prices and every claim about them stay entirely with you and your brand, in your own wording.",
+        "q": "Do you make or sell the decor yourselves?"
+      }
+    ],
+    "image": "/images/blog/how-islamic-home-decor-brands-win-more-orders.jpg",
+    "imageAlt": "A large framed Arabic calligraphy wall art above a wooden console table with brass lanterns, a small plant and a rolled patterned prayer rug leaning nearby in a bright modern living room",
+    "imageCaption": "The decision is made on the wall, not on a listing. A shopper who can see the calligraphy art above a real console table, the lanterns lit beside it, stops comparing shops.",
+    "related": [
+      {
+        "slug": "how-halal-beauty-brands-get-more-sales",
+        "title": "How Halal Beauty Brands Get More Sales"
+      },
+      {
+        "slug": "how-halal-meal-prep-brands-win-weekly-subscribers",
+        "title": "How Halal Meal-Prep Brands Win Weekly Subscribers"
+      }
+    ],
+    "sections": [
+      {
+        "bullets": [
+          "'Islamic wall art' — the search of a shopper who has already decided the art must be Islamic, and will leave a listing that shows a generic print with no calligraphy and no story",
+          "'Ramadan decor' — the search of a shopper preparing her home for the month, who wants a set, not a single item, and will buy from the shop that shows the whole set styled together",
+          "'Islamic home decor' — the search of a shopper furnishing a new home, who wants to see how the pieces look in a real room before she trusts a brand with her living room",
+          "'Ramadan decor set' — the search of a shopper who knows exactly what she wants, and will order from the first shop that shows the set, the box and the price together",
+          "'Islamic gift set' and 'nikah gift' — the searches of a buyer choosing a gift for someone else, who needs a gift guide, not a catalogue, and will not assemble a gift from ten separate listings"
+        ],
+        "heading": "Why the first search wins the order",
+        "paragraphs": [
+          "Picture a woman in London on a December evening. Her new flat is nearly ready, Ramadan is eight weeks away, and tonight she finally looks for decor. She picks up her phone and searches for Ramadan decor. She opens the first shop on the list. One flat photo of a lantern, no set, no styling, no gift box. She opens the second. A lovely Instagram, but the link leads to an Etsy shop with no gift guide and no way to see how the pieces look together. The third shop answers her real question in one page: a Ramadan decor set — the lantern, the crescent lights, the calligraphy art — styled on a real mantel, with a gift box option and a clear price. She orders the set. By the time the first two shops reply to her message, the order is already placed. The brand with the better lantern never knew she existed, because she could not be found, could not be trusted from what she found, or could not see the product the way it would look in her home.",
+          "We see this pattern across every e-commerce service we audit, and it is rarely about the product. The invisible brand usually assumes the problem is that shoppers are too few, or too price-sensitive, or too hard to reach. They are none of those things. They are a proven, growing market: the Islamic holiday decoration market is projected at about $3.7 billion by 2026, with Ramadan alone driving about 53 percent of consumption spikes, and UK Muslims spend more than £200 million a year on Ramadan preparations, home decoration and lighting included. The problem is upstream: the brands that make beautiful Islamic decor are invisible in the one place shoppers look, and the ones that are visible do not answer the shopper's real question. A shopper who has just decided to decorate does not wait two days for a reply. She opens three or four shops in one evening, and the one that shows her the set, styled, with a price, gets the order.",
+          "The numbers behind the slow reply are stark. A decor order is about $30 to $80 on average, and a gift bundle about $50 to $150 — which means fifteen to twenty-five extra orders a month cover a whole year of a marketing retainer. That is why our funnel starts with the search, not the advert: every shopper who searches finds a page that answers her question, shows the product styled in a real room, and lets her buy the set in one tap, because on an evening when she has opened four shops at once, the one that shows her the set first gets the order. And the demand is not theoretical: Amazon Trends data shows 'Ramadan Decorations 2026' rising from an average sales count of 8 in October 2025 to 268 in March 2026, and Google Trends shows 'Ramadan decor' searches rising from December and peaking in late January. The field is open, in every city where shoppers are searching."
+        ]
+      },
+      {
+        "heading": "The short answer first",
+        "paragraphs": [
+          "Shoppers do not buy Islamic decor the way they buy phone chargers. The first question is never price — it is whether the piece will look right in her home, whether the gift will feel right when it is opened, and whether the brand understands what the decor means. The funnel we build for Islamic home decor brands fixes all three at once: search and local pages that put you first when a shopper searches, product and collection pages written around the room and the occasion, gift-guide pages that answer 'what should I give?', and a retention flow that brings the shopper back before the season ends. That is the whole idea behind the service we run for decor brands: an [Islamic Home Decor Sales Funnel](/services/islamic-home-decor-sales-funnel) that builds the search presence, the gift-guide and bundle pages, the abandoned-cart flow and the styling videos for you, for $399 to $699 a month after a $1,000 to $2,000 build, starting with a free audit of your visibility today and a free 30-second styling Reel of your hero product. Everything in this guide explains how that funnel works, what shoppers actually look for, and what it can and cannot promise — so you can judge whether it fits your brand before spending anything.",
+          "The stakes are easy to see. Decor is the most visual product a Muslim brand sells: the calligraphy on the wall, the lantern lit at dusk, the prayer rug folded on a chair — a shopper is not comparing specifications, she is picturing her own home. A brand that shows her that picture plainly, in a real room, with a clear price and a gift box option, wins the order. A brand with a better lantern but a flat photo and a silent inbox never gets the chance to ship it. That is the gap this funnel closes — and the timing matters, because Ramadan 2027 begins around 8 February 2027, decor searches start rising in December, and the brands that set up their funnel now are the ones that catch the wave.",
+          "Two boundaries, stated before anything else. We do not make decor and we do not sell decor — never. We build the funnel that brings you qualified orders, and the products, the prices and every claim about them stay entirely with you. Your products, your photos and your prices are yours alone, and we never show another brand's products as if they were yours. And we never guarantee sales, because an order depends on your products, your prices and the shopper. What we promise is the work itself, reported in plain monthly numbers, so you can judge us on your own orders."
+        ]
+      },
+      {
+        "heading": "What shoppers actually ask before they buy",
+        "paragraphs": [
+          "A shopper buying Islamic decor is making a taste decision and a trust decision at the same time. The piece will sit on her wall or in her sister's new home — so she is asking whether it will look right, whether it is good quality, whether the gift will feel generous when it is opened, and whether the brand behind it understands what the decor means. A brand that answers those questions before the checkout is already halfway to the order. A brand that says nothing about them is asking the most careful customers in the market to buy blind.",
+          "The questions are specific, and they are rarely asked out loud — which is why they need to be answered on the page. How does the lantern look when it is lit? Does the calligraphy art suit a modern living room, or only a traditional one? What is in the gift set, and does it come in a gift box? Can I buy the whole Ramadan set together, or do I have to add each piece separately? Is the prayer rug soft, and what size is it? And above all, if this is a gift — for a nikah, a housewarming, an Eid — will it arrive looking like a gift, or like a parcel? These are the details a generic agency cannot write credibly, because it does not know which things a careful shopper checks first — and the brands themselves are makers and founders, not marketers.",
+          "This is where a small Islamic decor brand should win easily, and where most brands say almost nothing. Your daily working knowledge — the way the lantern glows at dusk, the way the calligraphy sits above a sofa, the care you take with the gift box — is exactly what a shopper is searching for. Our work is to put that knowledge on the page in your own words, checked by you before anything goes live, so the shopper who lands on your listing can see the pieces in a real room, not just a product code. Trust is decided before the first order: on the page, on the phone, and on the search result the shopper checked first."
+        ]
+      },
+      {
+        "heading": "A $3.7 billion market with a calendar you can set your watch by",
+        "paragraphs": [
+          "The decor wave is not a prediction. It is already here, and it runs on a calendar. The Islamic holiday decoration market is projected at about $3.7 billion by 2026, with Ramadan alone driving about 53 percent of consumption spikes. UK Muslims spend more than £200 million a year on Ramadan preparations, home decoration and lighting included. Muslim consumer spending overall was $2.43 trillion in 2023 and is forecast to reach $3.36 trillion by 2028 — and decor is part of that same wallet, the part that shows up in the home every guest sees.",
+          "The demand is measurable in real numbers, not in hope. Amazon Trends data shows 'Ramadan Decorations 2026' rising from an average sales count of 8 in October 2025 to 268 in March 2026, with retail sales volume up about 97 percent month on month in September. Google Trends shows 'Ramadan decor' searches starting to rise in December 2025 and peaking in late January 2026, while 'Islamic wall art' search interest reached its peak in February 2026. E-commerce uplift during Ramadan in the UK is about 51 percent, and global Ramadan retail spending is over $66 billion. Read plainly, that means the wave has a shape: it starts in December, peaks in January, and the brands that are ready in December take the orders.",
+          "The calendar sharpens it further. Ramadan 2027 begins around 8 February 2027, so the search wave starts rising in December 2026 — weeks from now — and the brands planning their Ramadan collections in November are the ones that catch it. Then the year keeps giving: Eid al-Adha and the nikah and housewarming seasons are a second and third peak, so this is not a one-month business. The pattern is familiar from every niche we have worked in: the shoppers arrive first, the brands arrive second, and the funnel arrives last — which is exactly when a small brand can still win a category before the big money arrives. Generic home-decor agencies exist, but they chase big furniture and home brands, and they have no Islamic-styling sense — no calligraphy placement, no prayer-room styling, no modest home aesthetic. They cannot write your copy. That is the gap, and it stays open in every city where shoppers are searching for Islamic decor right now."
+        ]
+      },
+      {
+        "heading": "The gift-guide funnel, step by step",
+        "paragraphs": [
+          "The decision to order is almost never made on a catalogue page. It is made after the shopper has seen the search result, read the page, and pictured the piece in her own home — and after somebody in the family has asked whether it suits the room, somebody has asked what the set costs together, and somebody has asked whether it comes in a gift box. That is the moment the [Islamic Home Decor Sales Funnel](/services/islamic-home-decor-sales-funnel) is built for, and it is the moment most decor shops completely ignore.",
+          "So the funnel starts with the search in mind and works backwards from the delivered order. The pages are written in plain language, not agency language — short sentences, clear headings, no jargon without an explanation beside it. The details sit on the page, not behind a form: a shopper can read what is in the gift set, see it styled in a real room, see the price for the whole set, and buy it in one tap, without giving a name or a card first, because trust is earned before it is asked for. And the cart is not the end of the story: the shopper who leaves gets a reminder on email or WhatsApp, the Ramadan countdown campaign brings her back before the season ends, and the gift buyer who ordered once gets the Eid collection when it launches. A shopper who finds her exact questions answered does not keep searching. She orders one set, it arrives beautifully boxed, and she comes back for Eid.",
+          "Notice what this list is: your daily working knowledge, the things you explain at every first enquiry without thinking. A generic agency cannot write it, because it does not know which details a careful shopper checks first. And a brand that hides its gift sets until the shopper is already on the phone is asking the most careful customers in the market to buy blind. Say it plainly on your pages. The evening reader is not shopping for the cheapest lantern. She is shopping for the piece that will make her home feel like home."
+        ]
+      },
+      {
+        "heading": "Videos where the styling is the selling",
+        "paragraphs": [
+          "A shopper who has never seen your lantern lit will trust a thirty-second styling video before she trusts a listing. That is why short videos are part of the funnel: a styling demo showing how one piece looks in a real room, an unboxing of the gift set, a gift-set reveal before Eid. Two minutes of real styling tells a shopper more than a whole page of promises. And it costs the brand nothing but its own products — we style with your pieces, in a room we set up, and the products are the stars.",
+          "The formats are simple and they repeat because they work. The styling demo: the calligraphy art on the wall, the lantern lit beside it, the rug in place — 'this is how it looks in a real home'. The unboxing: the gift box opened on a table, the tissue paper, the lantern and the art inside — the moment that gets filmed and shared, because a beautiful unboxing is itself a review. The gift-set reveal: the whole Ramadan set laid out together, so the shopper sees the set, not the singles. And the launch: every new collection, every new piece, every new gift set gets its own short video, so each launch is also an order drive. That is the other half of the arithmetic: every new collection is repeat work for the funnel, because each launch needs its own gift-guide page and its own videos.",
+          "One rule governs all of it, and it is the same rule that governs the pages: the brand's own products, always. We never show another brand's decor as if it were yours, never invent a claim about your products, and never film inside a customer's home — the room is a set we style, and nobody's private space is ever on camera. The videos are shot with your products, your packaging and your gift boxes, so that everything a viewer sees is something you can stand behind. A funnel built on borrowed pictures collapses the first time a customer opens the box; a funnel built on your own products only gets stronger as more shoppers share the unboxing."
+        ]
+      },
+      {
+        "heading": "What to look for in a funnel partner — and the mistakes to avoid",
+        "paragraphs": [
+          "The first thing to check is the boundary. A funnel partner for an Islamic decor brand must be able to say, in writing, what it will never do: never make or sell decor, never show another brand's products as if they were yours, never film inside a customer's home, and never write a claim about your products that you have not approved. If an agency cannot say that plainly, it does not understand the niche, and it will eventually write something your customers would not recognise. Ask to see the boundary before you see the price.",
+          "The second thing is the proof. Ask how the agency knows the market: can it name the live numbers, the search terms shoppers actually use, the season that drives the sales? We can — the $3.7 billion market, the 53 percent Ramadan spike, the Amazon sales count rising from 8 to 268, the December search wave, the 51 percent Ramadan e-commerce uplift in the UK, the gift bundles at $50 to $150. An agency that cannot name the market is guessing, and a guess is an expensive way to learn a niche. The third thing is the reporting: does the partner report in plain monthly numbers — orders, average order value, where they came from — so you can judge them on your own order count? Any agency that guarantees sales is selling certainty that does not exist, and you should walk away.",
+          "The mistakes to avoid are the ones we see most often. The first is the generic home-decor agency: it knows furniture, but it cannot write the Islamic-styling story, so it writes a pretty page that never mentions Ramadan, calligraphy or gifting — and the shoppers who care most leave first. The second is the paid-ads-first agency: it buys clicks before the gift-guide page exists, so the money lands on a listing with nothing to buy as a set. The third is the brand that builds the funnel but forgets the gift is the product: it sells lanterns one at a time and wonders why nobody buys the set. And the fourth is the quietest and the most expensive — a brand with beautiful decor that simply never answers the shopper's question where shoppers can see it, and loses every search to a listing that does.",
+          "Our [Islamic Home Decor Sales Funnel](/services/islamic-home-decor-sales-funnel) is $399 to $699 a month depending on the products and markets you serve, with a one-time build of $1,000 to $2,000, starting with a free decor visibility audit and a free 30-second styling Reel so you see what shoppers find today — and what our work looks like — before committing. For scale: one gift bundle is worth $50 to $150, so fifteen to twenty-five extra orders a month cover a whole year of the retainer, and unlike an advert, the search presence, the pages and the videos you build keep working after the month ends. And the timing is a window, not a hope: Ramadan 2027 begins around 8 February 2027, the search wave starts rising in December, and the brands that set up their funnel and content now are the ones that catch it. The same discipline applies the moment a message arrives, which is why an [instant lead response](/services/instant-lead-response) system matters, and the same funnel thinking works for any e-commerce brand — it is the same discipline behind our [halal beauty sales funnel](/services/halal-beauty-sales-funnel) for halal beauty brands. If this fits your brand, the audit is free, the demo Reel is free, and the first step is a message."
+        ]
+      }
+    ],
+    "service": "islamic-home-decor-sales-funnel",
+    "slug": "how-islamic-home-decor-brands-win-more-orders",
+    "title": "How Islamic Home Decor Brands Win More Orders"
   }
 ];
 

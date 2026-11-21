@@ -102,6 +102,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/halal-pet-food-subscription-funnel`, lastModified: "2026-11-19", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-halal-pet-food-brands-win-subscribers`, lastModified: "2026-11-19", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/homeschool-enrollment-funnel`, lastModified: "2026-11-20", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-homeschool-providers-win-enrollments`, lastModified: "2026-11-20", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-homeschool-providers-win-enrollments`, lastModified: "2026-11-20", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/islamic-home-decor-sales-funnel`, lastModified: "2026-11-21", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-islamic-home-decor-brands-win-more-orders`, lastModified: "2026-11-21", changeFrequency: "weekly", priority: 0.8 }
   ];
 }

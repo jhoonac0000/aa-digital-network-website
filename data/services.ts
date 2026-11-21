@@ -3526,6 +3526,92 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you enrollment funnel for Muslim homeschool curriculum providers and online Islamic homeschool programs — SEO, grade-wise landing pages, free trial-class booking and sample-lesson videos that turn parent searches into enrolled families.",
     "slug": "homeschool-enrollment-funnel"
+  },
+  {
+    "audiences": [
+      "Small Islamic home decor e-commerce brands in the US, UK and Canada — Shopify and Etsy sellers of calligraphy wall art, lanterns, Ramadan and Eid decor sets, prayer rugs and Islamic gift sets — whose sales still come from an Etsy listing and a founder-run Instagram",
+      "Founder-run decor brands that make beautiful products but have no gift-guide pages, no bundle pages and no retention flow, so every sale depends on a customer who already knows their name",
+      "Brands launching a Ramadan collection for 2027 that need their funnel live before December, when 'Ramadan decor' searches start rising, not in February when the wave is already passing",
+      "Gift-focused decor brands selling nikah, housewarming and Eid gifts, where the buyer is not decorating her own home but choosing a gift for someone else — and needs a gift guide, not a catalogue"
+    ],
+    "deliverables": [
+      "Search and local SEO, so 'Islamic wall art', 'Ramadan decor' and 'Islamic home decor' find your brand first in your city and country, with your gift sets and your Ramadan collection shown plainly",
+      "Product and collection landing pages written around the way customers actually shop — by room, by occasion and by gift — with your own products, your own prices and your own photos only",
+      "Gift-guide pages — 'Nikah gift', 'Housewarming gift', 'Ramadan decor set' — that answer the buyer's real question, which is what to give, not what to browse",
+      "Bundle and gift-set pages that lift the average order, so a $30 wall art sale becomes a $50 to $150 gift set instead",
+      "An abandoned-cart and email and WhatsApp retention flow, plus Ramadan and Eid countdown campaigns, so the shopper who left comes back before the season ends",
+      "Twelve product Shorts and Reels a month — styling demos showing how a piece looks in a real room, unboxings and gift-set reveals — made with your products and your approved wording",
+      "A free decor visibility audit first, plus a free 30-second styling Reel of your hero product, so you see the quality before spending anything",
+      "A short monthly report: orders, average order value, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "An open Islamic gift box on a wooden table with a framed Arabic calligraphy art print, a brass lantern and a folded patterned prayer rug beside it, crescent moon fairy lights glowing around them",
+        "caption": "The gift set is the product that sells the season: a buyer choosing a nikah or housewarming gift does not want a catalogue — she wants one beautiful box she can trust.",
+        "src": "/images/services/islamic-home-decor-sales-funnel-gift-guide.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "A wooden mantel and shelf styled for Ramadan at dusk, with glowing crescent moon and star fairy lights, brass lanterns with candles, a framed Arabic calligraphy print and a bowl of dates",
+        "caption": "Styling is the selling in decor. A shopper who can see the lantern lit on a mantel at dusk can already picture it in her own home — and that picture is what closes the order.",
+        "src": "/images/services/islamic-home-decor-sales-funnel-ramadan-styling.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not make decor and we do not sell decor. We build the funnel that brings you qualified orders and traffic from shoppers searching for Islamic home decor. The products, the prices, the photos and every claim about them stay entirely with you and your brand.",
+        "q": "Do you make or sell the decor yourselves?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. An order depends on your products, your prices and the shopper — things no agency controls. What we promise is the work that earns orders: pages shoppers trust, gift guides that answer the real question, a cart flow that follows up, and styling videos that show the product in a real room. Fifteen to twenty-five extra orders a month cover a whole year of the retainer.",
+        "q": "Do you guarantee sales?"
+      },
+      {
+        "a": "Yes — most Islamic decor brands are small, often founder-run Etsy or Shopify shops, and that is exactly who this funnel is built for. The gift-guide pages, the bundle pages and the twelve Shorts a month all work whether you sell five products or fifty. A small brand that answers 'what should I gift?' beats a big homeware store that never mentions Ramadan at all.",
+        "q": "We are a tiny Etsy shop — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a shopper finds when she searches for Islamic wall art or Ramadan decor in your market today, how your brand compares with the brands Google, Amazon and Etsy show instead of you, and how many orders you are likely losing. We also make a free 30-second styling Reel of your hero product, so you can judge the quality before deciding.",
+        "q": "What is the decor visibility audit, and what does it cost?"
+      },
+      {
+        "a": "Never. Our styling videos are shot with your products in a styled room we set up — no customer home, no customer family, no private space ever filmed. Your products are the stars; the room is a set, and nobody's home is ever on camera.",
+        "q": "Will you film inside customers' homes?"
+      }
+    ],
+    "image": "/images/services/islamic-home-decor-sales-funnel-hero.jpg",
+    "imageAlt": "Bright elegant living room styled with Islamic home decor, a large framed Arabic calligraphy wall art above a sofa, glowing brass lanterns and a patterned prayer rug draped over an armchair",
+    "imageCaption": "The sale is won in the room, not on a listing: a shopper who can see the calligraphy art on a real wall, the lantern lit, the rug in place, stops comparing shops.",
+    "isNew": true,
+    "name": "Islamic Home Decor Sales Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly sales retainer. Start with the free decor visibility audit and a free 30-second styling Reel of your hero product, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is a December evening in London and a woman is looking for Ramadan decor for her new flat. She searches 'Ramadan decor' on her phone and opens four shops in one evening. Three of them have the same thin presence: an Etsy listing with one flat photo, no gift guide, no bundle, no way to see how the lantern looks lit in a real room, and no reminder when she leaves the cart. One shop answers her real question — a 'Ramadan decor set' page that shows the lantern, the lights and the calligraphy art styled together, with a gift box option and a clear price. She orders the set. The other three never knew she existed, because she could not find them, could not trust what she found, or could not see the product the way it would look in her home.",
+      "The arithmetic makes the invisibility expensive. A decor order is about $30 to $80 on average, and a gift bundle about $50 to $150 — which means fifteen to twenty-five extra orders a month cover a whole year of a marketing retainer. The market itself is large and still growing: the Islamic holiday decoration market is projected at about $3.7 billion by 2026, with Ramadan alone driving about 53 percent of consumption spikes, and UK Muslims spend more than £200 million a year on Ramadan preparations, home decoration and lighting included. The demand is already searching: Amazon Trends data shows 'Ramadan Decorations 2026' rising from an average sales count of 8 in October 2025 to 268 in March 2026, Google Trends shows 'Ramadan decor' searches rising from December and peaking in late January, and 'Islamic wall art' search interest reached its peak in February 2026. Yet almost none of these small brands has a sales funnel bringing them orders — they sell through a founder's Instagram and an Etsy listing, while generic homeware stores take the searches. The demand is already searching; the funnel is what is missing."
+    ],
+    "process": [
+      {
+        "text": "We search the way a shopper searches — 'Islamic wall art', 'Ramadan decor', 'Islamic home decor' plus your city — and report what they find: your brand, your pages, your gift sets, and the brands Google, Amazon and Etsy show instead of you. We also show you what the missing gift guide is costing you, in plain numbers, and we make you a free 30-second styling Reel of your hero product so you can judge our work before deciding anything.",
+        "title": "Decor visibility audit"
+      },
+      {
+        "text": "Search and profile, the product and collection landing pages, the gift-guide and bundle pages, the abandoned-cart and retention flow, the Ramadan and Eid countdown campaigns and the twelve styling Shorts a month, built with your approved wording. We never make or sell decor, never set your prices, and never show another brand's products as if they were yours — your products and your prices, exactly as you state them.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Orders arrive organised, with follow-up handled for you. Each month's report shows what came in, the average order value, and where it came from, so you can judge the funnel on your own order count growing.",
+        "title": "Orders reach you, you ship the decor"
+      }
+    ],
+    "proof": "The market is the proof: an Islamic holiday decoration market of about $3.7 billion projected by 2026, with Ramadan driving about 53 percent of consumption spikes, and UK Muslims spending more than £200 million a year on Ramadan preparations. The demand is measurable in real numbers: Amazon Trends shows 'Ramadan Decorations 2026' rising from an average sales count of 8 in October 2025 to 268 in March 2026, with retail sales volume up about 97 percent month on month in September; Google Trends shows 'Ramadan decor' searches rising from December and peaking in late January 2026, and 'Islamic wall art' reaching peak search interest in February 2026; e-commerce uplift during Ramadan in the UK is about 51 percent, and global Ramadan retail spending is over $66 billion. Against a $399 to $699 monthly retainer, one gift bundle is worth $50 to $150, so fifteen to twenty-five extra orders a month cover a whole year of the funnel. And the timing is a window, not a hope: Ramadan 2027 begins around 8 February 2027, decor searches start rising in December, and the brands setting up their funnel now are the ones that catch the wave. We start with a free decor visibility audit and a free styling Reel, so you see exactly what a shopper finds today before deciding anything.",
+    "related": [
+      "halal-beauty-sales-funnel",
+      "halal-meal-prep-funnel"
+    ],
+    "short": "Done-for-you sales funnel for Islamic home decor brands — SEO, gift-guide and bundle pages, abandoned-cart and retention flows, Ramadan countdown campaigns and twelve styling Shorts a month that turn 'Ramadan decor' searches into orders.",
+    "slug": "islamic-home-decor-sales-funnel"
   }
 ];
 

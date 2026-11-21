@@ -288,6 +288,12 @@ export default function BlogPage() {
             <p>Muslim parents compare 3–4 homeschool programs in a week — yet most Islamic providers have no funnel. Here is the one that turns trials into enrollments.</p>
             <p className="small"><Link href="/services/homeschool-enrollment-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-islamic-home-decor-brands-win-more-orders">
+            <img className="card-img" src="/images/blog/how-islamic-home-decor-brands-win-more-orders.jpg" alt="A large framed Arabic calligraphy wall art above a wooden console table with brass lanterns, a small plant and a rolled patterned prayer rug leaning nearby in a bright modern living room" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-islamic-home-decor-brands-win-more-orders">How Islamic Home Decor Brands Win More Orders</Link></h3>
+            <p>Shoppers search 'Ramadan decor' from December — yet most Islamic decor brands have no funnel. Here is the one that turns searches into orders.</p>
+            <p className="small"><Link href="/services/islamic-home-decor-sales-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>
