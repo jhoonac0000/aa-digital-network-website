@@ -294,6 +294,12 @@ export default function BlogPage() {
             <p>Shoppers search 'Ramadan decor' from December — yet most Islamic decor brands have no funnel. Here is the one that turns searches into orders.</p>
             <p className="small"><Link href="/services/islamic-home-decor-sales-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-halal-perfume-brands-win-more-orders">
+            <img className="card-img" src="/images/blog/how-halal-perfume-brands-win-more-orders.jpg" alt="Four amber glass halal perfume bottles with gold caps on a vanity table with oud wood pieces, dried rose petals on a brass tray and warm morning light through a window" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-perfume-brands-win-more-orders">How Halal Perfume Brands Win More Orders</Link></h3>
+            <p>Shoppers search 'halal perfume' and 'alcohol-free attar' daily — yet most fragrance brands have no funnel. Here is the one that turns searches into orders.</p>
+            <p className="small"><Link href="/services/halal-fragrance-sales-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>

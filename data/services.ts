@@ -3612,6 +3612,93 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you sales funnel for Islamic home decor brands — SEO, gift-guide and bundle pages, abandoned-cart and retention flows, Ramadan countdown campaigns and twelve styling Shorts a month that turn 'Ramadan decor' searches into orders.",
     "slug": "islamic-home-decor-sales-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Small Muslim-owned halal perfume and attar brands in the US, UK and Canada — Shopify and Etsy sellers of alcohol-free attar oils, oud, musk and discovery sets — whose sales still come from an Etsy listing and a founder-run Instagram",
+      "Founder-run fragrance brands that make beautiful scents but have no discovery-set funnel, no gift pages and no retention flow, so every sale depends on a customer who already knows their name",
+      "Brands launching a new scent or collection for the November–December gifting peak and Ramadan 2027 that need their funnel live before December, when 'halal perfume' searches surge, not in February when the wave is already passing",
+      "Gift-focused fragrance brands selling oud, musk and attar gift sets for Eid, nikah and housewarming, where the buyer is choosing a gift for someone else — and needs a gift guide and a discovery set, not a catalogue"
+    ],
+    "deliverables": [
+      "Search and local SEO, so 'halal perfume', 'alcohol-free attar' and 'oud perfume' find your brand first in your city and country, with your discovery sets and your Ramadan collection shown plainly",
+      "Product and collection landing pages written around the way customers actually shop — by scent family, by occasion and by gift — with your own scents, your own prices and your own photos only",
+      "Discovery-set funnel pages — sample vial sets that let a shopper try the scent before committing to a full bottle, with the 25–40% full-size conversion path built in",
+      "Gift-guide pages — 'Eid gift', 'Nikah gift', 'Oud gift set' — that answer the buyer's real question, which is what to give, not what to browse",
+      "Bundle and gift-set pages that lift the average order, so a $30 bottle sale becomes a $50 to $150 gift set instead",
+      "An abandoned-cart and email and WhatsApp retention flow, plus Ramadan and Eid gifting campaigns and refill reminders, so the shopper who left comes back before the season ends",
+      "Twelve scent-story Shorts and Reels a month — layering demos, unboxings and gifting moments — made with your scents and your approved wording",
+      "A free fragrance visibility audit first, plus a free 30-second scent-story Reel of your hero scent, so you see the quality before spending anything",
+      "A short monthly report: orders, average order value, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "An open kraft gift box on a light wooden table holding six small glass sample vials of attar perfume oil in amber, rose and golden tones, with a folded scent card beside the box",
+        "caption": "The discovery set is the answer to fragrance's hardest problem: nobody can smell a scent through a screen. A sample set lets the shopper try before she commits — and a quarter to two-fifths of them come back for the full bottle.",
+        "src": "/images/services/halal-fragrance-sales-funnel-discovery-set.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Hands in modest long sleeves holding a small glass attar perfume bottle up to soft window light, with a wooden tray of oud wood chips and a brass incense burner below",
+        "caption": "Fragrance is the most emotional product a Muslim brand sells. A thirty-second scent-story video — the bottle held to the light, the oud on the tray — tells a shopper more than a whole page of notes.",
+        "src": "/images/services/halal-fragrance-sales-funnel-scent-story.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not make perfume and we do not sell perfume. We build the funnel that brings you qualified orders and traffic from shoppers searching for halal perfume and alcohol-free attar. The scents, the prices, the photos and every claim about them stay entirely with you and your brand.",
+        "q": "Do you make or sell the perfume yourselves?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. An order depends on your scents, your prices and the shopper — things no agency controls. What we promise is the work that earns orders: pages shoppers trust, discovery sets that answer the real problem, a cart flow that follows up, and scent-story videos that show the fragrance in a real moment. Fifteen to twenty-five extra orders a month cover a whole year of the retainer.",
+        "q": "Do you guarantee sales?"
+      },
+      {
+        "a": "Yes — most halal perfume brands are small, often founder-run Etsy or Shopify shops, and that is exactly who this funnel is built for. The discovery-set pages, the gift guides and the twelve Shorts a month all work whether you sell five scents or fifty. A small brand that answers 'can I try it first?' beats a big beauty store that never mentions alcohol-free at all.",
+        "q": "We are a tiny Etsy shop — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a shopper finds when she searches for halal perfume or alcohol-free attar in your market today, how your brand compares with the brands Google, Amazon and Etsy show instead of you, and how many orders you are likely losing. We also make a free 30-second scent-story Reel of your hero scent, so you can judge the quality before deciding.",
+        "q": "What is the fragrance visibility audit, and what does it cost?"
+      },
+      {
+        "a": "Never. We only ever present your brand's own original scents, in your own words. No 'designer dupe' or counterfeit positioning, ever — that is a boundary written into the funnel, because a brand built on someone else's name collapses the first time a customer compares the two.",
+        "q": "Will you copy designer scents or call our attar a dupe of a famous perfume?"
+      }
+    ],
+    "image": "/images/services/halal-fragrance-sales-funnel-hero.jpg",
+    "imageAlt": "Amber glass attar perfume oil bottles with gold caps arranged on a warm wooden table beside dark oud wood, dried rose petals and a small brass incense burner with a thin wisp of smoke",
+    "imageCaption": "The sale is won before the first spray: a shopper who can see the oud, the amber oil and the brass burner already believes the scent — and that belief is what closes the order.",
+    "isNew": true,
+    "name": "Halal Fragrance Sales Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly sales retainer. Start with the free fragrance visibility audit and a free 30-second scent-story Reel of your hero scent, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is a November evening in Dearborn and a woman is looking for a gift for her sister's nikah. She searches 'halal perfume gift set' on her phone and opens four shops in one evening. Three of them have the same thin presence: an Etsy listing with one flat photo, no discovery set, no gift guide, no way to know what the scent smells like, and no reminder when she leaves the cart. One shop answers her real question — a discovery set page that lets her try six scents for $15 to $25, with a gift box option and a clear price, and a thirty-second scent-story video showing the oud and the amber oil in the light. She orders the set. The other three never knew she existed, because she could not find them, could not trust what she found, or could not try the scent before committing to a full bottle.",
+      "The arithmetic makes the invisibility expensive. A fragrance bottle is about $30 to $80, and a discovery set about $15 to $25 — which means fifteen to twenty-five extra orders a month cover a whole year of a marketing retainer, and discovery sets convert 25 to 40 percent of triers into full-size buyers. The market itself is surging: 'Arabian perfume' interest is up about 63 percent year on year and 'oud perfume' about 20.5 percent, Lattafa went from near-invisible in the US to more than $100 million in Amazon sales in twelve months, and Al Rehab's Choco Musk roll-on sells about 8,000 units a month on Amazon US. Yet almost none of these small halal brands has a sales funnel bringing them orders — they sell through a founder's Instagram and an Etsy listing, while generic beauty agencies chase designer brands and cannot write the alcohol-free, prayer-safe story. The demand is already searching; the funnel is what is missing."
+    ],
+    "process": [
+      {
+        "text": "We search the way a shopper searches — 'halal perfume', 'alcohol-free attar', 'oud perfume' plus your city — and report what they find: your brand, your pages, your discovery sets, and the brands Google, Amazon and Etsy show instead of you. We also show you what the missing discovery set is costing you, in plain numbers, and we make you a free 30-second scent-story Reel of your hero scent so you can judge our work before deciding anything.",
+        "title": "Fragrance visibility audit"
+      },
+      {
+        "text": "Search and local pages, the product and collection landing pages, the discovery-set and gift-guide pages, the abandoned-cart and retention flow, the Ramadan and Eid gifting campaigns and the twelve scent-story Shorts a month, built with your approved wording. We never make or sell perfume, never set your prices, never call your scents a dupe of a designer perfume, and never show another brand's products as if they were yours — your scents and your prices, exactly as you state them.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Orders arrive organised, with follow-up handled for you. Each month's report shows what came in, the average order value, and where it came from, so you can judge the funnel on your own order count growing.",
+        "title": "Orders reach you, you ship the scent"
+      }
+    ],
+    "proof": "The market is the proof: the attar and perfume oils market is about $764.7 million in 2026 and forecast to reach about $1,449 million by 2036, and the Middle East fragrances market is about $4.8 billion in 2026 growing toward $10.17 billion by 2035. The demand is measurable in real numbers: 'Arabian perfume' interest is up about 63 percent year on year and 'oud perfume' about 20.5 percent; Lattafa reached more than $100 million in Amazon US sales in twelve months with Spate popularity up about 105 percent year on year, about 89 percent of it from TikTok; Al Rehab's Choco Musk roll-on sells about 8,000 units a month on Amazon US, with 50 percent month-on-month growth in July 2026; and halal cosmetics overall are about $60 billion heading past $85 billion by 2030, with Indonesia making halal certification mandatory for cosmetics from October 2026. Against a $399 to $699 monthly retainer, one gift set is worth $50 to $150, so fifteen to twenty-five extra orders a month cover a whole year of the funnel. And the timing is a window, not a hope: November to December is the peak perfume gifting season, then Ramadan 2027 begins around 8 February 2027, and the brands setting up their funnel now are the ones that catch both waves. We start with a free fragrance visibility audit and a free scent-story Reel, so you see exactly what a shopper finds today before deciding anything.",
+    "related": [
+      "halal-beauty-sales-funnel",
+      "islamic-home-decor-sales-funnel"
+    ],
+    "short": "Done-for-you sales funnel for halal perfume and attar brands — SEO, discovery-set and gift pages, abandoned-cart and retention flows, Ramadan and Eid gifting campaigns and twelve scent-story Shorts a month that turn 'halal perfume' searches into orders.",
+    "slug": "halal-fragrance-sales-funnel"
   }
 ];
 
