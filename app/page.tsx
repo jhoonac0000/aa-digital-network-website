@@ -123,10 +123,13 @@ export default function Home() {
         <div className="wrap">
           <h2>Free tools we built</h2>
           <p>
-            Our tools are proof of skill you can try before you hire us — starting with the four
-            Islamic tools on Noor, with general business tools on the way.
+            Our tools are proof of skill you can try before you hire us. Start with our free
+            Website SEO &amp; GEO Checker — paste your address and get a score out of 100 with a
+            plain-English fix list — or try the four Islamic tools on Noor.
           </p>
           <p>
+            <Link href="/free-website-check">Run the free website check →</Link>
+            {" · "}
             <Link href="/tools">Browse free tools →</Link>
           </p>
         </div>

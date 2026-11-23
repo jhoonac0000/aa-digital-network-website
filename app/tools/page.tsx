@@ -10,6 +10,7 @@ export const metadata: Metadata = {
 import Link from "next/link";
 
 const TOOLS = [
+  { name: "Website SEO & GEO Checker", desc: "Paste your website address and get an instant score out of 100, with a plain-English list of what to fix — title, headings, alt text, structured data and more.", href: "/free-website-check", internal: true },
   { name: "Prayer Times", desc: "Daily prayer times with an embeddable widget for community sites.", href: "https://islamic-noor-wesbite.vercel.app/tools/prayer-times" },
   { name: "Qibla Compass", desc: "Find the Qibla direction from your location, in the browser.", href: "https://islamic-noor-wesbite.vercel.app/tools/qibla-compass" },
   { name: "Hijri Calendar", desc: "Islamic calendar dates alongside the Gregorian calendar.", href: "https://islamic-noor-wesbite.vercel.app/tools/hijri-calendar" },
@@ -22,14 +23,18 @@ export default function ToolsPage() {
       <h1>Free tools</h1>
       <p className="lead">
         Tools we built and use ourselves — free, no sign-up, and private by design.
-        The four Islamic tools below run on our showcase site Noor; general business tools
-        (PDF Toolkit, Resume Builder, Background Remover, YouTube Title Generator) are next.
+        Start with our Website SEO &amp; GEO Checker, built for business owners; the four
+        Islamic tools below run on our showcase site Noor.
       </p>
       <div className="grid">
         {TOOLS.map((t) => (
           <div className="card" key={t.name}>
             <h3>
-              <a href={t.href} target="_blank" rel="noopener noreferrer">{t.name}</a>
+              {"internal" in t && t.internal ? (
+                <Link href={t.href}>{t.name}</Link>
+              ) : (
+                <a href={t.href} target="_blank" rel="noopener noreferrer">{t.name}</a>
+              )}
             </h3>
             <p>{t.desc}</p>
           </div>

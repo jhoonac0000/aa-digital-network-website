@@ -12,6 +12,7 @@ export const NAV_LINKS = [
   { href: "/services", label: "Services" },
   { href: "/work", label: "Work" },
   { href: "/tools", label: "Tools" },
+  { href: "/free-website-check", label: "Free Check" },
   { href: "/books", label: "Books" },
   { href: "/blog", label: "Blog" },
   { href: "/about", label: "About" },

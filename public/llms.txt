@@ -59,6 +59,7 @@ Contact is via the contact page on the site.
 - [Services Index](https://aa-digital-network-website.pages.dev/services)
 - [Our Work](https://aa-digital-network-website.pages.dev/work)
 - [Tools](https://aa-digital-network-website.pages.dev/tools)
+- [Free Website SEO & GEO Check](https://aa-digital-network-website.pages.dev/free-website-check): Free instant checker — paste a website address to get a 0–100 score and a plain-English list of on-page SEO and GEO issues (title, meta description, headings, image alt text, Open Graph, structured data and more).
 - [Books](https://aa-digital-network-website.pages.dev/books)
 - [About](https://aa-digital-network-website.pages.dev/about)
 - [Contact](https://aa-digital-network-website.pages.dev/contact)
