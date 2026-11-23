@@ -300,6 +300,12 @@ export default function BlogPage() {
             <p>Shoppers search 'halal perfume' and 'alcohol-free attar' daily — yet most fragrance brands have no funnel. Here is the one that turns searches into orders.</p>
             <p className="small"><Link href="/services/halal-fragrance-sales-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-muslim-wedding-photographers-win-more-bookings">
+            <img className="card-img" src="/images/blog/how-muslim-wedding-photographers-win-more-bookings.jpg" alt="A female wedding photographer in a hijab holding a professional camera at an elegantly decorated nikah venue with white flowers, golden drapes and warm fairy lights" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-wedding-photographers-win-more-bookings">How Muslim Wedding Photographers Win More Bookings</Link></h3>
+            <p>Muslim families book the first photographer they can find and trust. Here is the funnel that makes it you — faith-aware, private, and built to win bookings.</p>
+            <p className="small"><Link href="/services/faith-aware-photography-booking-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>

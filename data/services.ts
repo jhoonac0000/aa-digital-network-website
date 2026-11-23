@@ -3699,6 +3699,93 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you sales funnel for halal perfume and attar brands — SEO, discovery-set and gift pages, abandoned-cart and retention flows, Ramadan and Eid gifting campaigns and twelve scent-story Shorts a month that turn 'halal perfume' searches into orders.",
     "slug": "halal-fragrance-sales-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Solo Muslim wedding photographers in the US, UK and Canada — nikah, mehndi, barat and walima coverage — whose bookings still come from Instagram and referrals, with no page that answers a family's first questions",
+      "Small female-led studios offering a female photographer for the ladies' side, segregated coverage and ladies-only sessions, whose strongest selling point is invisible on Google",
+      "Photographers who lose inquiries because they reply a day late — families talk to two or three photographers in the same week, and the first fast, clear reply wins the consult",
+      "Photographers covering multi-day weddings who need package pages that show the whole nikah-to-walima journey, your availability and a consult booking, not a single price list"
+    ],
+    "deliverables": [
+      "Local SEO and Google Business Profile optimisation, so 'Muslim wedding photographer near me', 'female wedding photographer near me' and 'nikah photographer' find you first in your city, with your real packages, dates and reviews shown plainly",
+      "Privacy-first landing pages — a female photographer for the ladies' side, segregated coverage, a private gallery, and discreet coverage during prayer and the signing — written in the family's own language of trust",
+      "Multi-day package pages for nikah, mehndi, barat and walima, with your own packages and your own prices only — never a generic price list",
+      "An availability and inquiry funnel with a fast response and a consult booking, so the family that finds you at 9pm is talking to you by the next morning, before they have booked your competitor",
+      "Portfolio-driven short videos — your photographer intro and a 'how your wedding coverage will work' explainer — made with client photos and video only with written consent",
+      "Follow-up for every inquiry that goes quiet, so a family that liked your work but got busy still comes back to book",
+      "Engagement-season campaign pages for November to February, when the year's proposals happen and the 2026–27 wedding dates are being booked",
+      "A free booking visibility audit first: what a Muslim family finds when they search for a photographer in your city today, and how many bookings you are likely losing",
+      "A short monthly report: inquiries, consults booked, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "A female photographer's hands in modest long sleeves holding a professional camera, an elegant wedding venue with warm lights blurred in the background",
+        "caption": "For many families the deciding question is simple: is there a female photographer for the ladies' side? A page that answers it plainly wins the inquiry before price is ever discussed.",
+        "src": "/images/services/faith-aware-photography-booking-funnel-female-photographer.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "A laptop showing a blurred private photo gallery with a lock icon and a professional camera beside it on a wooden desk in warm light",
+        "caption": "A wedding's photographs are a lifetime's trust. A private gallery — locked, shared only with the family — is the promise that turns a cautious inquiry into a booked date.",
+        "src": "/images/services/faith-aware-photography-booking-funnel-private-gallery.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not take photographs and we do not shoot weddings. We build the funnel that brings qualified booking inquiries to licensed photographers: the pages, the search visibility and the fast-reply inquiry flow. Your packages, your prices and your work stay entirely with you, and a client's photo or video appears anywhere — portfolio included — only with that client's written consent.",
+        "q": "Do you do the photography yourselves?"
+      },
+      {
+        "a": "No, and you should distrust any agency that does. A booking depends on your photography, your prices and your availability — things no agency controls. What we promise is the work that earns bookings: pages a family trusts, a fast reply to every inquiry, and a consult in the calendar. One booking at the $3,000 average fee covers a whole year of the retainer several times over.",
+        "q": "Do you guarantee bookings?"
+      },
+      {
+        "a": "Never without written consent — that is a boundary written into the funnel, not a preference. Galleries are private and shared only with the family, portfolio videos use only material a client has agreed in writing to share, and coverage stays discreet during prayer and the signing. Families book the photographer they trust with a lifetime of photographs, and protecting those photographs is how that trust is earned.",
+        "q": "How do you handle privacy — will our clients' wedding photos appear online?"
+      },
+      {
+        "a": "Yes — this funnel is built for solo photographers and small female-led studios, not big agencies. The local pages, the multi-day package pages and the fast-reply inquiry flow all work whether you shoot eight weddings a year or thirty. A solo photographer who answers a family's real questions — a female photographer, segregated coverage, a private gallery — beats a big studio that never mentions them.",
+        "q": "We are a solo photographer — can this still work?"
+      },
+      {
+        "a": "It is free. We search the way a Muslim family searches — 'Muslim wedding photographer near me', 'female wedding photographer near me' and 'nikah photographer' plus your city — and report what they find: your pages, your reviews, and the photographers Google shows instead of you. You also see how many bookings you are likely losing, so you decide with the facts in front of you.",
+        "q": "What is the booking visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/faith-aware-photography-booking-funnel-hero.jpg",
+    "imageAlt": "A female photographer in a hijab holding a professional camera at an elegantly decorated nikah venue with soft lights, draped fabric and floral arrangements",
+    "imageCaption": "The booking is won before the first photo: a family that sees a female photographer, a private gallery and segregated coverage already trusts you — and that trust is what closes the booking.",
+    "isNew": true,
+    "name": "Faith-Aware Photography Booking Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly booking retainer. Start with the free booking visibility audit, see what a Muslim family finds when they search for a photographer in your city today, and decide with the facts in front of you.",
+    "problem": [
+      "It is a November evening in Dearborn and a mother is planning her daughter's nikah. She searches 'Muslim wedding photographer near me' on her phone and opens three photographers in one evening. Two of them have the same thin presence: an Instagram grid, a phone number, and nothing that answers her real questions — is there a female photographer for the ladies' side, is segregated coverage possible, will the photographs stay private, and what does a nikah-to-walima package cost? She messages all three. One answers within the hour with a clear consult time. The other two answer the next day — or never. By the end of the week she has met the photographer who replied first, and booked the wedding there. The photographer with the better eye never knew she existed, because she could not find them, could not trust what she found, or could not get an answer without waiting days.",
+      "The arithmetic makes the invisibility expensive. American couples averaged $3,000 on a photographer in 2025 — a median of $2,800 and an upper quartile of $4,700, in The Knot's 2026 Real Weddings Study of 10,474 couples, with Zola putting the average at $4,400 — so a single booking covers a whole year of a marketing retainer several times over. The market itself is growing fast: global wedding photography is about $26.92 billion in 2026, forecast to reach about $52.04 billion by 2034 at 8.59 percent a year (Fortune Business Insights). The Muslim side of that demand is already live: Birmingham's Ikonic Media sells segregated and female-photographer coverage, with a five-hour package from £850; Karachi's Moon Light Studio has run for twenty years on its female photographer Kanood Khan, hijab-friendly and ladies-only; and WeddingWala has launched a segregated and female-staff wedding finder. Yet almost no Muslim photographer has a booking funnel — they market on Instagram and referrals while families search Google. And the timing is unforgiving: engagement season runs November to February, and the 2026–27 wedding dates are being booked right now."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim family searches — 'Muslim wedding photographer near me', 'female wedding photographer near me' and 'nikah photographer' plus your city — and report what they find: your pages, your reviews, your availability, and the photographers Google shows instead of you. We also show you, in plain numbers, how many bookings the missing pages and the slow replies are likely costing you. The audit is free, and you decide with the facts in front of you.",
+        "title": "Booking visibility audit"
+      },
+      {
+        "text": "Local search and Google Business Profile, the privacy-first landing pages, the multi-day nikah-to-walima package pages, the availability and inquiry funnel with fast replies and consult bookings, and the portfolio-driven short videos — built with your approved wording and your own packages and prices. We never do the photography, never set your prices, never show a client's photo or video without written consent, and never give religious rulings — your work and your faith-aware promises, exactly as you state them.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Bookings arrive organised, with follow-up handled for every inquiry that goes quiet. Each month's report shows what came in, how many consults were booked, and where the inquiries came from, so you can judge the funnel on your own booking calendar filling up.",
+        "title": "Inquiries reach you, you shoot the wedding"
+      }
+    ],
+    "proof": "The market is the proof: global wedding photography is about $26.92 billion in 2026, forecast to reach about $52.04 billion by 2034 at 8.59 percent a year (Fortune Business Insights), and American couples averaged $3,000 on a photographer in 2025 — median $2,800, upper quartile $4,700, across 10,474 couples in The Knot's 2026 Real Weddings Study, with Zola's average at $4,400. Against a $399 to $699 monthly retainer, one booking covers a whole year of the funnel several times over. The funnel itself is what separates the busy from the quiet: the industry average is 8 to 12 weddings a year, while the top quartile books 22 to 30, and a typical inquiry-to-booking rate of about 18 percent rises into the high 30s with a repositioned funnel (Advocate Studio) — 'same talent, very different visibility'. And the timing is a window, not a hope: engagement season runs November to February, the 2026–27 dates are booking now, and the photographers setting up their funnel now are the ones who catch this season. We start with a free booking visibility audit, so you see exactly what a Muslim family finds today before deciding anything.",
+    "related": [
+      "halal-wedding-booking",
+      "halal-venue-booking-funnel"
+    ],
+    "short": "Done-for-you booking funnel for Muslim wedding photographers — local SEO, privacy-first pages and a fast-reply inquiry flow that turn 'Muslim wedding photographer near me' searches into bookings.",
+    "slug": "faith-aware-photography-booking-funnel"
   }
 ];
 
