@@ -306,6 +306,12 @@ export default function BlogPage() {
             <p>Muslim families book the first photographer they can find and trust. Here is the funnel that makes it you — faith-aware, private, and built to win bookings.</p>
             <p className="small"><Link href="/services/faith-aware-photography-booking-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-halal-baby-food-brands-win-subscribers">
+            <img className="card-img" src="/images/blog/how-halal-baby-food-brands-win-subscribers.jpg" alt="Happy mother in a hijab holding up a halal baby food pouch in a bright modern kitchen, her baby in a high chair reaching for a small bowl, shelves of neatly labelled baby food pouches behind them" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-baby-food-brands-win-subscribers">How Halal Baby Food Brands Win Subscribers</Link></h3>
+            <p>Muslim mothers search 'halal baby food' — yet most halal baby food brands have no subscription funnel. Here is the one that turns searches into subscribers.</p>
+            <p className="small"><Link href="/services/halal-baby-food-subscription-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>

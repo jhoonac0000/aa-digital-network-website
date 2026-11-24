@@ -109,6 +109,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/halal-fragrance-sales-funnel`, lastModified: "2026-11-22", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-halal-perfume-brands-win-more-orders`, lastModified: "2026-11-22", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/faith-aware-photography-booking-funnel`, lastModified: "2026-11-23", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-wedding-photographers-win-more-bookings`, lastModified: "2026-11-23", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-wedding-photographers-win-more-bookings`, lastModified: "2026-11-23", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/halal-baby-food-subscription-funnel`, lastModified: "2026-11-24", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-halal-baby-food-brands-win-subscribers`, lastModified: "2026-11-24", changeFrequency: "weekly", priority: 0.8 }
   ];
 }

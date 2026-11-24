@@ -3786,6 +3786,91 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you booking funnel for Muslim wedding photographers — local SEO, privacy-first pages and a fast-reply inquiry flow that turn 'Muslim wedding photographer near me' searches into bookings.",
     "slug": "faith-aware-photography-booking-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Small Muslim-owned halal baby food brands in the US, UK and Canada — pouches, weaning meals and toddler snacks sold on Shopify, Amazon and Instagram — whose orders still come from a founder's own posts and a marketplace listing",
+      "UK brands already on the shelf — For Aisha pouches in the weaning aisle, Baby Likes lamb meals in independent shops — whose subscription base is still tiny because nobody has built them a trial-to-subscriber funnel",
+      "US and Canadian brands where halal baby food barely exists yet — Li'l Hala, Bismillah Baby Foods, Tiny Table — and where the first brand with a proper funnel wins the category before the giants arrive",
+      "Brands about to launch a new line — toddler snacks after weaning pouches, a 12-month stage after the 6-month stage — and needing each launch to land with subscribers, not just a post"
+    ],
+    "deliverables": [
+      "Search and Google Business Profile optimisation, so 'halal baby food', 'halal baby food near me' and 'halal weaning pouches' find your brand first in your city and country, with your certification and your trial offer shown plainly",
+      "Age-stage landing pages — 6 months, 12 months, 24 months — with your certification and ingredients told as a clear story, so a mother can see in seconds that this food fits her child's stage",
+      "A trial-box offer that lets a stranger try a small box at a trial price instead of committing to a full subscription they have not tested — the single step that turns a search into a first order",
+      "A Subscribe & Save funnel that turns the trial into a monthly delivery: the right pouches, the right stage, arriving before the last box runs out, with pause and skip always one tap away",
+      "An email and WhatsApp repeat-purchase flow — subscription reminders, stage-upgrade prompts as the child grows, and review requests — so families stay because the service is easy, not because cancelling is hard",
+      "Twelve Shorts and Reels a month — weaning guides, ingredient explainers, the founder's story, unboxing — product and founder only, because a baby's food is a trust product and trust is built on the brand, not on a child's face",
+      "A free brand visibility audit first, plus a free 30-second demo Reel of your hero product, so you see the quality before spending anything — and a short monthly report: trial orders, subscribers gained, subscribers kept, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Open baby food subscription trial box on a wooden table with halal baby food pouches, small jars of puree, plain age-stage cards for 6 months, 12 months and 24 months, and a measuring spoon",
+        "caption": "The trial box is the moment a stranger becomes a customer. A small box, a clear age-stage plan, and a pouch the baby finishes — that is what turns a search into a subscription.",
+        "src": "/images/services/halal-baby-food-subscription-funnel-trial.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Laptop on a desk showing a baby food plan quiz asking a child's age with 6 months, 12 months and 24 months buttons and a build-my-plan button, baby food pouches and a jar beside it",
+        "caption": "The quiz does the selling a product page cannot: it asks about the child, not the buyer, and answers with a plan sized for that age. Mothers trust a plan made for their baby.",
+        "src": "/images/services/halal-baby-food-subscription-funnel-quiz.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not make baby food, sell baby food, or handle a single pouch. We build the funnel that brings you qualified trial orders and subscriptions from Muslim mothers. The food, the recipes, the certification and every claim about them stay entirely with you and your brand.",
+        "q": "Do you make or sell the baby food yourselves?"
+      },
+      {
+        "a": "No. A subscription depends on your food, your price and the baby finishing the pouch. What we promise is the work that earns trials: pages mothers trust, a trial box that is easy to try, and a subscription that is easy to keep. One subscribing family is worth $60 to $100 a month for two to three years, so two or three new ones cover a year of the retainer.",
+        "q": "Do you guarantee subscribers or sales?"
+      },
+      {
+        "a": "Never. We make no nutrition, health or medical claim of any kind, and we never write a claim about your food that you have not approved in your own wording. Your certification and your ingredients are shown exactly as your certifier and your own labels state them, and that wording is the trust, and we do not touch it.",
+        "q": "Will you make nutrition or health claims about our food?"
+      },
+      {
+        "a": "Yes, most halal baby food brands are founder-run kitchen-table operations started by parents, and that is exactly who this funnel is built for. The trial box, the age-stage pages and the twelve Shorts a month all work whether you sell three pouches or thirty. A small brand that answers the halal question first beats a big brand that never mentions it.",
+        "q": "We are a tiny founder-run brand — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim mother finds when she searches for halal baby food in your market today, how your brand compares with the brands Google and Amazon show instead of you, and how many trial orders you are likely losing. We also make a free 30-second demo Reel of your hero product, so you can judge the quality before deciding.",
+        "q": "What is the brand visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/halal-baby-food-subscription-funnel-hero.jpg",
+    "imageAlt": "Mother in a hijab spoon-feeding her baby in a high chair in a bright modern kitchen, colourful halal baby food pouches and small jars on the shelf behind them",
+    "imageCaption": "The mother asks one question first — is this food halal for my baby? A brand that answers it plainly, with its certification shown, wins the subscriber before price is ever compared.",
+    "isNew": true,
+    "name": "Halal Baby Food Subscription Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly subscription retainer. Start with the free brand visibility audit and a free 30-second demo Reel of your hero product, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is nine o'clock at night in Houston and a new mother has just started weaning her six-month-old. The high chair is out, the first spoon is ready, and she wants halal baby food — pouches she can trust, no pork, no alcohol, meat that is actually zabiha. She picks up her phone and searches 'halal baby food near me'. She finds a big-brand page that never mentions halal, an Amazon listing with a long name and no clear answer about certification, and one small halal brand whose Instagram looks lovely but whose website has no trial box, no age-stage plan, and no way to subscribe. She adds the Amazon pouch to her basket because it is the only option with a buy button. The small halal brand she would have preferred never knew she existed, because she could not be found, could not be trusted from what she found, or could not be tried without buying a full box first.",
+      "The arithmetic makes the invisibility expensive. A subscribing family spends roughly $60 to $100 a month and stays for two to three years, so one subscriber is worth about $1,440 to $3,600 over their lifetime — which means two or three new subscribing families cover a whole year of a marketing retainer. The market behind them is large and still young: the global halal food market was about $2.5 to $3.0 trillion in 2025, heading for $5.7 to $6.4 trillion by 2034, and the global baby food market is about $69.4 billion in 2026 — while halal-organic baby food is its fastest-growing corner, with organic baby food in the Middle East and Africa growing at 9.7 percent a year. Yet no marketing agency specialises in bringing subscribers to halal baby food brands. The brands are real, the mothers are already searching, and the funnel is missing."
+    ],
+    "process": [
+      {
+        "text": "We search the way a mother searches — 'halal baby food near me', 'halal weaning pouches' plus your city — and report what she finds: your profile, your pages, your certification story, and the brands Google and Amazon show instead of you. We also show you what the slow or missing replies are costing you, in plain numbers.",
+        "title": "Brand visibility audit"
+      },
+      {
+        "text": "Search and profile work, age-stage landing pages, the trial-box offer, the Subscribe & Save funnel and the first twelve Shorts, built with your approved wording. We never make or sell baby food, never write a nutrition claim, and never show a claim about your certification that you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Trial orders and subscriptions arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own subscriber count growing.",
+        "title": "Mothers subscribe, you ship the food"
+      }
+    ],
+    "proof": "The market is the proof: a global halal food market of about $2.5 to $3.0 trillion in 2025 growing to about $5.7 to $6.4 trillion by 2034, a global baby food market of about $69.4 billion in 2026, and organic baby food in the Middle East and Africa growing at 9.7 percent a year — against a $399 to $699 monthly retainer. One subscribing family is worth roughly $60 to $100 a month for two to three years, so two or three new subscribers cover a whole year of the funnel. The demand is already visible in real brands: Li'l Hala, the first halal baby food in the US, selling hand-slaughtered meat pouches on Amazon and Shopify and preparing for Target and Whole Foods; For Aisha, halal-certified weaning pouches in the UK; Baby Likes, halal and organic lamb in the UK; Bismillah Baby Foods in the US; Tiny Table in Canada — yet none of them has a halal-baby-food specialist bringing them subscribers. We start with a free brand visibility audit and a free 30-second demo Reel, so you see exactly where you stand before deciding anything.",
+    "related": [
+      "halal-meal-prep-funnel",
+      "halal-supplements-funnel"
+    ],
+    "short": "Done-for-you sales and subscription funnel for small halal baby food brands — SEO, age-stage landing pages, a trial-box offer, Subscribe & Save and twelve Shorts a month that turn searches into subscribing families.",
+    "slug": "halal-baby-food-subscription-funnel"
   }
 ];
 
