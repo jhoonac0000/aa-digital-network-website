@@ -3871,6 +3871,91 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you sales and subscription funnel for small halal baby food brands — SEO, age-stage landing pages, a trial-box offer, Subscribe & Save and twelve Shorts a month that turn searches into subscribing families.",
     "slug": "halal-baby-food-subscription-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Small Muslim-owned halal meat delivery brands in the US, UK and Canada — zabiha-certified beef, chicken, lamb and goat boxes sold on Shopify and Instagram — whose orders still come from a founder's own posts and a marketplace listing",
+      "Brands already shipping nationwide — Boxed Halal-style subscription boxes, One Stop Halal-style fresh delivery — whose subscriber base is still tiny because nobody has built them a trial-to-subscriber funnel",
+      "UK and Canadian brands where halal meat delivery barely exists yet as a subscription — and where the first brand with a proper funnel wins the category before the bigger names arrive",
+      "Brands about to launch a new box — a Ramadan box, a grill box for summer, a lamb box for Eid — and needing each launch to land with subscribers, not just a post"
+    ],
+    "deliverables": [
+      "Search and Google Business Profile optimisation, so 'halal meat delivery', 'halal meat delivery near me' and 'zabiha meat box' find your brand first in your city and country, with your certification and your trial offer shown plainly",
+      "Build-your-own-box landing pages — beef, chicken, lamb, goat — with your certification and sourcing told as a clear story, so a family can see in seconds that this meat fits their table",
+      "A trial-box offer that lets a stranger try a small box at a trial price instead of committing to a full subscription they have not tested — the single step that turns a search into a first order",
+      "A Subscribe & Save funnel that turns the trial into a regular delivery: the right cuts, the right box, arriving before the last box runs out, with pause and skip always one tap away",
+      "An email and WhatsApp repeat-purchase flow — delivery reminders, cut-plan prompts as the seasons change, and review requests — so families stay because the service is easy, not because cancelling is hard",
+      "Twelve Shorts and Reels a month — unboxing, cut explainers, recipe demos, the farm and founder story — product and founder only, because meat is a trust product and trust is built on the brand, not on a stranger's kitchen",
+      "A free brand visibility audit first, plus a free 30-second demo Reel of your hero box, so you see the quality before spending anything — and a short monthly report: trial orders, subscribers gained, subscribers kept, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Open halal meat trial box on a wooden table with vacuum-sealed packs of beef sirloin and chicken, a printed meal-plan card listing the cuts inside, a measuring cup and a sprig of rosemary beside it",
+        "caption": "The trial box is the moment a stranger becomes a customer. A small box, a clear meal plan, and meat the family finishes — that is what turns a search into a subscription.",
+        "src": "/images/services/halal-meat-box-subscription-funnel-trial.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Laptop on a desk showing a meat subscription box builder page with buttons for beef, chicken and lamb and a monthly delivery calendar, a small insulated delivery box and gel ice packs beside it",
+        "caption": "The builder does the selling a product page cannot: it asks about the household, not the buyer, and answers with a box sized for that family. Families trust a box made for them.",
+        "src": "/images/services/halal-meat-box-subscription-funnel-builder.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not sell meat, handle a single cut, or certify anything halal. We build the funnel that brings you qualified trial orders and subscriptions from Muslim families. The meat, the sourcing, the certification and every claim about them stay entirely with you and your brand.",
+        "q": "Do you sell the meat yourselves?"
+      },
+      {
+        "a": "No. A subscription depends on your meat, your price and the family finishing the box. What we promise is the work that earns trials: pages families trust, a trial box that is easy to try, and a subscription that is easy to keep. One subscribing family is worth roughly $170 to $310 a box, so two or three new ones can cover a year of the retainer.",
+        "q": "Do you guarantee subscribers or sales?"
+      },
+      {
+        "a": "Never. We make no claim about your certification that you have not approved in your own wording, and we never write a claim about your meat that your certifier has not stated. Your certification and your sourcing are shown exactly as your certifier and your own labels state them, and that wording is the trust, and we do not touch it.",
+        "q": "Will you make halal certification claims about our meat?"
+      },
+      {
+        "a": "Yes, most halal meat delivery brands are founder-run operations started by butchers and families, and that is exactly who this funnel is built for. The trial box, the build-your-own-box pages and the twelve Shorts a month all work whether you ship three boxes or thirty. A small brand that answers the halal question first beats a big brand that never mentions it.",
+        "q": "We are a tiny founder-run brand — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim family finds when they search for halal meat delivery in your market today, how your brand compares with the brands Google and Amazon show instead of you, and how many trial orders you are likely losing. We also make a free 30-second demo Reel of your hero box, so you can judge the quality before deciding.",
+        "q": "What is the brand visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/halal-meat-box-subscription-funnel-hero.jpg",
+    "imageAlt": "Open insulated halal meat subscription box on a bright kitchen counter with vacuum-sealed packs of beef steak, chicken breast and lamb chops, gel ice packs and a printed card on top",
+    "imageCaption": "The family asks one question first — is this meat really halal? A brand that answers it plainly, with its certification shown, wins the subscriber before price is ever compared.",
+    "isNew": true,
+    "name": "Halal Meat Box Subscription Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly subscription retainer. Start with the free brand visibility audit and a free 30-second demo Reel of your hero box, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is Thursday evening in Dearborn and a family is planning the week's cooking. The freezer is nearly empty, the weekend is coming, and they want halal meat — beef for stew, chicken for the children's lunches, lamb for Friday. They pick up the phone and search 'halal meat delivery near me'. They find a big-brand page that never mentions halal, an Amazon listing with a long name and no clear answer about certification, and one small halal brand whose Instagram looks lovely but whose website has no trial box, no build-your-own-box page, and no way to subscribe. They drive to the butcher instead, because it is the only option with a buy button. The small halal brand they would have preferred never knew they existed, because they could not be found, could not be trusted from what they found, or could not be tried without buying a full box first.",
+      "The arithmetic makes the invisibility expensive. A subscribing family spends roughly $170 to $310 per box, delivered every two to eight weeks, so one subscriber is worth roughly $2,000 to $4,000 a year — which means two or three new subscribing families can cover a whole year of a marketing retainer. The market behind them is large and still young: the global halal meat market is growing at about 8.6 percent a year, heading for about $1.78 trillion by 2034, and the US halal food market alone is forecast at about $124 billion by 2032 — while halal meat delivery brands like Boxed Halal, One Stop Halal and Midamar already ship nationwide. Yet no marketing agency specialises in bringing subscribers to halal meat box brands. The brands are real, the families are already searching, and the funnel is missing."
+    ],
+    "process": [
+      {
+        "text": "We search the way a family searches — 'halal meat delivery near me', 'zabiha meat box' plus your city — and report what they find: your profile, your pages, your certification story, and the brands Google and Amazon show instead of you. We also show you what the slow or missing replies are costing you, in plain numbers.",
+        "title": "Brand visibility audit"
+      },
+      {
+        "text": "Search and profile work, build-your-own-box landing pages, the trial-box offer, the Subscribe & Save funnel and the first twelve Shorts, built with your approved wording. We never sell meat, never certify anything halal, and never show a claim about your certification that you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Trial orders and subscriptions arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own subscriber count growing.",
+        "title": "Families subscribe, you ship the meat"
+      }
+    ],
+    "proof": "The market is the proof: a global halal meat market growing at about 8.6 percent a year towards about $1.78 trillion by 2034, a US halal food market forecast at about $124 billion by 2032, and a halal food market overall heading from about $2.5 trillion towards about $5.2 trillion — against a $399 to $699 monthly retainer. One subscribing family is worth roughly $170 to $310 a box, delivered every two to eight weeks, so two or three new subscribers can cover a whole year of the funnel. The demand is already visible in real brands: Boxed Halal, HFSAA-certified hand-slaughtered meat in subscription boxes with free shipping, which says roughly three in ten of its customers are not Muslim; One Stop Halal, HFSAA-certified hand-cut zabiha with no pre-slaughter stunning, shipping fresh nationwide from Los Angeles; Midamar, certifying halal meat since 1974 and shipping to 48 states — yet none of them has a halal-meat-box specialist bringing them subscribers. We start with a free brand visibility audit and a free 30-second demo Reel, so you see exactly where you stand before deciding anything.",
+    "related": [
+      "halal-meal-prep-funnel",
+      "halal-baby-food-subscription-funnel"
+    ],
+    "short": "Done-for-you sales and subscription funnel for small halal meat delivery brands — SEO, build-your-own-box pages, a trial-box offer, Subscribe & Save and twelve Shorts a month that turn searches into subscribing families.",
+    "slug": "halal-meat-box-subscription-funnel"
   }
 ];
 

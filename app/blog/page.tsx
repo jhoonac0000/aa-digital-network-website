@@ -312,6 +312,12 @@ export default function BlogPage() {
             <p>Muslim mothers search 'halal baby food' — yet most halal baby food brands have no subscription funnel. Here is the one that turns searches into subscribers.</p>
             <p className="small"><Link href="/services/halal-baby-food-subscription-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-halal-meat-box-brands-win-subscribers">
+            <img className="card-img" src="/images/blog/how-halal-meat-box-brands-win-subscribers.jpg" alt="Muslim butcher in a white apron and cap behind a clean butcher counter in a bright halal butcher shop, arranging fresh cuts of beef and lamb in a glass display, a certified-halal sign on the wall" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-halal-meat-box-brands-win-subscribers">How Halal Meat Box Brands Win Subscribers</Link></h3>
+            <p>Muslim families search 'halal meat delivery' — yet most halal meat brands have no subscription funnel. Here is the one that turns searches into subscribers.</p>
+            <p className="small"><Link href="/services/halal-meat-box-subscription-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>
