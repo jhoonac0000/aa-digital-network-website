@@ -3956,6 +3956,90 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you sales and subscription funnel for small halal meat delivery brands — SEO, build-your-own-box pages, a trial-box offer, Subscribe & Save and twelve Shorts a month that turn searches into subscribing families.",
     "slug": "halal-meat-box-subscription-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Small Muslim-owned car dealerships in the US, UK and Canada — family lots in Dearborn and Hamtramck, Houston and Dallas, Chicago suburbs, northern New Jersey, London and Toronto — whose cars still sell by walk-in traffic and word of mouth",
+      "Franchise dealers with Arabic- or Urdu-speaking sales staff who already serve Muslim buyers every week but never say so on their website, so Google never sends them the buyers searching for it",
+      "Dealers who already work with a halal financing provider — UIF, IjaraCDC or a local Islamic finance house — but whose website never explains it, so the buyer has to find the provider alone and the dealer gets no credit for it",
+      "Dealers heading into the year-end clearance season who need November and December buyers now — the biggest car-buying window of the year — and cannot wait for a slow brand campaign to work"
+    ],
+    "deliverables": [
+      "Search and Google Business Profile optimisation, so 'Muslim car dealer near me', 'halal car financing [city]' and 'halal auto financing near me' find your lot first in your city and country, with your financing story and your test-drive offer shown plainly",
+      "Halal-financing explainer landing pages — Murabaha and Ijara explained in simple words, with the provider's own wording and a clear path to them — so a buyer understands the halal route before ever stepping onto the lot",
+      "Arabic- and Urdu-speaking sales-team pages, so a buyer who prefers to discuss a $30,000 purchase in their own language can see the person they will talk to before they call",
+      "An inventory and WhatsApp inquiry funnel — every car listed with real photos, a price, and a one-tap WhatsApp message — so the dealer who answers first and books the test drive first wins the sale",
+      "Twelve Shorts and Reels a month — 30-second car walkarounds of your actual inventory, one car at a time, in your own voice or text-led — because a buyer who has already walked around the car on video arrives ready to buy",
+      "A free buyer visibility audit first, plus a free 30-second demo walkaround Reel of your hero car, so you see the quality before spending anything — and a short monthly report: inquiries, test drives booked, cars sold, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Car dealership lot at golden hour with rows of clean used family cars and SUVs, a Muslim family walking between the cars looking at a silver SUV with a friendly salesman",
+        "caption": "The buyer is already on the lot in their head before they ever drive to it. A dealer whose cars are visible, priced and explained online is the dealer they drive to first.",
+        "src": "/images/services/halal-auto-buyer-funnel-inventory.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Man filming a short car walkaround video with a smartphone on a small tripod beside the open door of a clean family SUV inside a bright dealership, showing the interior",
+        "caption": "One honest walkaround does the work of ten listings. A buyer who has seen the seats, the boot and the dashboard on video arrives at the lot ready to drive, not still deciding.",
+        "src": "/images/services/halal-auto-buyer-funnel-walkaround.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We are not a car dealer, a lender, a broker or a financing provider. We build the funnel that brings qualified Muslim buyers to your licensed dealership. The cars, the prices and every detail of halal financing stay with you and the financing provider, in their own wording.",
+        "q": "Do you sell cars or arrange financing yourselves?"
+      },
+      {
+        "a": "No. A sale depends on your inventory, your price and the buyer's financing approval. What we promise is the work that earns inquiries: pages buyers trust, a financing answer in plain words, replies in minutes and test drives booked fast. One extra sale, at roughly $2,000 to $3,000 gross, can cover a whole year of the retainer.",
+        "q": "Do you guarantee car sales?"
+      },
+      {
+        "a": "Yes, in plain words and only in the provider's own wording. We explain Murabaha and Ijara simply — the bank buys the car and sells it to the buyer at a disclosed markup, or leases it to own — and we always point the buyer to the provider for the details. We never issue a religious ruling and never quote a rate or a monthly payment.",
+        "q": "Will you explain halal financing on our pages?"
+      },
+      {
+        "a": "Yes — this funnel is built for small Muslim-owned lots, not franchise chains. The walkarounds, the Google profile and the WhatsApp funnel all work whether you stock twenty cars or two hundred. A small lot that answers the halal question first beats a big dealer that never mentions it.",
+        "q": "We are a small lot, not a franchise — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim buyer finds when they search for a car dealer or halal car financing in your market today, how your lot compares with the dealers Google shows instead of you, and how many buyers you are likely losing. We also make a free 30-second demo walkaround Reel of your hero car, so you can judge the quality before deciding.",
+        "q": "What is the buyer visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/halal-auto-buyer-funnel-hero.jpg",
+    "imageAlt": "Bearded Muslim car dealer in a smart navy shirt standing proudly beside a clean silver family SUV in a bright modern dealership showroom, large windows and other cars softly blurred behind him",
+    "imageCaption": "The buyer asks one question first — can I buy this car without riba? A dealer who answers it plainly, with the halal financing path shown, wins the buyer before price is ever compared.",
+    "isNew": true,
+    "name": "Halal Auto Buyer Funnel",
+    "priceLabel": "$1,000–$2,000 build + $499–$799/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $499–$799 monthly buyer retainer. Start with the free buyer visibility audit and a free 30-second demo walkaround Reel of your hero car, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is a Saturday morning in Dearborn and a young father needs a second car. The family has grown, the old sedan no longer fits, and he wants to buy without riba — a halal financing route, a dealer he can trust, and a price he can understand. He picks up his phone and searches 'halal car financing near me'. He finds an education site explaining Murabaha, a finance provider's page with no cars on it, and a big franchise dealer whose website never mentions halal at all. He drives to the dealer his cousin recommended instead, because it is the only option with a name he recognises. The small Muslim-owned lot two miles away, with the right SUV already on its forecourt and a halal financing path already in place, never knew he existed — because it could not be found, could not be trusted from what he found, or could not be reached without driving there first.",
+      "The arithmetic makes the invisibility expensive. The average used car financed in the US is about $27,852 and the average new car about $43,610, and dealer gross on a used car is commonly around $2,000 to $3,000 — which means a single extra sale can cover a whole year of a marketing retainer several times over. The market behind the buyer is large and still young: the average new-car loan in the US carries a 6.35 percent APR on a $43,610 balance, about $765 a month, and total auto loan balances stand at about $1.71 trillion — while a 2026 HalalWallet report found halal auto financing was the number-one Muslim financial interest in New York, at 31 percent against a 22 percent national average. Yet no marketing agency specialises in bringing Muslim buyers to Muslim-owned car dealerships. The buyers are already searching, the dealers are already there, and the funnel is missing."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim buyer searches — 'Muslim car dealer near me', 'halal car financing' plus your city — and report what they find: your profile, your pages, your financing story, and the dealers Google shows instead of you. We also show you what the slow or missing replies are costing you, in plain numbers.",
+        "title": "Buyer visibility audit"
+      },
+      {
+        "text": "Search and profile work, halal-financing explainer pages, the inventory and WhatsApp inquiry funnel, the Arabic- and Urdu-speaking team pages and the first twelve walkaround Shorts, built with your approved wording. We never sell cars, never arrange financing, and never show a claim about halal financing that your provider has not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Inquiries and test drives arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own test-drive calendar filling up.",
+        "title": "Buyers arrive, you sell the cars"
+      }
+    ],
+    "proof": "The market is the proof: an average new-car loan of 6.35 percent APR on a $43,610 balance, about $765 a month, with $1.71 trillion in auto loans outstanding and $211 billion in new loans in a single quarter — against a $499 to $799 monthly retainer. One extra used-car sale is worth roughly $2,000 to $3,000 in gross, so a single sale can cover a whole year of the funnel. The demand is already visible in real numbers: HalalWallet's 2026 report put halal auto financing at 31 percent of Muslim financial interest in New York, the number-one interest there, and only five halal auto-financing providers are registered in the US, with UIF the only one offering full purchase financing — yet none of them brings buyers to dealers, and no dealer-marketing agency speaks to Muslim buyers. We start with a free buyer visibility audit and a free 30-second demo walkaround Reel, so you see exactly where you stand before deciding anything.",
+    "related": [
+      "halal-homebuyer-funnel",
+      "halal-wealth-funnel"
+    ],
+    "short": "Done-for-you buyer funnel for Muslim-owned car dealerships — SEO, halal-financing explainer pages, inventory + WhatsApp inquiries, test-drive booking and twelve walkaround Shorts a month that turn searches into buyers on your lot.",
+    "slug": "halal-auto-buyer-funnel"
   }
 ];
 

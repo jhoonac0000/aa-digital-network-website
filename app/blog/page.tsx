@@ -318,6 +318,12 @@ export default function BlogPage() {
             <p>Muslim families search 'halal meat delivery' — yet most halal meat brands have no subscription funnel. Here is the one that turns searches into subscribers.</p>
             <p className="small"><Link href="/services/halal-meat-box-subscription-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-muslim-car-dealers-win-halal-buyers">
+            <img className="card-img" src="/images/blog/how-muslim-car-dealers-win-halal-buyers.jpg" alt="Muslim couple shaking hands with a car dealer in front of a new silver SUV at a bright dealership, keys being handed over, joyful moment in a modern showroom" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-car-dealers-win-halal-buyers">How Muslim Car Dealers Win Halal Buyers</Link></h3>
+            <p>Muslim buyers search 'halal car financing' — yet most Muslim-owned dealerships never answer it. Here is the funnel that turns searches into buyers.</p>
+            <p className="small"><Link href="/services/halal-auto-buyer-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>
