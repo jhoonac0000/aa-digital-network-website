@@ -4040,6 +4040,90 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you buyer funnel for Muslim-owned car dealerships — SEO, halal-financing explainer pages, inventory + WhatsApp inquiries, test-drive booking and twelve walkaround Shorts a month that turn searches into buyers on your lot.",
     "slug": "halal-auto-buyer-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Muslim-owned tutoring centers in the US, UK and Canada — small founder-run centers in Houston, Dearborn and Detroit, New York and New Jersey, Chicago, Dallas, London, Birmingham, Toronto and Mississauga — whose seats still fill by word of mouth and masjid noticeboards",
+      "SAT, ACT and AP test-prep academies whose tutors already raise scores every season but whose website never shows it, so Google never sends them the parents searching for it",
+      "Online one-to-one tutoring operations — including Muslim tutors teaching K-12 maths, science and English from home — that need a steady flow of trial lessons instead of a new scramble for students every term",
+      "Centers heading into the college-application season who need November-to-January enrollments now — regular-decision deadlines fall around 1 January 2027 and spring SAT and ACT preparation starts now — and cannot wait for a slow brand campaign to work"
+    ],
+    "deliverables": [
+      "Search and Google Business Profile optimisation, so 'Muslim tutoring near me', 'SAT prep near me' and 'math tutor [city]' find your center first in your city and country, with your subjects, your test-prep results and your trial offer shown plainly",
+      "Subject and test-prep landing pages — one page per subject and per test, with the trial lesson, the score-improvement plan and the parent progress reports explained — so a parent lands on the exact page for their child's need, not a generic homepage",
+      "A free-trial and diagnostic-test booking funnel — one tap to book a trial lesson or a diagnostic test, with a reply in minutes — so the center that answers first and books the trial first wins the student, because parents often try three or four centers in a single week",
+      "Tutor-introduction and parent-FAQ pages, showing the tutor, the subjects they teach and the way they teach, with same-gender tutor options, prayer-break respect and Urdu- or Arabic-speaking tutors stated plainly where they apply",
+      "Twelve Shorts and Reels a month — tutor intros, 'how to raise your SAT score' explainers and parent FAQs, filmed with your tutors in your center — because a parent who has already met the tutor on video books the trial with confidence",
+      "A free enrollment visibility audit first, plus a free 30-second demo Reel of your lead tutor, so you see the quality before spending anything — and a short monthly report: trial lessons booked, diagnostic tests taken, students enrolled, and where they came from"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim mother in a hijab and bearded father talking with a tutor at the reception desk of a bright modern tutoring center, the tutor holding a tablet showing the trial lesson schedule",
+        "caption": "The enrollment is decided at the front desk before it is ever decided in the classroom. Parents who can see the trial times, the subjects and the tutor in one conversation book the trial — the center that answers first gets the student.",
+        "src": "/images/services/tutoring-enrollment-funnel-parents.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Muslim woman tutor in a hijab recording a short SAT explainer video with a smartphone on a tripod beside a whiteboard with a maths problem, SAT prep books and a laptop on the desk",
+        "caption": "One honest explainer does the work of ten adverts. A parent who has watched your tutor solve a real SAT problem already trusts the teaching — the trial lesson only confirms what they already decided.",
+        "src": "/images/services/tutoring-enrollment-funnel-videos.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We do not tutor children, we do not set scores and we do not run classes. We build the funnel that brings qualified trial bookings and enrollments to your licensed center or your tutors. The teaching, the tutors, the credentials and the prices stay with you, in your own wording.",
+        "q": "Do you tutor children yourselves?"
+      },
+      {
+        "a": "No. A score depends on the student, the tutor and the work put in between lessons. What we promise is the work that earns trials: pages parents trust, a diagnostic test that shows the starting point, replies in minutes and trial lessons booked fast. Two or three new students, at roughly $200 to $400 a month each, can cover a whole year of the retainer.",
+        "q": "Do you guarantee SAT score increases?"
+      },
+      {
+        "a": "Only ever with written parental consent, and only the tutor-facing content we agree with you in advance. Our Shorts feature your tutors, your explainers and your center — never a child on camera without a parent's written permission. A child's privacy is not a marketing asset, and we treat it that way.",
+        "q": "Will you film our students for the Shorts?"
+      },
+      {
+        "a": "Yes — this funnel is built for small founder-run centers, not franchise chains. The trial funnel, the Google profile and the tutor videos all work whether you teach twenty students or two hundred. A small center that answers the trust question first beats a big franchise that never mentions it.",
+        "q": "We are a small center, not a franchise — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim parent finds when they search for tutoring or SAT prep in your market today, how your center compares with the centers Google shows instead of you, and how many students you are likely losing. We also make a free 30-second demo Reel of your lead tutor, so you can judge the quality before deciding.",
+        "q": "What is the enrollment visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/tutoring-enrollment-funnel-hero.jpg",
+    "imageAlt": "Bearded Muslim tutor in a cap and waistcoat explaining a quadratic equation on a small whiteboard in a bright tutoring center, laptop and SAT prep books on the desk",
+    "imageCaption": "The parent asks one question first — can I trust this tutor with my child's future? A center whose tutors are visible, whose subjects are clear and whose trial is one tap away wins the enrollment before price is ever compared.",
+    "isNew": true,
+    "name": "Tutoring Enrollment Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly enrollment retainer. Start with the free enrollment visibility audit and a free 30-second demo Reel of your lead tutor, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is a November evening in Houston and a mother is worried about her son's SAT score. The college applications are due around the first of January, the spring test dates are coming, and his last practice score was a hundred points below the college he wants. She picks up her phone and searches 'SAT prep near me'. She finds a big franchise page that never mentions a Muslim environment, a marketplace listing with a tutor's hourly rate and no face behind it, and one small Muslim tutoring center whose Instagram looks warm but whose website has no trial lesson, no diagnostic test, and no way to book. She messages the franchise instead, because it is the only option with a book button. The small center two miles away, with the right tutor already on its staff and a free trial already on offer, never knew she existed — because it could not be found, could not be trusted from what she found, or could not be booked without driving there first.",
+      "The arithmetic makes the invisibility expensive. A tutoring student is commonly worth roughly $200 to $400 a month to a center, and a SAT or ACT specialist commonly charges $100 to $200 an hour — which means two or three new students can cover a whole year of a marketing retainer. The market behind the parent is large and still growing: the global private tutoring market is forecast to grow from about $133.8 billion in 2025 to about $143.4 billion in 2026 and about $248.4 billion by 2034, and test preparation is its fastest-growing segment at about 9.13 percent a year. More than two million students took the SAT in the class of 2025, 97 percent of them on the digital test. Yet no marketing agency specialises in bringing students to Muslim tutoring centers. The parents are already searching, the centers are already there, and the funnel is missing."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim parent searches — 'Muslim tutoring near me', 'SAT prep' plus your city — and report what they find: your profile, your pages, your tutor story, and the centers Google shows instead of you. We also show you what the slow or missing replies are costing you, in plain numbers.",
+        "title": "Enrollment visibility audit"
+      },
+      {
+        "text": "Search and profile work, subject and test-prep landing pages, the trial-lesson and diagnostic-test booking funnel, the tutor-introduction pages and the first twelve tutor Shorts, built with your approved wording. We never tutor, never set a score, and never film a child without written parental consent.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Trial lessons and diagnostic tests arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own enrollment numbers growing.",
+        "title": "Parents book trials, you enroll the students"
+      }
+    ],
+    "proof": "The market is the proof: a global private tutoring market of about $133.8 billion in 2025 growing to about $143.4 billion in 2026 and about $248.4 billion by 2034, with test preparation its fastest-growing segment at about 9.13 percent a year — against a $399 to $699 monthly retainer. One student is worth roughly $200 to $400 a month and often stays for years, so two or three new students can cover a whole year of the funnel. The demand is already visible in real centers: SAHA Institute in Kenner, Louisiana, charging about $30 an hour for academics and $500 for ten test-prep sessions; Minaret Tutoring, a masjid-based operation at about $18 an hour; Muhammad Educational Academy, coaching SAT and ACT online — yet none of them has a Muslim tutoring specialist bringing them students, and the big franchises, Kumon, Mathnasium, Sylvan and Huntington, sell an English-generic product that never answers the faith-aware questions parents actually ask. We start with a free enrollment visibility audit and a free 30-second demo Reel, so you see exactly where you stand before deciding anything.",
+    "related": [
+      "quran-academy-enrollment-funnel",
+      "islamic-schools-admissions"
+    ],
+    "short": "Done-for-you enrollment funnel for Muslim tutoring centers and SAT/ACT test-prep academies — local SEO, subject and test-prep landing pages, trial-lesson and diagnostic-test booking, and twelve tutor Shorts a month that turn searches into enrolled students.",
+    "slug": "tutoring-enrollment-funnel"
   }
 ];
 

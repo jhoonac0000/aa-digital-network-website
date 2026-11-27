@@ -115,6 +115,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/services/halal-meat-box-subscription-funnel`, lastModified: "2026-11-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog/how-halal-meat-box-brands-win-subscribers`, lastModified: "2026-11-25", changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/services/halal-auto-buyer-funnel`, lastModified: "2026-11-26", changeFrequency: "weekly", priority: 0.8 },
-    { url: `${SITE_URL}/blog/how-muslim-car-dealers-win-halal-buyers`, lastModified: "2026-11-26", changeFrequency: "weekly", priority: 0.8 }
+    { url: `${SITE_URL}/blog/how-muslim-car-dealers-win-halal-buyers`, lastModified: "2026-11-26", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/services/tutoring-enrollment-funnel`, lastModified: "2026-11-27", changeFrequency: "weekly", priority: 0.8 },
+    { url: `${SITE_URL}/blog/how-muslim-tutoring-centers-win-more-students`, lastModified: "2026-11-27", changeFrequency: "weekly", priority: 0.8 }
   ];
 }

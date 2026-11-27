@@ -324,6 +324,12 @@ export default function BlogPage() {
             <p>Muslim buyers search 'halal car financing' — yet most Muslim-owned dealerships never answer it. Here is the funnel that turns searches into buyers.</p>
             <p className="small"><Link href="/services/halal-auto-buyer-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-muslim-tutoring-centers-win-more-students">
+            <img className="card-img" src="/images/blog/how-muslim-tutoring-centers-win-more-students.jpg" alt="Muslim parents, a bearded father and a mother in a hijab, shaking hands with a tutor in a bright modern tutoring center, SAT prep books and a laptop on the table" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-muslim-tutoring-centers-win-more-students">How Muslim Tutoring Centers Win More Students</Link></h3>
+            <p>Muslim parents search 'SAT prep near me' — yet most Muslim tutoring centers never answer it. Here is the funnel that turns searches into enrollments.</p>
+            <p className="small"><Link href="/services/tutoring-enrollment-funnel">Related service →</Link></p>
+          </div>
 
       </div>
     </div>
