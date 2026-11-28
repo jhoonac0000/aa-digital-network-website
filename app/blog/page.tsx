@@ -324,6 +324,12 @@ export default function BlogPage() {
             <p>Muslim buyers search 'halal car financing' — yet most Muslim-owned dealerships never answer it. Here is the funnel that turns searches into buyers.</p>
             <p className="small"><Link href="/services/halal-auto-buyer-funnel">Related service →</Link></p>
           </div>
+<div className="card" key="how-islamic-summer-camps-fill-every-seat">
+            <img className="card-img" src="/images/blog/how-islamic-summer-camps-fill-every-seat.jpg" alt="Islamic summer camp grounds at golden hour, wooden cabins, a white prayer hall with a dome, colourful tents and a campfire circle, pine trees and green sports fields" width={2048} height={1152} loading="lazy" />
+            <h3><Link href="/blog/how-islamic-summer-camps-fill-every-seat">How Islamic Summer Camps Fill Every Seat Before Registration Closes</Link></h3>
+            <p>Parents search for Islamic summer camps in December — and the camps that answer first fill first. Here is the funnel that turns searches into registrations.</p>
+            <p className="small"><Link href="/services/camp-enrollment-funnel">Related service →</Link></p>
+          </div>
 <div className="card" key="how-muslim-tutoring-centers-win-more-students">
             <img className="card-img" src="/images/blog/how-muslim-tutoring-centers-win-more-students.jpg" alt="Muslim parents, a bearded father and a mother in a hijab, shaking hands with a tutor in a bright modern tutoring center, SAT prep books and a laptop on the table" width={2048} height={1152} loading="lazy" />
             <h3><Link href="/blog/how-muslim-tutoring-centers-win-more-students">How Muslim Tutoring Centers Win More Students</Link></h3>

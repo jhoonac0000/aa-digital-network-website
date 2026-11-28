@@ -5684,6 +5684,141 @@ export const ARTICLES: Article[] = [
     "service": "tutoring-enrollment-funnel",
     "slug": "how-muslim-tutoring-centers-win-more-students",
     "title": "How Muslim Tutoring Centers Win More Students"
+  }  ,
+  {
+    "excerpt": "Parents search for Islamic summer camps in December — and the camps that answer first fill first. Here is the funnel that turns searches into registrations.",
+    "extraImages": [
+      {
+        "after": "Landing pages that answer the questions parents ask first",
+        "alt": "Laptop on a camp office desk showing a Summer Camp 2027 registration page with a Register Now button, beside a brochure listing halal meals, prayer times and the activity schedule",
+        "caption": "The registration decision is made at the kitchen table in December, not at the camp gate in June. A camp that answers the family's questions online is the camp that gets the registration.",
+        "src": "/images/blog/how-islamic-summer-camps-fill-every-seat-2.jpg"
+      },
+      {
+        "after": "Video trust: facility tours, director intros and reviews parents can see",
+        "alt": "Muslim families and counsellors in modest dress sitting around a campfire at dusk, string lights and tents behind them, a warm and peaceful evening gathering",
+        "caption": "One honest tour does the work of ten brochures. A parent who has seen the cabins, the dining hall and the director on video sends their child with confidence, not with worry.",
+        "src": "/images/blog/how-islamic-summer-camps-fill-every-seat-3.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We are not a camp operator, a childcare provider or a licensing body. We build the enrollment funnel that brings qualified registrations and waitlist inquiries to your licensed camp, and that is all we do. Your program, your staff, your safety standards and your fees stay entirely with you, shown in your own wording.",
+        "q": "Do you run the summer camp yourselves?"
+      },
+      {
+        "a": "No, and any agency that promises a number is selling certainty it does not control. Registrations depend on your program, your dates, your fees and each family's decision. What a funnel can promise is the work that earns inquiries: pages parents trust, a faith-aware answer in plain words, replies in minutes and spots confirmed fast, plus a monthly report on your numbers.",
+        "q": "Can you guarantee our camp will fill every seat?"
+      },
+      {
+        "a": "Only with written parental consent, every time, without exception. No child is ever filmed or photographed for marketing unless a parent has signed for it in writing. Most of our trust videos need no children at all: the facility tour, the director and counselor introductions, and past campers' written reviews shown on screen say everything a parent needs to see.",
+        "q": "Will you film our campers for the videos?"
+      },
+      {
+        "a": "Now — the registration season opens in December and runs to February, and the camps that set up first catch the families searching now. TIC West runs 19 to 25 December 2026 and TIC South 2 to 8 January 2027. Our season runs December to August, so a camp that starts in December gets the full registration season, the spring reminders and the summer itself.",
+        "q": "When should our camp start — is it too late?"
+      },
+      {
+        "a": "It is free. We check what a Muslim parent finds when they search for an Islamic summer camp in your market today, how your camp compares with the camps Google shows instead of you, and how many families you are likely losing to slow or missing replies. We also make a free 30-second demo Reel of your camp, so you judge the quality before deciding anything.",
+        "q": "What does the free enrollment visibility audit include?"
+      }
+    ],
+    "image": "/images/blog/how-islamic-summer-camps-fill-every-seat.jpg",
+    "imageAlt": "Islamic summer camp grounds at golden hour, wooden cabins, a white prayer hall with a dome, colourful tents and a campfire circle, pine trees and green sports fields",
+    "imageCaption": "A parent sends their child to a camp they can see and trust. A camp whose program, safety and faith-aware promise are visible online is the camp parents register for first.",
+    "related": [
+      {
+        "slug": "how-muslim-tutoring-centers-win-more-students",
+        "title": "How Muslim Tutoring Centers Win More Students"
+      },
+      {
+        "slug": "how-islamic-schools-fill-every-seat",
+        "title": "How Islamic Schools Fill Every Seat: The Admissions Funnel That Works"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The short answer first",
+        "paragraphs": [
+          "Muslim parents do not choose a summer camp the way they choose a holiday. The first questions are never about the price or the activities list — they are whether the food is halal, whether prayer times are kept, whether activities are gender-separated, and whether the staff can be trusted with their child for a week. The funnel we build for Islamic summer camps answers all four at once, before the parent ever has to ask: search and profile work that puts your camp first when a family searches, faith-aware landing pages that show the halal meals, the prayer schedule, the gender-separated activities and your safety credentials, a registration and waitlist funnel that confirms spots while the family is still deciding, and short trust videos — a facility tour, director and counselor introductions, and past campers' written reviews on screen. That is the whole idea behind the service we run for camps: a [Camp Enrollment Funnel](/services/camp-enrollment-funnel) that builds the search presence, the landing pages, the registration funnel and the videos for you, for $399 to $699 a month after a $1,000 to $2,000 build, for the December-to-August season, starting with a free audit of your visibility today and a free 30-second demo Reel of your camp. Everything in this guide explains how that funnel works, what Muslim parents actually look for, and what it can and cannot promise — so you can judge whether it fits your camp before spending anything.",
+          "The funnel works because a summer camp is a trust purchase, not a commodity. A parent who sends one child to a camp they trust sends the second child next year, tells the masjid group chat, and recommends the camp to every family asking in December. That is why the registration, not the brochure, is the product. A landing page that answers the halal and safety questions gets the inquiry; a reply in minutes gets the registration; a confirmed spot gets the family; and a waitlist captures every family a full session would otherwise lose. We build all four, and we report every month on inquiries, registrations confirmed and waitlist sign-ups, so you can judge the funnel on your own registration list filling up.",
+          "One more thing the short answer has to say plainly: we do not run camps, we do not set your fees, and we never guarantee a number of registrations. Your safety credentials and fees are shown in your own wording, exactly as you state them, and children are filmed or photographed only with written parental consent. That boundary is not a limitation — it is the reason a camp can trust us with its name. A safety claim written wrong destroys trust in a day; a claim written in the camp's own wording builds it for years. And when the decision is where a child spends a week away from home, trust is everything — a parent will not register with a camp they do not fully believe in."
+        ]
+      },
+      {
+        "bullets": [
+          "'Islamic summer camp near me' — the search of a parent who wants a camp that fits their faith, and will register with the first one that looks like theirs",
+          "'Muslim youth camp' — the search of a parent planning for a teenager, judging a camp on its program, its counselors and its safety before anything else",
+          "'Muslim summer camp [city]' — the search of a parent who has decided on the kind of camp, and is comparing the options in their own city",
+          "'Islamic camp for kids' — the search of a parent with younger children, for whom safety and supervision matter more than any activity list",
+          "'halal summer camp' — the smaller search that reveals the bigger one: a parent who asks for halal by name is a parent who will travel for trust"
+        ],
+        "heading": "Why parents search — and what they actually find",
+        "paragraphs": [
+          "It is a December evening in Houston and a mother is planning her children's summer. The school year is half over, the camp her friend recommended filled in record time last year, and she wants a camp where her children will eat halal, pray on time and be safe with staff she can trust. She picks up her phone and searches 'Islamic summer camp near me'. She finds a generic camp directory, a big YMCA page, and one Islamic camp whose website has no dates, no fees, no halal meal information and no way to register — just a phone number nobody answers. She messages the camp her cousin mentioned instead, because it is the only one with a name she recognises. The camp two towns away, with the right program already planned and empty bunks waiting, never knew she existed.",
+          "We see this pattern across every niche we audit, and it is rarely about the program. The invisible camp usually assumes the problem is that families are too few, or too price-sensitive, or too hard to reach. They are none of those things. They are a proven, growing market: the US summer-camp market is worth about $4.6 billion, with roughly 20,000 camps and more than 26 million campers, and parents budgeted an average of $1,648 for camp in 2025, 30 percent more than the year before. The problem is upstream: the camps that serve Muslim families are invisible in the one place parents look, and the ones that are visible do not answer the faith and safety questions. A mother planning her children's summer does not wait two days for a reply. She searches once, compares three camps in an evening, and registers with the one that answers first.",
+          "The numbers behind the missed search are stark. The average weekly camp fee in the US is $551, up 43.9 percent since 2014, and an overnight camper pays $400 to $1,100 or more a week — which means two or three new campers can cover a whole year of a marketing retainer several times over. That is why our funnel starts with the search and the registration, not the advert: every parent who finds the camp gets a plain faith-aware answer, real dates with real fees, and a registration they can complete in minutes, because on a December evening when the family is choosing a summer, the camp that answers first gets the child. And the demand is not theoretical: Muslim camp demand is growing in plain sight, yet no marketing agency specialises in bringing those families to the camps that serve them. The field is open, in every city where parents are searching."
+        ]
+      },
+      {
+        "heading": "The registration window: December to February decides the summer",
+        "paragraphs": [
+          "Summer camp registration does not open in June. It opens in December, and the camps that win the summer are the ones that are ready when the window opens. The season runs December to February for most camps: TIC West runs 19 to 25 December 2026 and TIC South 2 to 8 January 2027, and Ahmadiyya's National Youth Camp opened its applications in February 2026. Parents are deciding in exactly these weeks — while the school term is still running, while the holidays give them time to compare, and while the best sessions still have open bunks. A camp whose funnel is ready in December catches the families searching now; a camp that waits until spring is buying its way into a market where the best sessions are already full.",
+          "The market behind the window is large and still growing. The US summer-camp market brings in about $4.6 billion a year across roughly 20,000 camps and more than 26 million campers, and the global market is forecast to grow from $22.0 billion in 2025 to $34.13 billion by 2034, at about 5 percent a year. The average weekly fee is $551, up 43.9 percent since 2014, and parents budgeted an average of $1,648 for camp in 2025 — 30 percent more than the year before. Read plainly, that means families are spending more on camp every year, and Muslim families are among them — except they need a halal, safe, faith-aware camp, and almost nobody is showing them one. The families are not a niche to be discovered later. They are searching now, in numbers, and the camps that answer them first will keep them for years.",
+          "The Muslim demand is already visible in real numbers, not forecasts. Roswell Community Masjid's youth and family program grew 146 percent between 2022 and 2026, from 181 to 445 participants, with a further 89 percent projected by 2031. CampNWMI filled its 2026 spots in record time and opened a waitlist. The MAS Tarbiya and Ilm Camp has served more than 6,000 campers since 2001, with 216 youth workers and 27 chapters in 2025. In the UK, the Muslim Youth Alliance grew its residential access from 120 to 2,000 young people by February 2026, backed by £300,000 of funded provision. These are camps filling fast on masjid announcements and word of mouth alone — imagine what they fill with a funnel behind them. That is the opportunity: the demand is proven, the camps are real, and the marketing is missing."
+        ]
+      },
+      {
+        "bullets": [
+          "Search and Google Business Profile work, so 'Islamic summer camp near me' and 'Muslim youth camp' find your camp first in your city, with your dates and fees shown plainly",
+          "Faith-aware landing pages — halal meals, prayer schedule, gender-separated activities, safety and staff credentials, sibling discounts — so a parent's first five questions are answered before they ask",
+          "A registration and waitlist funnel with a fast WhatsApp reply, so spots are confirmed while the family is still deciding and no family is lost to a slow answer",
+          "Trust-building short videos — a facility tour, director and counselor introductions, and past campers' written reviews on screen — because a parent who has seen the camp sends their child with confidence",
+          "A monthly report on inquiries, registrations confirmed and waitlist sign-ups, so you judge the funnel on your own registration list, not on promises"
+        ],
+        "heading": "What a faith-aware enrollment funnel does for your camp",
+        "paragraphs": [
+          "Faith-aware is not a badge on a page. It is the whole funnel, built around the questions a Muslim parent actually asks: is the food halal, are prayer times kept, are activities gender-separated, who supervises my child, and what does it cost for two children. A generic camp-marketing agency cannot write that funnel, because its standard playbook was built for YMCA chains and secular camps — and applied to an Islamic camp, it does active harm, showing the wrong photos, the wrong promises and the wrong tone to the most careful parents in the market. The funnel we build starts from the parent's questions and works backwards: every page, every video and every reply exists to answer one of them, in plain words, with your camp's own credentials behind it.",
+          "The reason no specialist exists is the same reason the opportunity is open. Generic camp-marketing agencies and camp software chase the big chains — the YMCA alone runs more than 1,400 day programs — and the small Islamic camps are beneath their radar, 'too small to bother'. The camps themselves are run by educators and community volunteers, not marketers, so marketing is never bought and the demand stays invisible. And the season is short — a six-month enrollment window from December to August — which does not fit an agency that only wants year-round clients. Three walls, and behind them an empty field: proven demand, real camps, and no one building the funnel. That is the field we work in.",
+          "The funnel also respects what makes a camp different from a shop. A camp does not sell a product; it takes responsibility for a child for a week. That is why every claim on your pages is shown in your own wording, why children appear in video only with written parental consent, and why the follow-up is genuinely helpful rather than pushy — a registration reminder, a documents checklist, a packing list, a check-in before the first day. Parents remember how a camp treated them before they paid, and they tell other parents. The funnel is built to make that first experience a good one."
+        ]
+      },
+      {
+        "heading": "Landing pages that answer the questions parents ask first",
+        "paragraphs": [
+          "The first question is always the food, and it is more specific than most camps realise. Parents do not ask 'is it halal?' as a slogan — they ask whether all meals are halal, who certifies them, whether snacks and tuck-shop food are covered too, and what happens for a child with allergies. The camps that win are the ones that answer all four on the page, in plain words, with the certifier named. A badge alone is not enough, and a vague line like 'halal food available' is worse than nothing, because it tells a parent who has been burned by vague labels that this camp is hiding something. The funnel we build puts your food story where it cannot be missed: on the landing page, on the registration page, and in the first seconds of the facility tour.",
+          "The second question is about prayer and the daily rhythm. Are prayer times kept, is there a space to pray, are activities paused for Jumu'ah, and does the schedule respect Ramadan when camp falls near it? The third is about gender separation: are sleeping, swimming and activities separated, and how is that supervised? The fourth is about safety and staff: who are the counselors, what checks have they passed, what is the staff-to-camper ratio, and what happens if a child is unwell? The fifth is about money: what is the fee, what is included, and is there a sibling discount? A landing page that answers all five, with your camp's own credentials and fees, is a page a parent trusts — and a parent who trusts the page registers, instead of messaging three camps and waiting.",
+          "Notice what this page is: your daily working knowledge, the things you explain at every first inquiry without thinking — which sessions suit which ages, why the overnight camp builds confidence, how the halal kitchen works, what the counselors actually check. A generic agency cannot write it, because it does not know which details a careful parent checks first. And a camp that hides its fees until the parent is already on the phone is asking the most careful families in the market to commit blind. Say it plainly on your pages, including the sibling discount — with parents budgeting an average of $1,648 for camp and many families registering two or three children, the discount is often the difference between one child going and all of them going. The December parent is not shopping for the cheapest camp. She is shopping for the camp her children will remember for years."
+        ]
+      },
+      {
+        "heading": "Registration and waitlist speed: the camp that replies first wins the family",
+        "paragraphs": [
+          "The decision to register is almost never made on a landing page. It is made after the parent has read the page, messaged about a session, and heard back — and after somebody in the family has checked the halal food, somebody has asked about the dates, and somebody has asked whether the spot can be held until Friday. That is the moment the [Camp Enrollment Funnel](/services/camp-enrollment-funnel) is built for, and it is the moment most camp websites completely ignore. CampNWMI filled its 2026 spots in record time and opened a waitlist — and every camp that fills fast learns the same lesson: the families who miss out this year are next year's registrations, but only if someone captures them.",
+          "So the funnel starts with the search in mind and works backwards from the confirmed spot. The local pages are written in plain language, not agency language — short sentences, clear headings, no jargon without an explanation beside it. The details sit on the page, not behind a form: a parent can read the dates, the fees, the halal food promise and the safety credentials without giving a name or a card first, because trust is earned before it is asked for. And the inquiry is one tap — a WhatsApp message about a real session, with a clear statement of what happens next. A parent who finds their exact questions answered does not keep searching. They message, they register, and they tell the masjid group chat.",
+          "The waitlist is the part most camps never build, and it is worth as much as the registrations. A full session turns families away; a funnel captures them, keeps them warm with session news and early access to next year's dates, and starts next summer with a list instead of a blank page. The follow-up flow does the same work after registration: a confirmation, a documents checklist, a packing list, a reminder the week before camp, and a check-in after the first day. Fast, human answers are the cheapest retention tool a camp owns — and the camp that answers in minutes wins the family the camp that answers tomorrow never meets."
+        ]
+      },
+      {
+        "heading": "Video trust: facility tours, director intros and reviews parents can see",
+        "paragraphs": [
+          "Short videos do the work no brochure can do, because a parent cannot visit a camp in December to check the cabins. The facility tour shows the real place: the cabins, the dining hall, the prayer space, the activity fields — thirty seconds, in your own voice or text-led, no studio, no script that sounds like an advert. The director introduction shows who is in charge, and the counselor introductions show who will actually be with the children. The written reviews, shown on screen from past campers and parents, say what no camp can say about itself. A parent who has seen the camp and the people sends their child with confidence, not with worry.",
+          "The children in our videos are there only with written parental consent, every time, without exception — and most of our trust videos need no children at all. The tour, the director, the counselors and the written reviews carry the whole message, and they carry it with dignity. That is a deliberate choice, not a limitation: a camp that protects its children's privacy in its marketing is a camp a parent trusts with their child in real life. We film facilities and staff, never children, unless a parent has signed for it in writing — and we say so on the page, because parents notice, and it matters to them.",
+          "The videos are searchable, which is the part most camps miss. A parent does not only search Google — they search the video apps too, for 'Islamic summer camp', for a tour of a camp they are considering, for what a Muslim youth camp actually looks like. Every short video is titled for the search it answers, and every one of them ends at the registration, not at a vague 'link in bio'. One honest tour of a real camp does more than a month of posts about quality, because the parent can see the place, the people and the promise — and because the camp that shows its real self is the camp a family trusts with their summer."
+        ]
+      },
+      {
+        "heading": "What we do, what your camp does — and what it costs",
+        "paragraphs": [
+          "The division is simple, and we state it in every pitch because a camp should never have to guess. We do the marketing: the search work, the Google profile, the faith-aware landing pages, the registration and waitlist funnel, the trust videos and the monthly report. Your camp does the camp: the program, the staff, the safety standards, the halal food and the fees — shown in your own wording, exactly as you state them. We never run a camp, never set a fee, and never show a claim about safety or halal meals that you have not approved. That boundary is what makes the relationship work: you stay in charge of the children, and we stay in charge of bringing the families.",
+          "The pricing is honest and seasonal. The one-time funnel build is $1,000 to $2,000, plus a $399 to $699 monthly retainer for the December-to-August season. A day camper pays $125 to $220 a week and an overnight camper $400 to $1,100 or more a week, so two or three new campers can cover a whole year of the retainer. We will not guarantee a number of registrations, because a registration depends on your program, your dates and each family's decision — and any agency that promises a number is selling certainty it does not control. The honest limit is worth stating too: the full funnel is built first for the bigger camps, overnight and residential, with 100 or more campers and fees of $400 or more a week, where the budget exists. A small masjid day camp with a tight budget is better served by a cheaper package we offer later, at a smaller scale. Ask us, and we will tell you plainly which fits.",
+          "The test is free, and it is the same test we offer every camp: an enrollment visibility audit and a 30-second demo Reel of your camp, before you spend anything. You see what a parent finds when they search for an Islamic summer camp in your city today, you see the Reel and judge the quality yourself, and then you decide with the facts in front of you. If the funnel works, your registration list says so, month after month. If it does not, the report says so too — and a partner who shows you both numbers is a partner worth keeping. The registration season is opening right now, the parents are already searching, and the camp that answers first gets the family. The same funnel discipline works for any enrollment a Muslim family makes — it is the same discipline behind our [Islamic Schools Admissions Funnel](/services/islamic-schools-admissions) and our [Tutoring Enrollment Funnel](/services/tutoring-enrollment-funnel) for the schools and centers your families already trust. If this fits your camp, the audit is free, and the first step is a message on WhatsApp."
+        ]
+      }
+    ],
+    "service": "camp-enrollment-funnel",
+    "slug": "how-islamic-summer-camps-fill-every-seat",
+    "title": "How Islamic Summer Camps Fill Every Seat Before Registration Closes"
   }
 ];
 

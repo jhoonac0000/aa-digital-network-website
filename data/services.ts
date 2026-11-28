@@ -4124,6 +4124,90 @@ export const SERVICES: Service[] = [
     ],
     "short": "Done-for-you enrollment funnel for Muslim tutoring centers and SAT/ACT test-prep academies — local SEO, subject and test-prep landing pages, trial-lesson and diagnostic-test booking, and twelve tutor Shorts a month that turn searches into enrolled students.",
     "slug": "tutoring-enrollment-funnel"
+  }  ,
+  {
+    "audiences": [
+      "Overnight and residential Islamic youth camps in the US, UK and Canada — 100 or more campers, fees of $400 or more a week — whose sessions fill fast when families can find them, and sit half-empty when they cannot",
+      "Masjid-run and Islamic-school day camps for ages 5 to 18 that fill by word of mouth and masjid announcements, and want registrations from beyond their own congregation",
+      "Established camps that already fill in record time and turn families away — camps that need a waitlist funnel, so no interested family is ever lost and next summer starts with a list, not a blank page",
+      "New or growing camps heading into the December-to-February registration season that need their first full summer — and cannot wait for a slow brand campaign to work"
+    ],
+    "deliverables": [
+      "Search and Google Business Profile optimisation, so 'Islamic summer camp near me', 'Muslim youth camp' and 'Muslim summer camp [city]' find your camp first in your city and country, with your dates, your fees and your faith-aware promise shown plainly",
+      "Faith-aware landing pages — halal meals, prayer schedule, gender-separated activities, safety and staff credentials, sibling discounts — so a parent's first five questions are answered before they ever have to ask",
+      "A registration and waitlist funnel with a fast reply — every inquiry answered in minutes on WhatsApp, spots confirmed while the family is still deciding, and a waitlist that captures every family a full session would otherwise lose",
+      "Trust-building short videos — a facility tour, director and counselor introductions, and past campers' written reviews shown on screen — because a parent who has seen the cabins, the dining hall and the people in charge sends their child with confidence",
+      "A free enrollment visibility audit first, plus a free 30-second demo Reel of your camp, so you see the quality before spending anything",
+      "A short monthly report: inquiries, registrations confirmed, waitlist sign-ups, and where they came from — so you judge the funnel on your own registration list filling up"
+    ],
+    "extraImages": [
+      {
+        "after": "problem",
+        "alt": "Muslim mother in a hijab and bearded father talking with a camp director in a bright camp office, the director pointing at a brochure showing halal meals, prayer times and activities, a laptop showing a registration page",
+        "caption": "The registration decision is made at the kitchen table in December, not at the camp gate in June. A camp that answers the family's questions online is the camp that gets the registration.",
+        "src": "/images/services/camp-enrollment-funnel-families.jpg"
+      },
+      {
+        "after": "deliverables",
+        "alt": "Young Muslim camp counsellor in a cap recording a facility tour video with a smartphone on a tripod at a sunny summer camp, wooden cabins and a sports field behind him",
+        "caption": "One honest tour does the work of ten brochures. A parent who has seen the cabins, the dining hall and the director on video sends their child with confidence, not with worry.",
+        "src": "/images/services/camp-enrollment-funnel-videos.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "No — never. We are not a camp operator, a childcare provider or a licensing body. We build the funnel that brings qualified registrations and waitlist inquiries to your licensed camp. The program, the staff, the safety standards and every fee stay with you, shown in your own wording. We bring the families; you run the camp.",
+        "q": "Do you run the camp yourselves?"
+      },
+      {
+        "a": "No. A registration depends on your program, your dates, your fees and the family's decision. What we promise is the work that earns inquiries: pages parents trust, a faith-aware answer in plain words, replies in minutes and spots confirmed fast. Two or three new campers, at $400 to $1,100 a week overnight, can cover a whole year of the retainer.",
+        "q": "Do you guarantee every seat will fill?"
+      },
+      {
+        "a": "Only with written parental consent, every time, without exception. Children are never filmed or photographed for marketing unless a parent has signed for it in writing. Most of our trust videos need no children at all: the facility tour, the director and counselor introductions, and past campers' written reviews shown on screen say everything a parent needs to see.",
+        "q": "Will you film our campers?"
+      },
+      {
+        "a": "The full funnel is built first for bigger camps — overnight and residential camps with 100 or more campers and fees of $400 or more a week, where the budget exists. A small masjid day camp with a tight budget is better served by a cheaper package we offer later, with the same audit and landing pages at a smaller scale. Ask us, and we will tell you which fits.",
+        "q": "We are a small masjid day camp, not a big overnight camp — can this still work?"
+      },
+      {
+        "a": "It is free. We check what a Muslim parent finds when they search for an Islamic summer camp or Muslim youth camp in your market today, how your camp compares with the camps Google shows instead of you, and how many families you are likely losing. We also make a free 30-second demo Reel of your camp, so you can judge the quality before deciding anything.",
+        "q": "What is the enrollment visibility audit, and what does it cost?"
+      }
+    ],
+    "image": "/images/services/islamic-summer-camp-enrollment-funnel-hero.jpg",
+    "imageAlt": "Bearded Muslim camp director in a white cap and waistcoat greeting a Muslim family at a camp welcome desk, colourful cabins and a small mosque with a dome behind them, bunting flags overhead",
+    "imageCaption": "A parent sends their child to a camp they can see and trust. A camp whose program, safety and faith-aware promise are visible online is the camp parents register for first.",
+    "isNew": true,
+    "name": "Camp Enrollment Funnel",
+    "priceLabel": "$1,000–$2,000 build + $399–$699/mo",
+    "priceNote": "The one-time funnel build is $1,000–$2,000, plus a $399–$699 monthly enrollment retainer for the December-to-August season. Start with the free enrollment visibility audit and a free 30-second demo Reel of your camp, see where you stand, and decide with the facts in front of you.",
+    "problem": [
+      "It is a December evening in Houston and a mother is planning her children's summer. The school year is half over, the camp her friend recommended filled in record time last year, and she wants a camp where her children will eat halal, pray on time and be safe with staff she can trust. She picks up her phone and searches 'Islamic summer camp near me'. She finds a generic camp directory, a big YMCA page, and one Islamic camp whose website has no dates, no fees, no halal meal information and no way to register — just a phone number nobody answers. She messages the camp her cousin mentioned instead, because it is the only one with a name she recognises. The camp two towns away, with the right program already planned and empty bunks waiting, never knew she existed — because it could not be found, could not be trusted from what she found, or could not be reached without driving there first.",
+      "The arithmetic makes the invisibility expensive. The US summer-camp market is worth about $4.6 billion, with roughly 20,000 camps and more than 26 million campers, and the average weekly fee is $551 — up 43.9 percent since 2014 — while parents budgeted an average of $1,648 for camp in 2025, 30 percent more than the year before. The Muslim demand is already visible: Roswell Community Masjid's youth and family program grew 146 percent between 2022 and 2026, CampNWMI filled its 2026 spots in record time and opened a waitlist, and the MAS Tarbiya and Ilm Camp has served more than 6,000 campers since 2001. Yet no marketing agency specialises in bringing Muslim families to Islamic camps. The parents are already searching, the camps are already there, and the funnel is missing."
+    ],
+    "process": [
+      {
+        "text": "We search the way a Muslim parent searches — 'Islamic summer camp near me', 'Muslim youth camp' plus your city — and report what they find: your profile, your pages, your dates and fees, and the camps Google shows instead of you. We also show you what the slow or missing replies are costing you, in plain numbers.",
+        "title": "Enrollment visibility audit"
+      },
+      {
+        "text": "Search and profile work, faith-aware landing pages, the registration and waitlist funnel, the facility tour and counselor videos, built with your approved wording and your camp's own safety credentials and fees. We never run camps, never set your fees, and never show a claim about safety or halal meals that you have not approved.",
+        "title": "We build the funnel"
+      },
+      {
+        "text": "Registrations and waitlist sign-ups arrive organised, with follow-up handled for you. Each month's report shows what came in and where it came from, so you can judge the funnel on your own registration list filling up — and next summer starts with a waitlist, not a blank page.",
+        "title": "Camps fill seats"
+      }
+    ],
+    "proof": "The market is the proof: a US summer-camp market worth about $4.6 billion, roughly 20,000 camps and more than 26 million campers, with an average weekly fee of $551 and parents budgeting an average of $1,648 for camp in 2025 — against a $399 to $699 monthly retainer. A single overnight camper at $400 to $1,100 a week is worth more than a month of the retainer, so two or three new campers can cover a whole year of the funnel. The demand is already visible in real numbers: Roswell Community Masjid's youth program grew 146 percent from 2022 to 2026, CampNWMI filled its 2026 spots in record time and opened a waitlist, the MAS Tarbiya and Ilm Camp has served more than 6,000 campers since 2001, and the UK Muslim Youth Alliance grew its residential access from 120 to 2,000 young people. Yet no agency specialises in bringing Muslim families to Islamic camps — the camps are found by masjid announcements and word of mouth, and their websites are weak. We start with a free enrollment visibility audit and a free 30-second demo Reel, so you see exactly where you stand before deciding anything.",
+    "related": [
+      "islamic-schools-admissions",
+      "tutoring-enrollment-funnel"
+    ],
+    "short": "Done-for-you enrollment funnel for Islamic summer camps and Muslim youth camps — local SEO, faith-aware landing pages, registration and waitlist funnels, and trust-building short videos that turn searches into filled seats.",
+    "slug": "camp-enrollment-funnel"
   }
 ];
 
